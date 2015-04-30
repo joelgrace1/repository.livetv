@@ -10,10 +10,10 @@
                 <hashes>true</hashes>
         </extension>
         <extension point="xbmc.addon.metadata">
-                <summary>Install add-ons from the BBTS Repository.</summary>
-                <description>Download and install add-ons from the BBTS Repository Plugin by @koderdude</description>
-                <disclaimer>The repository is maintained by the open community and our generator fetches addons from multiple sources. Therefore BBTS accepts no responsibility for included addons.</disclaimer>
+                <summary>Install add-ons from Joels Repository.</summary>
+                <description>Download and install add-ons from the Live Tv Repository Plugin by Joel</description>
+                <disclaimer>The repository is maintained by the open community and our generator fetches addons from multiple sources. Therefore Joel accepts no responsibility for included addons.</disclaimer>
                 <platform>all</platform>
-                <website>http://www.bbtsip.tv/</website>
+                <website></website>
         </extension>   
 </addon>
