@@ -4,9 +4,9 @@
     <import addon="xbmc.addon" version="12.0.0" />
 </requires>
         <extension point="xbmc.addon.repository" name="Joel Repo">     
-                <info compressed="false">https://github.com/joelgrace1/repository.livetv/blob/master/addon.xml</info>
+                <info compressed="false">https://github.com/joelgrace1/plugin.video.direto/blob/master/addon.xml</info>
                 <checksum>https://github.com/joelgrace1/repository.livetv/blob/master/addons.xml.md5</checksum>
-                <datadir zip="true">https://github.com/joelgrace1/repository.livetv/blob/master/plugin.video.direto-master.zip</datadir>
+                <datadir zip="true">https://github.com/joelgrace1/plugin.video.direto.git</datadir>
                 <hashes>true</hashes>
         </extension>
         <extension point="xbmc.addon.metadata">
