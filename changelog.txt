@@ -1,0 +1,11 @@
+[B]February 10 2015[/B]
+0.0.4: text New
+
+[B]February 7 2015[/B]
+0.0.3: New repo build
+
+[B]January 13 2015[/B]
+0.0.2: Update Icons
+
+[B]January 10 2015[/B]
+0.0.1: Initial Version
