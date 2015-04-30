@@ -12,7 +12,7 @@
         <extension point="xbmc.addon.metadata">
                 <summary>Install add-ons from Joels Repository</summary>
                 <description>Download and install add-ons from the Live Tv Repository Plugin by Joel</description>
-                <disclaimer>The repository is maintained by the open community and our generator fetches addons from multiple sources. Therefore Joel accepts no responsibility for included addons</disclaimer>
+                <disclaimer></disclaimer>
                 <platform>all</platform>
                 <website></website>
         </extension>   
