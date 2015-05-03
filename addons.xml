@@ -8,8 +8,8 @@
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en"></summary>
-    <description lang="en"></description>
+    <summary lang="en">TV Direto</summary>
+    <description lang="en">Podes ver aqui tudo que eu te deixar! Mama mas não abuzes!</description>
     <platform>all</platform>
   </extension>
 </addon>
