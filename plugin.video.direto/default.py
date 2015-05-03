@@ -6,15 +6,30 @@ plugin_handle = int(sys.argv[1])
 _id = 'plugin.video.direto-master'
 _icondir = "special://home/addons/" + _id + "/icons/"
 
-def menu():
-    addDir('PORTUGAL','url',1)
-    addDir('CANADA','url',2)
-
 def add_video_item(url, infolabels, img=''):
     listitem = xbmcgui.ListItem(infolabels['title'], iconImage=img, thumbnailImage=img)
     listitem.setInfo('video', infolabels)
     listitem.setProperty('IsPlayable', 'true')
     xbmcplugin.addDirectoryItem(plugin_handle, url, listitem, isFolder=False)
+
+def menu():
+    addDir('PORTUGAL','url',1)
+    addDir('CANADA','url',2)
+
+def PORTUGAL():
+    addLink('RTP 1','http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8',3,'%s/global_tv_halifax.png'% _icondir)
+
+    addLink('Stream 2','http://bvls2013.com/stream2.html',3,icon,fanart)
+    addLink('Stream 3','http://bvls2013.com/stream3.html',3,icon,fanart)
+    addLink('Stream 4','http://bvls2013.com/stream4.html',3,icon,fanart)
+    addLink('Stream 5','http://bvls2013.com/stream5.html',3,icon,fanart)
+    addLink('Stream 6','http://bvls2013.com/stream6.html',3,icon,fanart)
+    addLink('Stream 7','http://bvls2013.com/stream7.html',3,icon,fanart)
+    addLink('Stream 8','http://bvls2013.com/stream8.html',3,icon,fanart)
+    addLink('Stream 9','http://bvls2013.com/stream9.html',3,icon,fanart)
+    addLink('Stream 10','http://bvls2013.com/stream10.html',3,icon,fanart)
+
+
 
 # Entertainment
 add_video_item('https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8',{ 'title': 'Global TV Halifax HD'}, '%s/global_tv_halifax.png'% _icondir)
