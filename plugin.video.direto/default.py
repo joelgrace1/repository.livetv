@@ -6,6 +6,10 @@ plugin_handle = int(sys.argv[1])
 _id = 'plugin.video.direto-master'
 _icondir = "special://home/addons/" + _id + "/icons/"
 
+def menu():
+    addDir('PORTUGAL',’url’,1)
+    addDir(‘CANADA',’url’,2)
+
 def add_video_item(url, infolabels, img=''):
     listitem = xbmcgui.ListItem(infolabels['title'], iconImage=img, thumbnailImage=img)
     listitem.setInfo('video', infolabels)
