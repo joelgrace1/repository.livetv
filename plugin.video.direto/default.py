@@ -1,6 +1,6 @@
 # coding: utf-8
 
-import xbmcgui,xbmcplugin
+import xbmcgui,xbmcplugin,sys,urllib,urlparse,xbmcgui,xbmcplugin
 
 plugin_handle = int(sys.argv[1])
 _id = 'plugin.video.direto-master'
@@ -12,12 +12,7 @@ def add_video_item(url, infolabels, img=''):
     listitem.setProperty('IsPlayable', 'true')
     xbmcplugin.addDirectoryItem(plugin_handle, url, listitem, isFolder=False)
 
-def menu():
-    addDir('PORTUGAL','url',1)
-    addDir('CANADA','url',2)
-
-def PORTUGAL():
-    addLink('RTP 1','http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8',3,'%s/global_tv_halifax.png'% _icondir)
+    addDir(‘PORTUGAL','http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8',3,'%s/global_tv_halifax.png'% _icondir)
 
     addLink('Stream 2','http://bvls2013.com/stream2.html',3,icon,fanart)
     addLink('Stream 3','http://bvls2013.com/stream3.html',3,icon,fanart)
