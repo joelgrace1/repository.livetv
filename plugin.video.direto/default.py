@@ -12,20 +12,6 @@ def add_video_item(url, infolabels, img=''):
     listitem.setProperty('IsPlayable', 'true')
     xbmcplugin.addDirectoryItem(plugin_handle, url, listitem, isFolder=False)
 
-    addDir(‘PORTUGAL','http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8',3,'%s/global_tv_halifax.png'% _icondir)
-
-    addLink('Stream 2','http://bvls2013.com/stream2.html',3,icon,fanart)
-    addLink('Stream 3','http://bvls2013.com/stream3.html',3,icon,fanart)
-    addLink('Stream 4','http://bvls2013.com/stream4.html',3,icon,fanart)
-    addLink('Stream 5','http://bvls2013.com/stream5.html',3,icon,fanart)
-    addLink('Stream 6','http://bvls2013.com/stream6.html',3,icon,fanart)
-    addLink('Stream 7','http://bvls2013.com/stream7.html',3,icon,fanart)
-    addLink('Stream 8','http://bvls2013.com/stream8.html',3,icon,fanart)
-    addLink('Stream 9','http://bvls2013.com/stream9.html',3,icon,fanart)
-    addLink('Stream 10','http://bvls2013.com/stream10.html',3,icon,fanart)
-
-
-
 # Entertainment
 add_video_item('https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8',{ 'title': 'Global TV Halifax HD'}, '%s/global_tv_halifax.png'% _icondir)
 
