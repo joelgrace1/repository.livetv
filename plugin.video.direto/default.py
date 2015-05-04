@@ -3,7 +3,7 @@
 import xbmcgui,xbmcplugin
 
 plugin_handle = int(sys.argv[1])
-_id = 'plugin.video.direto-master'
+_id = 'plugin.video.direto'
 _icondir = "special://home/addons/" + _id + "/icons/"
 
 def add_video_item(url, infolabels, img=''):
