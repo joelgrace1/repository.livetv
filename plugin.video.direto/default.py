@@ -1,6 +1,6 @@
 # coding: utf-8
 
-import xbmcgui,xbmcplugin,sys,urllib,urlparse,xbmcgui,xbmcplugin
+import xbmcgui,xbmcplugin
 
 plugin_handle = int(sys.argv[1])
 _id = 'plugin.video.direto-master'
