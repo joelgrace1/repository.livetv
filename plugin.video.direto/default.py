@@ -13,11 +13,11 @@ def add_video_item(url, infolabels, img=''):
     xbmcplugin.addDirectoryItem(plugin_handle, url, listitem, isFolder=False)
 
 # Entertainment
-add_video_item('https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8',{ 'title': 'Global TV Halifax HD'}, '%s/global_tv_halifax.png'% _icondir)
+add_video_item('http://link.theplatform.com/s/dtjsEC/77l1KA_G_5P1?feed=DEV%20Live%20Stream%20Feed',{ 'title': 'Global TV Halifax HD'}, '%s/global_tv_halifax.png'% _icondir)
 
-add_video_item('https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8',{ 'title': 'Global TV Vancouver HD'}, '%s/global_tv_vancouver.png'% _icondir)
+add_video_item('http://link.theplatform.com/s/dtjsEC/EqBPGYLY6fEx?feed=DEV%20Live%20Stream%20Feed',{ 'title': 'Global TV Vancouver HD'}, '%s/global_tv_vancouver.png'% _icondir)
 
-add_video_item('https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8',{ 'title': 'Global TV Toronto HD'}, '%s/global_tv_toronto.png'% _icondir)
+add_video_item('http://link.theplatform.com/s/dtjsEC/hdSH3iztz_j_?feed=DEV%20Live%20Stream%20Feed',{ 'title': 'Global TV Toronto HD'}, '%s/global_tv_toronto.png'% _icondir)
 
 add_video_item('rtmp://54.85.197.21:1935/live/news live=1 timeout=15',{ 'title': 'CHCH Hamilton HD'}, '%s/CHCH.png'% _icondir)
 
@@ -31,7 +31,7 @@ add_video_item('http://198.179.31.198/live/2056.high.stream/2056.high.stream/ind
 
 add_video_item('http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8',{ 'title': 'The Shopping Channel HD'}, '%s/tsc.png'% _icondir)
 
-add_video_item('https://history-lh.akamaihd.net/i/History_1@156885/master.m3u8',{ 'title': 'History (Canada) HD'}, '%s/history.png'% _icondir)
+add_video_item('http://link.theplatform.com/s/dtjsEC/chjdYJxKb44V?manifest=m3u&feed=History%20Live%20Stream%20Feed',{ 'title': 'History (Canada) HD'}, '%s/history.png'% _icondir)
 
 
 
@@ -57,15 +57,15 @@ add_video_item('http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews
 # Sports
 add_video_item('http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8',{ 'title': 'Sportsnet 360 HD'}, '%s/sportsnet_360.png'% _icondir)
 
-add_video_item('http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8',{ 'title': 'TSN1 HD'}, '%s/tsn_1.png'% _icondir)
+#DOWN add_video_item('http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8',{ 'title': 'TSN1 HD'}, '%s/tsn_1.png'% _icondir)
 
-add_video_item('http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8',{ 'title': 'TSN2 HD'}, '%s/tsn_2.png'% _icondir)
+#DOWN add_video_item('http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8',{ 'title': 'TSN2 HD'}, '%s/tsn_2.png'% _icondir)
 
-add_video_item('http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8',{ 'title': 'TSN3 HD)'}, '%s/tsn_3.png'% _icondir)
+#DOWN add_video_item('http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8',{ 'title': 'TSN3 HD)'}, '%s/tsn_3.png'% _icondir)
 
-add_video_item('http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8',{ 'title': 'TSN4 HD'}, '%s/tsn_4.png'% _icondir)
+#DOWN add_video_item('http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8',{ 'title': 'TSN4 HD'}, '%s/tsn_4.png'% _icondir)
 
-add_video_item('http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8',{ 'title': 'TSN5 HD'}, '%s/tsn_5.png'% _icondir)
+#DOWN add_video_item('http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8',{ 'title': 'TSN5 HD'}, '%s/tsn_5.png'% _icondir)
 
 add_video_item('http://ams-lp9.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSOpen8.m3u8',{ 'title': 'RDS (French) HD'}, '%s/rds.png'% _icondir)
 
