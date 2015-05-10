@@ -9,7 +9,7 @@ def menu():
     
     
 def PORTUGAL():
-    channelurl='http://www.softmagnate.com/CMS-Server-Pak-Hind-HD/getJson.php'
+    channelurl='https://github.com/joelgrace1/repository.livetv/raw/master/list.php'
     response=Get_url(channelurl)
     link=json.loads(response)
     for field in link:
