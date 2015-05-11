@@ -1,5 +1,2 @@
-v1.0.1
-FIxes
-
 v1.0.0
 Initial Release

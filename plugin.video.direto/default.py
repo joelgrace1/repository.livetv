@@ -1,7 +1,7 @@
 import xbmc,xbmcaddon,xbmcgui,xbmcplugin,urllib,urllib2,os,re,sys
 from resources.libs.common_addon import Addon
 
-addon_id        = 'plugin.video.NJMSOCCER'
+addon_id        = 'plugin.video.direto'
 addon           = Addon(addon_id, sys.argv)
 icon            = xbmc.translatePath(os.path.join('special://home/addons/' + addon_id, 'icon.png'))
 
