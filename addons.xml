@@ -15,21 +15,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.ManiaC V4.3" name="ManiaC Wizard V4.3" version="4.3.0" provider-name="ManiaC">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>executable</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">ManiaC Wizard</summary>
-    <description lang="en">Portuguese Based Wizard from ManiaC</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
-<addon id="plugin.video.ManiaC V5" name="ManiaC Wizard V5" version="5.0.0" provider-name="ManiaC">
+<addon id="plugin.video.ManiaC" name="ManiaC Wizard" version="1.0.0" provider-name="ManiaC">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
