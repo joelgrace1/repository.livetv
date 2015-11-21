@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.ManiaC V5 Final" name="ManiaC V5 Final" version="1.0.2" provider-name="ManiaC.com">
+<addon id="plugin.video.ManiaC" name="ManiaC V5 Final" version="1.0.2" provider-name="ManiaC.com">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
