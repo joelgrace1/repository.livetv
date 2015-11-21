@@ -33,24 +33,6 @@ def PLAYLINK(url,iconimage):
                 return ok
             except:
                 pass
-            
-def TWITTER():
-        text = ''
-        twit = 'https://script.google.com/macros/s/AKfycbyBcUa5TlEQudk6Y_0o0ZubnmhGL_-b7Up8kQt11xgVwz3ErTo/exec?588677963413065728'
-        link = open_url(twit)
-        link = link.replace('/n','')
-        link = link.decode('utf-8').encode('utf-8').replace('&#39;','\'').replace('&#10;',' - ').replace('&#x2026;','')
-        match=re.compile("<title>(.+?)</title>.+?<pubDate>(.+?)</pubDate>",re.DOTALL).findall(link)[1:]
-        for status, dte in match:
-            try:
-                            status = status.decode('ascii', 'ignore')
-            except:
-                            status = status.decode('utf-8','ignore')
-            dte = dte[:-15]
-            status = status.replace('&amp;','')
-            dte = '[COLOR blue][B]'+dte+'[/B][/COLOR]'
-            text = text+dte+'\n'+status+'\n'+'\n'
-        showText('[COLOR blue][B]@uk_turk[/B][/COLOR]', text)
 
 def showText(heading, text):
     id = 10147
