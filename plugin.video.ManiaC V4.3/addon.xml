@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.ManiaC" name="ManiaC" version="1.0.2" provider-name="ManiaC.com">
+<addon id="plugin.video.ManiaC V4.3" name="ManiaC Wizard V4.3" version="4.3.0" provider-name="ManiaC">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
