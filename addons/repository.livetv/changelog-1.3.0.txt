@@ -1,0 +1,5 @@
+1.3.0: ManiaC Wizard V5 Final
+
+1.1.0: Welcome To The ManiaC Wizard Team
+
+1.0.0: Initial Version

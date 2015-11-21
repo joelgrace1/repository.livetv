@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.ManiaC" name="ManiaC Wizard V5" version="1.0.0" provider-name="ManiaC">
+<addon id="plugin.video.ManiaC" name="ManiaC V5 Final" version="1.0.0" provider-name="ManiaC">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>executable</provides>
+        <provides>video executable</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Wizard By TiagoCoelho</summary>

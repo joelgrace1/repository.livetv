@@ -15,7 +15,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.ManiaC" name="ManiaC Wizard V5" version="1.0.0" provider-name="ManiaC">
+<addon id="plugin.video.ManiaC" name="ManiaC V5 Final" version="1.0.0" provider-name="ManiaC">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -29,7 +29,7 @@
   </extension>
 </addon>
 
-<addon id="repository.livetv" name="LiveTV" version="1.2.0" provider-name="TV Direto"> 
+<addon id="repository.livetv" name="LiveTV" version="1.3.0" provider-name="TV Direto"> 
  	<extension point="xbmc.addon.repository" name="Live TV Repo"> 
  		<info compressed="false">https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/addons.xml</info> 
  		<checksum>https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/addons.xml.md5</checksum> 
