@@ -15,20 +15,6 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.ManiaC" name="ManiaC V5 Final" version="1.0.2" provider-name="ManiaC.com">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>executable</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">ManiaC Wizard</summary>
-    <description lang="en">Portuguese Based Wizard from ManiaC</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
 <addon id="repository.livetv" name="LiveTV" version="1.4.0" provider-name="TV Direto"> 
  	<extension point="xbmc.addon.repository" name="Live TV Repo"> 
  		<info compressed="false">https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/addons.xml</info> 
