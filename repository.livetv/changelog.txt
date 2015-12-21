@@ -1,3 +1,7 @@
+1.0.3: New tv direto wizard
+
 1.1.0: Warm Welcome to MANIAC Wizard
+
+
 
 1.0.0: Initial Version

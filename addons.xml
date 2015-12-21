@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 
 <addon id="plugin.video.direto" name="TV Direto" version="1.0.0" provider-name="Joel">
@@ -10,12 +10,12 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">TV Direto</summary>
-    <description lang="en">Podes ver aqui tudo que eu te deixar! Mama mas não abuzes!</description>
+    <description lang="en">Podes ver aqui tudo que eu te deixar! Mama mas n�o abuzes!</description>
     <platform>all</platform>
   </extension>
 </addon>
 
-<addon id="plugin.video.tvwizard" name="TV Direto wizard" version="1.0.2" provider-name="TV Direto">
+<addon id="plugin.video.tvwizard" name="TV Direto wizard" version="1.0.3" provider-name="TV Direto">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -23,13 +23,27 @@
         <provides>executable</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Wizard By Joel</summary>
+    <summary lang="en">Wizard By tv direto</summary>
     <description lang="en">KODI Wizard</description>
     <platform>all</platform>
   </extension>
 </addon>
 
-<addon id="repository.livetv" name="LiveTV" version="2.0.2" provider-name="TV Direto"> 
+<addon id="plugin.video.wizard" name="TV Direto wizard 2" version="1.0.0" provider-name="TV Direto">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Wizard By tv direto</summary>
+    <description lang="en">KODI Wizard With Lighter Aeon Nox Skin</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="repository.livetv" name="LiveTV" version="2.0.3" provider-name="TV Direto"> 
  	<extension point="xbmc.addon.repository" name="Live TV Repo"> 
  		<info compressed="false">https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/addons.xml</info> 
  		<checksum>https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/addons.xml.md5</checksum> 

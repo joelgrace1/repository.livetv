@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.tvwizard" name="TV Direto wizard" version="1.0.3" provider-name="TV Direto">
+<addon id="plugin.video.wizard" name="TV Direto wizard 2" version="1.0.0" provider-name="TV Direto">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -8,7 +8,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Wizard By tv direto</summary>
-    <description lang="en">KODI Wizard With New Aeon Nox MQ6 Skin For Kodi 15.0+</description>
+    <description lang="en">KODI Wizard With Lighter Aeon Nox Skin</description>
     <platform>all</platform>
   </extension>
 </addon>
