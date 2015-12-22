@@ -1,0 +1,8 @@
+
+name="tvdireto"
+url="https://copy.com/CeTF1NXN0cwTmpAe/Kodi.zip?download=1"
+img="https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/wiz1.jpg"
+fanart="https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/wiz1.jpg"
+description="TV Direto Wizard"
+
+
