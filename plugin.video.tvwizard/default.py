@@ -14,12 +14,12 @@ USER_AGENT = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.3) Gecko/
 base='http://www.facebook.com'
 ADDON=xbmcaddon.Addon(id='plugin.video.tvwizard')
 dialog = xbmcgui.Dialog()    
-VERSION = "1.0.4"
+VERSION = "1.0.5"
 PATH = "tvwizard"            
 
     
 def CATEGORIES():
-    link = OPEN_URL('https://copy.com/MW6C1lwjQTp0BGI4').replace('\n','').replace('\r','')
+    link = OPEN_URL('https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/wizard.txt').replace('\n','').replace('\r','')
     match = re.compile('name="(.+?)".+?rl="(.+?)".+?mg="(.+?)".+?anart="(.+?)".+?escription="(.+?)"').findall(link)
     for name,url,iconimage,fanart,description in match:
         addDir(name,url,1,iconimage,fanart,description)
