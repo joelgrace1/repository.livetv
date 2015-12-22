@@ -1,5 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+<addon id="plugin.video.direto" name="TV Direto" version="1.0.2" provider-name="TV Direto">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">TV Direto</summary>
+    <description lang="en">Podes ver aqui tudo que eu te deixar! Mama mas não abuzes!</description>
+    <platform>all</platform>
+  </extension>
+</addon>
 
 <addon id="plugin.video.tvwizard" name="TV Direto wizard" version="1.0.3" provider-name="TV Direto">
   <requires>
@@ -11,20 +24,6 @@
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Wizard By tv direto</summary>
     <description lang="en">KODI Wizard</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
-<addon id="plugin.video.direto" name="TV Direto" version="1.0.2" provider-name="TV Direto">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">TV Direto</summary>
-    <description lang="en">Podes ver aqui tudo que eu te deixar! Mama mas não abuzes!</description>
     <platform>all</platform>
   </extension>
 </addon>
@@ -43,7 +42,7 @@
   </extension>
 </addon>
 
-<addon id="repository.livetv" name="LiveTV" version="2.1.0" provider-name="TV Direto"> 
+<addon id="repository.livetv" name="LiveTV" version="2.1.1" provider-name="TV Direto"> 
  	<extension point="xbmc.addon.repository" name="Live TV Repo"> 
  		<info compressed="false">https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/addons.xml</info> 
  		<checksum>https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/addons.xml.md5</checksum> 
