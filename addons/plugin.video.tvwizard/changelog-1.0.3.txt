@@ -1,0 +1,8 @@
+v1.0.3
+New tv direto wizard
+
+v1.0.1
+OFFICIAL LAUNCH
+
+v1.0
+Initial Release
