@@ -14,21 +14,6 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.Ghost" name="IPTV-Ghost" version="2.1.1" provider-name="makeit">
-  <requires>
-    <import addon="xbmc.python" version="2.19.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="addon.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.service" library="server.py" start="startup" />
-	<extension point="xbmc.addon.metadata">
-    <summary lang="en">IPTV-Ghost</summary>
-    <description lang="en">Enjoy, this is fully version updated automatically</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
 <addon id="plugin.video.SportsDevil" name="Sportsdevil-13/12/15" version="1.8.8.0" provider-name="MaxMustermann">
   <requires>
     <import addon="xbmc.python" version="2.14.0"/>
