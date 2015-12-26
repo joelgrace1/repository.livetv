@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 <addon id="plugin.video.direto" name="TV Direto" version="1.0.2" provider-name="TV Direto">
   <requires>
@@ -9,7 +9,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">TV Direto</summary>
-    <description lang="en">Podes ver aqui tudo que eu te deixar! Mama mas n�o abuzes!</description>
+    <description lang="en">Podes ver aqui tudo que eu te deixar! Mama mas não abuzes!</description>
     <platform>all</platform>
   </extension>
 </addon>
