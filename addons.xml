@@ -18,10 +18,11 @@
   <requires>
     <import addon="xbmc.python" version="2.19.0"/>
   </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
+  <extension point="xbmc.python.pluginsource" library="addon.py">
         <provides>video</provides>
   </extension>
-  <extension point="xbmc.addon.metadata">
+  <extension point="xbmc.service" library="server.py" start="startup" />
+	<extension point="xbmc.addon.metadata">
     <summary lang="en">IPTV-Ghost</summary>
     <description lang="en">Enjoy, this is fully version updated automatically</description>
     <platform>all</platform>
