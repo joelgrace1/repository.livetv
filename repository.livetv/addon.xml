@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.livetv" name="LiveTV" version="2.1.8" provider-name="TV Direto">
+<addon id="repository.livetv" name="LiveTV" version="2.1.9" provider-name="TV Direto">
 <requires>
     <import addon="xbmc.addon" version="12.0.0" />
 </requires>
