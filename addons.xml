@@ -44,21 +44,6 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.Ghost" name="IPTV-Ghost" version="2.1.1" provider-name="makeit">
-  <requires>
-    <import addon="xbmc.python" version="2.19.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="addon.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.service" library="server.py" start="startup" />
-	<extension point="xbmc.addon.metadata">
-    <summary lang="en">IPTV-Ghost</summary>
-    <description lang="en">Enjoy, this is fully version updated automatically</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
 <addon id="plugin.video.wizard" name="TV Direto wizard 2" version="1.0.2" provider-name="TV Direto">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -71,6 +56,24 @@
     <description lang="en">KODI Wizard With Lighter Aeon Nox Skin</description>
     <platform>all</platform>
   </extension>
+</addon>
+
+<addon id="plugin.video.Ghost" name="IPTV-Ghost" version="2.1.1" provider-name="makeit">
+    <requires>
+		<import addon="xbmc.python" version="2.19.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.service" library="server.py" start="startup" />
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">IPTV-Ghost</summary>
+		<description lang="en">Enjoy, this is fully version updated automatically</description>
+		<license>GNU General Public License, v2</license>
+		<language></language>
+	
+	</extension>
 </addon>
 
 <addon id="plugin.video.confluence" name="TV Direto Confluence Wizard" version="1.0.0" provider-name="TV Direto">
