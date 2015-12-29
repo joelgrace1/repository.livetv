@@ -6,7 +6,7 @@ title=[COLOR green]IRELAND/UK[/COLOR]
 type=video
 name=[COLOR yellow][B][I]SOME CHANNELS REQUIRE UPDATED SPORTSDEVIL TO WORK[/I][/B][/COLOR]
 thumb=http://www.kuhnglobal.net/wp-content/uploads/2013/01/2009-usa-flag-graphics.jpg
-URL=https://dl.dropboxusercontent.com/s/0u4yi8vse323bvf/ireland.plx
+URL=https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/ireland.plx
 #
 type=video
 name=BBC 1 NORTH IRELAND

@@ -6,12 +6,12 @@ title=[COLOR green]USA[/COLOR]
 type=video
 name=[COLOR yellow][B][I]SOME CHANNELS REQUIRE UPDATED[/I][/B][/COLOR]
 thumb=http://www.kuhnglobal.net/wp-content/uploads/2013/01/2009-usa-flag-graphics.jpg
-URL=https://dl.dropboxusercontent.com/s/f0esqr70de9tfpe/usa.plx
+URL=https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/usa.plx
 #
 type=video
 name=[COLOR yellow][B][I]SPORTSDEVIL AND IPTV GHOST REPO[/I][/B][/COLOR]
 thumb=http://www.kuhnglobal.net/wp-content/uploads/2013/01/2009-usa-flag-graphics.jpg
-URL=https://dl.dropboxusercontent.com/s/f0esqr70de9tfpe/usa.plx
+URL=https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/usa.plx
 #
 type=video
 name=5 USA

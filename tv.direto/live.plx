@@ -6,12 +6,12 @@ title=[COLOR green]LIVE SPORTS[/COLOR]
 type=video
 name=[COLOR yellow][B]MUST HAVE IPTV GHOST REPO INSTALLED[/B][/COLOR]
 thumb=http://1.cdn.nhle.com/nhl/images/upload/2013/09/Center-Ice-Logo.jpg
-URL=https://dl.dropboxusercontent.com/s/l2y543cu2p6qrk6/live.plx
+URL=https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/live.plx
 #
 type=video
 name=[COLOR yellow][B]CLICK VARIOUS TIMES TO FIND SERVER[/B][/COLOR]
 thumb=http://1.cdn.nhle.com/nhl/images/upload/2013/09/Center-Ice-Logo.jpg
-URL=https://dl.dropboxusercontent.com/s/l2y543cu2p6qrk6/live.plx
+URL=https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/live.plx
 #
 type=video
 name=[COLOR red][B]NHL CENTER ICE[/B][/COLOR]

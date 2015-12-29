@@ -6,7 +6,7 @@ addon           = Addon(addon_id, sys.argv)
 icon            = xbmc.translatePath(os.path.join('special://home/addons/' + addon_id, 'icon.png'))
 
 def Index():
-        GetLinks('https://dl.dropboxusercontent.com/s/i5r2k11zydfms3o/tvdireto.plx')
+        GetLinks('https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/tvdireto.plx')
 
 def GetLinks(url):
         link = open_url(url)
