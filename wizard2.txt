@@ -1,8 +1,0 @@
-
-name="tvdireto"
-url="https://www.dropbox.com/s/89yhogtkbjtrja4/Kodi2.zip?dl=1"
-img="https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tuga.jpg"
-fanart="https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tuga.jpg"
-description="TV Direto Wizard"
-
-
