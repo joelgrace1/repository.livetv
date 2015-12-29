@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.direto" name="TV Direto" version="1.0.3" provider-name="TV Direto">
+<addon id="plugin.video.direto" name="TV Direto" version="1.0.4" provider-name="TV Direto">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -16,7 +16,7 @@
 
 <addon
   id="skin.nox.batman"
-  version="1.1"
+  version="1.2"
   name="Aeon Nox 5:Batman"
   provider-name="Created by BigNoid | Modded by EdiTz">
 	<requires>
@@ -40,7 +40,7 @@
 
 <addon
   id="skin.nox.mario"
-  version="1.1"
+  version="1.2"
   name="Aeon Nox 5:Mario"
   provider-name="Created by BigNoid | Modded by EdiTz">
 	<requires>
@@ -64,7 +64,7 @@
 
 <addon id="plugin.video.StalkerTv"
        name="StalkerTv"
-       version="6.0"
+       version="6.1"
        provider-name="KodiLover and KrAz">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -82,10 +82,10 @@ This is my third attempt to make a iptv stalker clone and this is KrAz's second 
 </addon>
 
 <addon
-  id="plugin.video.desportorei"
-  version="1.0.0"
-  name="Desporto Rei"
-  provider-name="TV Direto">
+  id="plugin.video.SportsDevil"
+  version="1.8.8.1"
+  name="SportsDevil"
+  provider-name="MaxMustermann">
   <requires>
    <import addon="xbmc.python" version="2.14.0"/>
    <import addon="script.module.requests" />
@@ -98,13 +98,13 @@ This is my third attempt to make a iptv stalker clone and this is KrAz's second 
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>Play videos of different sports streaming sites</summary>
-    <description>Copy of Sportsdevil</description>
+    <description>Play videos of different sports streaming sites</description>
     <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
     <platform>all</platform>
   </extension>
 </addon>
 
-<addon id="plugin.video.confluence" name="TV Direto Confluence Wizard" version="1.0.0" provider-name="TV Direto">
+<addon id="plugin.video.confluence" name="TV Direto Confluence Wizard" version="1.0.1" provider-name="TV Direto">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -118,7 +118,7 @@ This is my third attempt to make a iptv stalker clone and this is KrAz's second 
   </extension>
 </addon>
 
-<addon id="plugin.video.wizard" name="Aeon Nox Wizard" version="1.0.2" provider-name="TV Direto">
+<addon id="plugin.video.wizard" name="Aeon Nox Wizard" version="1.0.3" provider-name="TV Direto">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -132,7 +132,7 @@ This is my third attempt to make a iptv stalker clone and this is KrAz's second 
   </extension>
 </addon>
 
-<addon id="repository.livetv" name="LiveTV" version="2.2.1" provider-name="TV Direto"> 
+<addon id="repository.livetv" name="LiveTV" version="2.2.2" provider-name="TV Direto"> 
  	<extension point="xbmc.addon.repository" name="Live TV Repo"> 
  		<info compressed="false">https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/addons.xml</info> 
  		<checksum>https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/addons.xml.md5</checksum> 
