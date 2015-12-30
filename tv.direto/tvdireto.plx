@@ -27,7 +27,7 @@ URL=https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.dir
 type=playlist
 thumb=http://images.tenplay.com.au/~/media/TV%20Shows/Documentaries/General/Documentaries_Logo_500x281.jpg
 name=[COLOR yellow][B][I]DOCUMENTARIES[/I][/B][/COLOR]
-URL=https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/docu.plx
+URL=#https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/docu.plx
 #
 type=playlist
 thumb=http://www.pieniadz.pl/archiwum/geografia/flagi_godla_itp/francja_flaga_1.jpg

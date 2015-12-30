@@ -24,7 +24,7 @@ URL=http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/pla
 type=video
 name=RTP 1 HD
 thumb=http://img4.wikia.nocookie.net/__cb20100918153627/logopedia/images/archive/5/54/20111228185807!RTP_1HD_positivo.png
-URL=#http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
+URL=http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
 
 #
 type=video
@@ -40,7 +40,7 @@ URL=http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
 type=video
 name=RTP 2 HD
 thumb=http://www.rtp.pt/wportal/grupo/logos_empresa/imagens/logos/rtp2/rtp2_a.jpg
-URL=#http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
+URL=http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
 #
 type=video
 name=RTP 2 HD
@@ -88,13 +88,13 @@ URL=http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/pla
 type=video
 name=SIC HD
 thumb=https://jornalismounisuam.files.wordpress.com/2010/06/sic-hd.jpg
-URL=#http://noscdn1.connectedviews.com:1935/live/sic.stream/%20livestream.m3u8
+URL=http://noscdn1.connectedviews.com:1935/live/sic.stream/%20livestream.m3u8
 
 #
 type=video
 name=SIC
 thumb=https://jornalismounisuam.files.wordpress.com/2010/06/sic-hd.jpg
-URL=#http://213.13.26.11:1935/live/sic/chunklist_w423840104.m3u8
+URL=
 #
 type=video
 name=SIC 
@@ -128,7 +128,7 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSIC%2bRA
 type=video
 name=TVI HD
 thumb=http://www.tvi.iol.pt/img/default.jpg
-URL=#http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
+URL=http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
 #
 type=video
 name=TVI HD

@@ -11,7 +11,7 @@ URL=
 type=video
 name=BAND
 thumb=http://vagasabertas.org/wp-content/uploads/2012/03/oportunidades-de-trabalho-band-trabalhe-conosco.jpg
-URL=
+URL=rtmp://187.18.187.5/livepkgr playpath=nordestv3 live=1
 #
 type=video
 name=BAND SPORTS
@@ -32,6 +32,11 @@ type=video
 name=CINE BRASIL
 thumb=http://otvfoco.com.br/wp-content/uploads/2013/01/canalbrasiltv.jpg
 URL=
+#
+type=video
+name=COMBATE
+thumb=http://iptvbr.org/logos/combate.png
+URL=http://server1.livestreaming.ninja:1935/live/combate755/livestream.m3u8
 #
 type=video
 name=COMEDY CENTRAL
@@ -92,17 +97,17 @@ URL=
 type=video
 name=SPORTTV 1
 thumb=https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/220px-SporTV_logo_2011.png
-URL=
+URL=http://31.204.128.112:8081/live/sportv/playlist.m3u8
 #
 type=video
 name=SPORTTV 2
 thumb=https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/220px-SporTV_logo_2011.png
-URL=
+URL=http://213.163.65.116:8081/live/sportv2/playlist.m3u8
 #
 type=video
 name=SPORTTV 3
 thumb=https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/220px-SporTV_logo_2011.png
-URL=
+URL=http://185.109.161.15:8081/loadbalance/slv3/chunks.m3u8
 #
 type=video
 name=TELECINE PIPOCAS
@@ -113,22 +118,26 @@ type=video
 name=TELECINE PREMIUM
 thumb=http://1.bp.blogspot.com/-wNL8CIkNMQY/Uwk6WD_hZNI/AAAAAAAAhcI/ezfsVDcb-us/s1600/tcpremium.gif
 URL=
-
 #
 type=video
-name=TV APARECIDA
+name=TV BRASIL HD
+thumb=http://iptvbr.org/logos/tvbrasil.png
+URL=http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
+#
+type=video
+name=TV APARECIDA HD
 thumb=http://2.bp.blogspot.com/-yFfCf3KfMQA/UzeD5rPXpUI/AAAAAAAAh50/z2Eak_nTLQ4/s1600/tv_aparecida.png
 URL=http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/Paz.m3u8
 #
 type=video
-name=TV CULTURA
+name=TV CULTURA HD
 thumb=http://www.tv14.net/wp-content/uploads/2010/09/TV-Cultura.jpg
 URL=rtmp://200.136.27.12/livepkgr playpath=tvcultura4?adbe-live-event=liveevent swfUrl=http://cmais.com.br/portal/js/mediaplayer/player.swf?BRASILIPTV live=1 pageUrl=http://tvcultura.cmais.com.br/aovivo
 #
 type=video
-name=TV ESCOLA
+name=TV ESCOLA HD
 thumb=http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/canal_tvescola_assistir_programçao_online.jpg
-URL=
+URL=http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
 #
 type=video
 name=TV GLOBO NEWS
@@ -136,9 +145,14 @@ thumb=http://upload.wikimedia.org/wikipedia/pt/archive/8/8f/20120710214058!TV_Gl
 URL=
 #
 type=video
-name=TV GLOBO RJ
+name=TV GLOBO HD
 thumb=http://upload.wikimedia.org/wikipedia/pt/archive/8/8f/20120710214058!TV_Globo.jpg
-URL=http://177.129.15.4:1935/live/globo.stream/livestream.m3u8
+URL=http://185.109.161.15:8081/loadbalance/bobo720p/playlist.m3u8
+#
+type=video
+name=TV GLOBO HD
+thumb=http://upload.wikimedia.org/wikipedia/pt/archive/8/8f/20120710214058!TV_Globo.jpg
+URL=http://185.109.161.34:8081/live/bobosp/loadbalance/bobo720p/playlist.m3u8
 #
 type=video
 name=TV GLOBO SP
@@ -148,12 +162,12 @@ URL=http://31.204.128.127:8081/live/sptv/playlist.m3u8
 type=video
 name=TV RECORD HD
 thumb=https://lh4.googleusercontent.com/-lnaZFKly7UQ/U5hhQtVpkUI/AAAAAAAAABE/rVOzZZEKlIc/w825-h824/LOGO_RECORD_ALTA_HD_sem-slogan_baixa.png
-URL=
+URL=rtmp://flash.midiaip.com.br:1935/tvvitoria/Sample1
 #
 type=video
 name=TV RECORD
 thumb=http://www.bahiaatual.com/wp-content/uploads/2012/09/TV-Record1.jpg
-URL=rtmp://wz3.dnip.com.br/tvgazetamt/ playpath=tvgazetamt.sdp swfUrl=http://www.cxtv.com.br/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-online/tv-record
+URL=
 #
 type=video
 name=TV RECORD SP
@@ -173,7 +187,7 @@ URL=http://flash.midiaip.com.br:1935/tvvitoria/Sample1/playlist.m3u8
 type=video
 name=TV RECORD NOTICIAS
 thumb=https://portaltvenoticias.files.wordpress.com/2011/01/noticias.jpg
-URL=
+URL=rtmp://a1.fabricahost.com.br:1935/redemercosul/ playpath=redemercosul swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf pageUrl=http://livestreamcast.org/embed.php?c=recordnews&vw=100%&vh=100%
 #
 type=video
 name=VIVA
@@ -193,16 +207,8 @@ URL=
 
 
 
-#
-type=video
-name=
-thumb=
-URL=
-#
-type=video
-name=
-thumb=
-URL=
+
+
 #
 type=video
 name=

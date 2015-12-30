@@ -60,14 +60,29 @@ thumb=http://www.beinsports.fr/di/library/bein/4b/92/logo-bein-sports-1-hd_6tt6s
 URL=http://180.250.29.22:80/jhos/beib1_4/playlist.m3u8
 #
 type=video
+name=BEIN SPORTS 1
+thumb=http://www.beinsports.fr/di/library/bein/4b/92/logo-bein-sports-1-hd_6tt6szp2b0ag1dscy6cxln08t.jpg
+URL=http://195.154.226.186:1935/live69/bein1frlsh58/playlist.m3u8
+#
+type=video
 name=BEIN SPORTS 2
 thumb=http://blog.lenodal.com/uploads/actualitedelhabillage/2012/beinsport-2012_logo_chaine2.jpg
 URL=http://180.250.29.22:80/jhos/beib2_4/playlist.m3u8
 #
 type=video
+name=BEIN SPORTS 2
+thumb=http://blog.lenodal.com/uploads/actualitedelhabillage/2012/beinsport-2012_logo_chaine2.jpg
+URL=http://195.154.226.186:1935/live69/bein2frlsh58/playlist.m3u8
+#
+type=video
 name=BEIN SPORTS 3
 thumb=http://www.beinsports.fr/di/library/bein/4b/92/logo-bein-sports-1-hd_6tt6szp2b0ag1dscy6cxln08t.jpg
 URL=http://180.250.29.22:80/jhos/beib3_4/playlist.m3u8
+#
+type=video
+name=BEIN SPORTS 3
+thumb=http://www.beinsports.fr/di/library/bein/4b/92/logo-bein-sports-1-hd_6tt6szp2b0ag1dscy6cxln08t.jpg
+URL=http://195.154.226.186:1935/live69/bein3frlsh58/playlist.m3u8
 #
 type=video
 name=BEIN SPORTS 1 HD 720P (FRE)
@@ -145,7 +160,7 @@ thumb=http://www.liveonlinetv247.info/images/btsport1.png
 type=video
 name=BT SPORT 1 (UK)
 thumb=http://www.liveonlinetv247.info/images/btsport1.png
-URL=
+URL=http://195.154.226.186:1935/live69/btsports1lsh/playlist.m3u8
 #
 type=video
 name=BT SPORT 2 (STALKER)
@@ -160,7 +175,7 @@ thumb=http://www.premierleague.com/content/premierleague/en-gb/commercial/bt-spo
 type=video
 name=BT SPORT 2 (UK)
 thumb=http://www.premierleague.com/content/premierleague/en-gb/commercial/bt-sport/_jcr_content/bodypsys/image.img.png/1369990888755.png
-URL=
+URL=http://195.154.226.186:1935/live69/btsports2lsh/playlist.m3u8
 #
 type=video
 name=BT SPORT ESPN
@@ -170,7 +185,7 @@ thumb=http://www.espnfrontrow.com/wp-content/uploads/2012/12/espn-1.jpg
 type=video
 name=BT SPORT ESPN
 thumb=http://www.espnfrontrow.com/wp-content/uploads/2012/12/espn-1.jpg
-URL=#http://195.154.226.186:1935/liveedge/espnuklsh/playlist.m3u8
+URL=http://195.154.226.186:1935/live69/espnuklsh/playlist.m3u8
 #
 type=video
 name=BT SPORT EUROPE
@@ -181,7 +196,7 @@ thumb=http://www.liveonlinetv247.info/images/btsport1.png
 type=video
 name=BT SPORT EUROPE
 thumb=http://www.liveonlinetv247.info/images/btsport1.png
-URL=#http://195.154.226.186:1935/liveedge/bteulsh/playlist.m3u8
+URL=http://195.154.226.186:1935/live69/bteulshlsh/playlist.m3u8
 
 #
 type=video
@@ -305,12 +320,12 @@ URL=http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlis
 type=video
 name=EUROSPORT 1
 thumb=http://www.iwf.net/wp-content/uploads/2012/10/eurosport_logo.jpg
-URL=
+URL=http://195.154.226.186:1935/live69/vesplsh/playlist.m3u8
 #
 type=video
 name=EUROSPORT 2
 thumb=http://www.iwf.net/wp-content/uploads/2012/10/eurosport_logo.jpg
-URL=
+URL=http://195.154.226.186:1935/live69/vesp2lsh/playlist.m3u8
 #
 type=video
 name=EUROSPORT 2
@@ -531,9 +546,9 @@ thumb=http://www.planetafutebol.com.br/skin/frontend/tagon-pf/default/images/log
 URL=
 #
 type=video
-name=PREMIER SPORTS HD
+name=PREMIER SPORTS
 thumb=http://www.thedrum.com/uploads/drum_basic_article/109102/main_images/PS_0.jpg
-URL=
+URL=http://195.154.226.186:1935/live69/vpremsplsh/playlist.m3u8
 #
 type=video
 name=RAI SPORT 1
@@ -582,9 +597,9 @@ thumb=http://e1.365dm.com/11/11/660x350/f1panel1_2682703.jpg?20111125105918
 URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Sports%27%5D&amp;title=SKY+Sports+F1&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2457&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1267.png
 #
 type=video
-name=SKY FORMULA 1 (SPA)(STALKER)
+name=SKY FORMULA 1
 thumb=http://e1.365dm.com/11/11/660x350/f1panel1_2682703.jpg?20111125105918
-URL=
+URL=http://195.154.226.186:1935/live69/vskysf1lsh/playlist.m3u8
 #
 type=video
 name=SKY FORMULA 1
@@ -592,9 +607,9 @@ thumb=http://e1.365dm.com/11/11/660x350/f1panel1_2682703.jpg?20111125105918
 #URL=plugin://plugin.video.SportsDevil/?item=url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D5%2526q%253D%2526sort%253D1%26title%3dSky%2bSport%2bF1%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D68936%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D4%2526q%253D%2526sort%253D1%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fe01vzbqaotg837b_snapshot.jpg&amp;mode=1
 #
 type=video
-name=SKY SPORTS 1 HD
+name=SKY SPORTS 1
 thumb=http://www.protv24.com/img/sky-sports-1.png
-URL=
+URL=http://195.154.226.186:1935/live69/skysports1lsh/playlist.m3u8
 #
 type=video
 name=SKY SPORTS 1 (STALKER)
@@ -607,9 +622,9 @@ thumb=http://www.protv24.com/img/sky-sports-1.png
 #URL=plugin://plugin.video.SportsDevil/?item=url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D2%2526q%253D%2526sort%253D1%26title%3dSky%2bSport%2b1%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D71560%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fsort%253D1%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fuv2nqmvibdpd3uo_snapshot.jpg&amp;mode=1
 #
 type=video
-name=SKY SPORTS 2 HD
+name=SKY SPORTS 2
 thumb=http://www.ptvsports.mobi/wp-content/uploads/2015/03/sky-sports-2-live2.gif
-URL=
+URL=http://195.154.226.186:1935/live69/skysports2lsh/playlist.m3u8
 #
 type=video
 name=SKY SPORTS 2 (STALKER)
@@ -622,9 +637,9 @@ thumb=http://www.ptvsports.mobi/wp-content/uploads/2015/03/sky-sports-2-live2.gi
 #URL=plugin://plugin.video.SportsDevil/?item=url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D4%2526q%253D%2526sort%253D1%26title%3dSky%2bSport%2b2%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D72459%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D3%2526q%253D%2526sort%253D1%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fpyy7bth6eeukd4u_snapshot.jpg&amp;mode=1
 #
 type=video
-name=SKY SPORTS 3 HD
+name=SKY SPORTS 3
 thumb=http://www.livep2pstream.com/tv_channels/logo/sky_sports3.jpg
-URL=
+URL=http://195.154.226.186:1935/live69/skysports3lsh/playlist.m3u8
 #
 type=video
 name=SKY SPORTS 3 (STALKER)
@@ -647,9 +662,14 @@ thumb=http://funtvlive.com/wp-content/uploads/2012/11/sky-sports-4.png
 #URL=plugin://plugin.video.SportsDevil/?item=url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D7%2526q%253D%2526sort%253D1%26title%3dSky%2bSport%2b4%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D70557%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D6%2526q%253D%2526sort%253D1%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fljr31v8sbs4l8b7_snapshot.jpg&amp;mode=1
 #
 type=video
-name=SKY SPORTS 5 HD
+name=SKY SPORTS 4
+thumb=http://funtvlive.com/wp-content/uploads/2012/11/sky-sports-4.png
+URL=http://195.154.226.186:1935/live69/skysports4lsh/playlist.m3u8
+#
+type=video
+name=SKY SPORTS 5
 thumb=http://www.skymedia.ie/_masthead_images/SS5logo.jpg
-URL=
+URL=http://195.154.226.186:1935/live69/skysports5lsh/playlist.m3u8
 #
 type=video
 name=SKY SPORTS 5 (STALKER)
