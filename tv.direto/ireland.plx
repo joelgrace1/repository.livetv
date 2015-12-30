@@ -24,9 +24,9 @@ thumb=http://rosscam.co.uk/darkroom/wp-content/uploads/2014/12/BBC.jpg
 URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Fbbc-one%26title%3dBBC%2bOne%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Fbbc-one%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dBBC%2bOne%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F14%252Fbig_logo.png&amp;mode=1
 #
 type=video
-name=BBC 1
+name=BBC 1 (STALKER)
 thumb=http://rosscam.co.uk/darkroom/wp-content/uploads/2014/12/BBC.jpg
-URL=http://204.107.27.199/live/14.high.stream/playlist.m3u8?id=0ad5aac39bb13fbec3629943c2ed1bdf7068fc8622108b39e8b5ee5a611c1ec6aad53f85d427c0edc42ca9fb7184153fad3f948f92471c7b591eca459da03375bf150c58908278d7292600bbf975777f18fd9ca102a272b964b37e7e6545c48bae57dc5180bb03f2b423453a312d4119d214897d81f51a60c8b470e3944866d6f47775ab654b39bf050bf8b14c8bf308e0be1d588fd9db2b
+URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=BBC+ONE&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2443&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F801.png
 #
 type=video
 name=BBC 2
@@ -34,9 +34,9 @@ thumb=http://www.deborahperkin.com/wp-content/uploads/2013/05/bbc2.jpg
 URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Fbbc-two%26title%3dBBC%2bTwo%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Fbbc-two%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dBBC%2bTwo%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F25%252Fbig_logo.png&amp;mode=1
 #
 type=video
-name=BBC 2
+name=BBC 2 (STALKER)
 thumb=http://www.deborahperkin.com/wp-content/uploads/2013/05/bbc2.jpg
-URL=http://204.107.27.199/live/25.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe1dd70a2609bfa9583d4378bb6ce96d4e3b8a7d28fbb0c7030913e966e762d00d74c923e1b0d8dd3e2e8547528c943eea7a1463f7fcbe2c83572d182add63ce21945de3b0d12c9f350be9baca18457d605ab8f0a69572ac8b89c4481efb13d17fcda73156f01f8eedf9f1236a05956f0a79eb960ac2dad1a6c017115f4e1308f00ecbc4456645e27d674ace9095e29a36
+URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=BBC+TWO&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2445&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1263.png
 #
 type=video
 name=BBC 3
@@ -44,14 +44,19 @@ thumb=http://www.bbc.co.uk/staticarchive/4511484d66e80bfcb6feb94b060b480cc1eb39d
 URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Fbbc-three%26title%3dBBC%2bThree%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Fbbc-three%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dBBC%2bThree%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F113%252Fbig_logo.png&amp;mode=1
 #
 type=video
-name=BBC 3
+name=BBC 3 (STALKER)
 thumb=http://www.bbc.co.uk/staticarchive/4511484d66e80bfcb6feb94b060b480cc1eb39d7.jpg
-URL=http://204.107.27.199/live/113.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe1dd70a2609bfa95806a5859571aab451d5619dbbd1d43d068f3e63d9112ecd79f07b69131f1ae3a55b3b662a56a053d0b0f791e131bc94321d70db7b6522d322e1205db8980958c60063d8eb1b930b9a027af9b2c590d40bdecf05f9186f128c805d56b7e50d601c0714298945113bd2f97aee032066e964b333b084b12746a8b8fc3ec9ff94cb7ed6ad75d1f945b47e
+URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=BBC+Three&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2869&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1433.png
 #
 type=video
 name=BBC 4
 thumb=http://www.bbc.co.uk/staticarchive/0b038070652f825736522eced218fe84204f17aa.jpg
 URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Fcbeebiesbbc-four%26title%3dBBC%2bFour%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Fcbeebiesbbc-four%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dBBC%2bFour%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F103%252Fbig_logo.png&amp;mode=1
+#
+type=video
+name=BBC 4 (STALKER)
+thumb=http://www.bbc.co.uk/staticarchive/0b038070652f825736522eced218fe84204f17aa.jpg
+URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=BBC+Four&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2871&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1435.png
 #
 type=video
 name=BBC NEWS
