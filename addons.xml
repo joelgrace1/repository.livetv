@@ -84,7 +84,7 @@ This is my third attempt to make a iptv stalker clone and this is KrAz's second 
 <addon
   id="plugin.video.SportsDevil"
   version="1.8.8.2"
-  name="SportsDevil-12-27-15"
+  name="SportsDevil"
   provider-name="MaxMustermann">
   <requires>
    <import addon="xbmc.python" version="2.14.0"/>
