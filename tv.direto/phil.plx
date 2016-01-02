@@ -7,7 +7,7 @@ title=[COLOR blue]PHILIPPINES[/COLOR]
 type=video
 name=TV 5 HD
 thumb=http://www.starmometer.com/wp-content/uploads/2013/03/tv5.jpg
-URL=rtmp://kv2.ts33.net:1935/sat/us301
+URL=#rtmp://kv2.ts33.net:1935/sat/us301
 #
 type=video
 name=TV 5 SD
