@@ -1,6 +1,6 @@
 
 name="tvdireto"
-url="https://www.dropbox.com/s/dmk2xgwst15oj95/wizard.zip?dl=1”
+url="https://dl.dropboxusercontent.com/s/dmk2xgwst15oj95/wizard.zip?dl=1"
 img="https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tuga.jpg"
 fanart="https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tuga.jpg"
 description="TV Direto Wizard"
