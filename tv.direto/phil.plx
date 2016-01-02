@@ -44,7 +44,7 @@ URL=http://iphone-streaming.ustream.tv/ustreamVideo/10646391/streams/live/playli
 type=video
 name=test
 thumb=http://i1297.photobucket.com/albums/ag26/nieldc/Mashup/tvmaria_zps2c137688.png
-URL=rtmp://r118248661048710-1-21475190-channel-rtmp-live.ums.ustream.tv:1935/ustream playpath=21475190 pageUrl=http://www.ustream.tv/embed/21475190?v=3&wmode=transparent&autoplay=false&showtitle=false swfUrl=http://static-cdn1.ustream.tv/swf/live/viewer.qrsl:91.swf?rmalang=en_US
+URL=http://www.ustream.tv/embed/21475190?html5ui=1&autoplay=true&quality=high&showtitle=false playpath=21475190 pageUrl=http://www.ustream.tv/embed/21475190?html5ui=1&autoplay=true&quality=high&showtitle=false swfUrl=http://static-cdn1.ustream.tv/swf/live/viewer.qrsl:91.swf
 #
 type=video
 name=
