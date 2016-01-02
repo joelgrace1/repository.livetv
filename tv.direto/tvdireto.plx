@@ -23,11 +23,7 @@ type=playlist
 thumb=http://enjoywallpaper.com/wp-content/uploads/flag3/Canada-Flag-Wave-Wallpaper.jpg
 name=[COLOR yellow][B][I]CANADA[/I][/B][/COLOR]
 URL=https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/canada.plx
-#
-type=playlist
-thumb=http://images.tenplay.com.au/~/media/TV%20Shows/Documentaries/General/Documentaries_Logo_500x281.jpg
-name=[COLOR yellow][B][I]DOCUMENTARIES[/I][/B][/COLOR]
-URL=#https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/docu.plx
+
 #
 type=playlist
 thumb=http://www.pieniadz.pl/archiwum/geografia/flagi_godla_itp/francja_flaga_1.jpg
@@ -58,6 +54,11 @@ type=playlist
 thumb=https://tiestoclublife.files.wordpress.com/2014/09/dj_tiesto_club_life_img389.jpg
 name=[COLOR yellow][B][I]MUSIC[/I][/B][/COLOR]
 URL=https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/music.plx
+#
+type=playlist
+thumb=http://orig01.deviantart.net/e8c8/f/2009/171/d/3/realistic_philippine_flag_by_shintalz.jpg
+name=[COLOR yellow][B][I]PHILIPPINES[/I][/B][/COLOR]
+URL=https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/phil.plx
 #
 type=playlist
 thumb=http://img3.goodfon.su/original/1920x1080/2/49/portugal-portugaliya-flag.jpg
