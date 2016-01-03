@@ -259,7 +259,7 @@ URL=
 type=video
 name=BENFICA TV 1 HD
 thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
-URL=http://ak-cred-portuguese-us-pt-stream.fubo.tv:80/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b1628000.m3u8
+URL=
 
 #
 type=video
@@ -296,7 +296,7 @@ URL=
 type=video
 name=BENFICA TV 2 HD
 thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
-URL=
+URL=http://91.204.214.106:23201/stolen/233w/xenixos.7z
 
 #
 type=video
