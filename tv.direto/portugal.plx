@@ -7,7 +7,7 @@ title=[COLOR green]PORTUGAL[/COLOR]
 type=video
 name=TEST
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=http://91.204.214.106:23201/stolen/250l/xenixos.7z
+URL=
 
 #
 type=video
@@ -260,6 +260,12 @@ type=video
 name=BENFICA TV 1 HD
 thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
 URL=#http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/tvdireto.m3u8
+
+#
+type=video
+name=BENFICA TV 1 HD
+thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
+URL=http://91.204.214.106:23201/stolen/250l/xenixos.7z
 #
 type=video
 name=BENFICA TV 1 (PLEXUS)
@@ -288,9 +294,9 @@ thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
 URL=
 #
 type=video
-name=BENFICA TV 2
+name=BENFICA TV 2 HD
 thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
-URL=
+URL=http://91.204.214.106:23201/stolen/233w/xenixos.7z
 
 #
 type=video

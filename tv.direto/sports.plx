@@ -52,7 +52,7 @@ URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Sports%27%5D&amp
 type=video
 name=BEIN SPORTS Ñ
 thumb=http://www.fan2tv.com/images/beinsport1_logo.jpg
-#URL=plugin://plugin.video.SportsDevil/?item=title%3dVip%2b-%2bBein%2bSport%2bEspa%25C3%2583%25C2%25B1ol%2b%2528HD%2529%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D72400%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F3kyblmy5vhjkp2i_snapshot.jpg&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dVip%2b-%2bBein%2bSport%2bEspa%25C3%2583%25C2%25B1ol%2b%2528HD%2529%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F72400%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dVip%2b-%2bBein%2bSport%2bEspa%25C3%2583%25C2%25B1ol%2b%2528HD%2529%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F72400%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F3kyblmy5vhjkp2i_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F3kyblmy5vhjkp2i_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=BEIN SPORTS 1
@@ -155,7 +155,7 @@ URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Sports%27%5D&amp
 type=video
 name=BT SPORT 1
 thumb=http://www.liveonlinetv247.info/images/btsport1.png
-#URL=plugin://plugin.video.SportsDevil/?item=title%3dBT%2bSport%2b1%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D72735%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fwtc25713j3u6ute_snapshot.jpg&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252FLive%2bSport%253Fp%253D2%2526q%253D%26title%3dBT%2bSport%2b1%2bHD%2b24%252F7%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F66541%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dBT%2bSport%2b1%2bHD%2b24%252F7%2b%26director%3dilive.to%26definedIn%3dilive.to.cfg%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252FLive%252520Sport%253Fq%253D%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fswg2wpdq2ivwajh_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fswg2wpdq2ivwajh_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=BT SPORT 1 (UK)
@@ -170,7 +170,7 @@ URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Sports%27%5D&amp
 type=video
 name=BT SPORT 2
 thumb=http://www.premierleague.com/content/premierleague/en-gb/commercial/bt-sport/_jcr_content/bodypsys/image.img.png/1369990888755.png
-#URL=plugin://plugin.video.SportsDevil/?item=title%3dBT%2bSport%2b2%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D72458%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fqsem0rd0i6lwy2n_snapshot.jpg&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252FLive%2bSport%253Fp%253D2%2526q%253D%26title%3dBT%2bSport%2b2%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F72458%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dBT%2bSport%2b2%2b%26director%3dilive.to%26definedIn%3dilive.to.cfg%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252FLive%252520Sport%253Fq%253D%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fqsem0rd0i6lwy2n_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fqsem0rd0i6lwy2n_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=BT SPORT 2 (UK)
@@ -180,7 +180,7 @@ URL=http://195.154.226.186:1935/live69/btsports2lsh/playlist.m3u8
 type=video
 name=BT SPORT ESPN
 thumb=http://www.espnfrontrow.com/wp-content/uploads/2012/12/espn-1.jpg
-#URL=plugin://plugin.video.SportsDevil/?item=url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D7%2526q%253D%2526sort%253D1%26title%3dBT%2bSport%2bESPN%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D72462%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D6%2526q%253D%2526sort%253D1%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Ffvksu1sp51ijtyd_snapshot.jpg&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dBT%2bSport%2bESPN%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F72462%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dBT%2bSport%2bESPN%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F72462%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F9g38yxwwqqwyn88_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F9g38yxwwqqwyn88_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=BT SPORT ESPN
@@ -190,7 +190,7 @@ URL=http://195.154.226.186:1935/live69/espnuklsh/playlist.m3u8
 type=video
 name=BT SPORT EUROPE
 thumb=http://www.liveonlinetv247.info/images/btsport1.png
-#URL=plugin://plugin.video.SportsDevil/?item=url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D6%2526q%253D%2526sort%253D1%26title%3dBT%2bSport%2bEUROPE%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D72461%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D5%2526q%253D%2526sort%253D1%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fx7uii7mll2b7lh4_snapshot.jpg&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252FLive%2bSport%253Fp%253D3%2526q%253D%26title%3dBT%2bSport%2bEUROPE%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F72461%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dBT%2bSport%2bEUROPE%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252FLive%2bSport%253Fp%253D2%2526q%253D%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fxdiq6od3jnkg0q8_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fxdiq6od3jnkg0q8_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 
 #
 type=video
@@ -263,7 +263,7 @@ URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Sports%27%5D&amp
 type=video
 name=ESPN 1 (US)
 thumb=http://www.espnfrontrow.com/wp-content/uploads/2012/12/espn-1.jpg
-#URL=plugin://plugin.video.SportsDevil/?item=title%3dESPN%2bUSA%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D71561%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fly11kxowritf0ts_snapshot.jpg&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dESPN%2bUSA%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F71561%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dESPN%2bUSA%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F71561%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fly11kxowritf0ts_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fly11kxowritf0ts_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=ESPN 2 (US) (STALKER)
@@ -280,7 +280,7 @@ URL=
 type=video
 name=ESPN 2 (US)
 thumb=http://www.espnfrontrow.com/wp-content/uploads/2012/12/espn-1.jpg
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dESPN%2b2%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F73070%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dESPN%2b2%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F73070%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Flclmw3k9o934118_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Flclmw3k9o934118_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=ESPN GOAL LINE
@@ -454,7 +454,7 @@ URL=
 type=video
 name=NBA TV
 thumb=http://www.entertainmentdoor.com.pk/images/channel_image/NBA_TV_USA.jpeg
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNBA%2bTV%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F71562%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dNBA%2bTV%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F71562%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fg6egcgeorgwtfnb_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fg6egcgeorgwtfnb_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=NBA TV (STALKER)
@@ -469,7 +469,7 @@ URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Sports%27%5D&amp
 type=video
 name=NBCSN
 thumb=http://worldsoccertalk.com/wp-content/uploads/2014/01/nbcsn-logo-600x401.jpg
-#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNbc%2bSports%26url%3dhttp%253A%252F%252Fhdfree.tv%252Fnbc-sports-live-stream.html%26videoTitle%3dNbc%2bSports%26director%3dHDFree.tv%26genre%3dTV%26referer%3dhttp%253A%252F%252Fhdfree.tv%252Ftvlogos.html%26definedIn%3dtv%252Fhdfree.tv.cfg%26link%3dnbc-sports-live-stream.html%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fchannels%252FNbc%2bSports&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D3%2526q%253D%26title%3dNBC%2bSport%2bNetwork%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F71137%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dNBC%2bSport%2bNetwork%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D2%2526q%253D%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Ffwiiknwpnokjic9_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Ffwiiknwpnokjic9_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 
 #
 type=video
@@ -505,9 +505,9 @@ thumb=http://images.bwwstatic.com/tvnetworklogos/13AF21E2-F384-BE06-04C63286D08B
 #URL=http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN.m3u8
 #
 type=video
-name=NFL NETWORK SD
+name=NFL NETWORK
 thumb=http://images.bwwstatic.com/tvnetworklogos/13AF21E2-F384-BE06-04C63286D08B30DF.jpg
-#URL=http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_1500k.m3u8
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNFL%2bNetwork%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F70295%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dNFL%2bNetwork%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F70295%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fn1dv2of13iqam3u_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fn1dv2of13iqam3u_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=NFL NOW HD
@@ -604,7 +604,7 @@ URL=http://195.154.226.186:1935/live69/vskysf1lsh/playlist.m3u8
 type=video
 name=SKY FORMULA 1
 thumb=http://e1.365dm.com/11/11/660x350/f1panel1_2682703.jpg?20111125105918
-#URL=plugin://plugin.video.SportsDevil/?item=url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D5%2526q%253D%2526sort%253D1%26title%3dSky%2bSport%2bF1%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D68936%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D4%2526q%253D%2526sort%253D1%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fe01vzbqaotg837b_snapshot.jpg&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252FLive%2bSport%253Fp%253D2%2526q%253D%26title%3dSky%2bSport%2bF1%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F72747%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dSky%2bSport%2bF1%2b%26director%3dilive.to%26definedIn%3dilive.to.cfg%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252FLive%252520Sport%253Fq%253D%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fpvarcpkyf360ck5_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fpvarcpkyf360ck5_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=SKY SPORTS 1
@@ -619,7 +619,7 @@ URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Sports%27%5D&amp
 type=video
 name=SKY SPORTS 1 
 thumb=http://www.protv24.com/img/sky-sports-1.png
-#URL=plugin://plugin.video.SportsDevil/?item=url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D2%2526q%253D%2526sort%253D1%26title%3dSky%2bSport%2b1%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D71560%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fsort%253D1%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fuv2nqmvibdpd3uo_snapshot.jpg&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252FLive%2bSport%253Fp%253D2%2526q%253D%26title%3dSky%2bSport%2b1%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F72742%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dSky%2bSport%2b1%2b%26director%3dilive.to%26definedIn%3dilive.to.cfg%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252FLive%252520Sport%253Fq%253D%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fx0pt269mv6n773v_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fx0pt269mv6n773v_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=SKY SPORTS 2
@@ -649,7 +649,7 @@ URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Sports%27%5D&amp
 type=video
 name=SKY SPORTS 3
 thumb=http://www.livep2pstream.com/tv_channels/logo/sky_sports3.jpg
-#URL=plugin://plugin.video.SportsDevil/?item=url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D3%2526q%253D%2526sort%253D1%26title%3dSky%2bSport%2b3%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D69766%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D2%2526q%253D%2526sort%253D1%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fdnrrzm4d8u36qxq_snapshot.jpg&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252FLive%2bSport%253Fp%253D4%2526q%253D%26title%3dSky%2bSport%2b3%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F72744%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dSky%2bSport%2b3%2b%26director%3dilive.to%26definedIn%3dilive.to.cfg%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252FLive%2bSport%253Fp%253D3%2526q%253D%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F4fqgcqtjob7alpn_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F4fqgcqtjob7alpn_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video 
 name=SKY SPORTS 4 (STALKER)
@@ -659,7 +659,7 @@ URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Sports%27%5D&amp
 type=video
 name=SKY SPORTS 4
 thumb=http://funtvlive.com/wp-content/uploads/2012/11/sky-sports-4.png
-#URL=plugin://plugin.video.SportsDevil/?item=url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D7%2526q%253D%2526sort%253D1%26title%3dSky%2bSport%2b4%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D70557%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D6%2526q%253D%2526sort%253D1%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fljr31v8sbs4l8b7_snapshot.jpg&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252FLive%2bSport%253Fp%253D2%2526q%253D%26title%3dSky%2bSport%2b4%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F72745%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dSky%2bSport%2b4%2b%26director%3dilive.to%26definedIn%3dilive.to.cfg%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252FLive%252520Sport%253Fq%253D%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Ftino24bflekq5vc_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Ftino24bflekq5vc_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=SKY SPORTS 4
@@ -679,7 +679,7 @@ URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Sports%27%5D&amp
 type=video
 name=SKY SPORTS 5
 thumb=http://www.skymedia.ie/_masthead_images/SS5logo.jpg
-#URL=plugin://plugin.video.SportsDevil/?item=url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D5%2526q%253D%2526sort%253D1%26title%3dSky%2bSport%2b5%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D71191%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D4%2526q%253D%2526sort%253D1%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F5kxkwusfctsxkgo_snapshot.jpg&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252FLive%2bSport%253Fp%253D4%2526q%253D%26title%3dSky%2bSport%2b5%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F69649%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dSky%2bSport%2b5%2b%26director%3dilive.to%26definedIn%3dilive.to.cfg%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252FLive%2bSport%253Fp%253D3%2526q%253D%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F06927pgwezut1fd_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F06927pgwezut1fd_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=SPORT 1 USA
@@ -775,7 +775,7 @@ URL=plugin://program.plexus/?url=c39db61fd585ebfa446983d0af9d9d637df9678c&amp;mo
 type=video
 name=SPORT TV 1
 thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252FLive%2bSport%253Fp%253D2%2526q%253D%26title%3dSPORT%2bTV%2b1%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F69785%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dSPORT%2bTV%2b1%2b%26director%3dilive.to%26definedIn%3dilive.to.cfg%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252FLive%252520Sport%253Fq%253D%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fiscdxgtas788k2a_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fiscdxgtas788k2a_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=SPORT TV 1
@@ -790,7 +790,7 @@ URL=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecas
 type=video
 name=SPORT TV 2
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport_tv2_pt.jpg
-#URL=plugin://plugin.video.SportsDevil/?item=url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252FLive%2bSport%253Fp%253D3%2526q%253D%2526sort%253D1%26title%3dSPORT%2bTV%2b2%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D69823%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252FLive%2bSport%253Fp%253D2%2526q%253D%2526sort%253D1%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F1mnqje6lw57grow_snapshot.jpg&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252FLive%2bSport%253Fp%253D3%2526q%253D%26title%3dSPORT%2bTV%2b2%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F69823%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dSPORT%2bTV%2b2%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252FLive%2bSport%253Fp%253D2%2526q%253D%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F1mnqje6lw57grow_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F1mnqje6lw57grow_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=SPORT TV 2
@@ -805,7 +805,7 @@ URL=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecas
 type=video
 name=SPORT TV 3
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport-tv3.jpg
-#URL=plugin://plugin.video.SportsDevil/?item=url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252FLive%2bSport%253Fp%253D4%2526q%253D%2526sort%253D1%26title%3dSPORT%2bTV%2b3%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D69787%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252FLive%2bSport%253Fp%253D3%2526q%253D%2526sort%253D1%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F4pthnyo7lqlzt80_snapshot.jpg&amp;mode=1
+URL=
 #
 type=video
 name=SPORT TV 3
@@ -830,7 +830,7 @@ URL=rtmp://209.95.43.170:1935/stream/ playpath=0tkBo1519y0yBoVGgd2jl.stream swfU
 type=video
 name=SPORT TV 5 
 thumb=http://i0.wp.com/www.novidadestv.com/wp-content/uploads/2014/03/SportTV_2014_logo_destak_300x216.png?fit=300%2C216
-#URL=plugin://plugin.video.SportsDevil/?item=url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252FLive%2bSport%253Fp%253D4%2526q%253D%2526sort%253D1%26title%3dSPORT%2bTV%2b5%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D69416%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252FLive%2bSport%253Fp%253D3%2526q%253D%2526sort%253D1%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fmbcposqn4f5ixbt_snapshot.jpg&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252FLive%2bSport%253Fp%253D2%2526q%253D%26title%3dSPORT%2bTV%2b5%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F69416%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dSPORT%2bTV%2b5%2b%26director%3dilive.to%26definedIn%3dilive.to.cfg%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252FLive%252520Sport%253Fq%253D%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fmbcposqn4f5ixbt_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fmbcposqn4f5ixbt_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=SPORT TV 5 
@@ -976,7 +976,7 @@ URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Sports%27%5D&amp
 type=video
 name=WWE COUNTDOWN (24/7)
 thumb=http://www.wawnation.com/wp-content/uploads/2015/07/nxt-logo.png
-#URL=plugin://plugin.video.SportsDevil/?item=title%3d24x7%2bWWE%2bNetwork%2bLive%2bStream%2b%255BHQ%255D%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D70407%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F0zuk5i14piupgnd_snapshot.jpg&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D2%2526q%253D%26title%3dWWE%2bNetwork%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F72465%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dWWE%2bNetwork%2b%26director%3dilive.to%26definedIn%3dilive.to.cfg%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252F%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fi9h78y5jdxifams_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fi9h78y5jdxifams_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 
 
 

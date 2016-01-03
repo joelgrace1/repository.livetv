@@ -19,7 +19,7 @@ thumb=http://static.itnproductions.co.uk/itn/2013/02/5USA_logo_2011-300x115.jpg
 URL=
 #
 type=video
-name=A&E EAST
+name=A&E EAST (STALKER)
 thumb=https://pbs.twimg.com/profile_images/378800000858931576/94dkj9QW_400x400.jpeg
 URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=A%26E+East&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F995&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F583.png
 #
@@ -33,7 +33,7 @@ URL=
 type=video
 name=ABC
 thumb=http://img3.wikia.nocookie.net/__cb20131222111043/mixology-abc/images/0/0d/Abc_-_logo.jpeg
-URL=plugin://plugin.video.SportsDevil/?item=title%3dABC%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D68969%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F371jluirljcsjen_snapshot.jpg&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D3%2526q%253D%26title%3dABC%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F68969%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dABC%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D2%2526q%253D%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F371jluirljcsjen_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F371jluirljcsjen_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=ABC FAMILY (STALKER)
@@ -43,7 +43,7 @@ URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;ti
 type=video
 name=ABC FAMILY
 thumb=http://www.tvweek.com/wp-content/uploads/2014/10/ABC-Family-logo.png
-URL=plugin://plugin.video.SportsDevil/?item=url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D3%2526q%253D%2526sort%253D1%26title%3dABC%2bFamily%2b-%2bMttvmario%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D30303%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D2%2526q%253D%2526sort%253D1%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fvx63a0c7mxk2jt8_snapshot.jpg&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D3%2526q%253D%26title%3dABC%2bFamily%2b-%2bMttvmario%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F30303%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dABC%2bFamily%2b-%2bMttvmario%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D2%2526q%253D%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fvx63a0c7mxk2jt8_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fvx63a0c7mxk2jt8_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=ABC NEWS
@@ -54,8 +54,7 @@ URL=http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1
 type=video
 name=AMC
 thumb=http://channelpear.com/images/media/2556.png
-URL=plugin://plugin.video.SportsDevil/?item=title%3dAMC%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D68963%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F7pctmre0zfwsc24_snapshot.jpg&amp;mode=1
-
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D2%2526q%253D%26title%3dAMC%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F68963%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dAMC%2b%26director%3dilive.to%26definedIn%3dilive.to.cfg%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252F%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F7pctmre0zfwsc24_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F7pctmre0zfwsc24_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=AMC EAST (STALKER)
@@ -66,7 +65,11 @@ type=video
 name=ANIMAL PLANET (STALKER)
 thumb=http://www.podryad.tv/upload/iblock/591/591145599ed9cafababe81c23500fe83.png
 URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Culture%27%5D&amp;title=Animal+Planet&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4845&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1825.png
-
+#
+type=video
+name=BBC AMERICA
+thumb=http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/39.png
+URL=
 #
 type=video
 name=BET
@@ -87,12 +90,7 @@ URL=
 type=video
 name=CBS
 thumb=http://www.katiekrause.net/uploads/1/2/6/6/12664073/9870558_orig.jpg
-URL=
-#
-type=video
-name=CBS
-thumb=http://www.katiekrause.net/uploads/1/2/6/6/12664073/9870558_orig.jpg
-URL=plugin://plugin.video.SportsDevil/?item=url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D2%2526q%253D%2526sort%253D1%26title%3dCBS%2b%2528HD%2529%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D57976%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fsort%253D1%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fvp4q2gonwzh2dku_snapshot.jpg&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D2%2526q%253D%26title%3dCBS%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F69956%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dCBS%2b%26director%3dilive.to%26definedIn%3dilive.to.cfg%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252F%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fdt0qvk6nmdhk8u6_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fdt0qvk6nmdhk8u6_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=CBS NEWS
@@ -108,7 +106,7 @@ URL=http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_828.m3u
 type=video
 name=CNN
 thumb=https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED.png
-URL=plugin://plugin.video.SportsDevil/?item=title%3dCNN%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D68967%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F1z3ps9vxnknuskb_snapshot.jpg&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D2%2526q%253D%26title%3dCNN%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F70785%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dCNN%2b%26director%3dilive.to%26definedIn%3dilive.to.cfg%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252F%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fykerm3p2gcj43qf_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fykerm3p2gcj43qf_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=CNN US (STALKER)
@@ -129,7 +127,7 @@ URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;ti
 type=video
 name=CW
 thumb=http://www.glaad.org/sites/default/files/The-cw-tv-now.jpg
-URL=plugin://plugin.video.SportsDevil/?item=url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D2%2526q%253D%2526sort%253D1%26title%3dCW%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D52510%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fsort%253D1%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Ffvksu1sp51ijtyd_snapshot.jpg&amp;mode=1
+URL= plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D5%2526q%253D%26title%3dCW%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F52510%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dCW%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D4%2526q%253D%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F00t250wv1d4ltib_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F00t250wv1d4ltib_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 
 #
 type=video
@@ -162,7 +160,7 @@ URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;ti
 type=video
 name=FOX
 thumb=http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox1.png?ver=6659ea4a-e9b5-4496-815f-8ea22a7d407c
-URL=plugin://plugin.video.SportsDevil/?item=title%3dFox%2bNetwork%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D70048%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fq49uyvij145wcky_snapshot.jpg&amp;mode=1
+URL=
 #
 type=video
 name=FOX NEWS (STALKER)
@@ -172,7 +170,7 @@ URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;ti
 type=video
 name=FOX NEWS
 thumb=http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox1.png?ver=6659ea4a-e9b5-4496-815f-8ea22a7d407c
-URL=plugin://plugin.video.SportsDevil/?item=title%3dFox%2bNews%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D68968%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fw0mr10getvsikam_snapshot.jpg&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFox%2bNews%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F68968%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dFox%2bNews%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F68968%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fw0mr10getvsikam_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fw0mr10getvsikam_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=FOX 59 NEWS
@@ -197,6 +195,11 @@ thumb=https://pmcdeadline2.files.wordpress.com/2014/05/fx-logo__140528151442.jpg
 URL=
 #
 type=video
+name=HISTORY
+thumb=http://ncph.org/cms/wp-content/uploads/History_Logo_White_Space.jpg
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dHistory%2bChannel%2bEurope%2b%255BHD%255D%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F70633%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dHistory%2bChannel%2bEurope%2b%255BHD%255D%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F70633%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Flogojbjhar79pc8_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Flogojbjhar79pc8_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
+#
+type=video
 name=HISTORY (STALKER)
 thumb=http://ncph.org/cms/wp-content/uploads/History_Logo_White_Space.jpg
 URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=History&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F176&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F32.png
@@ -209,7 +212,7 @@ URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;ti
 type=video
 name=HBO
 thumb=http://tube.hk/images/tv_cache/c/200x200_38hbo_hd.jpg
-URL=plugin://plugin.video.SportsDevil/?item=url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D2%2526q%253D%2526sort%253D1%26title%3dHBO%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D69021%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fsort%253D1%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fqzbbu26gcvjxksz_snapshot.jpg&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dHBO%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F69021%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dHBO%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F69021%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fqzbbu26gcvjxksz_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fqzbbu26gcvjxksz_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=HBO EAST (STALKER)
@@ -237,14 +240,14 @@ thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/hbo2_pl.png
 URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=HBO+2+West&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1095&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F665.png
 #
 type=video
-name=HBO COMEDY EAST
+name=HBO COMEDY EAST (STALKER)
 thumb=http://upload.wikimedia.org/wikipedia/commons/f/f6/HBO_Comedy.png
 URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=HBO+Comedy+East&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1001&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F589.png
 #
 type=video
 name=MSNBC
 thumb=http://ourdailynewsonline.com/wp-content/uploads/2015/05/Nbc_logo-7.png
-URL=plugin://plugin.video.SportsDevil/?item=url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D2%2526q%253D%2526sort%253D1%26title%3dMSNBC%2b%2528HD%2529%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D52505%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fsort%253D1%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F1341ujtliqndod8_snapshot.jpg&amp;mode=1
+URL=
 #
 type=video
 name=MTV
@@ -275,17 +278,17 @@ URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Culture%27%5D&am
 type=video
 name=NBC
 thumb=http://ourdailynewsonline.com/wp-content/uploads/2015/05/Nbc_logo-7.png
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNBC%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F69116%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dNBC%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F69116%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fs5whw37nl7weedp_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fs5whw37nl7weedp_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=NBC
 thumb=http://ourdailynewsonline.com/wp-content/uploads/2015/05/Nbc_logo-7.png
-URL=plugin://plugin.video.SportsDevil/?item=title%3dNBC%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D69116%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fs5whw37nl7weedp_snapshot.jpg&amp;mode=1
+URL=
 #
 type=video
 name=SHOWTIME
 thumb=http://zerocast.tv/channels/img/showtime.jpg
-URL=plugin://plugin.video.SportsDevil/?item=title%3dShowtime%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D69036%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fs53jbkmyldngbks_snapshot.jpg&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dShowtime%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F69036%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dShowtime%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F69036%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fs53jbkmyldngbks_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fs53jbkmyldngbks_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=SLICE
@@ -293,7 +296,7 @@ thumb=http://images.wookmark.com/182773_589_slice.jpg
 URL=
 #
 type=video
-name=SPIKE TV 
+name=SPIKE TV (STALKER)
 thumb=http://www.tnainsider.com/wp-content/uploads/2014/06/Spike.jpg
 URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=Spike+TV&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4410&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1620.png
 #
@@ -321,10 +324,10 @@ URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;ti
 type=video
 name=TBS
 thumb=http://vignette3.wikia.nocookie.net/cougartown/images/c/cd/TBS.png/revision/latest?cb=20130810130932
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTBS%26url%3dhttp%253A%252F%252Fwww.shadow-net.biz%252Fchannels%252FTBS.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dTBS%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.shadow-net.biz%252Fcategories%252FUSA-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26definedIn%3dshadownet.ro.cfg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadow-net.biz%252Fproduct_images%252Ff%252F523%252FTBS.svg__23453_thumb.png&amp;mode=1
+URL=
 #
 type=video
-name=TLC
+name=TLC (STALKER)
 thumb=http://www.rawstory.com/wp-content/uploads/2012/03/TLC-logo.jpg
 URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=TLC&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F503&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F104.png
 #
@@ -336,7 +339,7 @@ URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;ti
 type=video
 name=TNT
 thumb=http://i.cdn.turner.com/v5cache/TNT/Images/Dynamic/i177/tnt-live-default-logo-640x360-640x360_053020130547.png
-URL=plugin://plugin.video.SportsDevil/?item=title%3dTNT%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D69020%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F6q4jlbqwvxuingo_snapshot.jpg&amp;mode=1
+URL=
 #
 type=video
 name=TRAVEL CHANNEL (STALKER)
@@ -368,7 +371,7 @@ URL=
 type=video
 name=WARNER
 thumb=https://pmcdeadline2.files.wordpress.com/2012/10/warnerbros_logo__121022172344.jpg
-URL=plugin://plugin.video.SportsDevil/?item=url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D4%2526q%253D%2526sort%253D1%26title%3dWarner%2bBros%2bChannel%2b%2528HD%2529%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D70317%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D3%2526q%253D%2526sort%253D1%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fpgbt2gfuifeli72_snapshot.jpg&amp;mode=1
+URL=
 
 #
 type=video
@@ -377,11 +380,7 @@ thumb=http://channelpear.com/images/media/3144.jpg
 URL=http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
 
-#
-type=video
-name=BBC AMERICA
-thumb=http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/39.png
-URL=
+
 #
 type=video
 name=BRAZZERS
