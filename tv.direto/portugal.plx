@@ -259,7 +259,7 @@ URL=
 type=video
 name=BENFICA TV 1 HD
 thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
-URL=http://ak-cred-portuguese-us-pt-stream.fubo.tv/Benfica-TV/ngrp:BenficaHD.stream_all/media-uzh9w0m3y_b1628000_7800.ts
+URL=http://ak-cred-portuguese-us-pt-stream.fubo.tv:80/Benfica-TV/ngrp:BenficaHD.stream_all/tvdireto.m3u8
 
 #
 type=video
