@@ -145,14 +145,14 @@ thumb=http://upload.wikimedia.org/wikipedia/pt/archive/8/8f/20120710214058!TV_Gl
 URL=
 #
 type=video
-name=TV GLOBO HD
-thumb=http://upload.wikimedia.org/wikipedia/pt/archive/8/8f/20120710214058!TV_Globo.jpg
-URL=http://185.109.161.15:8081/loadbalance/bobo720p/playlist.m3u8
+name=TV GLOBO INTERNACIONAL
+thumb=https://jorgesalvador.files.wordpress.com/2011/02/tv-globo-international-logo1.png
+URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=TV+Globo+Internacional&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1593&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F937.png
 #
 type=video
 name=TV GLOBO HD
 thumb=http://upload.wikimedia.org/wikipedia/pt/archive/8/8f/20120710214058!TV_Globo.jpg
-URL=http://185.109.161.34:8081/live/bobosp/loadbalance/bobo720p/playlist.m3u8
+URL=
 #
 type=video
 name=TV GLOBO SP

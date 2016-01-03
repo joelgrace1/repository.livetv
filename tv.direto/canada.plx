@@ -27,7 +27,7 @@ URL=
 type=video
 name=CHCH
 thumb=http://convio.cancer.ca/images/friendraiser_uploads/17704.583874929.custom.jpg
-URL=rtmp://54.85.197.21:1935/live/news live=1 timeout=15
+URL=#rtmp://54.85.197.21:1935/live/news live=1 timeout=15
 #
 type=video
 name=CITY TV TORONTO
@@ -36,22 +36,22 @@ URL=
 
 #
 type=video
-name=CITY TV TORONTO
+name=CITY TV TORONTO (NOT ALWAYS ON)
 thumb=http://storage.edmontonsun.com/v1/blogs-prod-photos/b/3/5/7/b/b357b96027fb2310789a5a187efbbc48.jpg?stmp=1309923431
 URL=http://btflash-lh.akamaihd.net/i/BTMTLFLASH_live@120220/master.m3u8
 #
 type=video
-name=CITY TV MONTREAL
+name=CITY TV MONTREAL (NOT ALWAYS ON)
 thumb=http://storage.edmontonsun.com/v1/blogs-prod-photos/b/3/5/7/b/b357b96027fb2310789a5a187efbbc48.jpg?stmp=1309923431
 URL=http://btflash-lh.akamaihd.net/i/BTMTLFLASH_live@120220/master.m3u8
 #
 type=video
-name=CITY TV VANCOUVER
+name=CITY TV VANCOUVER (NOT ALWAYS ON)
 thumb=http://storage.edmontonsun.com/v1/blogs-prod-photos/b/3/5/7/b/b357b96027fb2310789a5a187efbbc48.jpg?stmp=1309923431
 URL=http://btflash-lh.akamaihd.net/i/BTVANFLASH_live@120224/master.m3u8
 #
 type=video
-name=CITY TV CALGARY
+name=CITY TV CALGARY (NOT ALWAYS ON)
 thumb=http://storage.edmontonsun.com/v1/blogs-prod-photos/b/3/5/7/b/b357b96027fb2310789a5a187efbbc48.jpg?stmp=1309923431
 URL=http://btflash-lh.akamaihd.net/i/BTCALFLASH_live@120221/master.m3u8
 #
@@ -132,17 +132,17 @@ thumb=http://assets3.sportsnet.ca/wp-content/uploads/2013/06/sportsnet360.png
 URL=
 #
 type=video
-name=SPORTSNET ONE
+name=SPORTSNET ONE (NOT ALWAYS ON)
 thumb=http://img4.wikia.nocookie.net/__cb20140410170629/logopedia/images/4/41/Snone-1-.png
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSportsnet%2bOne%26url%3dhttp%253A%252F%252Fcricfree.sx%252Fsportsnet-one-live-stream%26videoTitle%3dSportsnet%2bOne%26director%3dcricfree.tv%26genre%3dTV%26referer%3dhttp%253A%252F%252Fcricfree.sx%252F%26definedIn%3dtv%252Fcricfree.tv.cfg%26link%3dsportsnet-one-live-stream%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fchannels%252FSportsnet%2bOne&amp;mode=1
 #
 type=video
-name=SPORTSNET ONTARIO 
+name=SPORTSNET ONTARIO  (NOT ALWAYS ON)
 thumb=http://img1.wikia.nocookie.net/__cb20120212021042/logopedia/images/0/08/Rogers_sportsnet_ontario.png
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSportsnet%2bOntario%26url%3dhttp%253A%252F%252Fcricfree.sx%252Fsportsnet-ontario-live-stream%26videoTitle%3dSportsnet%2bOntario%26director%3dcricfree.tv%26genre%3dTV%26referer%3dhttp%253A%252F%252Fcricfree.sx%252F%26definedIn%3dtv%252Fcricfree.tv.cfg%26link%3dsportsnet-ontario-live-stream%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fchannels%252FSportsnet%2bOntario&amp;mode=1
 #
 type=video
-name=SPORTSNET WORLD 
+name=SPORTSNET WORLD  (NOT ALWAYS ON)
 thumb=https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Sportsnet_World_HD_logo.PNG/800px-Sportsnet_World_HD_logo.PNG
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSportsnet%2bWorld%26url%3dhttp%253A%252F%252Fcricfree.sx%252Fsportsnet-world-live-streaming%26videoTitle%3dSportsnet%2bWorld%26director%3dcricfree.tv%26genre%3dTV%26referer%3dhttp%253A%252F%252Fcricfree.sx%252F%26definedIn%3dtv%252Fcricfree.tv.cfg%26link%3dsportsnet-world-live-streaming%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fchannels%252FSportsnet%2bWorld&amp;mode=1
 #
@@ -164,7 +164,7 @@ URL=
 type=video
 name=TSN 1
 thumb=http://www.nwtel.ca/media/channel-logos/tsn1_0.jpg
-URL=plugin://plugin.video.SportsDevil/?item=icont%3dcolor-white%2btsn-1-sports-channel%26catcher%3dstreams%26title%3dLink%2b1%2b%26url%3dhttp%253A%252F%252Ftvtoast.com%252Fcf%252FTSN%2b1%252Fstream-1.php%26cfg%3dtvtoast.com.cfg%2540Streams%26videoTitle%3dTSN%2b1%26director%3dtvtoast.com%26urlt%3dcf%252FTSN%2b1%252Fstream-1.php%26referer%3dhttp%253A%252F%252Ftvtoast.com%252Fwatch%252F%253Fch_id%253D2062810274%26definedIn%3dtvtoast.com.cfg%26genre%3dLive%2bTV%26type%3drss&amp;mode=1
+URL=
 #
 type=video
 name=TSN 2 HD
@@ -174,7 +174,7 @@ URL=
 type=video
 name=TSN 2
 thumb=http://www.nwtel.ca/media/channel-logos/tsn2_0.jpg
-URL=plugin://plugin.video.SportsDevil/?item=icont%3dcolor-white%2btsn-2-sports-channel%26catcher%3dstreams%26title%3dLink%2b1%2b%26url%3dhttp%253A%252F%252Ftvtoast.com%252Fcf%252FTSN%2b2%252Fstream-1.php%26cfg%3dtvtoast.com.cfg%2540Streams%26videoTitle%3dTSN%2b2%26director%3dtvtoast.com%26urlt%3dcf%252FTSN%2b2%252Fstream-1.php%26referer%3dhttp%253A%252F%252Ftvtoast.com%252Fwatch%252F%253Fch_id%253D810871513%26definedIn%3dtvtoast.com.cfg%26genre%3dLive%2bTV%26type%3drss&amp;mode=1
+URL=
 #
 type=video
 name=TSN 3 HD
