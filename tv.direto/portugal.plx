@@ -148,7 +148,7 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTVI%2bFI
 type=video
 name=TVI REALITY
 thumb=https://pbs.twimg.com/profile_images/649980763623043072/FOpfAgxT.png
-URL=rtmp://62.210.88.232:1935/liverepeat?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6MDc6MzAgUE0maGFzaF92YWx1ZT1tSEpPOXptWGRwZDFjTzVzd0tFQWtnPT0mdmFsaWRtaW51dGVzPTMwMA==/TVIReality24 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=TVIReality24&vw=550&vh=430
+URL=http://62.210.82.241:1935/liverepeat/TVIReality24/live.m3u8
 
 #
 type=video
@@ -303,11 +303,6 @@ type=video
 name=TELEKANAL (LIGA PORTUGUESA)
 thumb=http://img.nowfootballtv.com/channel/1376009345.jpg
 URL=http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
-#
-type=video
-name=TELEKANAL (LIGA PORTUGUESA)
-thumb=http://img.nowfootballtv.com/channel/1376009345.jpg
-URL=http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 #
 type=video
 name=PORTO CANAL
