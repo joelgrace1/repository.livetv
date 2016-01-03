@@ -6,7 +6,7 @@ title=[COLOR green]PORTUGAL[/COLOR]
 type=video
 name=TEST
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=
+URL=http://91.204.214.106:23201/stolen/250l/xenixos.7z
 
 
 
