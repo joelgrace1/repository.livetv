@@ -92,7 +92,7 @@ URL=rtmp://187.18.187.5/livepkgr/ playpath=tvjangadeiro1 swfUrl=http://tribunado
 type=video
 name=SBT
 thumb=https://upload.wikimedia.org/wikipedia/commons/d/db/Novo_logo_sbt.jpg
-URL=
+URL=http://iphone-streaming.ustream.tv:80/uhls/13654224/streams/live/iphone/playlist.m3u8
 #
 type=video
 name=SPORTTV 1

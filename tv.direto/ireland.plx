@@ -164,6 +164,11 @@ thumb=http://www.rte.ie/rtejr/wp-content/themes/rtejr-2013/img/rtejr-logo-large.
 URL=
 #
 type=video
+name=EUROSPORT 1 UK
+thumb=http://www.telezones.com/wp-content/uploads/2015/03/Eurosport-HD-Live-Telezones1.png
+URL=http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#
+type=video
 name=SKY 1 HD
 thumb=http://www.tekcore.co.uk/wp-content/uploads/2012/11/New-Sky1-HD-Rebrand-Logo-3.jpg
 URL=

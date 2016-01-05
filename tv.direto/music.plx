@@ -17,11 +17,7 @@ type=video
 name=VEVO 3 HD
 thumb=http://i.ytimg.com/vi/TB_4D8MuN_U/hqdefault.jpg
 URL=http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/appleman.m3u8
-#
-type=video
-name=DANCE TV
-thumb=http://static.djguide.nl/image/nieuws2009/dancetv_logo.jpg
-URL=http://91.82.85.16:1935/relay15/nettv_channel_1/tvdireto.m3u8
+
 #
 type=video
 name=FIRST MUSIC HD
@@ -31,7 +27,7 @@ URL=rtmp://109.239.142.62/live/livestream3 timeout=15
 type=video
 name=CLUBLAND
 thumb=http://s014.radikal.ru/i328/1102/9d/a29458a71a94.jpg
-URL=http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+URL=
 #
 type=video
 name=HIP HOP CHANNEL
@@ -41,12 +37,12 @@ URL=http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8
 type=video
 name=NOW MUSIC
 thumb=http://www.astra2sat.com/wp-content/uploads/now-music.jpg
-URL=http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+URL=
 #
 type=video
 name=MTV DANCE HD
 thumb=http://thewatchtv.com/wp-content/uploads/2013/03/Watch-MTV-Dance-Live-TV-from-United-Kingdom.jpg
-URL=http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/79.m3u8
+URL=
 #
 type=video
 name=VIRGIN
@@ -56,11 +52,61 @@ URL=rtmp://fms.105.net:1935/live/virgin1 playpath=virgin1 swfurl=http://www.high
 type=video
 name=D 17
 thumb=http://upload.wikimedia.org/wikipedia/en/9/92/D17_logo_2012.png
-URL=http://stream.streaming-hub.com:8180/live/hls/d17-clair-v3-sd-and/and-sd-clair/d17-clair-v3-sd-audio_AACL_fra_56000_121=56000-video=1500000.m3u8
+URL=
 
 #
 type=video
-name=
-thumb=
-URL=
+name=CAPITAL TV HD
+thumb=https://upload.wikimedia.org/wikipedia/en/3/32/Capital_TV_logo.png
+URL=http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
+#
+type=video
+name=DREAM TV
+thumb=https://i.vimeocdn.com/portrait/4084134_300x300.jpg
+URL=http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#
+type=video
+name=DREAM TV HD
+thumb=https://i.vimeocdn.com/portrait/4084134_300x300.jpg
+URL=http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#
+type=video
+name=ELECTROSOUND TV HD
+thumb=https://lh4.ggpht.com/JkaZOh-c8B6UuPIKqp1Hfa7x5EV3tabGwQTcHAb_U07UNuOuTEYywlSmScwgPHDlqw=w300
+URL=rtmp://www.electrosound.tv:1935/public/stream
+#
+type=video
+name=AFRICA TV MUSIC HD
+thumb=http://s2.dmcdn.net/KM2Ka/1280x720-2LH.jpg
+URL=http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
+#
+type=video
+name=DJING UNDERGROUND HD
+thumb=http://www.djing.com/img/facebook.png
+URL=http://www.djing.com/tv/u-05.m3u8
+#
+type=video
+name=DJING IBIZA HD
+thumb=http://www.djing.com/img/facebook.png
+URL=http://www.djing.com/tv/d-05.m3u8
+#
+type=video
+name=JUCE TV HD
+thumb=http://jucetv.com/wp-content/uploads/JUCE-1.jpg
+URL=http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
+#
+type=video
+name=GOLD TV
+thumb=https://lh4.ggpht.com/qwQLDBc04AHKPjsiTEmT_0fDZVQgXjjO1GmR0gIGtKo0jFNaFP3OHuTvtoVkLsUhDyk=w300
+URL=http://87.248.160.8/edge/smil:goldtv/playlist.m3u8
+#
+type=video
+name=MIMUSICA HD
+thumb=http://img.new.livestream.com/events/00000000001877c7/dbec9b0d-cc95-4fa7-832d-fd8c4c41095e_2100.jpg
+URL=http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#
+type=video
+name=DANCE TV
+thumb=http://static.djguide.nl/image/nieuws2009/dancetv_logo.jpg
+URL=http://91.82.85.16:1935/relay15/nettv_channel_1/tvdireto.m3u8
 #

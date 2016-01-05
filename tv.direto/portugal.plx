@@ -195,12 +195,12 @@ URL=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecas
 type=video
 name=SPORT TV 2
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport_tv2_pt.jpg
-URL=plugin://plugin.video.SportsDevil/?item=url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252FLive%2bSport%253Fp%253D3%2526q%253D%2526sort%253D1%26title%3dSPORT%2bTV%2b2%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D69823%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252FLive%2bSport%253Fp%253D2%2526q%253D%2526sort%253D1%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F1mnqje6lw57grow_snapshot.jpg&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252FLive%2bSport%253Fp%253D3%2526q%253D%26title%3dSPORT%2bTV%2b2%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F69823%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dSPORT%2bTV%2b2%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252FLive%2bSport%253Fp%253D2%2526q%253D%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F1mnqje6lw57grow_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F1mnqje6lw57grow_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=SPORT TV 2
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport_tv2_pt.jpg
-URL=rtmpe://r.livecast.cc/rs/ playpath=live2-bipmr pageUrl=http://sharecast.to/embed.php?ch=llive2-bipmr
+URL=#rtmpe://r.livecast.cc/rs/ playpath=live2-bipmr pageUrl=http://sharecast.to/embed.php?ch=llive2-bipmr
 #
 type=video
 name=SPORT TV 2
@@ -210,12 +210,12 @@ URL=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecas
 type=video
 name=SPORT TV 3
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport-tv3.jpg
-URL=plugin://plugin.video.SportsDevil/?item=url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252FLive%2bSport%253Fp%253D4%2526q%253D%2526sort%253D1%26title%3dSPORT%2bTV%2b3%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D69787%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252FLive%2bSport%253Fp%253D3%2526q%253D%2526sort%253D1%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F4pthnyo7lqlzt80_snapshot.jpg&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252FLive%2bSport%253Fp%253D4%2526q%253D%26title%3dSPORT%2bTV%2b3%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F69787%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dSPORT%2bTV%2b3%2b%26director%3dilive.to%26definedIn%3dilive.to.cfg%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252FLive%2bSport%253Fp%253D3%2526q%253D%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fudhfbfg0vfzjcds_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fudhfbfg0vfzjcds_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=SPORT TV 3
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport-tv3.jpg
-URL=rtmpe://r.livecast.cc/rs/ playpath=live3-qszlx pageUrl=http://sharecast.to/embed.php?ch=live3-qszlx
+URL=#rtmpe://r.livecast.cc/rs/ playpath=live3-qszlx pageUrl=http://sharecast.to/embed.php?ch=live3-qszlx
 #
 type=video
 name=SPORT TV 3
@@ -225,22 +225,22 @@ URL=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecas
 type=video
 name=SPORT TV 4
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2012/11/Sport-Tv-4.png
-URL=plugin://plugin.video.SportsDevil/?item=url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252FLive%2bSport%253Fp%253D3%2526q%253D%2526sort%253D1%26title%3dSPORT%2bTV%2b4%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D68589%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252FLive%2bSport%253Fp%253D2%2526q%253D%2526sort%253D1%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F7yvmvbk8iasstxs_snapshot.jpg&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252FLive%2bSport%253Fp%253D5%2526q%253D%26title%3dSPORT%2bTV%2b4%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F68589%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dSPORT%2bTV%2b4%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252FLive%2bSport%253Fp%253D4%2526q%253D%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F7yvmvbk8iasstxs_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F7yvmvbk8iasstxs_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=SPORT TV 4
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2012/11/Sport-Tv-4.png
-URL=rtmp://209.95.43.170:1935/stream/ playpath=0tkBo1519y0yBoVGgd2jl.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d2257g448sp7749l2257on14x7749ib7749b691pp7749l2257op7749l2257op7749l2257od2257g448sn448h69o&width=600&height=460&st=14l4t5n4w574x2s2f436q24693u5y3d3m5k5w2e4c4s2x2b4f444y26403q2a4v2q2v2&adx=&stream=h564f4d4a4o574z2e4k554h5644494n23406h4a3f4w21374f476w226d3j475h3b474t2r5e4y3x223a4n284a4a444x2s24464n234n4q5e3h44494v213p4v2x4o4x585j3k5b4u2r5m2a4c4l4m584s5w4q2y3o434242434x264b474z2i5x264w274l5h523t2p213a474m5b4a454v2x2k5a4t27403c47464t2u2y3m234242434p2&sooor=OA==&str=is&ok=&cat=16&link=4&idom=/tvdireto
+URL=
 #
 type=video
 name=SPORT TV 5 
 thumb=http://i0.wp.com/www.novidadestv.com/wp-content/uploads/2014/03/SportTV_2014_logo_destak_300x216.png?fit=300%2C216
-URL=plugin://plugin.video.SportsDevil/?item=url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252FLive%2bSport%253Fp%253D4%2526q%253D%2526sort%253D1%26title%3dSPORT%2bTV%2b5%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D69416%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252FLive%2bSport%253Fp%253D3%2526q%253D%2526sort%253D1%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fmbcposqn4f5ixbt_snapshot.jpg&amp;mode=1
+URL=
 #
 type=video
 name=SPORT TV 5 
 thumb=http://i0.wp.com/www.novidadestv.com/wp-content/uploads/2014/03/SportTV_2014_logo_destak_300x216.png?fit=300%2C216
-URL=rtmp://198.144.153.145:443/flash playpath=21649?MTQzODM1NzYzMztlNmFiOWRjZjhiMjFiYmI4YWIxYjJiZTRhZTYxMDE2NQ== swfUrl=http://static3.sawlive.tv/player.swf live=1 conn=S:OK pageUrl=http://www.sawlive.tv/embed/watch/YyNGM1MDk5YjFkYWJlM2ZhMDI5MzQzZWI_/Zm9kYXNzZTE6NjFjOTQ0M2VjODhlZTBkMDA3YmQ2ZWQxNTU2ZGY3MTM6MTMyM2ZhOW timeout=10
+URL=
 
 
 #
@@ -300,6 +300,11 @@ URL=http://91.204.214.106:23201/stolen/233w/xenixos.7z
 
 #
 type=video
+name=BENFICA TV 2 (PLEXUS)
+thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
+URL=plugin://program.plexus/?mode=1&url=acestream://268ff30294df9bf2145d2c684f67edc60ea4dcd6&mode=1&name=acestream&mode=1&name=BENFICA TV 2
+#
+type=video
 name=TELEKANAL (LIGA PORTUGUESA)
 thumb=http://img.nowfootballtv.com/channel/1376009345.jpg
 URL=http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
@@ -313,13 +318,11 @@ type=video
 name=SPORTING TV
 thumb=http://www.sporting.pt/Imagens/79671.jpg
 URL=
-
-
 #
 type=video
-name=EUROSPORT 1 UK
+name=EUROSPORT 1
 thumb=http://www.telezones.com/wp-content/uploads/2015/03/Eurosport-HD-Live-Telezones1.png
-URL=http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D9%2526q%253D%26title%3dB%2bTV%2b2%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F68625%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dB%2bTV%2b2%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D8%2526q%253D%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fv4ynnryunsoxzbq_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fv4ynnryunsoxzbq_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 
 #
 type=video
@@ -345,22 +348,22 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dHOLLYWOO
 type=video
 name=TV CINE 1
 thumb=http://c4.quickcachr.fotos.sapo.pt/i/Baf122642/14046457_fjg8T.jpeg
-URL=
+URL=http://teuportal.dyndns.org:8000/live/pedro/pedro/31.m3u8
 #
 type=video
 name=TV CINE 2
 thumb=http://c4.quickcachr.fotos.sapo.pt/i/Baf122642/14046457_fjg8T.jpeg
-URL=
+URL=http://teuportal.dyndns.org:8000/live/pedro/pedro/30.m3u8
 #
 type=video
 name=TV CINE 3
 thumb=http://c4.quickcachr.fotos.sapo.pt/i/Baf122642/14046457_fjg8T.jpeg
-URL=
+URL=http://teuportal.dyndns.org:8000/live/pedro/pedro/29.m3u8
 #
 type=video
 name=TV CINE 4
 thumb=http://c4.quickcachr.fotos.sapo.pt/i/Baf122642/14046457_fjg8T.jpeg
-URL=
+URL=http://teuportal.dyndns.org:8000/live/pedro/pedro/28.m3u8
 #
 type=video
 name=SYFY HD

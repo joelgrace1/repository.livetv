@@ -313,9 +313,14 @@ thumb=http://www.iwf.net/wp-content/uploads/2012/10/eurosport_logo.jpg
 URL=
 #
 type=video
-name=EUROSPORT HD (EN)
+name=EUROSPORT 1 HD (UK)
 thumb=http://www.iwf.net/wp-content/uploads/2012/10/eurosport_logo.jpg
 URL=http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#
+type=video
+name=EUROSPORT 1 UK
+thumb=http://www.telezones.com/wp-content/uploads/2015/03/Eurosport-HD-Live-Telezones1.png
+URL=http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 #
 type=video
 name=EUROSPORT 1
@@ -348,9 +353,9 @@ thumb=https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/EvertonTV_logo.jpg/20
 URL=http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:fuboTV-Origin_all/master.m3u8
 #
 type=video
-name=FIGHT CHANNEL
-thumb=http://www.vesti.ru/p/b_575304.jpg
-URL=
+name=FIGHT
+thumb=https://lh4.ggpht.com/qwQLDBc04AHKPjsiTEmT_0fDZVQgXjjO1GmR0gIGtKo0jFNaFP3OHuTvtoVkLsUhDyk=w300
+URL=http://87.248.160.8/edge/smil:boet/playlist.m3u8
 #
 type=video
 name=FOX SPORTS (MEX)
