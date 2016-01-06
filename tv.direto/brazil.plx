@@ -78,6 +78,12 @@ type=video
 name=NAT GEO WILD
 thumb=https://yt3.ggpht.com/-2tol5SGixqs/AAAAAAAAAAI/AAAAAAAAAAA/gI_3L64uED0/s900-c-k-no/photo.jpg
 URL=
+
+#
+type=video
+name=REDE TV (STALKER)
+thumb=http://tvonline.one/wp-content/uploads/2015/08/redetv-hd-3d.jpg
+URL=plugin://plugin.video.StalkerTv/?tmp=0&amp;genre_name=%5B%27All%27%5D&amp;title=Brazil+5&amp;cmd=http%3A%2F%2Fevp.mm.uol.com.br%3A1935%2Fredetv1%2F_definst_%2Fredetv1%2Flive.m3u8&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1227.png
 #
 type=video
 name=REDE TV
@@ -166,9 +172,9 @@ thumb=https://lh4.googleusercontent.com/-lnaZFKly7UQ/U5hhQtVpkUI/AAAAAAAAABE/rVO
 URL=rtmp://flash.midiaip.com.br:1935/tvvitoria/Sample1
 #
 type=video
-name=TV RECORD
+name=TV RECORD (STALKER)
 thumb=http://www.bahiaatual.com/wp-content/uploads/2012/09/TV-Record1.jpg
-URL=
+URL=plugin://plugin.video.StalkerTv/?tmp=0&amp;genre_name=%5B%27All%27%5D&amp;title=Brazil+6&amp;cmd=http%3A%2F%2F174.37.99.198%3A1935%2Fdvrid1816%2F1816%2Fplaylist.m3u8%3FDVR&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1229.png
 #
 type=video
 name=TV RECORD SP
