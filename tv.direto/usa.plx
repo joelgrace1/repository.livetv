@@ -9,7 +9,7 @@ thumb=http://www.kuhnglobal.net/wp-content/uploads/2013/01/2009-usa-flag-graphic
 URL=https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/usa.plx
 #
 type=video
-name=[COLOR yellow][B][I]SPORTSDEVIL AND STALKER TV[/I][/B][/COLOR]
+name=[COLOR yellow][B][I]SPORTSDEVIL TO WORK[/I][/B][/COLOR]
 thumb=http://www.kuhnglobal.net/wp-content/uploads/2013/01/2009-usa-flag-graphics.jpg
 URL=https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/usa.plx
 #
@@ -17,28 +17,17 @@ type=video
 name=5 USA
 thumb=http://static.itnproductions.co.uk/itn/2013/02/5USA_logo_2011-300x115.jpg
 URL=
-#
-type=video
-name=A&E EAST (STALKER)
-thumb=https://pbs.twimg.com/profile_images/378800000858931576/94dkj9QW_400x400.jpeg
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=A%26E+East&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F995&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F583.png
+
 #
 type=video
 name=A & E
 thumb=https://pbs.twimg.com/profile_images/378800000858931576/94dkj9QW_400x400.jpeg
 URL=
-
-
 #
 type=video
 name=ABC
 thumb=http://img3.wikia.nocookie.net/__cb20131222111043/mixology-abc/images/0/0d/Abc_-_logo.jpeg
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D3%2526q%253D%26title%3dABC%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F68969%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dABC%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D2%2526q%253D%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F371jluirljcsjen_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F371jluirljcsjen_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
-#
-type=video
-name=ABC FAMILY (STALKER)
-thumb=http://www.tvweek.com/wp-content/uploads/2014/10/ABC-Family-logo.png
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=ABC+Family&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4855&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1835.png
 #
 type=video
 name=ABC FAMILY
@@ -57,16 +46,6 @@ thumb=http://channelpear.com/images/media/2556.png
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D2%2526q%253D%26title%3dAMC%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F68963%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dAMC%2b%26director%3dilive.to%26definedIn%3dilive.to.cfg%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252F%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F7pctmre0zfwsc24_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F7pctmre0zfwsc24_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
-name=AMC EAST (STALKER)
-thumb=http://channelpear.com/images/media/2556.png
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=AMC+East&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F5629&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F663.png
-#
-type=video
-name=ANIMAL PLANET (STALKER)
-thumb=http://www.podryad.tv/upload/iblock/591/591145599ed9cafababe81c23500fe83.png
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Culture%27%5D&amp;title=Animal+Planet&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4845&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1825.png
-#
-type=video
 name=BBC AMERICA
 thumb=http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/39.png
 URL=
@@ -78,9 +57,9 @@ URL=
 
 #
 type=video
-name=BRAVO EAST (STALKER)
+name=BRAVO
 thumb=http://channelpear.com/images/media/2567.jpg
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=Bravo+East&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4890&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1870.png
+URL=
 #
 type=video
 name=C SPAN
@@ -109,20 +88,15 @@ thumb=https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED.png
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D2%2526q%253D%26title%3dCNN%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F70785%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dCNN%2b%26director%3dilive.to%26definedIn%3dilive.to.cfg%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252F%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fykerm3p2gcj43qf_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fykerm3p2gcj43qf_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
-name=CNN US (STALKER)
+name=CNN US
 thumb=https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED.png
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=CNN+US&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3133&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F10.png
+URL=
 #
 type=video
 name=COMEDY CENTRAL
 thumb=http://www.chud.com/articles/content_images/17/ComedyCentralLogo.jpg
 URL=
 
-#
-type=video
-name=COMEDY CENTRAL EAST (STALKER)
-thumb=http://www.chud.com/articles/content_images/17/ComedyCentralLogo.jpg
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=Comedy+Central+East&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2575&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F34.png
 #
 type=video
 name=CW
@@ -138,34 +112,24 @@ URL=
 
 
 type=video
-name=DESTINATION AMERICA (STALKER)
+name=DESTINATION AMERICA
 thumb=http://media.press.discovery.com.s3.amazonaws.com/ugc/logos/2012/04/04/Final_4_color_logo__.jpg
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=Destination+America&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4837&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1817.png
+URL=
 #
 type=video
-name=DISCOVERY CHANNEL (STALKER)
+name=DISCOVERY CHANNEL
 thumb=http://chinatvinc.com/tv/wp-content/uploads/2014/11/discoveryhd_newlogo_042008.jpg
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=Discovery+Channel+USA&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F198&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F4.png
+URL=
 #
 type=video
-name=DISCOVERY HISTORY (STALKER)
+name=DISCOVERY HISTORY
 thumb=http://logok.org/wp-content/uploads/2014/10/Discovery-History-logo.png
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=Discovery+History&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3397&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1471.png
-#
-type=video
-name=FOX (STALKER)
-thumb=http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox1.png?ver=6659ea4a-e9b5-4496-815f-8ea22a7d407c
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=FOX&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F491&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F247.png
+URL=
 #
 type=video
 name=FOX
 thumb=http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox1.png?ver=6659ea4a-e9b5-4496-815f-8ea22a7d407c
 URL=
-#
-type=video
-name=FOX NEWS (STALKER)
-thumb=http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox1.png?ver=6659ea4a-e9b5-4496-815f-8ea22a7d407c
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=Fox+News+Channel&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F208&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F22.png
 #
 type=video
 name=FOX NEWS
@@ -181,12 +145,6 @@ type=video
 name=FOX MOVIES
 thumb=http://livetvscreen.com/wp-content/uploads/2012/06/Fox-Movies-Online.jpg
 URL=
-#
-type=video
-name=FX EAST (STALKER)
-thumb=https://pmcdeadline2.files.wordpress.com/2014/05/fx-logo__140528151442.jpg
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=FX+East&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F997&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F585.png
-
 
 #
 type=video
@@ -200,49 +158,30 @@ thumb=http://ncph.org/cms/wp-content/uploads/History_Logo_White_Space.jpg
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dHistory%2bChannel%2bEurope%2b%255BHD%255D%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F70633%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dHistory%2bChannel%2bEurope%2b%255BHD%255D%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F70633%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Flogojbjhar79pc8_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Flogojbjhar79pc8_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
-name=HISTORY (STALKER)
-thumb=http://ncph.org/cms/wp-content/uploads/History_Logo_White_Space.jpg
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=History&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F176&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F32.png
-#
-type=video
-name=H2 (STALKER)
+name=H2
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2012/05/History-2-logo-2011.png
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=H2+USA&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1497&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F885.png
+URL=
 #
 type=video
 name=HBO
 thumb=http://tube.hk/images/tv_cache/c/200x200_38hbo_hd.jpg
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dHBO%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F69021%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dHBO%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F69021%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fqzbbu26gcvjxksz_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fqzbbu26gcvjxksz_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
+
 #
 type=video
-name=HBO EAST (STALKER)
-thumb=http://i.huffpost.com/gen/2170088/images/o-HBO-STREAMING-facebook.jpg
-URL=plugin://plugin.video.StalkerTv/?tmp=0&amp;genre_name=%5B%27All%27%5D&amp;title=HBO+East&amp;cmd=ffrt2+http%3A%2F%2Flb.iptvserver.tv%3A8080%2Fredirect%2FLiveEdge%2FHBOEastUS%2Fplaylist.m3u8&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1775.png
-#
-type=video
-name=HBO 2 EAST (STALKER)
-thumb=http://cps-static.rovicorp.com/2/Open/SourceLogos/Cleared%20Logos/HBO/HBO2%20EAST.jpg
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=HBO+2+East&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F216&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F28.png
-#
-type=video
-name=HBO SIGNATURE EAST (STALKER)
+name=HBO SIGNATURE
 thumb=http://tvcinews.com/wp-content/uploads/2012/01/hbo_signature-500x281.png
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=HBO+Signature+East&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F959&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F545.png
+URL=
 #
 type=video
-name=HBO WEST (STALKER)
-thumb=http://www.optimum.com/images/io/movie_channels/hbo/hbo_west.gif
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=HBO+West&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4767&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1777.png
-#
-type=video
-name=HBO 2 WEST (STALKER)
+name=HBO 2
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/hbo2_pl.png
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=HBO+2+West&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1095&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F665.png
+URL=
 #
 type=video
-name=HBO COMEDY EAST (STALKER)
+name=HBO COMEDY
 thumb=http://upload.wikimedia.org/wikipedia/commons/f/f6/HBO_Comedy.png
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=HBO+Comedy+East&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1001&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F589.png
+URL=
 #
 type=video
 name=MSNBC
@@ -266,14 +205,14 @@ thumb=http://3.bp.blogspot.com/_ORCy8b5buoU/TFMXFwKOPJI/AAAAAAAAAMk/uwVKKB-01yY/
 URL=http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 #
 type=video
-name=NATIONAL GEOGRAPHIC (STALKER)
+name=NATIONAL GEOGRAPHIC
 thumb=https://yt3.ggpht.com/-2tol5SGixqs/AAAAAAAAAAI/AAAAAAAAAAA/gI_3L64uED0/s900-c-k-no/photo.jpg
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=National+Geographic+Channel&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2819&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F897.png
+URL=
 #
 type=video
-name=NAT GEO WILD (STALKER)
+name=NAT GEO WILD
 thumb=https://yt3.ggpht.com/-2tol5SGixqs/AAAAAAAAAAI/AAAAAAAAAAA/gI_3L64uED0/s900-c-k-no/photo.jpg
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Culture%27%5D&amp;title=Nat+Geo+Wild&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4830&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1810.png
+URL=
 #
 type=video
 name=NBC
@@ -294,14 +233,10 @@ type=video
 name=SLICE
 thumb=http://images.wookmark.com/182773_589_slice.jpg
 URL=
+
 #
 type=video
-name=SPIKE TV (STALKER)
-thumb=http://www.tnainsider.com/wp-content/uploads/2014/06/Spike.jpg
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=Spike+TV&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4410&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1620.png
-#
-type=video
-name=SPIKE TV (STALKER)
+name=SPIKE TV 
 thumb=http://www.tnainsider.com/wp-content/uploads/2014/06/Spike.jpg
 URL=
 
@@ -312,29 +247,14 @@ thumb=http://ib1.huluim.com/company_key_art/232?size=1600x600&region=US
 URL=http://iphone-streaming.ustream.tv/ustreamVideo/18638341/streams/live/playlist.m3u8
 #
 type=video
-name=SYFY (STALKER)
-thumb=http://ib1.huluim.com/company_key_art/232?size=1600x600&region=US
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=Syfy&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F9350&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F3120.png
-#
-type=video
-name=TBS EAST (STALKER)
-thumb=http://vignette3.wikia.nocookie.net/cougartown/images/c/cd/TBS.png/revision/latest?cb=20130810130932
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=TBS+East&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F967&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F553.png
-#
-type=video
 name=TBS
 thumb=http://vignette3.wikia.nocookie.net/cougartown/images/c/cd/TBS.png/revision/latest?cb=20130810130932
 URL=
 #
 type=video
-name=TLC (STALKER)
+name=TLC
 thumb=http://www.rawstory.com/wp-content/uploads/2012/03/TLC-logo.jpg
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=TLC&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F503&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F104.png
-#
-type=video
-name=TNT (STALKER)
-thumb=http://i.cdn.turner.com/v5cache/TNT/Images/Dynamic/i177/tnt-live-default-logo-640x360-640x360_053020130547.png
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=TNT&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F977&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F565.png
+URL=
 #
 type=video
 name=TNT
@@ -342,20 +262,25 @@ thumb=http://i.cdn.turner.com/v5cache/TNT/Images/Dynamic/i177/tnt-live-default-l
 URL=
 #
 type=video
-name=TRAVEL CHANNEL (STALKER)
-thumb=http://img4.wikia.nocookie.net/__cb20140508141719/logosfake/images/0/0c/Travel_Channel_HD_2013.png
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Culture%27%5D&amp;title=Travel+Channel+UK&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4422&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1627.png
+name=TNT
+thumb=http://i.cdn.turner.com/v5cache/TNT/Images/Dynamic/i177/tnt-live-default-logo-640x360-640x360_053020130547.png
+URL=
 #
 type=video
-name=TRU TV EAST (STALKER)
+name=TRAVEL CHANNEL
+thumb=http://img4.wikia.nocookie.net/__cb20140508141719/logosfake/images/0/0c/Travel_Channel_HD_2013.png
+URL=
+#
+type=video
+name=TRU TV
 thumb=http://cdn.embed.ly/providers/logos/trutv.png
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=Tru+TV+East&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1769&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F987.png
+URL=
 
 #
 type=video
-name=TV LAND (STALKER)
+name=TV LAND
 thumb=http://www.underconsideration.com/brandnew/archives/tv_land_03_logo_detail.jpg
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=TV+Land&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F9355&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F3117.png
+URL=
 #
 type=video
 name=USA NETWORK
@@ -398,7 +323,7 @@ thumb=http://www.alexmusic.net/tele/tvshots/0604/private.jpg
 URL=http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
 #
 type=video
-name=JUICY (STALKER)
+name=JUICY
 thumb=http://www.alexmusic.net/tele/tvshots/0604/private.jpg
 URL=
 #
