@@ -284,8 +284,7 @@ URL=plugin://program.plexus/?url=4e0b64e76d0463e96cefa68bdec74674d9c6f721&amp;mo
 type=video
 name=BENFICA TV 1
 thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
-URL=plugin://plugin.video.SportsDevil/?item=url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D6%2526q%253D%2526sort%253D1%26title%3dB%2bTV%2b1%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D68628%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D5%2526q%253D%2526sort%253D1%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F3h3j84h39sxrlr2_snapshot.jpg&amp;mode=1
-
+URL=
 #
 type=video
 name=SPORT TV 3 / BENFICA TV 1/2 (GAME TIME)
@@ -306,7 +305,6 @@ type=video
 name=BENFICA TV 2 HD
 thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
 URL=http://91.204.214.106:23201/stolen/233w/xenixos.7z
-
 #
 type=video
 name=BENFICA TV 2 (PLEXUS)
