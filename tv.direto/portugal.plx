@@ -65,7 +65,6 @@ type=video
 name=RTP INTERNACIONAL
 thumb=http://1.bp.blogspot.com/-hVONUnf1DzU/UHFpJ0D8rlI/AAAAAAAAEUc/RoqBd2ziCjg/s1600/RTP-Internacional-logo-2012.png
 URL=http://wownet.ro/str/0509.m3u8|X-Forwarded-For=81.17.18.50
-
 #
 type=video
 name=RTP AÇORES
@@ -76,14 +75,13 @@ type=video
 name=RTP INFORMAÇÃO
 thumb=http://www.tvtuga.com/wp-content/uploads/2013/07/rtp-n-informacao.jpg
 URL=http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8
-
 #
 type=video
 name=SIC HD
 thumb=https://jornalismounisuam.files.wordpress.com/2010/06/sic-hd.jpg
 URL=http://noscdn1.connectedviews.com:1935/live/sic.stream/%20livestream.m3u8
 
-#
+#BG 
 type=video
 name=SIC
 thumb=https://jornalismounisuam.files.wordpress.com/2010/06/sic-hd.jpg
@@ -97,9 +95,7 @@ URL=http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
 type=video
 name=SIC NOTICIAS
 thumb=https://contraprovas.files.wordpress.com/2012/02/000068hb.png
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSIC%2bNOTICIAS%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICNOTICIAS.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dSIC%2bNOTICIAS%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICNOTICIAS.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
-
-
+URL=#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSIC%2bNOTICIAS%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICNOTICIAS.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dSIC%2bNOTICIAS%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICNOTICIAS.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 #
 type=video
 name=SIC NOTICIAS HD
@@ -109,7 +105,7 @@ URL=
 type=video
 name=SIC MULHER
 thumb=http://3.fotos.web.sapo.io/i/Gaf135c09/17791971_6Ke0T.jpeg
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSIC%2bMULHER%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICMULHER.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dSIC%2bMULHER%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICMULHER.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+URL=#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSIC%2bMULHER%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICMULHER.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dSIC%2bMULHER%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICMULHER.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 
 #
 type=video
@@ -120,7 +116,7 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSIC%2bRA
 type=video
 name=SIC KIDS
 thumb=http://www.psb.pt/wp-content/uploads/2014/01/sic_k.png
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSIC%2bKIDS%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fcanais.php%253Fstream%253DSICKIDS%26videoTitle%3dSIC%2bKIDS%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fcanais.php%253Fstream%253DSICKIDS%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+URL=#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSIC%2bKIDS%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fcanais.php%253Fstream%253DSICKIDS%26videoTitle%3dSIC%2bKIDS%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fcanais.php%253Fstream%253DSICKIDS%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 #
 type=video
 name=TVI HD
@@ -329,7 +325,7 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%2
 type=video
 name=MOTORS TV
 thumb= http://www.motorstv.com/sites/default/files/contenu/image/pages/logos/logo_officiel_motorstv.jpg
-#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dMOTORS%2bTV%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fcanais.php%253Fstream%253DMOTORSTV%26videoTitle%3dMOTORS%2bTV%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fcanais.php%253Fstream%253DMOTORSTV%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dMOTORS%2bTV%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fcanais.php%253Fstream%253DMOTORSTV%26videoTitle%3dMOTORS%2bTV%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fcanais.php%253Fstream%253DMOTORSTV%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 #
 type=video
 name=ABOLA TV
@@ -349,22 +345,22 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dHOLLYWOO
 type=video
 name=TV CINE 1
 thumb=http://c4.quickcachr.fotos.sapo.pt/i/Baf122642/14046457_fjg8T.jpeg
-URL=http://teuportal.dyndns.org:8000/live/pedro/pedro/31.m3u8
+URL=
 #
 type=video
 name=TV CINE 2
 thumb=http://c4.quickcachr.fotos.sapo.pt/i/Baf122642/14046457_fjg8T.jpeg
-URL=http://teuportal.dyndns.org:8000/live/pedro/pedro/30.m3u8
+URL=
 #
 type=video
 name=TV CINE 3
 thumb=http://c4.quickcachr.fotos.sapo.pt/i/Baf122642/14046457_fjg8T.jpeg
-URL=http://teuportal.dyndns.org:8000/live/pedro/pedro/29.m3u8
+URL=
 #
 type=video
 name=TV CINE 4
 thumb=http://c4.quickcachr.fotos.sapo.pt/i/Baf122642/14046457_fjg8T.jpeg
-URL=http://teuportal.dyndns.org:8000/live/pedro/pedro/28.m3u8
+URL=
 #
 type=video
 name=SYFY HD
@@ -457,7 +453,7 @@ URL=
 type=video
 name=MTV PORTUGAL
 thumb=http://www.internetsegura.pt/files/large/842
-#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dMTV%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fcanais.php%253Fstream%253DMTV%26videoTitle%3dMTV%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fcanais.php%253Fstream%253DMTV%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dMTV%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fcanais.php%253Fstream%253DMTV%26videoTitle%3dMTV%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fcanais.php%253Fstream%253DMTV%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 #
 type=video
 name=CAPELINHA FATIMA
