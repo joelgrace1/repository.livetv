@@ -15,6 +15,11 @@ thumb=https://pbs.twimg.com/profile_images/628595087698628608/Z2p2cFkV.jpg
 URL=
 #
 type=video
+name=CARTOON NETWORK
+thumb=https://yt3.ggpht.com/-bqghK5VAO2I/AAAAAAAAAAI/AAAAAAAAAAA/HMEsmSxzbKg/s900-c-k-no/photo.jpg
+URL=http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+#
+type=video
 name=CBC (FRE)
 thumb=http://upload.wikimedia.org/wikipedia/commons/b/b1/Ici_Tele_logo.png
 URL=http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/index_1200_av-p.m3u8

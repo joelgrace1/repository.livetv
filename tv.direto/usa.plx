@@ -62,6 +62,11 @@ thumb=http://channelpear.com/images/media/2567.jpg
 URL=
 #
 type=video
+name=CARTOON NETWORK
+thumb=https://yt3.ggpht.com/-bqghK5VAO2I/AAAAAAAAAAI/AAAAAAAAAAA/HMEsmSxzbKg/s900-c-k-no/photo.jpg
+URL=http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+#
+type=video
 name=C SPAN
 thumb=https://pbs.twimg.com/profile_images/315586625/twitter_cspan_icon_400x400.png
 URL=
@@ -223,6 +228,11 @@ type=video
 name=NBC
 thumb=http://ourdailynewsonline.com/wp-content/uploads/2015/05/Nbc_logo-7.png
 URL=
+#
+type=video
+name=PBS KIDS
+thumb=http://snapshots.streamlive.to/snapshots/svsgthhwl6djj5h_snapshot.jpg
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D9%2526q%253D%26title%3dPBS%2bKids%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F27071%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dPBS%2bKids%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D8%2526q%253D%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fsvsgthhwl6djj5h_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fsvsgthhwl6djj5h_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=SHOWTIME

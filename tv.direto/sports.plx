@@ -40,16 +40,6 @@ thumb=http://www.beinsports.fr/di/library/bein/4b/92/logo-bein-sports-1-hd_6tt6s
 #URL=plugin://plugin.video.SportsDevil/?item=url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252FLive%2bSport%253Fp%253D3%2526q%253D%2526sort%253D1%26title%3dbeIN%2bSport%2bUSA%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D72208%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252FLive%2bSport%253Fp%253D2%2526q%253D%2526sort%253D1%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F67te402x9sguu84_snapshot.jpg&amp;mode=1
 #
 type=video
-name=BEIN SPORTS (US) (STALKER)
-thumb=http://www.beinsports.fr/di/library/bein/4b/92/logo-bein-sports-1-hd_6tt6szp2b0ag1dscy6cxln08t.jpg?t=-724511221
-URL=
-#
-type=video
-name=BEIN SPORTS Ñ (STALKER)
-thumb=http://www.fan2tv.com/images/beinsport1_logo.jpg
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Sports%27%5D&amp;title=BeinSports+en+Espa%C3%B1ol&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2527&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1239.png
-#
-type=video
 name=BEIN SPORTS Ñ
 thumb=http://www.fan2tv.com/images/beinsport1_logo.jpg
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dVip%2b-%2bBein%2bSport%2bEspa%25C3%2583%25C2%25B1ol%2b%2528HD%2529%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F72400%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dVip%2b-%2bBein%2bSport%2bEspa%25C3%2583%25C2%25B1ol%2b%2528HD%2529%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F72400%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F3kyblmy5vhjkp2i_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F3kyblmy5vhjkp2i_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
@@ -152,11 +142,6 @@ thumb=http://www.paywizard.com/sites/default/files/boxnation.png
 #URL=plugin://plugin.video.SportsDevil/?item=title%3dBox%2bNation%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D72734%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fok8rauezc0vsvaz_snapshot.jpg&amp;mode=1
 #
 type=video
-name=BT SPORT 1 (STALKER)
-thumb=http://www.liveonlinetv247.info/images/btsport1.png
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Sports%27%5D&amp;title=BT+Sport+1&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2479&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1287.png
-#
-type=video
 name=BT SPORT 1
 thumb=http://www.liveonlinetv247.info/images/btsport1.png
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252FLive%2bSport%253Fp%253D2%2526q%253D%26title%3dBT%2bSport%2b1%2bHD%2b24%252F7%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F66541%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dBT%2bSport%2b1%2bHD%2b24%252F7%2b%26director%3dilive.to%26definedIn%3dilive.to.cfg%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252FLive%252520Sport%253Fq%253D%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fswg2wpdq2ivwajh_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fswg2wpdq2ivwajh_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
@@ -165,11 +150,6 @@ type=video
 name=BT SPORT 1 (UK)
 thumb=http://www.liveonlinetv247.info/images/btsport1.png
 URL=
-#
-type=video
-name=BT SPORT 2 (STALKER)
-thumb=http://www.premierleague.com/content/premierleague/en-gb/commercial/bt-sport/_jcr_content/bodypsys/image.img.png/1369990888755.png
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Sports%27%5D&amp;title=BT+Sport+2&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2481&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1289.png
 #
 type=video
 name=BT SPORT 2
@@ -214,9 +194,9 @@ thumb=http://coditelcordoba.com/wp-content/uploads/2014/07/canal+liga.jpg
 URL=
 #
 type=video
-name=CBS SPORTS NETWORK (STALKER)
+name=CBS SPORTS NETWORK
 thumb=http://thecomeback.com/awfulannouncing/wp-content/uploads/sites/94/2013/12/cbssn.jpg
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Sports%27%5D&amp;title=CBS+Sports+Network&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2359&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1219.png
+URL=
 #
 type=video
 name=CHELSEA TV
@@ -259,20 +239,9 @@ thumb=http://www.camtel.com/Images/Interior/channel%20logos/espn%20hd%20logo.jpg
 URL=
 #
 type=video
-name=ESPN 1 (US) (STALKER)
-thumb=http://www.espnfrontrow.com/wp-content/uploads/2012/12/espn-1.jpg
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Sports%27%5D&amp;title=ESPN+US&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F7354&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F549.png
-
-#
-type=video
 name=ESPN 1 (US)
 thumb=http://www.espnfrontrow.com/wp-content/uploads/2012/12/espn-1.jpg
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dESPN%2bUSA%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F71561%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dESPN%2bUSA%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F71561%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fly11kxowritf0ts_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fly11kxowritf0ts_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
-#
-type=video
-name=ESPN 2 (US) (STALKER)
-thumb=http://www.espnfrontrow.com/wp-content/uploads/2012/12/espn-1.jpg
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Sports%27%5D&amp;title=ESPN+2+US&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2355&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1215.png
 
 #
 type=video
@@ -367,34 +336,13 @@ thumb=http://img4.wikia.nocookie.net/__cb20140414164158/logopedia/images/6/6f/Lo
 URL=
 #
 type=video
-name=FOX SPORTS 1 (STALKER)
-thumb=http://img4.wikia.nocookie.net/__cb20140414164158/logopedia/images/6/6f/Logo_fox_sports.png
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Sports%27%5D&amp;title=Fox+Sports+1+US&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F190&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F46.png
-#
-type=video
-name=FOX SPORTS 2 (STALKER)
-thumb=http://img4.wikia.nocookie.net/__cb20140414164158/logopedia/images/6/6f/Logo_fox_sports.png
-URL=
-#
-type=video
 name=FOX SOCCER CHANNEL
 thumb=http://worldsoccertalk.com/wp-content/uploads/2012/04/fox-soccer-plus-logo1.jpg
-URL=
-
-#
-type=video
-name=FUTEBOL REPORT
-thumb=http://2.bp.blogspot.com/-JpOxV0yOqPI/TyhoAfdiTzI/AAAAAAAABEo/1glh5UVEdxs/s1600/BG%2BBlog.jpg
 URL=
 #
 type=video
 name=GOL TV
 thumb=http://upload.wikimedia.org/wikipedia/en/9/93/GolTV_logo.png
-URL=
-#
-type=video
-name=JUVENTUS TV HD
-thumb=http://www.supersoccer.co.id/wp-content/uploads/2013/07/Juventus-TV-head.jpg
 URL=
 #
 type=video
@@ -466,16 +414,6 @@ thumb=http://www.entertainmentdoor.com.pk/images/channel_image/NBA_TV_USA.jpeg
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNBA%2bTV%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F71562%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dNBA%2bTV%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F71562%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fg6egcgeorgwtfnb_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fg6egcgeorgwtfnb_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
-name=NBA TV (STALKER)
-thumb=http://www.entertainmentdoor.com.pk/images/channel_image/NBA_TV_USA.jpeg
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Sports%27%5D&amp;title=NBA+TV&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2347&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1207.png
-#
-type=video
-name=NBCSN HD (STALKER)
-thumb=http://worldsoccertalk.com/wp-content/uploads/2014/01/nbcsn-logo-600x401.jpg
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Sports%27%5D&amp;title=NBC+Sport+Network&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F6302&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F2502.png
-#
-type=video
 name=NBCSN
 thumb=http://worldsoccertalk.com/wp-content/uploads/2014/01/nbcsn-logo-600x401.jpg
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D3%2526q%253D%26title%3dNBC%2bSport%2bNetwork%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F71137%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dNBC%2bSport%2bNetwork%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D2%2526q%253D%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Ffwiiknwpnokjic9_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Ffwiiknwpnokjic9_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
@@ -491,12 +429,6 @@ name=NBCSN GOLF 720P
 thumb=http://www.underconsideration.com/brandnew/archives/golf_channel_logo_detail.png
 URL=http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
-
-#
-type=video
-name=NFL NETWORK (STALKER)
-thumb=http://images.bwwstatic.com/tvnetworklogos/13AF21E2-F384-BE06-04C63286D08B30DF.jpg
-URL=plugin://plugin.video.Ghost/?tmp=0&amp;genre_name=%5B%27All%27%5D&amp;title=NFL+Network&amp;cmd=ffrt2+http%3A%2F%2Flb.iptvserver.tv%3A8080%2Fredirect%2FLiveEdge%2FNFLNetworkUS%2Fplaylist.m3u8&amp;portal=%7B%22name%22%3A+%22SECONDARY+SERVER%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A12%3A34%3A64%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F591.png
 #
 type=video
 name=NFL NETWORK 5000K
@@ -522,12 +454,6 @@ type=video
 name=NFL NOW HD
 thumb=http://cdn1.bloguin.com/wp-content/uploads/sites/94/2014/02/NFL-Now.jpg
 URL=http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
-#
-type=video
-name=NHL NETWORK (STALKER)
-thumb=http://2.cdn.nhle.com/nhl/images/upload/2012/10/NewNHLNetLogo_fullDL100612.jpg
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Sports%27%5D&amp;title=NHL+Network+USA&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F194&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F41.png
-
 #
 type=video
 name=NHL NETWORK
@@ -580,11 +506,6 @@ thumb=http://www.magnet.ie/wp-content/uploads/2011/12/Setanta-Ireland.jpg
 URL=
 #
 type=video
-name=SETANTA SPORTS (STALKER)
-thumb=https://secure.setantasubs.com/images/setanta-logo.png
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Sports%27%5D&amp;title=Setanta+Sports&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3580&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F265.png
-#
-type=video
 name=SETANTA SPORTS HD
 thumb=https://secure.setantasubs.com/images/setanta-logo.png
 URL=
@@ -599,11 +520,6 @@ type=video
 name=SKY BUNDESLIGA 1 HD
 thumb=https://www.teleclub.ch/sky/uploads/media_items/sky-news-280613.786.180.s.jpg
 URL=
-#
-type=video
-name=SKY FORMULA 1 (STALKER)
-thumb=http://e1.365dm.com/11/11/660x350/f1panel1_2682703.jpg?20111125105918
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Sports%27%5D&amp;title=SKY+Sports+F1&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2457&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1267.png
 #
 type=video
 name=SKY FORMULA 1
@@ -621,11 +537,6 @@ thumb=http://www.protv24.com/img/sky-sports-1.png
 URL=
 #
 type=video
-name=SKY SPORTS 1 (STALKER)
-thumb=http://www.protv24.com/img/sky-sports-1.png
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Sports%27%5D&amp;title=SKY+Sports+1&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2459&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1269.png
-#
-type=video
 name=SKY SPORTS 1 
 thumb=http://www.protv24.com/img/sky-sports-1.png
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252FLive%2bSport%253Fp%253D2%2526q%253D%26title%3dSky%2bSport%2b1%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F72742%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dSky%2bSport%2b1%2b%26director%3dilive.to%26definedIn%3dilive.to.cfg%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252FLive%252520Sport%253Fq%253D%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fx0pt269mv6n773v_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fx0pt269mv6n773v_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
@@ -634,11 +545,6 @@ type=video
 name=SKY SPORTS 2
 thumb=http://www.ptvsports.mobi/wp-content/uploads/2015/03/sky-sports-2-live2.gif
 URL=
-#
-type=video
-name=SKY SPORTS 2 (STALKER)
-thumb=http://www.ptvsports.mobi/wp-content/uploads/2015/03/sky-sports-2-live2.gif
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Sports%27%5D&amp;title=SKY+Sports+2&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2461&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1271.png
 #
 type=video
 name=SKY SPORTS 2 
@@ -651,19 +557,9 @@ thumb=http://www.livep2pstream.com/tv_channels/logo/sky_sports3.jpg
 URL=
 #
 type=video
-name=SKY SPORTS 3 (STALKER)
-thumb=http://www.livep2pstream.com/tv_channels/logo/sky_sports3.jpg
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Sports%27%5D&amp;title=SKY+Sports+3&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2469&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1273.png
-#
-type=video
 name=SKY SPORTS 3
 thumb=http://www.livep2pstream.com/tv_channels/logo/sky_sports3.jpg
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252FLive%2bSport%253Fp%253D4%2526q%253D%26title%3dSky%2bSport%2b3%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F72744%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dSky%2bSport%2b3%2b%26director%3dilive.to%26definedIn%3dilive.to.cfg%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252FLive%2bSport%253Fp%253D3%2526q%253D%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F4fqgcqtjob7alpn_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F4fqgcqtjob7alpn_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
-#
-type=video 
-name=SKY SPORTS 4 (STALKER)
-thumb=http://funtvlive.com/wp-content/uploads/2012/11/sky-sports-4.png
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Sports%27%5D&amp;title=SKY+Sports+4&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2465&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1275.png
 #
 type=video
 name=SKY SPORTS 4
@@ -679,11 +575,6 @@ type=video
 name=SKY SPORTS 5
 thumb=http://www.skymedia.ie/_masthead_images/SS5logo.jpg
 URL=
-#
-type=video
-name=SKY SPORTS 5 (STALKER)
-thumb=http://www.skymedia.ie/_masthead_images/SS5logo.jpg
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Sports%27%5D&amp;title=SKY+Sports+5&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2467&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1277.png
 #
 type=video
 name=SKY SPORTS 5
@@ -948,14 +839,14 @@ thumb=http://www.nwtel.ca/media/channel-logos/tsn5_0.jpg
 URL=
 #
 type=video
-name=UFC NETWORK (STALKER)
+name=UFC NETWORK
 thumb=http://media.ufc.tv//logos/UFCN-LOGO-OFICIAL.jpg
-URL=plugin://plugin.video.Ghost/?tmp=1&amp;genre_name=%5B%27Sports%27%5D&amp;title=UFC+Network&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F9562&amp;portal=%7B%22name%22%3A+%22SECONDARY+SERVER%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A12%3A34%3A64%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=DefaultVideo.png
+URL=
 #
 type=video
-name=UNIVISION (STALKER)
+name=UNIVISION
 thumb=http://snapshots.ilive.to/snapshots/obzq3ltrjoaxglf_snapshot.jpg
-URL=plugin://plugin.video.Ghost/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=Univision+TDN&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1483&amp;portal=%7B%22name%22%3A+%22SECONDARY+SERVER%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A12%3A34%3A64%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F869.png
+URL=
 #
 type=video
 name=USA BIG TEN
@@ -978,9 +869,9 @@ thumb=http://t08.deviantart.net/guU8QP-G-fjlT5w7V41ZZjgkKLA%3D/fit-in/150x150/fi
 URL=
 #
 type=video
-name=WWE NETWORK (STALKER)
+name=WWE NETWORK
 thumb=http://img.bleacherreport.net/img/images/photos/002/695/669/maxresdefault_crop_north.jpg?w=630&h=420&q=75
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27Sports%27%5D&amp;title=WWE+Network&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F8446&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F2971.png
+URL=
 #
 type=video
 name=WWE COUNTDOWN (24/7)

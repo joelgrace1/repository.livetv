@@ -21,11 +21,6 @@ thumb=http://img4.wikia.nocookie.net/__cb20100918153627/logopedia/images/archive
 URL=http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
 #
 type=video
-name=RTP 1 HD (STALKER)
-thumb=http://img4.wikia.nocookie.net/__cb20100918153627/logopedia/images/archive/5/54/20111228185807!RTP_1HD_positivo.png
-URL=plugin://plugin.video.StalkerTv/?tmp=0&amp;genre_name=%5B%27All%27%5D&amp;title=Portugal+2&amp;cmd=http%3A%2F%2Frtp-pull-live.hls.adaptive.level3.net%2Fliverepeater%2Fsmil%3Artp1.smil%2Fchunklist_b600000_slpt.m3u8&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1526.png
-#
-type=video
 name=RTP 1 HD
 thumb=http://img4.wikia.nocookie.net/__cb20100918153627/logopedia/images/archive/5/54/20111228185807!RTP_1HD_positivo.png
 URL=http://wownet.ro/str/0500.m3u8|X-Forwarded-For=81.17.18.50
@@ -121,7 +116,11 @@ type=video
 name=SIC RADICAL
 thumb=http://tertuliadosamigos.freeoda.com/sicradical.jpg
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSIC%2bRADICAL%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICRADICAL.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dSIC%2bRADICAL%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICRADICAL.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
-
+#
+type=video
+name=SIC KIDS
+thumb=http://www.psb.pt/wp-content/uploads/2014/01/sic_k.png
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSIC%2bKIDS%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fcanais.php%253Fstream%253DSICKIDS%26videoTitle%3dSIC%2bKIDS%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fcanais.php%253Fstream%253DSICKIDS%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 #
 type=video
 name=TVI HD
@@ -132,11 +131,6 @@ type=video
 name=TVI HD
 thumb=http://www.tvi.iol.pt/img/default.jpg
 URL=http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
-#
-type=video
-name=TVI HD (STALKER)
-thumb=http://www.tvi.iol.pt/img/default.jpg
-URL=plugin://plugin.video.StalkerTv/?tmp=0&amp;genre_name=%5B%27All%27%5D&amp;title=Portugal+10&amp;cmd=http%3A%2F%2Fvideo-live.iol.pt%3A1935%2Flive_tvi%2Fsmil%3ALIVE_TVI%2Fplaylist.m3u8&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1607.png
 #
 type=video
 name=TVI

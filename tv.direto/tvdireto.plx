@@ -7,7 +7,7 @@ title=[COLOR blue]TV Direto[/COLOR]
 type=playlist
 thumb=http://41.media.tumblr.com/tumblr_m90uvzGVpK1rbv2ubo1_1280.jpg
 name=[COLOR yellow][B][I]LIVE SPORTS[/I][/B][/COLOR]
-URL=https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/live.plx
+URL=#https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/live.plx
 #
 type=playlist
 thumb=http://www.ultrahd4kwallpaper.in/wp-content/uploads/2014/09/argentina-flag-hd-pictures-2.jpg
@@ -38,7 +38,7 @@ URL=https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.dir
 type=playlist
 thumb=http://s7.leapfrog.com/is/image/LeapFrog/paw-patrol-to-the-lookout-video-app_59795-96914_1?$prod-lg$&$label=Learning%20Video
 name=[COLOR yellow][B][I]KIDS[/I][/B][/COLOR]
-URL=https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/kids.plx
+URL=#https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/kids.plx
 #
 type=playlist
 thumb=http://images6.fanpop.com/image/photos/35200000/Mexican-Flag-mexico-35290035-1200-801.jpg
@@ -48,7 +48,7 @@ URL=
 type=playlist
 thumb=https://catherinephotographyblog.files.wordpress.com/2015/07/ducati-weekend-at-calabogie-motorsports-park-june-27-2015-_dsc4708.jpg
 name=[COLOR yellow][B][I]MOTORSPORTS[/I][/B][/COLOR]
-URL=
+URL=https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/motorsports.plx
 #
 type=playlist
 thumb=https://tiestoclublife.files.wordpress.com/2014/09/dj_tiesto_club_life_img389.jpg

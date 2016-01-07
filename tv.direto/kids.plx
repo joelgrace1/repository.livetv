@@ -18,11 +18,7 @@ type=video
 name=CARTOON CLASSICS 24/7
 thumb=http://a1121.phobos.apple.com/us/r1000/109/Purple/c0/5c/18/mzi.tviwcado.png
 URL=mms://72.13.93.186/cartoonclassics
-#
-type=video
-name=CARTOON NETWORK (ENG)
-thumb=https://yt3.ggpht.com/-bqghK5VAO2I/AAAAAAAAAAI/AAAAAAAAAAA/HMEsmSxzbKg/s900-c-k-no/photo.jpg
-URL=http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+
 #
 type=video
 name=CARTOON NETWORK (STALKER)
@@ -78,11 +74,7 @@ type=video
 name=NICK JR (STALKER)
 thumb=http://www.2015auditions.com/wp-content/uploads/2015/05/Nickelodeon-old-school-nickelodeon-295359_1024_768.jpg
 URL=plugin://plugin.video.StalkerTv/?tmp=0&amp;genre_name=%5B%27All%27%5D&amp;title=Nick+Jr&amp;cmd=ffrt2+http%3A%2F%2Flb.iptvserver.tv%3A8080%2Fredirect%2FLiveEdge%2FNickJrUS%2Fplaylist.m3u8&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1852.png
-#
-type=video
-name=PBS KIDS
-thumb=http://snapshots.streamlive.to/snapshots/svsgthhwl6djj5h_snapshot.jpg
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D9%2526q%253D%26title%3dPBS%2bKids%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F27071%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dPBS%2bKids%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D8%2526q%253D%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fsvsgthhwl6djj5h_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fsvsgthhwl6djj5h_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
+
 #
 type=video
 name=SESAME STREET
@@ -116,11 +108,7 @@ name=YTV (TEST)
 thumb=http://img4.wikia.nocookie.net/__cb20120201071420/logopedia/images/f/f1/YTV1993.png
 URL=
 
-#
-type=video
-name=SIC KIDS
-thumb=
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSIC%2bKIDS%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fcanais.php%253Fstream%253DSICKIDS%26videoTitle%3dSIC%2bKIDS%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fcanais.php%253Fstream%253DSICKIDS%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+
 
 #
 type=video
