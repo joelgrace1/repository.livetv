@@ -20,7 +20,7 @@ name=[COLOR yellow][B][I]BRAZIL[/I][/B][/COLOR]
 URL=https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/brazil.plx
 #
 type=playlist
-thumb=http://enjoywallpaper.com/wp-content/uploads/flag3/Canada-Flag-Wave-Wallpaper.jpg
+thumb=http://jaquikarr.com/members/wp-content/uploads/2015/07/Flag-Canadian.jpg
 name=[COLOR yellow][B][I]CANADA[/I][/B][/COLOR]
 URL=https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/canada.plx
 
@@ -71,8 +71,8 @@ name=[COLOR yellow][B][I]ROMANIA[/I][/B][/COLOR]
 URL=https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/romania.plx
 #
 type=playlist
-thumb=http://img1.goodfon.su/original/1920x1080/e/cb/spain-ispaniya-flag.jpg
-name=[COLOR yellow][B][I]SPAIN[/I][/B][/COLOR]
+thumb=http://0.s3.envato.com/files/123366780/Mexico%20S.JPG
+name=[COLOR yellow][B][I]SPANISH[/I][/B][/COLOR]
 URL=https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/spain.plx
 #
 type=playlist

@@ -189,6 +189,16 @@ thumb=http://upload.wikimedia.org/wikipedia/commons/f/f6/HBO_Comedy.png
 URL=
 #
 type=video
+name=HSN
+thumb=https://images.hsn.com/images/profile/prof_hsn_UJFJCV.jpg
+URL=http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31/mp4:420p500kB31.m3u8
+#
+type=video
+name=HSN 2
+thumb=https://images.hsn.com/images/profile/prof_hsn_UJFJCV.jpg
+URL=http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31/mp4:468p500kB3.m3u8
+#
+type=video
 name=MSNBC
 thumb=http://ourdailynewsonline.com/wp-content/uploads/2015/05/Nbc_logo-7.png
 URL=
@@ -257,6 +267,11 @@ thumb=http://ib1.huluim.com/company_key_art/232?size=1600x600&region=US
 URL=http://iphone-streaming.ustream.tv/ustreamVideo/18638341/streams/live/playlist.m3u8
 #
 type=video
+name=SYFY HD
+thumb=http://ib1.huluim.com/company_key_art/232?size=1600x600&region=US
+URL=http://iphone-streaming.ustream.tv/ustreamVideo/18638341/streams/live/playlist.m3u8
+#
+type=video
 name=TBS
 thumb=http://vignette3.wikia.nocookie.net/cougartown/images/c/cd/TBS.png/revision/latest?cb=20130810130932
 URL=
@@ -284,7 +299,7 @@ URL=
 type=video
 name=TRU TV
 thumb=http://cdn.embed.ly/providers/logos/trutv.png
-URL=
+URL=http://204.107.27.137/live/3707.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe7979feecb1fd9a09cdff784a8c62cba79957b9b76e4a9dae3c31fa84cd4784ee9742c77fc5117a270a2bd607d99f4a0e884ebc4551e939e6991e19b33decccebdf23962f6ce41682f0939b12cf32c2181d1ee68822151d0585d8777acd585008905edd2baf87eb83282769f6e2f2eefe6d5a758b896ec53bf43d07bf27eff085f7d5a35a7b39ef7d810a3dec624b4dbb
 
 #
 type=video
@@ -313,7 +328,11 @@ type=video
 name=WEATHER NATION
 thumb=http://channelpear.com/images/media/3144.jpg
 URL=http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-
+#
+type=video
+name=WORLD FASHION TV
+thumb=http://andyfiordmodels.com/assets/images/pages/world-fashion-logo.png
+URL=http://btv-net.mediacdn.ru/TVB7/wfhdeu/playlist.m3u8
 
 
 #
@@ -371,8 +390,16 @@ type=video
 name=BABESTATION 2
 thumb=http://www.ultimatetvguide.com/Images_files/babestation300x250.gif
 URL=http://178.33.126.213:1935/cellcast/encoder32/.m3u8
-
-
+#
+type=video
+name=
+thumb=
+URL=
+#
+type=video
+name=
+thumb=
+URL=
 
 
 #

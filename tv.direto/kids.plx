@@ -24,11 +24,7 @@ type=video
 name=CARTOON NETWORK (STALKER)
 thumb=https://yt3.ggpht.com/-bqghK5VAO2I/AAAAAAAAAAI/AAAAAAAAAAA/HMEsmSxzbKg/s900-c-k-no/photo.jpg
 URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=Cartoon+Network&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F6397&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F2509.png
-#
-type=video
-name=CBEEBIES
-thumb=http://www.abbeyhomemedia.com/Images/Logos/CBeebies%20logo.png
-URL=
+
 #
 type=video
 name=DC COMICS TV
@@ -41,19 +37,19 @@ thumb=http://vignette1.wikia.nocookie.net/hi5tv/images/4/4b/Discovery_kids_hd_lo
 URL=
 #
 type=video
-name=DISNEY CHANNEL EAST (STALKER)
+name=DISNEY CHANNEL
 thumb=http://upload.wikimedia.org/wikipedia/fr/7/70/Disney_Junior.png
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=Disney+Channel+East&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F196&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F21.png
+URL=
 #
 type=video
-name=DISNEY XD (STALKER)
+name=DISNEY XD
 thumb=http://upload.wikimedia.org/wikipedia/fr/7/70/Disney_Junior.png
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=Disney+XD&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4860&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1840.png
+URL=
 #
 type=video
-name=DISNEY JR (STALKER)
+name=DISNEY JR
 thumb=http://upload.wikimedia.org/wikipedia/fr/7/70/Disney_Junior.png
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=Disney+Jr&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4852&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1832.png
+URL=
 #
 type=video
 name=DISNEY JR PACIFIC
@@ -66,14 +62,14 @@ thumb=http://upload.wikimedia.org/wikipedia/fr/7/70/Disney_Junior.png
 URL=
 #
 type=video
-name=NICKELODEON (STALKER)
+name=NICKELODEON
 thumb=http://www.2015auditions.com/wp-content/uploads/2015/05/Nickelodeon-old-school-nickelodeon-295359_1024_768.jpg
-URL=plugin://plugin.video.StalkerTv/?tmp=1&amp;genre_name=%5B%27All%27%5D&amp;title=Nickelodeon+East&amp;cmd=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1701&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F973.png
+URL=
 #
 type=video
-name=NICK JR (STALKER)
+name=NICK JR
 thumb=http://www.2015auditions.com/wp-content/uploads/2015/05/Nickelodeon-old-school-nickelodeon-295359_1024_768.jpg
-URL=plugin://plugin.video.StalkerTv/?tmp=0&amp;genre_name=%5B%27All%27%5D&amp;title=Nick+Jr&amp;cmd=ffrt2+http%3A%2F%2Flb.iptvserver.tv%3A8080%2Fredirect%2FLiveEdge%2FNickJrUS%2Fplaylist.m3u8&amp;portal=%7B%22name%22%3A+%22StalkerTv1%22%2C+%22parental%22%3A+%22false%22%2C+%22url%22%3A+%22http%3A%2F%2Fportal.iptvprivateserver.tv%22%2C+%22mac%22%3A+%2200%3A1A%3A78%3A1A%3A1A%3A1A%22%2C+%22serial%22%3A+%7B%22custom%22%3A+false%7D%2C+%22password%22%3A+%220000%22%7D&amp;mode=play&amp;logo_url=http%3A%2F%2Fportal.iptvprivateserver.tv%2Fstalker_portal%2Fmisc%2Flogos%2F320%2F1852.png
+URL=
 
 #
 type=video

@@ -1,6 +1,6 @@
 version=1
-background=http://enjoywallpaper.com/wp-content/uploads/flag3/Canada-Flag-Wave-Wallpaper.jpg
-logo=http://enjoywallpaper.com/wp-content/uploads/flag3/Canada-Flag-Wave-Wallpaper.jpg
+background=http://jaquikarr.com/members/wp-content/uploads/2015/07/Flag-Canadian.jpg
+logo=http://jaquikarr.com/members/wp-content/uploads/2015/07/Flag-Canadian.jpg
 title=[COLOR green]CANADA[/COLOR]
 
 #
@@ -95,6 +95,11 @@ type=video
 name=EWTN
 thumb=https://www.ewtn.com/media/images/downloadables/ewtnWhiteLogo/EWTNLogoWhiteJPG.jpg
 URL=rtmp://ewtn.mpl.miisolutions.net:1935/ewtn-live-8/_definst_?videoId=2621119413001&lineUpId=&pubId=1675170007001&playerId=2112648932001&affiliateId= playpath=450.mp4?videoId=2621119413001&lineUpId=&pubId=1675170007001&playerId=2112648932001&affiliateId= swfUrl=http://admin.brightcove.com/viewer/us20150903.1327/federatedVideoUI/BrightcovePlayer.swf?uid=1445311745986 pageUrl=http://www.ewtn.com/multimedia/live_player.asp?satname=canenglp&telrad=t003&alerted=1&tabindex= live=1 timeout=15
+#
+type=video
+name=GLOBAL NEWS
+thumb=http://s0.globalnews.ca/wp-content/themes/vip/shaw-globalnews/_img/logos/globalnews-print.png
+URL=https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8
 #
 type=video
 name=GLOBAL TORONTO

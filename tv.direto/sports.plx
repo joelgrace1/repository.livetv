@@ -149,7 +149,12 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%2
 type=video
 name=BT SPORT 1 (UK)
 thumb=http://www.liveonlinetv247.info/images/btsport1.png
-URL=
+URL=http://grandiptv.myftp.org:8000/live/test45/test45/691.m3u8
+#
+type=video
+name=BT SPORT 1 HD
+thumb=http://www.liveonlinetv247.info/images/btsport1.png
+URL=http://02e4.vp9.tv/chn/btsu1/v.m3u8
 #
 type=video
 name=BT SPORT 2
@@ -159,7 +164,12 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%2
 type=video
 name=BT SPORT 2 (UK)
 thumb=http://www.premierleague.com/content/premierleague/en-gb/commercial/bt-sport/_jcr_content/bodypsys/image.img.png/1369990888755.png
-URL=
+URL=http://grandiptv.myftp.org:8000/live/test45/test45/692.m3u8
+#
+type=video
+name=BT SPORT 2 HD
+thumb=http://www.premierleague.com/content/premierleague/en-gb/commercial/bt-sport/_jcr_content/bodypsys/image.img.png/1369990888755.png
+URL=http://02e4.vp9.tv/chn/btsu2/v.m3u8
 #
 type=video
 name=BT SPORT ESPN
@@ -180,7 +190,7 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%2
 type=video
 name=BT SPORT EUROPE
 thumb=http://www.liveonlinetv247.info/images/btsport1.png
-URL=
+URL=http://grandiptv.myftp.org:8000/live/test45/test45/1564.m3u8
 
 #
 type=video
@@ -201,7 +211,7 @@ URL=
 type=video
 name=CHELSEA TV
 thumb=https://upload.wikimedia.org/wikipedia/ru/b/bc/ChelseaTVLogo.png
-URL=
+URL=http://grandiptv.myftp.org:8000/live/test45/test45/703.m3u8
 #
 type=video
 name=CSN SPORTS
@@ -224,19 +234,19 @@ thumb=http://www.enachescu.ro/wp-content/uploads/DC-Sport-generic-horizontal.jpg
 URL=http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport3/playlist.m3u8
 #
 type=video
-name=ESPN (MEX)
+name=ESPN HD (MEX)
 thumb=http://www.camtel.com/Images/Interior/channel%20logos/espn%20hd%20logo.jpg
-URL=
+URL=http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?-1332/1499-20150816T153535.ts=-1
 #
 type=video
-name=ESPN 2 (MEX)
+name=ESPN 2 HD (MEX)
 thumb=http://www.camtel.com/Images/Interior/channel%20logos/espn%20hd%20logo.jpg
-URL=
+URL=http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?=/.ts
 #
 type=video
-name=ESPN 3 (MEX)
+name=ESPN 3 HD (MEX)
 thumb=http://www.camtel.com/Images/Interior/channel%20logos/espn%20hd%20logo.jpg
-URL=
+URL=http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?-1332/1499-20150816T153535.ts=-1
 #
 type=video
 name=ESPN 1 (US)
@@ -481,6 +491,11 @@ thumb=http://www.planetafutebol.com.br/skin/frontend/tagon-pf/default/images/log
 URL=
 #
 type=video
+name=POKER CENTRAL
+thumb=http://channelpear.com/images/media/9997.jpg
+URL=http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
+#
+type=video
 name=PREMIER SPORTS
 thumb=http://www.thedrum.com/uploads/drum_basic_article/109102/main_images/PS_0.jpg
 URL=
@@ -534,7 +549,7 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%2
 type=video
 name=SKY SPORTS 1
 thumb=http://www.protv24.com/img/sky-sports-1.png
-URL=
+URL=http://80.243.189.26:8081/sportshd/sky1/index.m3u8
 #
 type=video
 name=SKY SPORTS 1 
@@ -544,7 +559,7 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%2
 type=video
 name=SKY SPORTS 2
 thumb=http://www.ptvsports.mobi/wp-content/uploads/2015/03/sky-sports-2-live2.gif
-URL=
+URL=http://80.243.189.26:8081/sportshd/sky2/index.m3u8
 #
 type=video
 name=SKY SPORTS 2 
@@ -574,7 +589,7 @@ URL=
 type=video
 name=SKY SPORTS 5
 thumb=http://www.skymedia.ie/_masthead_images/SS5logo.jpg
-URL=
+URL=http://80.243.189.26:8081/sportshd/sky4/index.m3u8
 #
 type=video
 name=SKY SPORTS 5

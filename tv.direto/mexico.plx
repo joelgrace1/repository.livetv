@@ -4,31 +4,15 @@ logo=http://images6.fanpop.com/image/photos/35200000/Mexican-Flag-mexico-3529003
 title=[COLOR green]MEXICO/LATINOS[/COLOR]
 
 
-#
-type=video
-name=A & E
-thumb=https://pbs.twimg.com/profile_images/378800000858931576/94dkj9QW_400x400.jpeg
-URL=http://stalker.darkuzdev.cf:8080/streamer/105.m3u8
-#
-type=video
-name=AMC
-thumb=http://www.hollywoodreporter.com/sites/default/files/2011/04/amc-theatre-logo-2011-a-l.jpg
-URL=http://stalker.darkuzdev.cf:8080/streamer/368.m3u8
-#
-type=video
-name=AXN
-thumb=https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn.jpg
-URL=http://stalker.darkuzdev.cf:8080/streamer/109.m3u8
+
+
+
 #
 type=video
 name=CANAL 5
 thumb=http://img4.wikia.nocookie.net/__cb20110807181405/logopedia/images/3/3c/1965-1980.jpg
 URL=http://stalker.darkuzdev.cf:8080/streamer/37.m3u8
-#
-type=video
-name=CINECANAL
-thumb=http://cdn-img.easylogo.cn/gif/30/30450.gif
-URL=http://stalker.darkuzdev.cf:8080/streamer/349.m3u8
+
 #
 type=video
 name=CLARO SPORTS
@@ -56,11 +40,7 @@ type=video
 name=FOX HD
 thumb=http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox1.png?ver=6659ea4a-e9b5-4496-815f-8ea22a7d407c
 URL=http://stalker.darkuzdev.cf:8080/streamer/86.m3u8
-#
-type=video
-name=FOX 1
-thumb=http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox1.png?ver=6659ea4a-e9b5-4496-815f-8ea22a7d407c
-URL=http://stalker.darkuzdev.cf:8080/streamer/297.m3u8
+
 #
 type=video
 name=FOX ACTION
@@ -169,10 +149,6 @@ type=video
 name=VH1
 thumb=http://mix96buffalo.com/files/2013/02/VH1.jpg
 URL=http://stalker.darkuzdev.cf:8080/streamer/437.m3u8
-#
-type=video
-name=WARNER HD
-thumb=https://pmcdeadline2.files.wordpress.com/2013/09/warner-bros__130912132941.jpg
-URL=http://stalker.darkuzdev.cf:8080/streamer/93.m3u8
+
 #
 

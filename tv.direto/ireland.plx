@@ -24,9 +24,19 @@ thumb=http://rosscam.co.uk/darkroom/wp-content/uploads/2014/12/BBC.jpg
 URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Fbbc-one%26title%3dBBC%2bOne%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Fbbc-one%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dBBC%2bOne%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F14%252Fbig_logo.png&amp;mode=1
 #
 type=video
+name=BBC 1
+thumb=http://rosscam.co.uk/darkroom/wp-content/uploads/2014/12/BBC.jpg
+URL=http://198.179.30.109/live/14.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe7979feecb1fd9a09cdff784a8c62cba79957b9b76e4a9dae3c31fa84cd4784ee9742c77fc5117a270a2bd607d99f4a0e884ebc4551e939e6991e19b33decccebdf23962f6ce41682f0939b12cf32c2181d1ee68822151d0585d8777acd585008905edd2baf87eb83282769f6e2f2eefe6d5a758b896ec53bf43d07bf27eff085f7d5a35a7b39ef7d810a3dec624b4dbb
+#
+type=video
 name=BBC 2
 thumb=http://www.deborahperkin.com/wp-content/uploads/2013/05/bbc2.jpg
 URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Fbbc-two%26title%3dBBC%2bTwo%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Fbbc-two%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dBBC%2bTwo%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F25%252Fbig_logo.png&amp;mode=1
+#
+type=video
+name=BBC 2
+thumb=http://www.deborahperkin.com/wp-content/uploads/2013/05/bbc2.jpg
+URL=http://198.179.30.109/live/25.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe7979feecb1fd9a09cdff784a8c62cba79957b9b76e4a9dae3c31fa84cd4784ee9742c77fc5117a270a2bd607d99f4a0e884ebc4551e939e6991e19b33decccebdf23962f6ce41682f0939b12cf32c2181d1ee68822151d0585d8777acd585008905edd2baf87eb83282769f6e2f2eefe6d5a758b896ec53bf43d07bf27eff085f7d5a35a7b39ef7d810a3dec624b4dbb
 #
 type=video
 name=BBC 3
@@ -34,9 +44,19 @@ thumb=http://www.bbc.co.uk/staticarchive/4511484d66e80bfcb6feb94b060b480cc1eb39d
 URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Fbbc-three%26title%3dBBC%2bThree%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Fbbc-three%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dBBC%2bThree%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F113%252Fbig_logo.png&amp;mode=1
 #
 type=video
+name=BBC 3
+thumb=http://www.bbc.co.uk/staticarchive/4511484d66e80bfcb6feb94b060b480cc1eb39d7.jpg
+URL=http://198.179.30.109/live/113.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe7979feecb1fd9a09cdff784a8c62cba79957b9b76e4a9dae3c31fa84cd4784ee9742c77fc5117a270a2bd607d99f4a0e884ebc4551e939e6991e19b33decccebdf23962f6ce41682f0939b12cf32c2181d1ee68822151d0585d8777acd585008905edd2baf87eb83282769f6e2f2eefe6d5a758b896ec53bf43d07bf27eff085f7d5a35a7b39ef7d810a3dec624b4dbb
+#
+type=video
 name=BBC 4
 thumb=http://www.bbc.co.uk/staticarchive/0b038070652f825736522eced218fe84204f17aa.jpg
 URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Fcbeebiesbbc-four%26title%3dBBC%2bFour%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Fcbeebiesbbc-four%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dBBC%2bFour%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F103%252Fbig_logo.png&amp;mode=1
+#
+type=video
+name=BBC 4
+thumb=http://www.bbc.co.uk/staticarchive/0b038070652f825736522eced218fe84204f17aa.jpg
+URL=http://198.179.30.109/live/103.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe7979feecb1fd9a09cdff784a8c62cba79957b9b76e4a9dae3c31fa84cd4784ee9742c77fc5117a270a2bd607d99f4a0e884ebc4551e939e6991e19b33decccebdf23962f6ce41682f0939b12cf32c2181d1ee68822151d0585d8777acd585008905edd2baf87eb83282769f6e2f2eefe6d5a758b896ec53bf43d07bf27eff085f7d5a35a7b39ef7d810a3dec624b4dbb
 #
 type=video
 name=BBC NEWS
@@ -44,9 +64,19 @@ thumb=http://news.bbcimg.co.uk/media/images/48351000/gif/_48351569_640x360-news.
 URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Fbbc-news%26title%3dBBC%2bNews%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Fbbc-news%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dBBC%2bNews%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F27%252Fbig_logo.png&amp;mode=1
 #
 type=video
+name=BBC NEWS
+thumb=http://news.bbcimg.co.uk/media/images/48351000/gif/_48351569_640x360-news.gif
+URL=http://204.107.27.137/live/27.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe7979feecb1fd9a09cdff784a8c62cba79957b9b76e4a9dae3c31fa84cd4784ee9742c77fc5117a270a2bd607d99f4a0e884ebc4551e939e6991e19b33decccebdf23962f6ce41682f0939b12cf32c2181d1ee68822151d0585d8777acd585008905edd2baf87eb83282769f6e2f2eefe6d5a758b896ec53bf43d07bf27eff085f7d5a35a7b39ef7d810a3dec624b4dbb
+#
+type=video
 name=BBC WORLD NEWS
 thumb=http://news.bbcimg.co.uk/media/images/48351000/gif/_48351569_640x360-news.gif
 URL=http://93.184.221.133/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+#
+type=video
+name=CBEEBIES
+thumb=http://www.abbeyhomemedia.com/Images/Logos/CBeebies%20logo.png
+URL=http://198.179.30.109/live/3191.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe7979feecb1fd9a09cdff784a8c62cba79957b9b76e4a9dae3c31fa84cd4784ee9742c77fc5117a270a2bd607d99f4a0e884ebc4551e939e6991e19b33decccebdf23962f6ce41682f0939b12cf32c2181d1ee68822151d0585d8777acd585008905edd2baf87eb83282769f6e2f2eefe6d5a758b896ec53bf43d07bf27eff085f7d5a35a7b39ef7d810a3dec624b4dbb
 #
 type=video
 name=CHANNEL 4
@@ -54,9 +84,19 @@ thumb=http://images.vcpost.com/data/images/full/13078/channel-4.jpg
 URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Fchannel-4%26title%3dChannel%2b4%2b%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Fchannel-4%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dChannel%2b4%2b%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F2%252Fbig_logo.png&amp;mode=1
 #
 type=video
+name=CHANNEL 4
+thumb=http://images.vcpost.com/data/images/full/13078/channel-4.jpg
+URL=http://198.179.30.108/live/2.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe7979feecb1fd9a09cdff784a8c62cba79957b9b76e4a9dae3c31fa84cd4784ee9742c77fc5117a270a2bd607d99f4a0e884ebc4551e939e6991e19b33decccebdf23962f6ce41682f0939b12cf32c2181d1ee68822151d0585d8777acd585008905edd2baf87eb83282769f6e2f2eefe6d5a758b896ec53bf43d07bf27eff085f7d5a35a7b39ef7d810a3dec624b4dbb
+#
+type=video
 name=CHANNEL 5
 thumb=https://pmcdeadline2.files.wordpress.com/2014/01/channel5__140103130244.jpg
 URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Fchannel-5%26title%3dChannel%2b5%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Fchannel-5%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dChannel%2b5%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F22%252Fbig_logo.png&amp;mode=1
+#
+type=video
+name=CHANNEL 5
+thumb=https://pmcdeadline2.files.wordpress.com/2014/01/channel5__140103130244.jpg
+URL=http://198.179.30.108/live/22.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe7979feecb1fd9a09cdff784a8c62cba79957b9b76e4a9dae3c31fa84cd4784ee9742c77fc5117a270a2bd607d99f4a0e884ebc4551e939e6991e19b33decccebdf23962f6ce41682f0939b12cf32c2181d1ee68822151d0585d8777acd585008905edd2baf87eb83282769f6e2f2eefe6d5a758b896ec53bf43d07bf27eff085f7d5a35a7b39ef7d810a3dec624b4dbb
 #
 type=video
 name=ITV 1
@@ -192,6 +232,22 @@ type=video
 name=TRU TV
 thumb=http://cdn.tvwise.co.uk/wp-content/uploads/2014/05/TruTV-779x400.jpg?677037
 URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Ftru-tv%26title%3dtruTV%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Ftru-tv%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dtruTV%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F3707%252Fbig_logo.png&amp;mode=1
+#
+type=video
+name=TRU TV
+thumb=http://cdn.tvwise.co.uk/wp-content/uploads/2014/05/TruTV-779x400.jpg?677037
+URL=http://204.107.27.137/live/3707.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe7979feecb1fd9a09cdff784a8c62cba79957b9b76e4a9dae3c31fa84cd4784ee9742c77fc5117a270a2bd607d99f4a0e884ebc4551e939e6991e19b33decccebdf23962f6ce41682f0939b12cf32c2181d1ee68822151d0585d8777acd585008905edd2baf87eb83282769f6e2f2eefe6d5a758b896ec53bf43d07bf27eff085f7d5a35a7b39ef7d810a3dec624b4dbb
+#
+type=video
+name=TRUE MOVIES 1
+thumb=http://theident.gallery/true/2005/TRUE-2013-ID-MOVIES1-1-2.jpg
+URL=http://top-iptv.zapto.org:8000/live/walid/walid/563.m3u8
+#
+type=video
+name=TRUE MOVIES 2
+thumb=http://vozplus.com/wp-content/uploads/medium_true-movies2.jpg
+URL=http://top-iptv.zapto.org:8000/live/walid/walid/564.m3u8
+
 #
 type=video
 name=TV3 HD
