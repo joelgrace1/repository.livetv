@@ -7,7 +7,7 @@ title=[COLOR green]PORTUGAL[/COLOR]
 type=video
 name=TEST
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=videoTitle%3dCanales%2bNacionales%26title%3dCanales%2bNacionales%26url%3dhttp%253A%252F%252Fcinestrenostv.tv%252Fver-canales-nacionales-de-espa%2525C3%2525B1a-online-en-directo%252F%26cfg%3dcinestrenostv.tv.cfg%2540Catch%26definedIn%3dcustoms%252Fcinestrenostv.tv.cfg%26director%3dcinestrenostv.tv%26genre%3dLive%2bTV%26type%3drss&amp;mode=1
 
 #
 type=video
