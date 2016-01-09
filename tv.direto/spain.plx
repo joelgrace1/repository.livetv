@@ -200,7 +200,7 @@ URL=http://odna.octoshape.net/f3f5m2v4/cds/ch2_720p/SAT_TOTAL.m3u8
 type=video
 name=TELECINCO
 thumb=http://img.vayatele.com/2012/12/telecinco-logo2.jpg
-URL=
+URL=http://213.136.90.201:1234/live/EXCHANGE-LOCAL5/rachid_patio@hotmail.com/214.ts
 #
 type=video
 name=TV MELILLA
