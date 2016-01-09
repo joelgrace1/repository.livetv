@@ -5,9 +5,9 @@ title=[COLOR green]PORTUGAL[/COLOR]
 
 #
 type=video
-name=TEST1
+name=TEST2
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=plugin://plugin.video.SportsDevil/?item=url=livesports/livesportstreams.tv.cfg&mode=1&quot;,return
+URL=plugin://plugin.video.SportsDevil/?item=url=livesports/livesportstreams.tv.cfg&mode=1
 
 #
 type=video
