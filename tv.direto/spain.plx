@@ -167,6 +167,11 @@ thumb=http://hboasiapromos.s3.amazonaws.com/0_core/fb-signature-480x320.jpg
 URL=
 #
 type=video
+name=HOLLYWOOD
+thumb=http://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Chollywood.png/200px-Chollywood.png
+URL=rtmp://31.220.0.134/privatestream/hollywood77 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#
+type=video
 name=LA SEXTA
 thumb=http://s.libertaddigital.com/fotos/noticias/lasexta-logo-mjg-20140530.jpg
 URL=http://q.gs:80/9830047/lasextatodokodim3u8
@@ -196,11 +201,17 @@ type=video
 name=RT SPAIN
 thumb=https://yt3.ggpht.com/-1C2sit92qoI/AAAAAAAAAAI/AAAAAAAAAAA/WIMgNJSIyAo/s900-c-k-no/photo.jpg
 URL=http://odna.octoshape.net/f3f5m2v4/cds/ch2_720p/SAT_TOTAL.m3u8
+
 #
 type=video
 name=TELECINCO
 thumb=http://img.vayatele.com/2012/12/telecinco-logo2.jpg
-URL=http://213.136.90.201:1234/live/EXCHANGE-LOCAL5/rachid_patio@hotmail.com/214.ts
+URL=rtmp://31.220.0.206/privatestreamplus/telecincotdt8 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#
+type=video
+name=TELECINCO
+thumb=http://img.vayatele.com/2012/12/telecinco-logo2.jpg
+URL=http://iptv80.ddns.net:9070/live/karimos/skype88/197.m3u8
 #
 type=video
 name=TV MELILLA
@@ -232,6 +243,7 @@ type=video
 name=WARNER BROS
 thumb=https://pmcdeadline2.files.wordpress.com/2012/10/warnerbros_logo__121022172344.jpg
 URL=
+
 
 
 #
