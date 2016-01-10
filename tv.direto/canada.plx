@@ -155,7 +155,7 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSportsne
 type=video
 name=SPORTSNET ONTARIO
 thumb=http://img1.wikia.nocookie.net/__cb20120212021042/logopedia/images/0/08/Rogers_sportsnet_ontario.png
-URL=rtmp://31.220.2.149:80/live playpath=ontrio swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=ontrio&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z
+URL=plugin://plugin.video.phstreams/?name=Sportsnet+Ontario+&amp;url=rtmp%3A%2F%2F31.220.2.149%3A80%2Flive+playpath%3Dontrio+swfUrl%3Dhttp%3A%2F%2Fp.jwpcdn.com%2F6%2F12%2Fjwplayer.flash.swf+pageUrl%3Dhttp%3A%2F%2Fyotv.co%2Fembedu.php%3Flive%3Dontrio%26vw%3D620%26vh%3D490+live%3D1+token%3D%25Zrey%28nKa%40%23Z&amp;audio=0&amp;image=http%3A%2F%2Fcmrcracing.interactivehoriz.netdna-cdn.com%2Fwp-content%2Fuploads%2F2013%2F01%2Fsportsnet-copy.jpg%3Fbc4116+&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fhp4sgw93b%2Fbest_sport_collection_wallpaper_hd_backgrounds.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
 name=SPORTSNET WORLD  (NOT ALWAYS ON)
