@@ -38,7 +38,11 @@ type=video
 name=ABC NEWS
 thumb=http://a.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9t_384.jpg
 URL=http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-
+#
+type=video
+name=ALIENS AND UFO’S
+thumb=http://static.filmon.com/assets/channels/3548/big_logo.png
+URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Faliens-and-ufos%26title%3dAliens%2band%2bUFOs%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Faliens-and-ufos%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dAliens%2band%2bUFOs%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F3548%252Fbig_logo.png&amp;mode=1
 #
 type=video
 name=AMC
@@ -396,11 +400,7 @@ name=BABESTATION 2
 thumb=http://www.ultimatetvguide.com/Images_files/babestation300x250.gif
 URL=http://178.33.126.213:1935/cellcast/encoder32/.m3u8
 
-#
-type=video
-name=
-thumb=
-URL=
+
 #
 type=video
 name=

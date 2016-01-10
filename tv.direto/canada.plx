@@ -139,18 +139,12 @@ URL=
 type=video
 name=SPORTSNET 360
 thumb=http://assets3.sportsnet.ca/wp-content/uploads/2013/06/sportsnet360.png
-URL=
+URL=plugin://plugin.video.phstreams/?name=Sportsnet+360+&amp;url=rtmp%3A%2F%2F185.63.255.18%3A80%2Flive+playpath%3Dsprt1+swfUrl%3Dhttp%3A%2F%2Fp.jwpcdn.com%2F6%2F12%2Fjwplayer.flash.swf+pageUrl%3Dhttp%3A%2F%2Fyotv.co%2Fembedu.php%3Flive%3Dsprt1%26vw%3D620%26vh%3D490+live%3D1+token%3D%25Zrey%28nKa%40%23Z&amp;audio=0&amp;image=%2FUsers%2Fgracevalerio%2FLibrary%2FApplication+Support%2FKodi%2Faddons%2Fplugin.video.phstreams%2Ficon.png&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fhp4sgw93b%2Fbest_sport_collection_wallpaper_hd_backgrounds.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
-name=SPORTSNET ONE (NOT ALWAYS ON)
+name=SPORTSNET ONE
 thumb=http://img4.wikia.nocookie.net/__cb20140410170629/logopedia/images/4/41/Snone-1-.png
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSportsnet%2bOne%26url%3dhttp%253A%252F%252Fcricfree.sx%252Fsportsnet-one-live-stream%26videoTitle%3dSportsnet%2bOne%26director%3dcricfree.tv%26genre%3dTV%26referer%3dhttp%253A%252F%252Fcricfree.sx%252F%26definedIn%3dtv%252Fcricfree.tv.cfg%26link%3dsportsnet-one-live-stream%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fchannels%252FSportsnet%2bOne&amp;mode=1
-#
-type=video
-name=SPORTSNET ONTARIO  (NOT ALWAYS ON)
-thumb=http://img1.wikia.nocookie.net/__cb20120212021042/logopedia/images/0/08/Rogers_sportsnet_ontario.png
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSportsnet%2bOntario%26url%3dhttp%253A%252F%252Fcricfree.sx%252Fsportsnet-ontario-live-stream%26videoTitle%3dSportsnet%2bOntario%26director%3dcricfree.tv%26genre%3dTV%26referer%3dhttp%253A%252F%252Fcricfree.sx%252F%26definedIn%3dtv%252Fcricfree.tv.cfg%26link%3dsportsnet-ontario-live-stream%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fchannels%252FSportsnet%2bOntario&amp;mode=1
-
+URL=
 #
 type=video
 name=SPORTSNET ONTARIO
@@ -158,7 +152,7 @@ thumb=http://img1.wikia.nocookie.net/__cb20120212021042/logopedia/images/0/08/Ro
 URL=plugin://plugin.video.phstreams/?name=Sportsnet+Ontario+&amp;url=rtmp%3A%2F%2F31.220.2.149%3A80%2Flive+playpath%3Dontrio+swfUrl%3Dhttp%3A%2F%2Fp.jwpcdn.com%2F6%2F12%2Fjwplayer.flash.swf+pageUrl%3Dhttp%3A%2F%2Fyotv.co%2Fembedu.php%3Flive%3Dontrio%26vw%3D620%26vh%3D490+live%3D1+token%3D%25Zrey%28nKa%40%23Z&amp;audio=0&amp;image=http%3A%2F%2Fcmrcracing.interactivehoriz.netdna-cdn.com%2Fwp-content%2Fuploads%2F2013%2F01%2Fsportsnet-copy.jpg%3Fbc4116+&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fhp4sgw93b%2Fbest_sport_collection_wallpaper_hd_backgrounds.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
-name=SPORTSNET WORLD  (NOT ALWAYS ON)
+name=SPORTSNET WORLD
 thumb=https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Sportsnet_World_HD_logo.PNG/800px-Sportsnet_World_HD_logo.PNG
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSportsnet%2bWorld%26url%3dhttp%253A%252F%252Fcricfree.sx%252Fsportsnet-world-live-streaming%26videoTitle%3dSportsnet%2bWorld%26director%3dcricfree.tv%26genre%3dTV%26referer%3dhttp%253A%252F%252Fcricfree.sx%252F%26definedIn%3dtv%252Fcricfree.tv.cfg%26link%3dsportsnet-world-live-streaming%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fchannels%252FSportsnet%2bWorld&amp;mode=1
 #
@@ -180,7 +174,7 @@ URL=
 type=video
 name=TSN 1
 thumb=http://www.nwtel.ca/media/channel-logos/tsn1_0.jpg
-URL=
+URL=plugin://plugin.video.phstreams/?name=TSN+1+&amp;url=rtmp%3A%2F%2F31.220.2.149%3A80%2Flive+playpath%3Dts1+swfUrl%3Dhttp%3A%2F%2Fp.jwpcdn.com%2F6%2F12%2Fjwplayer.flash.swf+pageUrl%3Dhttp%3A%2F%2Fyotv.co%2Fembedu.php%3Flive%3Dts1%26vw%3D620%26vh%3D490+live%3D1+token%3D%25Zrey%28nKa%40%23Z&amp;audio=0&amp;image=http%3A%2F%2Fwww.lyngsat-logo.com%2Flogo%2Ftv%2Ftt%2Ftsn_1_ca.png&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fhp4sgw93b%2Fbest_sport_collection_wallpaper_hd_backgrounds.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
 name=TSN 2 HD
@@ -190,7 +184,7 @@ URL=
 type=video
 name=TSN 2
 thumb=http://www.nwtel.ca/media/channel-logos/tsn2_0.jpg
-URL=
+URL=plugin://plugin.video.phstreams/?name=TSN+2+&amp;url=rtmp%3A%2F%2F31.220.2.149%3A80%2Flive+playpath%3Dtsnx2+swfUrl%3Dhttp%3A%2F%2Fp.jwpcdn.com%2F6%2F12%2Fjwplayer.flash.swf+pageUrl%3Dhttp%3A%2F%2Fyotv.co%2Fembedu.php%3Flive%3Dtsnx2%26vw%3D620%26vh%3D490+live%3D1+token%3D%25Zrey%28nKa%40%23Z&amp;audio=0&amp;image=http%3A%2F%2Fwww.lyngsat-logo.com%2Flogo%2Ftv%2Ftt%2Ftsn_2_ca.png&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fhp4sgw93b%2Fbest_sport_collection_wallpaper_hd_backgrounds.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
 name=TSN 3 HD

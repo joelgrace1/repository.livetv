@@ -409,36 +409,6 @@ thumb=http://static.filmon.com/assets/channels/3860/big_logo.png
 URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Fmmanow%26title%3dMMA%2bNow%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Fmmanow%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dMMA%2bNow%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F3860%252Fbig_logo.png&amp;mode=1
 #
 type=video
-name=MOTORS TV HD
-thumb=http://www.motorstv.com/sites/default/files/contenu/image/pages/logos/logo_officiel_motorstv.jpg
-URL=
-#
-type=video
-name=MOTORS TV
-thumb=http://www.motorstv.com/sites/default/files/contenu/image/pages/logos/logo_officiel_motorstv.jpg
-URL=
-#
-type=video
-name=MOTORSPORT LIVE
-thumb=http://i.ytimg.com/vi/b5xYasZRDoo/hqdefault.jpg
-URL=mms://100automoto.tv/100livesport
-#
-type=video
-name=MOTORSPORT USA
-thumb=http://4.bp.blogspot.com/-n7CvAqGwwLg/Tcq67H2v2yI/AAAAAAAAASc/h5Rwl_2iX4M/s1600/Motorsport%2BTV%2Bon%2BFree%2BStreaming%2BCable.jpg
-URL=http://motorsport.hopto.org:8080/
-#
-type=video
-name=MOVISTAR F1
-thumb=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/formula1.jpg
-URL=
-#
-type=video
-name=NASCAR
-thumb=http://www.krgv.com/image/view/-/14239984/medRes/1/-/maxh/360/maxw/640/-/14235jdz/-/NASCAR-Logo-jpg.jpg
-URL=
-#
-type=video
 name=NBA TV
 thumb=http://www.entertainmentdoor.com.pk/images/channel_image/NBA_TV_USA.jpeg
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNBA%2bTV%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F71562%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dNBA%2bTV%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F71562%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fg6egcgeorgwtfnb_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fg6egcgeorgwtfnb_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
