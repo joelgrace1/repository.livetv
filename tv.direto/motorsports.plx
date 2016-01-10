@@ -46,7 +46,7 @@ URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp
 #
 type=video
 name=TOP GEAR
-thumb=http://static.filmon.com/assets/channels/3548/big_logo.png
+thumb=http://deltafonts.com/wp-content/uploads/Top-Gear-tv-logo.png
 URL=https://streamup.global.ssl.fastly.net/app/gears-channel/playlist.m3u8
 #
 type=video
