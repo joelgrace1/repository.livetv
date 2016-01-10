@@ -97,7 +97,7 @@ thumb=https://www.ewtn.com/media/images/downloadables/ewtnWhiteLogo/EWTNLogoWhit
 URL=rtmp://ewtn.mpl.miisolutions.net:1935/ewtn-live-8/_definst_?videoId=2621119413001&lineUpId=&pubId=1675170007001&playerId=2112648932001&affiliateId= playpath=450.mp4?videoId=2621119413001&lineUpId=&pubId=1675170007001&playerId=2112648932001&affiliateId= swfUrl=http://admin.brightcove.com/viewer/us20150903.1327/federatedVideoUI/BrightcovePlayer.swf?uid=1445311745986 pageUrl=http://www.ewtn.com/multimedia/live_player.asp?satname=canenglp&telrad=t003&alerted=1&tabindex= live=1 timeout=15
 #
 type=video
-name=GLOBAL NEWS
+name=GLOBAL TORONTO HD
 thumb=http://s0.globalnews.ca/wp-content/themes/vip/shaw-globalnews/_img/logos/globalnews-print.png
 URL=https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8
 #
@@ -165,11 +165,7 @@ type=video
 name=THE WEATHER NETWORK 1080P
 thumb=http://www.40belowproject.ca/wp-content/uploads/2012/12/tumblr_ll9d8qa3Pb1qhe2gro1_400.jpg
 URL=http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
-#
-type=video
-name=TSN 1 HD
-thumb=http://www.nwtel.ca/media/channel-logos/tsn1_0.jpg
-URL=
+
 #
 type=video
 name=TSN 1
@@ -177,14 +173,19 @@ thumb=http://www.nwtel.ca/media/channel-logos/tsn1_0.jpg
 URL=plugin://plugin.video.phstreams/?name=TSN+1+&amp;url=rtmp%3A%2F%2F31.220.2.149%3A80%2Flive+playpath%3Dts1+swfUrl%3Dhttp%3A%2F%2Fp.jwpcdn.com%2F6%2F12%2Fjwplayer.flash.swf+pageUrl%3Dhttp%3A%2F%2Fyotv.co%2Fembedu.php%3Flive%3Dts1%26vw%3D620%26vh%3D490+live%3D1+token%3D%25Zrey%28nKa%40%23Z&amp;audio=0&amp;image=http%3A%2F%2Fwww.lyngsat-logo.com%2Flogo%2Ftv%2Ftt%2Ftsn_1_ca.png&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fhp4sgw93b%2Fbest_sport_collection_wallpaper_hd_backgrounds.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
-name=TSN 2 HD
-thumb=http://www.nwtel.ca/media/channel-logos/tsn2_0.jpg
-URL=
-#
-type=video
 name=TSN 2
 thumb=http://www.nwtel.ca/media/channel-logos/tsn2_0.jpg
 URL=plugin://plugin.video.phstreams/?name=TSN+2+&amp;url=rtmp%3A%2F%2F31.220.2.149%3A80%2Flive+playpath%3Dtsnx2+swfUrl%3Dhttp%3A%2F%2Fp.jwpcdn.com%2F6%2F12%2Fjwplayer.flash.swf+pageUrl%3Dhttp%3A%2F%2Fyotv.co%2Fembedu.php%3Flive%3Dtsnx2%26vw%3D620%26vh%3D490+live%3D1+token%3D%25Zrey%28nKa%40%23Z&amp;audio=0&amp;image=http%3A%2F%2Fwww.lyngsat-logo.com%2Flogo%2Ftv%2Ftt%2Ftsn_2_ca.png&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fhp4sgw93b%2Fbest_sport_collection_wallpaper_hd_backgrounds.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
+#
+type=video
+name=TSN 1 HD
+thumb=http://www.nwtel.ca/media/channel-logos/tsn1_0.jpg
+URL=
+#
+type=video
+name=TSN 2 HD
+thumb=http://www.nwtel.ca/media/channel-logos/tsn2_0.jpg
+URL=
 #
 type=video
 name=TSN 3 HD
