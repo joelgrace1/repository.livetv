@@ -28,7 +28,7 @@ URL=https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.dir
 type=playlist
 thumb=http://www.pieniadz.pl/archiwum/geografia/flagi_godla_itp/francja_flaga_1.jpg
 name=[COLOR yellow][B][I]FRANCE[/I][/B][/COLOR]
-URL=
+URL=https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/france.plx
 #
 type=playlist
 thumb=http://onedayinitaly.com/wp-content/uploads/2014/05/italian-flag.jpg
@@ -48,7 +48,7 @@ URL=
 type=playlist
 thumb=https://catherinephotographyblog.files.wordpress.com/2015/07/ducati-weekend-at-calabogie-motorsports-park-june-27-2015-_dsc4708.jpg
 name=[COLOR yellow][B][I]MOTORSPORTS[/I][/B][/COLOR]
-URL=#https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/motorsports.plx
+URL=https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/motorsports.plx
 #
 type=playlist
 thumb=https://tiestoclublife.files.wordpress.com/2014/09/dj_tiesto_club_life_img389.jpg

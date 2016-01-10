@@ -6,12 +6,12 @@ title=[COLOR green]MOTORSPORTS[/COLOR]
 type=video
 name=SKY FORMULA 1 HD
 thumb=http://e1.365dm.com/11/11/660x350/f1panel1_2682703.jpg?20111125105918
-URL=rtmpe://134.19.185.220:1935/livedge playpath=mamahdskysportsf1 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdskysportsf1&vw=680&vh=490&domain=mamahd.com token=Fo5_n0w?U.rA6l3-70w47ch
+URL=
 #
 type=video
 name=SKY FORMULA 1
 thumb=http://e1.365dm.com/11/11/660x350/f1panel1_2682703.jpg?20111125105918
-URL=rtmp://181.214.35.7:19350/live/ playpath=qkj1ztyqOHtA swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=500&vw=650&vh=400
+URL=
 #
 type=video
 name=MOVISTAR F1
@@ -19,31 +19,9 @@ thumb=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x11
 URL=
 #
 type=video
-name=MOTORS TV (UK)
+name=MOTORZ TV
 thumb=http://www.motorstv.com/sites/default/files/contenu/image/pages/logos/logo_officiel_motorstv.jpg
-URL=
-#
-type=video
-name=MOTORS TV
-thumb=http://www.motorstv.com/sites/default/files/contenu/image/pages/logos/logo_officiel_motorstv.jpg
-URL=
-
-
-#
-type=video
-name=NBCSN 1080P
-thumb=http://worldsoccertalk.com/wp-content/uploads/2014/01/nbcsn-logo-600x401.jpg
-URL=http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#
-type=video
-name=NBCSN 720P
-thumb=http://worldsoccertalk.com/wp-content/uploads/2014/01/nbcsn-logo-600x401.jpg
-URL=http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#
-type=video
-name=ARENAVISION 1
-thumb=http://www.trademarkia.com/logo-images/spectrum-arena-limited-partnership/arenavision-73629623.jpg
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Fmotorz%26title%3dMotorz%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Fmotorz%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dMotorz%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F262%252Fbig_logo.png&amp;mode=1
 #
 type=video
 name=EUROSPORT (RUS)
@@ -53,35 +31,28 @@ URL=
 type=video
 name=EUROSPORT (GER)
 thumb=http://www.telezones.com/wp-content/uploads/2015/03/Eurosport-HD-Live-Telezones1.png
-URL=http://pebbles105-lh.akamaihd.net/i/eurosportde_1@97452/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+URL=
 #
 type=video
-name=ARENAVISION 2
-thumb=http://www.trademarkia.com/logo-images/spectrum-arena-limited-partnership/arenavision-73629623.jpg
-URL=
+name=RACELINE TV
+thumb=http://static.filmon.com/assets/channels/3641/big_logo.png
+URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Fraceline-tv%26title%3dRaceline%2bTV%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Fraceline-tv%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dRaceline%2bTV%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F3641%252Fbig_logo.png&amp;mode=1
+#
+type=video
+name=TOP GEAR
+thumb=http://static.filmon.com/assets/channels/3548/big_logo.png
+URL=https://streamup.global.ssl.fastly.net/app/gears-channel/playlist.m3u8
+#
+type=video
+name=TORQUE AND TUSH
+thumb=http://static.filmon.com/assets/channels/3187/big_logo.png
+URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Ftorque-and-tush%26title%3dTorque%2band%2bTush%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Ftorque-and-tush%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dTorque%2band%2bTush%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F3187%252Fbig_logo.png&amp;mode=1
+#
+type=video
+name=AUTO TV
+thumb=http://static.filmon.com/assets/channels/2945/big_logo.png
+URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Fauto-channel%26title%3dAutoTV%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Fauto-channel%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dAutoTV%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F2945%252Fbig_logo.png&amp;mode=1
 
-
-
-#
-type=video
-name=
-thumb=
-URL=
-#
-type=video
-name=
-thumb=
-URL=
-#
-type=video
-name=
-thumb=
-URL=
-#
-type=video
-name=
-thumb=
-URL=
 #
 type=video
 name=

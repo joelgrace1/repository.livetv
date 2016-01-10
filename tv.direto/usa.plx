@@ -46,6 +46,11 @@ thumb=http://channelpear.com/images/media/2556.png
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D2%2526q%253D%26title%3dAMC%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F68963%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dAMC%2b%26director%3dilive.to%26definedIn%3dilive.to.cfg%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252F%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F7pctmre0zfwsc24_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F7pctmre0zfwsc24_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
+name=ANIMAL PLANET
+thumb=http://www.podryad.tv/upload/iblock/591/591145599ed9cafababe81c23500fe83.png
+URL=plugin://plugin.video.SportsDevil/?item=videoTitle%3dAnimal%2bPlanet%26title%3dAnimal%2bPlanet%26url%3dhttp%253A%252F%252Fwww.finecast.tv%252Fembed4.php%253Fu%253Danimal%2526vw%253D640%2526vh%253D450%26cfg%3dtvone1.com.cfg%2540Stream%26definedIn%3dcustoms%252Ftvone1.com.cfg%26director%3dtvone1.com%26referer%3dhttp%253A%252F%252Fwww.247tvstream.com%252F%26genre%3dLive%2bTV%26type%3drss&amp;mode=1
+#
+type=video
 name=BBC AMERICA
 thumb=http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/39.png
 URL=
@@ -100,7 +105,7 @@ URL=
 type=video
 name=COMEDY CENTRAL
 thumb=http://www.chud.com/articles/content_images/17/ComedyCentralLogo.jpg
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=videoTitle%3dComedy%2bCentral%26title%3dComedy%2bCentral%26url%3dhttp%253A%252F%252Fwww.finecast.tv%252Fembed4.php%253Fu%253Dcc698%2526vw%253D640%2526vh%253D450%26cfg%3dtvone1.com.cfg%2540Stream%26definedIn%3dcustoms%252Ftvone1.com.cfg%26director%3dtvone1.com%26referer%3dhttp%253A%252F%252Flivetvweb.net%252F%26genre%3dLive%2bTV%26type%3drss&amp;mode=1
 
 #
 type=video
@@ -390,6 +395,7 @@ type=video
 name=BABESTATION 2
 thumb=http://www.ultimatetvguide.com/Images_files/babestation300x250.gif
 URL=http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+
 #
 type=video
 name=
@@ -400,6 +406,19 @@ type=video
 name=
 thumb=
 URL=
-
-
+#
+type=video
+name=
+thumb=
+URL=
+#
+type=video
+name=
+thumb=
+URL=
+#
+type=video
+name=
+thumb=
+URL=
 #

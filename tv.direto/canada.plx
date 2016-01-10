@@ -150,6 +150,12 @@ type=video
 name=SPORTSNET ONTARIO  (NOT ALWAYS ON)
 thumb=http://img1.wikia.nocookie.net/__cb20120212021042/logopedia/images/0/08/Rogers_sportsnet_ontario.png
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSportsnet%2bOntario%26url%3dhttp%253A%252F%252Fcricfree.sx%252Fsportsnet-ontario-live-stream%26videoTitle%3dSportsnet%2bOntario%26director%3dcricfree.tv%26genre%3dTV%26referer%3dhttp%253A%252F%252Fcricfree.sx%252F%26definedIn%3dtv%252Fcricfree.tv.cfg%26link%3dsportsnet-ontario-live-stream%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fchannels%252FSportsnet%2bOntario&amp;mode=1
+
+#
+type=video
+name=SPORTSNET ONTARIO
+thumb=http://img1.wikia.nocookie.net/__cb20120212021042/logopedia/images/0/08/Rogers_sportsnet_ontario.png
+URL=rtmp://31.220.2.149:80/live playpath=ontrio swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=ontrio&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z
 #
 type=video
 name=SPORTSNET WORLD  (NOT ALWAYS ON)

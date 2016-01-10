@@ -214,9 +214,19 @@ thumb=https://upload.wikimedia.org/wikipedia/ru/b/bc/ChelseaTVLogo.png
 URL=http://grandiptv.myftp.org:8000/live/test45/test45/703.m3u8
 #
 type=video
+name=CRASH, BANG, BOOM
+thumb=http://static.filmon.com/assets/channels/3563/big_logo.png
+URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Fcrash-bang-boom%26title%3dCrash%252C%2bBang%252C%2bBoom%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Fcrash-bang-boom%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dCrash%252C%2bBang%252C%2bBoom%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F3563%252Fbig_logo.png&amp;mode=1
+#
+type=video
 name=CSN SPORTS
 thumb=http://www.csnnw.com/sites/csnnw/files/2013/03/19/csn_2012_rev_0.jpeg
 URL=
+#
+type=video
+name=DESTINATION X
+thumb=http://static.filmon.com/assets/channels/3785/big_logo.png
+URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Fdestination-x%26title%3dDestination%2bX%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Fdestination-x%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dDestination%2bX%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F3785%252Fbig_logo.png&amp;mode=1
 #
 type=video
 name=DOLCE SPORT 1
@@ -341,6 +351,11 @@ thumb=https://lh4.ggpht.com/qwQLDBc04AHKPjsiTEmT_0fDZVQgXjjO1GmR0gIGtKo0jFNaFP3O
 URL=http://87.248.160.8/edge/smil:boet/playlist.m3u8
 #
 type=video
+name=FOOTBALL HEROES
+thumb=http://static.filmon.com/assets/channels/3557/big_logo.png
+URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Ffootball-heroes%26title%3dFootball%2bHeroes%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Ffootball-heroes%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dFootball%2bHeroes%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F3557%252Fbig_logo.png&amp;mode=1
+#
+type=video
 name=FOX SPORTS (MEX)
 thumb=http://img4.wikia.nocookie.net/__cb20140414164158/logopedia/images/6/6f/Logo_fox_sports.png
 URL=
@@ -387,6 +402,11 @@ type=video
 name=MLB NETWORK
 thumb=https://s3.amazonaws.com/images.charitybuzz.com/images/94120/original.jpg?1384632222
 URL=
+#
+type=video
+name=MMA NOW
+thumb=http://static.filmon.com/assets/channels/3860/big_logo.png
+URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Fmmanow%26title%3dMMA%2bNow%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Fmmanow%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dMMA%2bNow%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F3860%252Fbig_logo.png&amp;mode=1
 #
 type=video
 name=MOTORS TV HD
@@ -489,6 +509,11 @@ type=video
 name=PLANETA FUTEBOL
 thumb=http://www.planetafutebol.com.br/skin/frontend/tagon-pf/default/images/logo.jpg
 URL=
+#
+type=video
+name=PLANET X SPORT
+thumb=http://static.filmon.com/assets/channels/3854/big_logo.png
+URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Fplanet-x-sport%26title%3dPlanet%2bX%2bSport%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Fplanet-x-sport%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dPlanet%2bX%2bSport%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F3854%252Fbig_logo.png&amp;mode=1
 #
 type=video
 name=POKER CENTRAL
@@ -595,6 +620,11 @@ type=video
 name=SKY SPORTS 5
 thumb=http://www.skymedia.ie/_masthead_images/SS5logo.jpg
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252FLive%2bSport%253Fp%253D4%2526q%253D%26title%3dSky%2bSport%2b5%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F69649%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dSky%2bSport%2b5%2b%26director%3dilive.to%26definedIn%3dilive.to.cfg%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252FLive%2bSport%253Fp%253D3%2526q%253D%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F06927pgwezut1fd_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F06927pgwezut1fd_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
+#
+type=video
+name=SPORTS BLOOPERS
+thumb=http://static.filmon.com/assets/channels/3110/big_logo.png
+URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Fsports-bloopers-tv%26title%3dSports%2bBloopers%2bTV%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Fsports-bloopers-tv%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dSports%2bBloopers%2bTV%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F3110%252Fbig_logo.png&amp;mode=1
 #
 type=video
 name=SPORT 1 USA
@@ -859,6 +889,11 @@ thumb=http://media.ufc.tv//logos/UFCN-LOGO-OFICIAL.jpg
 URL=
 #
 type=video
+name=UFC NEXT
+thumb=http://static.filmon.com/assets/channels/713/big_logo.png
+URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Fufc-next%26title%3dUFC%2bNext%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Fufc-next%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dUFC%2bNext%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F713%252Fbig_logo.png&amp;mode=1
+#
+type=video
 name=UNIVISION
 thumb=http://snapshots.ilive.to/snapshots/obzq3ltrjoaxglf_snapshot.jpg
 URL=
@@ -895,8 +930,6 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%2
 
 
 
-
-
 #
 type=video
 name=
@@ -912,9 +945,36 @@ type=video
 name=
 thumb=
 URL=
-
-
-
+#
+type=video
+name=
+thumb=
+URL=
+#
+type=video
+name=
+thumb=
+URL=
+#
+type=video
+name=
+thumb=
+URL=
+#
+type=video
+name=
+thumb=
+URL=
+#
+type=video
+name=
+thumb=
+URL=
+#
+type=video
+name=
+thumb=
+URL=
 
 #
 
