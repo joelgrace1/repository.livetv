@@ -72,9 +72,26 @@ thumb=http://img.rtp.pt/wportal/grupo/imprensa/images/linhagrafica/rtpacores/RTP
 URL=http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
 #
 type=video
-name=RTP INFORMAÇÃO
-thumb=http://www.tvtuga.com/wp-content/uploads/2013/07/rtp-n-informacao.jpg
-URL=http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8
+name=RTP AFRICA
+thumb=http://www.portugalempreendedor.com/images/logos/rtp_africa.jpg
+URL=http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#
+type=video
+name=RTP MEMORIA
+thumb=http://2.bp.blogspot.com/-VohvgHmmfnI/ViJNYuFIkAI/AAAAAAAANsw/yXBd3RZXSWM/s400/rtp%2Bmemoria.fw.png
+URL=http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8
+
+#
+type=video
+name=RTP MADEIRA
+thumb=https://pbs.twimg.com/profile_images/412007318/logortpMadeira_400x400.jpg
+URL=http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+
+#
+type=video
+name=TV CABO VERDE
+thumb=http://c3.quickcachr.fotos.sapo.pt/i/P1313c2ba/14950636_1qKLz.jpeg
+URL=rtmp://213.13.26.11/live playpath=rtc_teste swfUrl=http://assets.web.sapo.io/sapovideo/swf/flvplayer-sapo.swf?v110713&file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24&live=rtmp://{$hostname}/live/rtc_teste&movref=http%3A%2F%2Fpt.online-television.net%2F952-rtc.html pageUrl=http://pt.online-television.net/952-rtc.html#.VImSJHu8q48 Conn=S:OK live=1
 #
 type=video
 name=SIC HD
@@ -95,7 +112,7 @@ URL=http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
 type=video
 name=SIC NOTICIAS
 thumb=https://contraprovas.files.wordpress.com/2012/02/000068hb.png
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSIC%2bNOTICIAS%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICNOTICIAS.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dSIC%2bNOTICIAS%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICNOTICIAS.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSIC%2bNOTICIAS%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICNOTICIAS.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dSIC%2bNOTICIAS%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICNOTICIAS.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 #
 type=video
 name=SIC NOTICIAS HD
@@ -105,18 +122,18 @@ URL=
 type=video
 name=SIC MULHER
 thumb=http://3.fotos.web.sapo.io/i/Gaf135c09/17791971_6Ke0T.jpeg
-URL=#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSIC%2bMULHER%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICMULHER.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dSIC%2bMULHER%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICMULHER.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSIC%2bMULHER%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICMULHER.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dSIC%2bMULHER%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICMULHER.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 
 #
 type=video
 name=SIC RADICAL
 thumb=http://tertuliadosamigos.freeoda.com/sicradical.jpg
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSIC%2bRADICAL%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICRADICAL.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dSIC%2bRADICAL%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICRADICAL.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSIC%2bRADICAL%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICRADICAL.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dSIC%2bRADICAL%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICRADICAL.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 #
 type=video
 name=SIC KIDS
 thumb=http://www.psb.pt/wp-content/uploads/2014/01/sic_k.png
-URL=#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSIC%2bKIDS%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fcanais.php%253Fstream%253DSICKIDS%26videoTitle%3dSIC%2bKIDS%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fcanais.php%253Fstream%253DSICKIDS%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSIC%2bKIDS%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fcanais.php%253Fstream%253DSICKIDS%26videoTitle%3dSIC%2bKIDS%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fcanais.php%253Fstream%253DSICKIDS%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 #
 type=video
 name=TVI HD
@@ -141,7 +158,7 @@ URL=http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 type=video
 name=TVI FICÇÃO
 thumb=http://media.iolnegocios.pt/media1201/ff7efc34eb9e1a7f0b55e926e529025e/
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTVI%2bFICCAO%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FTVIFICCAO.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dTVI%2bFICCAO%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FTVIFICCAO.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTVI%2bFICCAO%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FTVIFICCAO.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dTVI%2bFICCAO%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FTVIFICCAO.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 
 #
 type=video
@@ -287,9 +304,9 @@ thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Be
 URL=http://31.204.128.112:8081/live/portugal3/playlist.m3u8
 #
 type=video
-name=BENFICA TV 1 e 2
+name=BENFICA TV  2
 thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dB%2bTV%2b2%2bBtv2%2bLive%2bStream%2bBtv%2b2%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F68625%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%2540%26videoTitle%3dB%2bTV%2b2%2bBtv2%2bLive%2bStream%2bBtv%2b2%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F68625%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fbrvyfp5nwe8oxtr_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fbrvyfp5nwe8oxtr_snapshot.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.streamlive.to%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=BENFICA TV 2 HD
@@ -309,7 +326,7 @@ URL=http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
 type=video
 name=PORTO CANAL
 thumb=http://www.campeonatoibericotriatlon.com/images/porto_canal.jpg
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dPORTO%2bCANAL%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FPORTOCANAL.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dPORTO%2bCANAL%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FPORTOCANAL.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dPORTO%2bCANAL%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FPORTOCANAL.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dPORTO%2bCANAL%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FPORTOCANAL.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 #
 type=video
 name=SPORTING TV
@@ -325,7 +342,7 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%2
 type=video
 name=MOTORS TV
 thumb= http://www.motorstv.com/sites/default/files/contenu/image/pages/logos/logo_officiel_motorstv.jpg
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dMOTORS%2bTV%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FMOTORSTV.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dMOTORS%2bTV%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FMOTORSTV.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dMOTORS%2bTV%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FMOTORSTV.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dMOTORS%2bTV%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FMOTORSTV.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 #
 type=video
 name=ABOLA TV
@@ -340,7 +357,7 @@ URL=rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
 type=video
 name=HOLLYWOOD
 thumb=http://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Chollywood.png/200px-Chollywood.png
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dHOLLYWOOD%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FHOLLYWOOD.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dHOLLYWOOD%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FHOLLYWOOD.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dHOLLYWOOD%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FHOLLYWOOD.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dHOLLYWOOD%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FHOLLYWOOD.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 #
 type=video
 name=TV CINE 1
@@ -376,44 +393,44 @@ URL=
 type=video
 name=FOX
 thumb=http://www.fox.com/sites/default/files/fox_logo_0.jpg
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFOX%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOX.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dFOX%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOX.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFOX%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOX.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dFOX%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOX.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 
 #
 type=video
 name=FOX LIFE
 thumb=http://www.fox.com/sites/default/files/fox_logo_0.jpg
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFOX%2bLIFE%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXLIFE.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dFOX%2bLIFE%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXLIFE.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFOX%2bLIFE%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXLIFE.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dFOX%2bLIFE%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXLIFE.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 #
 type=video
 name=FOX MOVIES
 thumb=http://img1.wikia.nocookie.net/__cb20100323110707/logopedia/images/e/e3/Fox_Moxie_Channel.png
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFOX%2bMOVIES%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXMOVIES.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dFOX%2bMOVIES%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXMOVIES.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFOX%2bMOVIES%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXMOVIES.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dFOX%2bMOVIES%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXMOVIES.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 #
 type=video
 name=FOX CRIME
 thumb=https://realhousewifeofbelgrade.files.wordpress.com/2011/01/fox-crime.jpg
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFOX%2bCRIME%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXCRIME.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dFOX%2bCRIME%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXCRIME.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFOX%2bCRIME%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXCRIME.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dFOX%2bCRIME%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXCRIME.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 #
 type=video
 name=HISTORIA
 thumb=http://upload.wikimedia.org/wikipedia/en/c/cd/Historia_logo.jpg
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCANAL%2bHIST%25C3%2583%25C2%2593RIA%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FHISTORIA.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dCANAL%2bHIST%25C3%2583%25C2%2593RIA%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FHISTORIA.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCANAL%2bHIST%25C3%2583%25C2%2593RIA%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FHISTORIA.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dCANAL%2bHIST%25C3%2583%25C2%2593RIA%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FHISTORIA.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 #
 type=video
 name=DISCOVERY
 thumb=http://chinatvinc.com/tv/wp-content/uploads/2014/11/discoveryhd_newlogo_042008.jpg
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDISCOVERY%2bCHANNEL%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FDISCOVERYCHANNEL.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dDISCOVERY%2bCHANNEL%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FDISCOVERYCHANNEL.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDISCOVERY%2bCHANNEL%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FDISCOVERYCHANNEL.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dDISCOVERY%2bCHANNEL%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FDISCOVERYCHANNEL.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 #
 type=video
 name=ODISSEIA
 thumb=http://img2.wikia.nocookie.net/__cb20130707114713/logopedia/images/e/ea/Odisseia_logo.png
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCANAL%2bODISSEIA%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FODISSEIA.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dCANAL%2bODISSEIA%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FODISSEIA.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCANAL%2bODISSEIA%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FODISSEIA.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dCANAL%2bODISSEIA%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FODISSEIA.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 
 #
 type=video
 name=NATIONAL GEOGRAPHIC
 thumb=https://yt3.ggpht.com/-2tol5SGixqs/AAAAAAAAAAI/AAAAAAAAAAA/gI_3L64uED0/s900-c-k-no/photo.jpg
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNATIONAL%2bGEOGRAPHIC%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FNATIONALGEOGRAPHIC.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dNATIONAL%2bGEOGRAPHIC%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FNATIONALGEOGRAPHIC.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNATIONAL%2bGEOGRAPHIC%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FNATIONALGEOGRAPHIC.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dNATIONAL%2bGEOGRAPHIC%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FNATIONALGEOGRAPHIC.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 
 #
 type=video
@@ -437,13 +454,13 @@ URL=
 type=video
 name=AXN WHITE
 thumb=http://img2.wikia.nocookie.net/__cb20110927172249/logopedia/images/e/e6/AXN_Black_logo.png
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dAXN%2bWHITE%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FAXNWHITE.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dAXN%2bWHITE%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FAXNWHITE.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dAXN%2bWHITE%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FAXNWHITE.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dAXN%2bWHITE%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FAXNWHITE.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 
 #
 type=video
 name=AXN
 thumb=http://img2.wikia.nocookie.net/__cb20110927172249/logopedia/images/e/e6/AXN_Black_logo.png
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dAXN%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FAXN.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dAXN%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FAXN.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dAXN%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FAXN.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dAXN%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FAXN.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 #
 type=video
 name=A&E
@@ -453,17 +470,31 @@ URL=
 type=video
 name=MTV PORTUGAL
 thumb=http://www.internetsegura.pt/files/large/842
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dMTV%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FMTV.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dMTV%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FMTV.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dMTV%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FMTV.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dMTV%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FMTV.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 #
 type=video
 name=CAPELINHA FATIMA
 thumb=http://www.fatima.pt/pic/_nossasenhoracapelinha_4b2f84c8b151a.jpg
 URL=rtmp://213.13.26.11/live playpath=santuario.stream swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer.swf?live=rtmp://{$hostname}/live/santuario&file=http://rd3.videos.sapo.pt/nk4p1I65eivPLPe4i1hy/mov/24 live=1 pageUrl=objectEncoding
 
-
 #
-
-
-
-
+type=video
+name=
+thumb=
+URL=
+#
+type=video
+name=
+thumb=
+URL=
+#
+type=video
+name=
+thumb=
+URL=
+#
+type=video
+name=
+thumb=
+URL=
 #
