@@ -7,7 +7,7 @@ title=[COLOR green]PORTUGAL[/COLOR]
 type=video
 name=TEST
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp1 live=1 swfVfy=1
+URL=
 
 #
 type=video
@@ -112,7 +112,7 @@ URL=http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
 type=video
 name=SIC NOTICIAS
 thumb=https://contraprovas.files.wordpress.com/2012/02/000068hb.png
-#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSIC%2bNOTICIAS%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICNOTICIAS.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dSIC%2bNOTICIAS%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICNOTICIAS.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSIC%2bNOTICIAS%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICNOTICIAS.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dSIC%2bNOTICIAS%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICNOTICIAS.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 #
 type=video
 name=SIC NOTICIAS HD
