@@ -5,9 +5,9 @@ title=[COLOR green]PORTUGAL[/COLOR]
 
 #
 type=video
-name=TEST 1
+name=TEST 3
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=
+URL=rtmp://178.162.211.231/live playpath=slbiuefdjsk?id=21079&pk=7950ab551357e268ece2d94ea10e4d4c369d83d5f7c5e7377d2d65e649cc28fa swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/slbiuefdjsk/1/555/435
 
 #
 type=video
