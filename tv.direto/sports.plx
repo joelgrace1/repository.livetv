@@ -102,7 +102,7 @@ URL=
 type=video
 name=BENFICA TV 1 HD
 thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
-URL=http://91.204.214.106:23201/stolen/250l/xenixos.7z
+URL=
 #
 type=video
 name=BENFICA TV 1 (PLEXUS)
@@ -132,7 +132,7 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dB%2bTV%2
 type=video
 name=BENFICA TV 2 HD
 thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
-URL=http://91.204.214.106:23201/stolen/233w/xenixos.7z
+URL=
 #
 type=video
 name=BENFICA TV 2 (PLEXUS)
