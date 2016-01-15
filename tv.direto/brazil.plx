@@ -243,6 +243,11 @@ thumb=https://jorgesalvador.files.wordpress.com/2011/02/tv-globo-international-l
 URL=
 #
 type=video
+name=TV GLOBO HQ
+thumb=http://rd1.ig.com.br/wp-content/uploads/2013/02/logogvm.jpg
+URL=http://213.163.71.139:8081/live/sptv/playlist.m3u8
+#
+type=video
 name=TV GLOBO
 thumb=http://upload.wikimedia.org/wikipedia/pt/archive/8/8f/20120710214058!TV_Globo.jpg
 URL=rtmp://62.210.83.152:1935/liverepeat playpath=101010 swfUrl=http://ppcast.org/embedP/jwplayer/jwplayer.flash.swf pageUrl=http://ppcast.org/embedP/4.php?file=zuca4ad46&width=100%&height=100%
@@ -251,7 +256,6 @@ type=video
 name=TV GLOBO
 thumb=http://upload.wikimedia.org/wikipedia/pt/archive/8/8f/20120710214058!TV_Globo.jpg
 URL=http://live-cdn.direct-stream.org:1935/live/_definst_/101010/Globo_SP_Anderson_Elias.m3u8?wowzasessionid=291773276
-
 #
 type=video
 name=TV GLOBO SP
@@ -259,14 +263,29 @@ thumb=http://rd1.ig.com.br/wp-content/uploads/2013/02/logogvm.jpg
 URL=http://31.204.128.127:8081/live/sptv/playlist.m3u8
 #
 type=video
+name=TV GLOBO SP
+thumb=http://rd1.ig.com.br/wp-content/uploads/2013/02/logogvm.jpg
+URL=http://213.163.65.116:8081/live/sptv/playlist.m3u8
+#
+type=video
 name=TV RECORD HD
 thumb=https://lh4.googleusercontent.com/-lnaZFKly7UQ/U5hhQtVpkUI/AAAAAAAAABE/rVOzZZEKlIc/w825-h824/LOGO_RECORD_ALTA_HD_sem-slogan_baixa.png
 URL=rtmp://flash.midiaip.com.br:1935/tvvitoria/Sample1
 #
 type=video
-name=TV RECORD
+name=TV RECORD ES
 thumb=http://www.bahiaatual.com/wp-content/uploads/2012/09/TV-Record1.jpg
-URL=
+URL=http://flash.midiaip.com.br:1935/tvvitoria/Sample1/live.m3u8
+#
+type=video
+name=TV RECORD MT
+thumb=http://www.bahiaatual.com/wp-content/uploads/2012/09/TV-Record1.jpg
+URL=http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/live.m3u8
+#
+type=video
+name=TV RECORD SP
+thumb=http://www.bahiaatual.com/wp-content/uploads/2012/09/TV-Record1.jpg
+URL=http://213.163.65.116:8081/live/record/playlist.m3u8
 #
 type=video
 name=TV RECORD SP
@@ -282,6 +301,12 @@ type=video
 name=TV RECORD ESPIRITO SANTO
 thumb=http://www.bahiaatual.com/wp-content/uploads/2012/09/TV-Record1.jpg
 URL=http://flash.midiaip.com.br:1935/tvvitoria/Sample1/playlist.m3u8
+
+#
+type=video
+name=TV RECORD NOTICIAS
+thumb=https://portaltvenoticias.files.wordpress.com/2011/01/noticias.jpg
+URL=http://v1.fabricahost.com.br:1935/tvguara/tvguara/live.m3u8
 #
 type=video
 name=TV RECORD NOTICIAS
