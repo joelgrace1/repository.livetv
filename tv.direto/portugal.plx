@@ -5,9 +5,9 @@ title=[COLOR green]PORTUGAL[/COLOR]
 
 #
 type=video
-name=TEST
+name=TEST 1
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=
+URL=rtmp%3A%2F%2F%24doregex%5Bget-ip%5D%2Flive%2F+playpath%3Dslbiuefdjsk%3Fid%3D20795%24doregex%5Bpk%5D+conn%3DS%3AOK+swfUrl%3Dhttp%3A%2F%2Fwww.streamifyplayer.com%2Fresources%2Fscripts%2Feplayer.swf+pageUrl%3Dhttp%3A%2F%2Fwww.streamifyplayer.com%2Fembedplayer%2Fslbledkxjedy%2F1%2F555%2F435+live%3Dtrue&amp;mode=17&amp;regexs=%7Bu%27get-ip%27%3A%20%7B%27expres%27%3A%20u%27redirect%3D%28.%2A%29%27%2C%20%27name%27%3A%20u%27get-ip%27%2C%20%27page%27%3A%20u%27http%3A//www.streamifypublisher.com%3A1935/loadbalancer%27%7D%2C%20u%27pk%27%3A%20%7B%27expres%27%3A%20u%22ea%3D%28.%2A%29%27%22%2C%20%27referer%27%3A%20u%27http%3A//www.streamifyplayer.com%27%2C%20%27name%27%3A%20u%27pk%27%2C%20%27page%27%3A%20u%27http%3A//www.streamifyplayer.com/embedplayer/slbiuefdjsk/1/555/435%27%7D%7D
 
 #
 type=video
