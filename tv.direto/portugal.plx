@@ -203,7 +203,7 @@ thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
 type=video
 name=SPORT TV 1
 thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
-URL=http://91.204.214.106:23201/stolen/246g/xenixos.7z
+URL=
 #
 type=video
 name=SPORT TV 1
@@ -218,7 +218,7 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%2
 type=video
 name=SPORT TV 2
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport_tv2_pt.jpg
-URL=http://91.204.214.106:23201/stolen/247h/xenixos.7z
+URL=
 #
 type=video
 name=SPORT TV 2
@@ -333,7 +333,7 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dPORTO%2b
 type=video
 name=SPORTING TV
 thumb=http://www.sporting.pt/Imagens/79671.jpg
-URL=http://91.204.214.106:23201/stolen/242a/xenixos.7z
+URL=
 #
 type=video
 name=EUROSPORT 1
