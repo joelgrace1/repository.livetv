@@ -63,7 +63,7 @@ URL=https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.dir
 type=playlist
 thumb=http://img3.goodfon.su/original/1920x1080/2/49/portugal-portugaliya-flag.jpg
 name=[COLOR yellow][B][I]PORTUGAL[/I][/B][/COLOR]
-URL=https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/portugal1.plx
+URL=https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/portugal.plx
 #
 type=playlist
 thumb=http://t15.deviantart.net/EBc7dtFyj0XQSAAUQ4K_RGJ6Kjk=/300x200/filters:fixed_height(100,100):origin()/pre07/7550/th/pre/i/2015/103/6/6/romania_realistic_flag_by_judalei2k11-d8o5kf0.png
