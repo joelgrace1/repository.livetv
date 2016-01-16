@@ -5,7 +5,7 @@ title=[COLOR green]PORTUGAL[/COLOR]
 
 #
 type=video
-name=TEST 1
+name=TEST 3
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
 URL=rtmp://179.43.158.201:1935/stream/ playpath=0BBo20y0yBo8tbWbGn2.stream?d6169o386sa451i336pm255u386yq255x2762iq209t7182ud6169o386sb6398n336pa451i336pq209 swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d5124g515sa296o43pm342n515yq342u4599iq552q4462ud5124g515sb7675b43pa296o43pq552q4462un296x7675i&width=600&height=460&st=04p2o4n4w584s2s4643683u5z2z5a4t3h5r4k4u2l2w2w2e444c4z2z3w2u254s2v203&adx=&stream=74t2d4m5e4f494y2o5348444t2a4c4n22444c3a3f4x2w2766476e3s533o4j5x364e3h474n224w253z3v294346484s2p294b4n224r2l4e3h45444v4s2p4d3n4e426k5z3f5i3i4x3b3k4j4f4m5a20594f4e5j4r5y324x5p2o234z354i55484e4w28474c4u26413c4n5a49423j513w274y29484u2743424y23314r234242434.p2o234z3n2&sooor=MTI=&str=is&ok=&cat=1&link=1&idom=tvdireto live=1 timeout=10
 
