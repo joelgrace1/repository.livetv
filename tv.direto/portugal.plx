@@ -17,7 +17,7 @@ URL=http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
 type=video
 name=RTP 1 HD
 thumb=http://img4.wikia.nocookie.net/__cb20100918153627/logopedia/images/archive/5/54/20111228185807!RTP_1HD_positivo.png
-URL=rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?tvdireto swfVfy=1 live=1 timeout=15
+URL=#rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?tvdireto swfVfy=1 live=1 timeout=15
 #
 type=video
 name=RTP 1 HD
@@ -53,7 +53,7 @@ URL=http://88.157.194.246/live/ramdisk/zrtp2/HLS/zrtp2.m3u8
 type=video
 name=RTP 3 HD
 thumb=http://www.movenoticias.com/wp-content/uploads/2015/10/21269795073_33032b74e8_z-640x452.jpg
-URL=rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?tvdireto swfVfy=1 live=1 timeout=15
+URL=#rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?tvdireto swfVfy=1 live=1 timeout=15
 #
 type=video
 name=RTP 3 HD
@@ -63,7 +63,7 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dRTP%2bIN
 type=video
 name=RTP INTERNACIONAL
 thumb=http://1.bp.blogspot.com/-hVONUnf1DzU/UHFpJ0D8rlI/AAAAAAAAEUc/RoqBd2ziCjg/s1600/RTP-Internacional-logo-2012.png
-URL=rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?tvdireto swfVfy=1 live=1 timeout=15
+URL=#rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?tvdireto swfVfy=1 live=1 timeout=15
 #
 type=video
 name=RTP INTERNACIONAL
@@ -74,7 +74,7 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dRTP%2bIN
 type=video
 name=RTP AÇORES
 thumb=http://img.rtp.pt/wportal/grupo/imprensa/images/linhagrafica/rtpacores/RTP_acores_RGB_cheioposit.jpg
-URL=rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtprtpacores?tvdireto swfVfy=1 live=1 timeout=15
+URL=#rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtprtpacores?tvdireto swfVfy=1 live=1 timeout=15
 #
 type=video
 name=RTP AÇORES
@@ -85,7 +85,7 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dRTP%2bAC
 type=video
 name=RTP AFRICA
 thumb=http://www.portugalempreendedor.com/images/logos/rtp_africa.jpg
-URL=rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpafrica?tvdireto swfVfy=1 live=1 timeout=15
+URL=#rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpafrica?tvdireto swfVfy=1 live=1 timeout=15
 #
 type=video
 name=RTP AFRICA
@@ -101,7 +101,7 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dRTP%2bME
 type=video
 name=RTP MADEIRA
 thumb=https://pbs.twimg.com/profile_images/412007318/logortpMadeira_400x400.jpg
-URL=rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?tvdireto swfVfy=1 live=1 timeout=15
+URL=#rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?tvdireto swfVfy=1 live=1 timeout=15
 #
 type=video
 name=RTP MADEIRA
