@@ -7,18 +7,19 @@ title=[COLOR green]PORTUGAL[/COLOR]
 type=video
 name=TEST 3
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15
+URL=
+
 
 #
 type=video
 name=RTP 1 HD
 thumb=http://img4.wikia.nocookie.net/__cb20100918153627/logopedia/images/archive/5/54/20111228185807!RTP_1HD_positivo.png
-URL=#http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
+URL=http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
 #
 type=video
 name=RTP 1 HD
 thumb=http://img4.wikia.nocookie.net/__cb20100918153627/logopedia/images/archive/5/54/20111228185807!RTP_1HD_positivo.png
-URL=http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
+URL=rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15
 #
 type=video
 name=RTP 1 HD
@@ -49,6 +50,12 @@ type=video
 name=RTP 2
 thumb=http://www.rtp.pt/wportal/grupo/logos_empresa/imagens/logos/rtp2/rtp2_a.jpg
 URL=http://88.157.194.246/live/ramdisk/zrtp2/HLS/zrtp2.m3u8
+
+#
+type=video
+name=RTP 3 HD
+thumb=http://www.movenoticias.com/wp-content/uploads/2015/10/21269795073_33032b74e8_z-640x452.jpg
+URL=rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15
 #
 type=video
 name=RTP 3 HD
@@ -69,6 +76,12 @@ type=video
 name=RTP AÇORES
 thumb=http://img.rtp.pt/wportal/grupo/imprensa/images/linhagrafica/rtpacores/RTP_acores_RGB_cheioposit.jpg
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dRTP%2bACORES%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FRTPACORES.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dRTP%2bACORES%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FRTPACORES.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+
+#
+type=video
+name=RTP AFRICA
+thumb=http://www.portugalempreendedor.com/images/logos/rtp_africa.jpg
+URL=rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15
 #
 type=video
 name=RTP AFRICA
