@@ -102,7 +102,7 @@ URL=
 type=video
 name=BENFICA TV 1 HD
 thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
-URL=
+URL=http://91.204.214.106:23201/stolen/250l/xenixos.7z
 #
 type=video
 name=BENFICA TV 1 (PLEXUS)
@@ -125,14 +125,14 @@ thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Be
 URL=rtmpe://r.livecast.cc/rs/ playPath=live3-qszlx live=true live=1 timeout=15 pageUrl=http://sharecast.to/embed/live3-qszlx conn=S:OK
 #
 type=video
+name=BENFICA TV 2 HD
+thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
+URL=http://91.204.214.106:23201/stolen/233w/xenixos.7z
+#
+type=video
 name=BENFICA TV  2
 thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dB%2bTV%2b2%2bBtv2%2bLive%2bStream%2bBtv%2b2%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F68625%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%2540%26videoTitle%3dB%2bTV%2b2%2bBtv2%2bLive%2bStream%2bBtv%2b2%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F68625%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fbrvyfp5nwe8oxtr_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fbrvyfp5nwe8oxtr_snapshot.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.streamlive.to%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
-#
-type=video
-name=BENFICA TV 2 HD
-thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
-URL=
 #
 type=video
 name=BENFICA TV 2 (PLEXUS)
