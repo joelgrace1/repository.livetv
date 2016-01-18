@@ -7,7 +7,7 @@ title=[COLOR green]PORTUGAL[/COLOR]
 type=video
 name=TEST 1
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=http://iptvtt.ddns.net:8000/live/salvador/salvador/58.ts
+URL=
 #
 type=video
 name=RTP 1 HD
@@ -150,11 +150,7 @@ type=video
 name=SIC RADICAL
 thumb=http://tertuliadosamigos.freeoda.com/sicradical.jpg
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSIC%2bRADICAL%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICRADICAL.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dSIC%2bRADICAL%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICRADICAL.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
-#
-type=video
-name=SIC KIDS
-thumb=http://www.psb.pt/wp-content/uploads/2014/01/sic_k.png
-#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSIC%2bKIDS%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fcanais.php%253Fstream%253DSICKIDS%26videoTitle%3dSIC%2bKIDS%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fcanais.php%253Fstream%253DSICKIDS%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+
 #
 type=video
 name=TVI HD
@@ -382,26 +378,7 @@ type=video
 name=HOLLYWOOD
 thumb=http://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Chollywood.png/200px-Chollywood.png
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dHOLLYWOOD%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FHOLLYWOOD.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dHOLLYWOOD%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FHOLLYWOOD.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
-#
-type=video
-name=TV CINE 1
-thumb=http://c4.quickcachr.fotos.sapo.pt/i/Baf122642/14046457_fjg8T.jpeg
-URL=
-#
-type=video
-name=TV CINE 2
-thumb=http://c4.quickcachr.fotos.sapo.pt/i/Baf122642/14046457_fjg8T.jpeg
-URL=
-#
-type=video
-name=TV CINE 3
-thumb=http://c4.quickcachr.fotos.sapo.pt/i/Baf122642/14046457_fjg8T.jpeg
-URL=
-#
-type=video
-name=TV CINE 4
-thumb=http://c4.quickcachr.fotos.sapo.pt/i/Baf122642/14046457_fjg8T.jpeg
-URL=
+
 #
 type=video
 name=SYFY HD
@@ -501,17 +478,52 @@ name=CAPELINHA FATIMA
 thumb=http://www.fatima.pt/pic/_nossasenhoracapelinha_4b2f84c8b151a.jpg
 URL=rtmp://213.13.26.11/live playpath=santuario.stream swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer.swf?live=rtmp://{$hostname}/live/santuario&file=http://rd3.videos.sapo.pt/nk4p1I65eivPLPe4i1hy/mov/24 live=1 pageUrl=objectEncoding
 
+#
+type=video
+name=TV CINE 1
+thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
+URL=http://iptvtt.ddns.net:8000/live/salvador/salvador/21.ts
+#
+type=video
+name=TV CINE 2
+thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
+URL=http://iptvtt.ddns.net:8000/live/salvador/salvador/22.ts
+#
+type=video
+name=TV CINE 3
+thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
+URL=http://iptvtt.ddns.net:8000/live/salvador/salvador/23.ts
+#
+type=video
+name=TV CINE 4
+thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
+URL=http://iptvtt.ddns.net:8000/live/salvador/salvador/24.ts
+#
+type=video
+name=SIC KIDS
+thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
+URL=http://iptvtt.ddns.net:8000/live/salvador/salvador/83.ts
+#
+type=video
+name=DISNEY CHANNEL
+thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
+URL=http://iptvtt.ddns.net:8000/live/salvador/salvador/58.ts
+#
+type=video
+name=CANAL PANDA
+thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
+URL=http://iptvtt.ddns.net:8000/live/salvador/salvador/35.ts
+#
+type=video
+name=DISNEY JUNIOR
+thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
+URL=http://iptvtt.ddns.net:8000/live/salvador/salvador/19.ts
+#
+type=video
+name=TV GLOBO
+thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
+URL=http://iptvtt.ddns.net:8000/live/salvador/salvador/73.ts
 
-#
-type=video
-name=
-thumb=
-URL=
-#
-type=video
-name=
-thumb=
-URL=
 #
 type=video
 name=
