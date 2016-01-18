@@ -5,9 +5,9 @@ title=[COLOR green]PORTUGAL[/COLOR]
 
 #
 type=video
-name=TEST 3
+name=TEST 1
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=
+URL=http://iptvtt.ddns.net:8000/live/salvador/salvador/58.ts
 #
 type=video
 name=RTP 1 HD
