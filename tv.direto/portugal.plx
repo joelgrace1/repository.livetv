@@ -363,7 +363,7 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dEUROSPOR
 type=video
 name=MOTORS TV
 thumb= http://www.motorstv.com/sites/default/files/contenu/image/pages/logos/logo_officiel_motorstv.jpg
-URL=#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dMOTORS%2bTV%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FMOTORSTV.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dMOTORS%2bTV%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FMOTORSTV.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dMOTORS%2bTV%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FMOTORSTV.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dMOTORS%2bTV%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FMOTORSTV.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 #
 type=video
 name=ABOLA TV
