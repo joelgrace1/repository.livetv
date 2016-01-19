@@ -411,7 +411,7 @@ URL=#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFOX%2bM
 type=video
 name=FOX CRIME
 thumb=https://realhousewifeofbelgrade.files.wordpress.com/2011/01/fox-crime.jpg
-URL=#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFOX%2bCRIME%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXCRIME.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dFOX%2bCRIME%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXCRIME.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFOX%2bCRIME%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXCRIME.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dFOX%2bCRIME%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXCRIME.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 #
 type=video
 name=HISTORIA
@@ -432,7 +432,7 @@ URL=#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCANAL%2
 type=video
 name=NATIONAL GEOGRAPHIC
 thumb=https://yt3.ggpht.com/-2tol5SGixqs/AAAAAAAAAAI/AAAAAAAAAAA/gI_3L64uED0/s900-c-k-no/photo.jpg
-URL=#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNATIONAL%2bGEOGRAPHIC%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FNATIONALGEOGRAPHIC.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dNATIONAL%2bGEOGRAPHIC%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FNATIONALGEOGRAPHIC.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNATIONAL%2bGEOGRAPHIC%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FNATIONALGEOGRAPHIC.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dNATIONAL%2bGEOGRAPHIC%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FNATIONALGEOGRAPHIC.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 
 #
 type=video
