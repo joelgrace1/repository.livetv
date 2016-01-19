@@ -58,7 +58,7 @@ URL=rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 sw
 type=video
 name=RTP 3 HD
 thumb=http://www.movenoticias.com/wp-content/uploads/2015/10/21269795073_33032b74e8_z-640x452.jpg
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dRTP%2bINFORMACAO%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FRTPINFORMACAO.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dRTP%2bINFORMACAO%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FRTPINFORMACAO.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+URL=#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dRTP%2bINFORMACAO%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FRTPINFORMACAO.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dRTP%2bINFORMACAO%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FRTPINFORMACAO.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 #
 type=video
 name=RTP INTERNACIONAL
