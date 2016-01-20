@@ -7,7 +7,7 @@ title=[COLOR blue]TV Direto[/COLOR]
 type=playlist
 thumb=http://41.media.tumblr.com/tumblr_m90uvzGVpK1rbv2ubo1_1280.jpg
 name=[COLOR yellow][B][I]LIVE SPORTS[/I][/B][/COLOR]
-URL=#https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/live.plx
+URL=https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/live.plx
 #
 type=playlist
 thumb=http://www.ultrahd4kwallpaper.in/wp-content/uploads/2014/09/argentina-flag-hd-pictures-2.jpg
