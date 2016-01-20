@@ -385,7 +385,7 @@ URL=
 type=video
 name=MANCHESTER UNITED TV
 thumb=http://www.upc.ie/television/premium/Mutv/_jcr_content/topspot_fullwidth/nested_columns/parsys-0/grouping/grouped/nested_columns/parsys-0/image.img.png/1410442625222.png
-#URL=plugin://plugin.video.SportsDevil/?item=url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D10%2526q%253D%2526sort%253D1%26title%3dMUTV%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembedplayer_new.php%253Fwidth%253D640%2526height%253D480%2526channel%253D68934%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Streams%26definedIn%3dilive.to.cfg%26director%3dilive.to%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fchannels%252F%253Fp%253D9%2526q%253D%2526sort%253D1%26genre%3dLive%2bTV%26type%3drss%26icon%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fiugceoy4o6ljhck_snapshot.jpg&amp;mode=1
+URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+white%5DMUTV%5B%2FCOLOR%5D&amp;url=http%3A%2F%2F178.18.31.55%3A8081%2Fliverepeater%2F227472%2Fplaylist.m3u8%3FwmsAuthSign%3D%24doregex%5Bm3u8%5D%3Cregex%3E%3Cname%3Em3u8%3C%2Fname%3E%3Cexpres%3EwmsAuthSign%3D%28%5B%5E%22%5D%2A%29%3C%2Fexpres%3E%3Cpage%3Ehttp%3A%2F%2Fbiggestplayer.me%2Fstreamcrjeje2.php%3Fid%3D227472%26width%3D620%26height%3D490%3C%2Fpage%3E%3Creferer%3Ehttp%3A%2F%2Ftheactionlive.com%2Flivegamecr2.php%3Fid%3Dmutvd%26width%3D620%26height%3D490%26stretching%3C%2Freferer%3E%3C%2Fregex%3E&amp;audio=0&amp;image=http%3A%2F%2F3.bp.blogspot.com%2F-SJAJoSt_9DY%2FVawv7U0YVrI%2FAAAAAAAAB-Y%2FdSW3KVWiWwU%2Fs1600%2Fmutv%252Blive%252Bstream.jpg&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Faby4q1mvb%2Funited_kingdom_flag_16_cool_background.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 
 
 #
@@ -414,6 +414,11 @@ type=video
 name=NBCSN HD
 thumb=http://worldsoccertalk.com/wp-content/uploads/2014/01/nbcsn-logo-600x401.jpg
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dVip3%2bHD%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F71391%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%2540%26videoTitle%3dVip3%2bHD%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F71391%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fy3eik0l8ll47vpz_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fy3eik0l8ll47vpz_snapshot.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.streamlive.to%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
+#
+type=video
+name=NBCSN
+thumb=http://worldsoccertalk.com/wp-content/uploads/2014/01/nbcsn-logo-600x401.jpg
+URL=plugin://plugin.video.phstreams/?name=NBC+SPORT&amp;url=http%3A%2F%2Fwww.streamlive.to%2Fview%2F71137%2FNBC_Sport_Network-live-stream-channel&amp;audio=0&amp;image=http%3A%2F%2Fwww.lyngsat-logo.com%2Flogo%2Ftv%2Fnn%2Fnbc_sports_network_alternate.png+&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fhp4sgw93b%2Fbest_sport_collection_wallpaper_hd_backgrounds.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
 name=NBCSN
@@ -778,7 +783,7 @@ URL=plugin://plugin.video.phstreams/?name=Sportsnet+360+&amp;url=rtmp%3A%2F%2F18
 type=video
 name=SPORTSNET ONE
 thumb=http://img4.wikia.nocookie.net/__cb20140410170629/logopedia/images/4/41/Snone-1-.png
-URL=
+URL=plugin://plugin.video.phstreams/?name=Sportsnet+One+&amp;url=rtmp%3A%2F%2F31.220.2.149%3A80%2Flive+playpath%3Dsprt1+swfUrl%3Dhttp%3A%2F%2Fp.jwpcdn.com%2F6%2F12%2Fjwplayer.flash.swf+pageUrl%3Dhttp%3A%2F%2Fyotv.co%2Fembedu.php%3Flive%3Dsprt1%26vw%3D620%26vh%3D490+live%3D1+token%3D%25Zrey%28nKa%40%23Z&amp;audio=0&amp;image=http%3A%2F%2Fwww.sportsnet.ca%2Fwp-content%2Fuploads%2F2013%2F03%2Fsn-one.jpg+&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fhp4sgw93b%2Fbest_sport_collection_wallpaper_hd_backgrounds.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
 name=SPORTSNET ONTARIO
@@ -788,7 +793,7 @@ URL=plugin://plugin.video.phstreams/?name=Sportsnet+Ontario+&amp;url=rtmp%3A%2F%
 type=video
 name=SPORTSNET WORLD 
 thumb=https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Sportsnet_World_HD_logo.PNG/800px-Sportsnet_World_HD_logo.PNG
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSportsnet%2bWorld%26url%3dhttp%253A%252F%252Fcricfree.sx%252Fsportsnet-world-live-streaming%26videoTitle%3dSportsnet%2bWorld%26director%3dcricfree.tv%26genre%3dTV%26referer%3dhttp%253A%252F%252Fcricfree.sx%252F%26definedIn%3dtv%252Fcricfree.tv.cfg%26link%3dsportsnet-world-live-streaming%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fchannels%252FSportsnet%2bWorld&amp;mode=1
+#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSportsnet%2bWorld%26url%3dhttp%253A%252F%252Fcricfree.sx%252Fsportsnet-world-live-streaming%26videoTitle%3dSportsnet%2bWorld%26director%3dcricfree.tv%26genre%3dTV%26referer%3dhttp%253A%252F%252Fcricfree.sx%252F%26definedIn%3dtv%252Fcricfree.tv.cfg%26link%3dsportsnet-world-live-streaming%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fchannels%252FSportsnet%2bWorld&amp;mode=1
 #
 type=video
 name=SUPERSPORT 1
