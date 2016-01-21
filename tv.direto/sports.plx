@@ -264,7 +264,7 @@ URL=http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?-1332/1499-20150816T15
 type=video
 name=ESPN
 thumb=http://www.espnfrontrow.com/wp-content/uploads/2012/12/espn-1.jpg
-URL=http://167.114.102.27/live/e83Of9FnI84oX_LrxMvQMg/1453352203/7b0ef842a6a1233a8a86a8533063a1a1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+URL=http://167.114.102.27/live/F9G4tYmsRoe6g9Rqx7C1wpA%2F1453429319%2F7b0ef842a6a1233a8a86a8533063a1a1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 #
 type=video
 name=ESPN 1 (US)
