@@ -20,7 +20,7 @@ URL=
 
 #
 type=video
-name=A & E 1
+name=A & E
 thumb=https://pbs.twimg.com/profile_images/378800000858931576/94dkj9QW_400x400.jpeg
 URL=http://167.114.102.27/live/jIN78A51VMMvfmqdVWarwA/1453354357/bb38d9048b7b91706264169a031f32a4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 #
@@ -48,7 +48,7 @@ URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp
 type=video
 name=AMC
 thumb=http://channelpear.com/images/media/2556.png
-URL=http://167.114.102.27/live/JqAynkwQBIPqhKgtGEUd4Q/1453352188/7c52ed5b8820b7dfd90b5a784bac64b3.m3u8
+URL=http://167.114.102.27/live/JqAynkwQBIPqhKgtGEUd4Q/1453352188/7c52ed5b8820b7dfd90b5a784bac64b3.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 #
 type=video
 name=AMC
@@ -116,7 +116,7 @@ URL=
 type=video
 name=COMEDY CENTRAL
 thumb=http://www.chud.com/articles/content_images/17/ComedyCentralLogo.jpg
-URL=http://167.114.102.27/live/wKgWl709mdRY8PJXzDEQrA/1453351143/fa894851552e99b1cc146264a8ffaf4b.m3u8
+URL=http://167.114.102.27/live/wKgWl709mdRY8PJXzDEQrA/1453351143/fa894851552e99b1cc146264a8ffaf4b.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 #
 type=video
 name=COMEDY CENTRAL
@@ -127,7 +127,7 @@ URL=plugin://plugin.video.SportsDevil/?item=videoTitle%3dComedy%2bCentral%26titl
 type=video
 name=CW 
 thumb=http://www.glaad.org/sites/default/files/The-cw-tv-now.jpg
-URL=http%3A%2F%2F167.114.102.27%2Flive%2FubsNlI8vca_-g0-5HKr4Yw%2F1453351935%2Fd61960e75b1a90a23ebfb02f0bb46678.m3u8
+URL=http%3A%2F%2F167.114.102.27%2Flive%2FubsNlI8vca_-g0-5HKr4Yw%2F1453351935%2Fd61960e75b1a90a23ebfb02f0bb46678.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 #
 type=video
 name=CW
@@ -142,7 +142,7 @@ URL=
 type=video
 name=DISCOVERY CHANNEL
 thumb=http://chinatvinc.com/tv/wp-content/uploads/2014/11/discoveryhd_newlogo_042008.jpg
-URL=http://167.114.102.27/live/whwBhXv5i_NwUmSVQL8H_A/1453352196/a490ae75a3ec2acf16c9f592e889eb4c.m3u8
+URL=http://167.114.102.27/live/whwBhXv5i_NwUmSVQL8H_A/1453352196/a490ae75a3ec2acf16c9f592e889eb4c.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 #
 type=video
 name=DISCOVERY HISTORY
@@ -188,7 +188,7 @@ URL=http://link.theplatform.com/s/dtjsEC/chjdYJxKb44V?manifest=m3u
 type=video
 name=HISTORY
 thumb=http://ncph.org/cms/wp-content/uploads/History_Logo_White_Space.jpg
-URL=http://167.114.102.27/live/g2TZ4d5PF1cy1bp4ztWAtA/1453352205/d4a4950b7b7267417aa0b9733f30b6fe.m3u8
+URL=http://167.114.102.27/live/g2TZ4d5PF1cy1bp4ztWAtA/1453352205/d4a4950b7b7267417aa0b9733f30b6fe.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 #
 type=video
 name=H2
@@ -270,7 +270,7 @@ URL=
 type=video
 name=NICKELODEON
 thumb=http://www.2015auditions.com/wp-content/uploads/2015/05/Nickelodeon-old-school-nickelodeon-295359_1024_768.jpg
-URL=http%3A%2F%2F167.114.102.27%2Flive%2FvbT6FK841NjI8bylcEyysg%2F1453352207%2Fb11cc9ad84502b27a63fa7a8d813ef6a.m3u8
+URL=http%3A%2F%2F167.114.102.27%2Flive%2FvbT6FK841NjI8bylcEyysg%2F1453352207%2Fb11cc9ad84502b27a63fa7a8d813ef6a.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 #
 type=video
 name=PBS KIDS
@@ -380,7 +380,7 @@ thumb=http://www.alexmusic.net/tele/tvshots/0604/private.jpg
 URL=http://178.33.126.213:1935/leved/privateCom/.m3u8
 #
 type=video
-name=PASSIE
+name=PASSION
 thumb=http://www.alexmusic.net/tele/tvshots/0604/private.jpg
 URL=http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
 #
@@ -392,7 +392,7 @@ URL=
 type=video
 name=HUSTLER HD
 thumb=http://www.alexmusic.net/tele/tvshots/0604/private.jpg
-URL=http://178.21.120.198:1935/live3/_definst_/mp4:hustlerhd/playlist.m3u8
+URL=
 #
 type=video
 name=EROTIC
@@ -402,7 +402,7 @@ URL=http://46.182.25.34:1935/tv/1420/playlist.m3u8
 type=video
 name=MOFOS
 thumb=http://www.alexmusic.net/tele/tvshots/0604/private.jpg
-URL=http://188.165.220.116:8081/live2/47/playlist.m3u8
+URL=
 #
 type=video
 name=MIAMI
