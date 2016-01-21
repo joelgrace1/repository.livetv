@@ -262,6 +262,11 @@ thumb=http://www.camtel.com/Images/Interior/channel%20logos/espn%20hd%20logo.jpg
 URL=http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?-1332/1499-20150816T153535.ts=-1
 #
 type=video
+name=ESPN
+thumb=http://www.espnfrontrow.com/wp-content/uploads/2012/12/espn-1.jpg
+URL=http://167.114.102.27/live/e83Of9FnI84oX_LrxMvQMg/1453352203/7b0ef842a6a1233a8a86a8533063a1a1.m3u8
+#
+type=video
 name=ESPN 1 (US)
 thumb=http://www.espnfrontrow.com/wp-content/uploads/2012/12/espn-1.jpg
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dESPN%2bUSA%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F71561%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dESPN%2bUSA%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F71561%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fly11kxowritf0ts_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fly11kxowritf0ts_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
@@ -281,11 +286,7 @@ type=video
 name=ESPN NEWS
 thumb=http://www.polariscable.com/wp-content/uploads/2011/04/espnews.png
 URL=
-#
-type=video
-name=ESPN UK
-thumb=http://www.espnfrontrow.com/wp-content/uploads/2012/12/espn-1.jpg
-URL=
+
 #
 type=video
 name=EUROSPORT HD (FR)

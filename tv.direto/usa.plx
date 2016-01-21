@@ -22,7 +22,7 @@ URL=
 type=video
 name=A & E
 thumb=https://pbs.twimg.com/profile_images/378800000858931576/94dkj9QW_400x400.jpeg
-URL=
+URL=http://167.114.102.27/live/vlBaUxtXPgAhdBN4wURm7Q/1453352183/bb38d9048b7b91706264169a031f32a4.m3u8
 #
 type=video
 name=ABC
@@ -43,6 +43,12 @@ type=video
 name=ALIENS AND UFO’S
 thumb=http://static.filmon.com/assets/channels/3548/big_logo.png
 URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Faliens-and-ufos%26title%3dAliens%2band%2bUFOs%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Faliens-and-ufos%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dAliens%2band%2bUFOs%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F3548%252Fbig_logo.png&amp;mode=1
+
+#
+type=video
+name=AMC
+thumb=http://channelpear.com/images/media/2556.png
+URL=http://167.114.102.27/live/JqAynkwQBIPqhKgtGEUd4Q/1453352188/7c52ed5b8820b7dfd90b5a784bac64b3.m3u8
 #
 type=video
 name=AMC
@@ -105,6 +111,12 @@ type=video
 name=CNN US
 thumb=https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED.png
 URL=
+
+#
+type=video
+name=COMEDY CENTRAL
+thumb=http://www.chud.com/articles/content_images/17/ComedyCentralLogo.jpg
+URL=http://167.114.102.27/live/wKgWl709mdRY8PJXzDEQrA/1453351143/fa894851552e99b1cc146264a8ffaf4b.m3u8
 #
 type=video
 name=COMEDY CENTRAL
@@ -113,18 +125,15 @@ URL=plugin://plugin.video.SportsDevil/?item=videoTitle%3dComedy%2bCentral%26titl
 
 #
 type=video
+name=CW 
+thumb=http://www.glaad.org/sites/default/files/The-cw-tv-now.jpg
+URL=http%3A%2F%2F167.114.102.27%2Flive%2FubsNlI8vca_-g0-5HKr4Yw%2F1453351935%2Fd61960e75b1a90a23ebfb02f0bb46678.m3u8
+#
+type=video
 name=CW
 thumb=http://www.glaad.org/sites/default/files/The-cw-tv-now.jpg
 URL= plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D5%2526q%253D%26title%3dCW%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F52510%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dCW%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D4%2526q%253D%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F00t250wv1d4ltib_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F00t250wv1d4ltib_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
-
 #
-type=video
-name=CW 
-thumb=http://www.glaad.org/sites/default/files/The-cw-tv-now.jpg
-URL=
-#
-
-
 type=video
 name=DESTINATION AMERICA
 thumb=http://media.press.discovery.com.s3.amazonaws.com/ugc/logos/2012/04/04/Final_4_color_logo__.jpg
@@ -133,7 +142,7 @@ URL=
 type=video
 name=DISCOVERY CHANNEL
 thumb=http://chinatvinc.com/tv/wp-content/uploads/2014/11/discoveryhd_newlogo_042008.jpg
-URL=
+URL=http://167.114.102.27/live/whwBhXv5i_NwUmSVQL8H_A/1453352196/a490ae75a3ec2acf16c9f592e889eb4c.m3u8
 #
 type=video
 name=DISCOVERY HISTORY
@@ -179,7 +188,7 @@ URL=http://link.theplatform.com/s/dtjsEC/chjdYJxKb44V?manifest=m3u
 type=video
 name=HISTORY
 thumb=http://ncph.org/cms/wp-content/uploads/History_Logo_White_Space.jpg
-URL=
+URL=http://167.114.102.27/live/g2TZ4d5PF1cy1bp4ztWAtA/1453352205/d4a4950b7b7267417aa0b9733f30b6fe.m3u8
 #
 type=video
 name=H2
@@ -257,6 +266,11 @@ type=video
 name=NBC
 thumb=http://ourdailynewsonline.com/wp-content/uploads/2015/05/Nbc_logo-7.png
 URL=
+#
+type=video
+name=NICKELODEON
+thumb=http://www.2015auditions.com/wp-content/uploads/2015/05/Nickelodeon-old-school-nickelodeon-295359_1024_768.jpg
+URL=http%3A%2F%2F167.114.102.27%2Flive%2FvbT6FK841NjI8bylcEyysg%2F1453352207%2Fb11cc9ad84502b27a63fa7a8d813ef6a.m3u8
 #
 type=video
 name=PBS KIDS

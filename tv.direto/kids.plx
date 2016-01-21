@@ -60,11 +60,7 @@ type=video
 name=DISNEY (BRA)
 thumb=http://upload.wikimedia.org/wikipedia/fr/7/70/Disney_Junior.png
 URL=
-#
-type=video
-name=NICKELODEON
-thumb=http://www.2015auditions.com/wp-content/uploads/2015/05/Nickelodeon-old-school-nickelodeon-295359_1024_768.jpg
-URL=
+
 #
 type=video
 name=NICK JR
