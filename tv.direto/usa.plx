@@ -20,9 +20,9 @@ URL=
 
 #
 type=video
-name=A & E
+name=A & E 1
 thumb=https://pbs.twimg.com/profile_images/378800000858931576/94dkj9QW_400x400.jpeg
-URL=http://167.114.102.27/live/vlBaUxtXPgAhdBN4wURm7Q/1453352183/bb38d9048b7b91706264169a031f32a4.m3u8
+URL=http://167.114.102.27/live/jIN78A51VMMvfmqdVWarwA/1453354357/bb38d9048b7b91706264169a031f32a4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 #
 type=video
 name=ABC
