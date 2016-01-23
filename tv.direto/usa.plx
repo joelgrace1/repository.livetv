@@ -22,7 +22,7 @@ URL=
 type=video
 name=A & E
 thumb=https://pbs.twimg.com/profile_images/378800000858931576/94dkj9QW_400x400.jpeg
-URL=http://167.114.102.27/live/F795Xfw8Uh76qT58GJR3eA/1453429584/bb38d9048b7b91706264169a031f32a4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+URL=
 #
 type=video
 name=ABC
@@ -48,7 +48,7 @@ URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp
 type=video
 name=AMC
 thumb=http://channelpear.com/images/media/2556.png
-URL=http://167.114.102.27/live/Z_2lG2V_wYnz5o-gxSKrJw/1453429310/7c52ed5b8820b7dfd90b5a784bac64b3.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+URL=
 #
 type=video
 name=AMC
@@ -116,7 +116,7 @@ URL=
 type=video
 name=COMEDY CENTRAL
 thumb=http://www.chud.com/articles/content_images/17/ComedyCentralLogo.jpg
-URL=http://167.114.102.27/live/FsevkfEb7JEHhVVO4YKkPuA/1453429678/fa894851552e99b1cc146264a8ffaf4b.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+URL=
 #
 type=video
 name=COMEDY CENTRAL
@@ -127,7 +127,7 @@ URL=plugin://plugin.video.SportsDevil/?item=videoTitle%3dComedy%2bCentral%26titl
 type=video
 name=CW 
 thumb=http://www.glaad.org/sites/default/files/The-cw-tv-now.jpg
-URL=http://167.114.102.27/live/FjmrxR1RzV6JBx7dFqVl1Tg/1453429603/d61960e75b1a90a23ebfb02f0bb46678.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+URL=
 #
 type=video
 name=CW
@@ -142,7 +142,7 @@ URL=
 type=video
 name=DISCOVERY CHANNEL
 thumb=http://chinatvinc.com/tv/wp-content/uploads/2014/11/discoveryhd_newlogo_042008.jpg
-URL=http://167.114.102.27/live/FI2mX3ztlA9KkccwFRLgVFg%2F1453429594%2Fa490ae75a3ec2acf16c9f592e889eb4c.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+URL=
 #
 type=video
 name=DISCOVERY HISTORY
@@ -188,7 +188,7 @@ URL=http://link.theplatform.com/s/dtjsEC/chjdYJxKb44V?manifest=m3u
 type=video
 name=HISTORY
 thumb=http://ncph.org/cms/wp-content/uploads/History_Logo_White_Space.jpg
-URL=http://167.114.102.27/live/FwR47TaFBzfdexdcWB9F7gw/1453429599/d4a4950b7b7267417aa0b9733f30b6fe.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+URL=
 #
 type=video
 name=H2
@@ -270,7 +270,7 @@ URL=
 type=video
 name=NICKELODEON
 thumb=http://www.2015auditions.com/wp-content/uploads/2015/05/Nickelodeon-old-school-nickelodeon-295359_1024_768.jpg
-URL=http://167.114.102.27/live/FkN_Uj1Ezk4p94IvViyDD4w/1453429324/b11cc9ad84502b27a63fa7a8d813ef6a.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+URL=
 #
 type=video
 name=PBS KIDS
