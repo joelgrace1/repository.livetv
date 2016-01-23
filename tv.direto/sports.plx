@@ -247,6 +247,11 @@ thumb=http://www.enachescu.ro/wp-content/uploads/DC-Sport-generic-horizontal.jpg
 URL=http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport3/playlist.m3u8
 #
 type=video
+name=ESPN BASEBALL TODAY
+thumb=http://static.filmon.com/assets/channels/1147/big_logo.png
+URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Fespn-baseball-today%26title%3dESPN%2bBaseball%2bToday%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Fespn-baseball-today%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dESPN%2bBaseball%2bToday%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F1147%252Fbig_logo.png&amp;mode=1
+#
+type=video
 name=ESPN HD (MEX)
 thumb=http://www.camtel.com/Images/Interior/channel%20logos/espn%20hd%20logo.jpg
 URL=http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?-1332/1499-20150816T153535.ts=-1
@@ -878,11 +883,7 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%2
 
 
 
-#
-type=video
-name=
-thumb=
-URL=
+
 #
 type=video
 name=

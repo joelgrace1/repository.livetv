@@ -25,9 +25,9 @@ thumb=http://1.bp.blogspot.com/--ASq9nxb4Xk/UitylHUthQI/AAAAAAAARZY/5PX-bIvLFW8/
 URL=rtmp://109.239.142.62/live/livestream3 timeout=15
 #
 type=video
-name=CLUBLAND
-thumb=http://s014.radikal.ru/i328/1102/9d/a29458a71a94.jpg
-URL=
+name=CLUBBING TV
+thumb=http://static.filmon.com/assets/channels/691/big_logo.png
+URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Fclubbing-tv%26title%3dClubbing%2bTV%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Fclubbing-tv%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dClubbing%2bTV%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F691%252Fbig_logo.png&amp;mode=1
 #
 type=video
 name=HIP HOP CHANNEL
