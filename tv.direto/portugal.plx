@@ -211,7 +211,7 @@ URL=http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/mas
 type=video
 name=SPORT TV 1 (PLEXUS)
 thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
-URL=plugin://program.plexus/?url=c39db61fd585ebfa446983d0af9d9d637df9678c&amp;mode=1&amp;name=sporttv1
+URL=plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&mode=1&name=acestream&mode=1&name=SPORT TV1
 #
 type=video
 name=SPORT TV 1
@@ -306,7 +306,7 @@ URL=http://91.204.214.106:23201/stolen/250l/xenixos.7z
 type=video
 name=BENFICA TV 1 (PLEXUS)
 thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
-URL=plugin://program.plexus/?url=4e0b64e76d0463e96cefa68bdec74674d9c6f721&amp;mode=1&amp;name=benfica
+URL=plugin://program.plexus/?mode=1&url=acestream://3c4f575ec49b64f4bd34d0c6e3ed4dbaf6171e82&mode=1&name=acestream&mode=1&name=BENFICA TV 1
 #
 type=video
 name=BENFICA TV 1
@@ -337,7 +337,7 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dB%2bTV%2
 type=video
 name=BENFICA TV 2 (PLEXUS)
 thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
-URL=plugin://program.plexus/?mode=1&url=acestream://268ff30294df9bf2145d2c684f67edc60ea4dcd6&mode=1&name=acestream&mode=1&name=BENFICA TV 2
+URL=plugin://program.plexus/?mode=1&url=acestream://b65b8012d9cabc96b74013fb2f2ba9ead3e0b262&mode=1&name=acestream&mode=1&name=BENFICA TV 2
 #
 type=video
 name=TELEKANAL (LIGA PORTUGUESA)
@@ -368,7 +368,7 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dMOTORS%2
 type=video
 name=ABOLA TV
 thumb=http://www.troiaportugalmatchcup.com/media/1039/aBolaTV.png
-URL=
+URL=http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/1002.m3u8
 #
 type=video
 name=EURONEWS
@@ -483,22 +483,47 @@ URL=rtmp://213.13.26.11/live playpath=santuario.stream swfUrl=http://imgs.sapo.p
 type=video
 name=TV CINE 1
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=
+URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/650.m3u8
+#
+type=video
+name=TV CINE 1
+thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
+URL=http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/89.m3u8
 #
 type=video
 name=TV CINE 2
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=
+URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/649.m3u8
+#
+type=video
+name=TV CINE 2
+thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
+URL=http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/90.m3u8
 #
 type=video
 name=TV CINE 3
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=
+URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/648.m3u8
+#
+type=video
+name=TV CINE 3
+thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
+URL=http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/91.m3u8
 #
 type=video
 name=TV CINE 4
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=
+URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/647.m3u8
+#
+type=video
+name=TV CINE 4
+thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
+URL=http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/92.m3u8
+#
+type=video
+name=TV CINE SERIES
+thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
+URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/651.m3u8
 #
 type=video
 name=SIC KIDS

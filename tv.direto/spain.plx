@@ -211,7 +211,7 @@ URL=rtmp://31.220.0.206/privatestreamplus/telecincotdt8 swfUrl=http://privatestr
 type=video
 name=TELECINCO
 thumb=http://img.vayatele.com/2012/12/telecinco-logo2.jpg
-URL=http://iptv80.ddns.net:9070/live/karimos/skype88/197.m3u8
+URL=http://62.65.140.219:80/session/70b2f5e4-c221-11e5-9f24-005056bc06d1/nvnv5a/1/1090/index.m3u8?token=e6f2bfef9146782c96e1e3afecf847e0_1453674858_1453674858&p=127|X-Forwarded-For=85.195.192.0
 #
 type=video
 name=TV MELILLA

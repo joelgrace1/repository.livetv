@@ -107,7 +107,7 @@ URL=http://91.204.214.106:23201/stolen/250l/xenixos.7z
 type=video
 name=BENFICA TV 1 (PLEXUS)
 thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
-URL=plugin://program.plexus/?url=4e0b64e76d0463e96cefa68bdec74674d9c6f721&amp;mode=1&amp;name=benfica
+URL=plugin://program.plexus/?mode=1&url=acestream://3c4f575ec49b64f4bd34d0c6e3ed4dbaf6171e82&mode=1&name=acestream&mode=1&name=BENFICA TV 1
 #
 type=video
 name=BENFICA TV 1
@@ -137,7 +137,7 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dB%2bTV%2
 type=video
 name=BENFICA TV 2 (PLEXUS)
 thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
-URL=plugin://program.plexus/?mode=1&url=acestream://268ff30294df9bf2145d2c684f67edc60ea4dcd6&mode=1&name=acestream&mode=1&name=BENFICA TV 2
+URL=plugin://program.plexus/?mode=1&url=acestream://b65b8012d9cabc96b74013fb2f2ba9ead3e0b262&mode=1&name=acestream&mode=1&name=BENFICA TV 2
 #
 type=video
 name=BOXNATION
@@ -698,7 +698,7 @@ URL=http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/mas
 type=video
 name=SPORT TV 1 (PLEXUS)
 thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
-URL=plugin://program.plexus/?url=c39db61fd585ebfa446983d0af9d9d637df9678c&amp;mode=1&amp;name=sporttv1
+URL=plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&mode=1&name=acestream&mode=1&name=SPORT TV1
 #
 type=video
 name=SPORT TV 1
