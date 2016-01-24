@@ -359,6 +359,11 @@ thumb=http://static.filmon.com/assets/channels/3557/big_logo.png
 URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Ffootball-heroes%26title%3dFootball%2bHeroes%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Ffootball-heroes%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dFootball%2bHeroes%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F3557%252Fbig_logo.png&amp;mode=1
 #
 type=video
+name=FOOTBALL REPORT
+thumb=http://www.iptvlinksss.com/wp-content/uploads/2015/12/football-report-fubo-tv-America-logo-design-26.png
+URL=http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballReport_all/chunklist.m3u8
+#
+type=video
 name=FOX SPORTS (MEX)
 thumb=http://img4.wikia.nocookie.net/__cb20140414164158/logopedia/images/6/6f/Logo_fox_sports.png
 URL=
@@ -367,6 +372,8 @@ type=video
 name=FOX SOCCER CHANNEL
 thumb=http://worldsoccertalk.com/wp-content/uploads/2012/04/fox-soccer-plus-logo1.jpg
 URL=
+
+
 #
 type=video
 name=GOL TV
@@ -393,7 +400,11 @@ name=MANCHESTER UNITED TV
 thumb=http://www.upc.ie/television/premium/Mutv/_jcr_content/topspot_fullwidth/nested_columns/parsys-0/grouping/grouped/nested_columns/parsys-0/image.img.png/1410442625222.png
 URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+white%5DMUTV%5B%2FCOLOR%5D&amp;url=http%3A%2F%2F178.18.31.55%3A8081%2Fliverepeater%2F227472%2Fplaylist.m3u8%3FwmsAuthSign%3D%24doregex%5Bm3u8%5D%3Cregex%3E%3Cname%3Em3u8%3C%2Fname%3E%3Cexpres%3EwmsAuthSign%3D%28%5B%5E%22%5D%2A%29%3C%2Fexpres%3E%3Cpage%3Ehttp%3A%2F%2Fbiggestplayer.me%2Fstreamcrjeje2.php%3Fid%3D227472%26width%3D620%26height%3D490%3C%2Fpage%3E%3Creferer%3Ehttp%3A%2F%2Ftheactionlive.com%2Flivegamecr2.php%3Fid%3Dmutvd%26width%3D620%26height%3D490%26stretching%3C%2Freferer%3E%3C%2Fregex%3E&amp;audio=0&amp;image=http%3A%2F%2F3.bp.blogspot.com%2F-SJAJoSt_9DY%2FVawv7U0YVrI%2FAAAAAAAAB-Y%2FdSW3KVWiWwU%2Fs1600%2Fmutv%252Blive%252Bstream.jpg&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Faby4q1mvb%2Funited_kingdom_flag_16_cool_background.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 
-
+#
+type=video
+name=MILLOX SPORTS TV
+thumb=http://2.bp.blogspot.com/-yzlr8KpR6bs/U5pRw1JSzmI/AAAAAAAABKk/MAuy_pjyTWo/s1600/logoMillox.png
+URL=https://video01-lax.streamup.com/app/milloxtv17xxcs-stream/playlist.m3u8
 #
 type=video
 name=MLB NETWORK
@@ -884,16 +895,8 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%2
 
 
 
-#
-type=video
-name=
-thumb=
-URL=
-#
-type=video
-name=
-thumb=
-URL=
+
+
 #
 type=video
 name=

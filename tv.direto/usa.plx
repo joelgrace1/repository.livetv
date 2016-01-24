@@ -400,9 +400,9 @@ thumb=http://www.alexmusic.net/tele/tvshots/0604/private.jpg
 URL=http://46.182.25.34:1935/tv/1420/playlist.m3u8
 #
 type=video
-name=MOFOS
+name=ERO XXX
 thumb=http://www.alexmusic.net/tele/tvshots/0604/private.jpg
-URL=
+URL=http://91.204.214.106:23371/stolen/025/duqu
 #
 type=video
 name=MIAMI
