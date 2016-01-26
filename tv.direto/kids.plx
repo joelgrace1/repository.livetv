@@ -7,11 +7,8 @@ type=video
 name=BABY TV
 thumb=https://www.babytv.com/Uploads/Editor/Images/Hippa-icon-212X212.png
 URL=
-#
-type=video
-name=CANAL PANDA (POR)
-thumb=https://genteytv.files.wordpress.com/2011/04/panda.jpg
-URL=
+
+
 
 #
 type=video
