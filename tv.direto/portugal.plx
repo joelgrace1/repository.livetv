@@ -149,7 +149,7 @@ thumb=http://3.fotos.web.sapo.io/i/Gaf135c09/17791971_6Ke0T.jpeg
 type=video
 name=SIC RADICAL
 thumb=http://tertuliadosamigos.freeoda.com/sicradical.jpg
-URL=#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSIC%2bRADICAL%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICRADICAL.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dSIC%2bRADICAL%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICRADICAL.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSIC%2bRADICAL%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICRADICAL.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dSIC%2bRADICAL%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICRADICAL.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 
 #
 type=video
@@ -206,7 +206,46 @@ type=video
 name=SPORT TV AMERICAS
 thumb=https://www.sporttv.pt/img/logo-americas.png
 URL=http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master700kbps.m3u8
-
+#
+type=video
+name=SPORT TV 1
+thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
+URL=rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#
+type=video
+name=SPORT TV 1
+thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
+URL=http://185.26.175.200:5000/udp/239.200.1.23:10000
+#
+type=video
+name=SPORT TV 2
+thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport_tv2_pt.jpg
+URL=rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#
+type=video
+name=SPORT TV 2
+thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport_tv2_pt.jpg
+URL=http://185.26.175.200:5000/udp/239.200.1.111:10000
+#
+type=video
+name=SPORT TV 3
+thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport-tv3.jpg
+URL=rtmp://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#
+type=video
+name=SPORT TV 3
+thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport-tv3.jpg
+URL=http://185.26.175.200:5000/udp/239.200.1.54:10000
+#
+type=video
+name=SPORT TV 4
+thumb=http://nowwatchtvlive.me/wp-content/uploads/2012/11/Sport-Tv-4.png
+URL=http://185.26.175.200:5000/udp/239.200.1.16:10000
+#
+type=video
+name=SPORT TV 5 
+thumb=http://i0.wp.com/www.novidadestv.com/wp-content/uploads/2014/03/SportTV_2014_logo_destak_300x216.png?fit=300%2C216
+URL=http://185.26.175.200:5000/udp/239.200.1.30:10000
 #
 type=video
 name=SPORT TV 1 (PLEXUS)
@@ -214,39 +253,9 @@ thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
 URL=plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&mode=1&name=acestream&mode=1&name=SPORT TV1
 #
 type=video
-name=SPORT TV 1
-thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
-#URL=
-#
-type=video
-name=SPORT TV 1
-thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
-URL=
-#
-type=video
-name=SPORT TV 1
-thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
-#URL=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#
-type=video
-name=SPORT TV 2
-thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport_tv2_pt.jpg
-#URL=
-#
-type=video
 name=SPORT TV 2 (PLEXUS)
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport_tv2_pt.jpg
 URL=plugin://program.plexus/?mode=1&url=acestream://6053774a957d5b6066d2f04236d7d67bc9434a8e&mode=1&name=acestream&mode=1&name=SPORT TV2
-#
-type=video
-name=SPORT TV 2
-thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport_tv2_pt.jpg
-#URL=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#
-type=video
-name=SPORT TV 3
-thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport-tv3.jpg
-URL=
 #
 type=video
 name=SPORT TV 3 (PLEXUS)
@@ -254,24 +263,9 @@ thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport-tv3.jpg
 URL=plugin://program.plexus/?mode=1&url=acestream://0b5582153832ddc45e407c71f3504736b642d59d&mode=1&name=acestream&mode=1&name=SPORT TV3
 #
 type=video
-name=SPORT TV 3
-thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport-tv3.jpg
-#URL=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#
-type=video
-name=SPORT TV 4
-thumb=http://nowwatchtvlive.me/wp-content/uploads/2012/11/Sport-Tv-4.png
-URL=
-#
-type=video
 name=SPORT TV 4 (PLEXUS)
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2012/11/Sport-Tv-4.png
 URL=plugin://program.plexus/?mode=1&url=acestream://fadff5fca7b05e7b1bfb9643ddebdf1c6dbb97d6&mode=1&name=acestream&mode=1&name=SPORT TV4
-#
-type=video
-name=SPORT TV 5 
-thumb=http://i0.wp.com/www.novidadestv.com/wp-content/uploads/2014/03/SportTV_2014_logo_destak_300x216.png?fit=300%2C216
-URL=
 #
 type=video
 name=SPORT TV 5 (PLEXUS)
@@ -291,17 +285,17 @@ thumb=http://www.tvtuga.com/wp-content/uploads/2015/08/sport1-voetbal.jpg
 URL=
 
 
-#
-type=video
-name=BENFICA TV 1 HD
-thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
-URL=
 
 #
 type=video
 name=BENFICA TV 1 HD
 thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
 URL=http://91.204.214.106:23201/stolen/250l/xenixos.7z
+#
+type=video
+name=BENFICA TV 1 HD
+thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
+URL=http://185.26.175.200:5000/udp/239.200.1.9:10000
 #
 type=video
 name=BENFICA TV 1 (PLEXUS)
@@ -316,17 +310,22 @@ URL=
 type=video
 name=SPORT TV 3 / BENFICA TV 1/2 (GAME TIME)
 thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
-#URL=rtmp://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+URL=rtmp://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 #
 type=video
 name=SPORT TV 3 / BENFICA TV 1/2  (GAME TIME)
 thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
-#URL=http://31.204.128.112:8081/live/portugal3/playlist.m3u8
+URL=http://31.204.128.112:8081/live/portugal3/playlist.m3u8
 #
 type=video
 name=BENFICA TV 2 HD
 thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
 URL=http://91.204.214.106:23201/stolen/233w/xenixos.7z
+#
+type=video
+name=BENFICA TV 2 HD
+thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
+URL=http://185.26.175.200:5000/udp/239.200.1.10:10000
 #
 type=video
 name=BENFICA TV  2
@@ -406,7 +405,7 @@ URL=#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFOX%2bL
 type=video
 name=FOX MOVIES
 thumb=http://img1.wikia.nocookie.net/__cb20100323110707/logopedia/images/e/e3/Fox_Moxie_Channel.png
-URL=#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFOX%2bMOVIES%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXMOVIES.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dFOX%2bMOVIES%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXMOVIES.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFOX%2bMOVIES%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXMOVIES.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dFOX%2bMOVIES%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXMOVIES.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 #
 type=video
 name=FOX CRIME
@@ -426,7 +425,7 @@ URL=#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDISCOVE
 type=video
 name=ODISSEIA
 thumb=http://img2.wikia.nocookie.net/__cb20130707114713/logopedia/images/e/ea/Odisseia_logo.png
-URL=#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCANAL%2bODISSEIA%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FODISSEIA.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dCANAL%2bODISSEIA%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FODISSEIA.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCANAL%2bODISSEIA%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FODISSEIA.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dCANAL%2bODISSEIA%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FODISSEIA.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 
 #
 type=video
@@ -456,7 +455,7 @@ URL=
 type=video
 name=AXN WHITE
 thumb=http://img2.wikia.nocookie.net/__cb20110927172249/logopedia/images/e/e6/AXN_Black_logo.png
-URL=#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dAXN%2bWHITE%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FAXNWHITE.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dAXN%2bWHITE%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FAXNWHITE.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dAXN%2bWHITE%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FAXNWHITE.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dAXN%2bWHITE%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FAXNWHITE.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 
 #
 type=video
