@@ -100,14 +100,24 @@ thumb=http://www.beinsports.fr/di/library/bein/7e/1f/bein-sports-3-hd_14gzpciv0r
 URL=
 #
 type=video
+name=BENFICA TV 1 (PLEXUS)
+thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
+URL=plugin://program.plexus/?mode=1&url=acestream://3c4f575ec49b64f4bd34d0c6e3ed4dbaf6171e82&mode=1&name=acestream&mode=1&name=BENFICA TV 1
+#
+type=video
+name=BENFICA TV 2 (PLEXUS)
+thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
+URL=plugin://program.plexus/?mode=1&url=acestream://b65b8012d9cabc96b74013fb2f2ba9ead3e0b262&mode=1&name=acestream&mode=1&name=BENFICA TV 2
+#
+type=video
 name=BENFICA TV 1 HD
 thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
 URL=http://91.204.214.106:23201/stolen/250l/xenixos.7z
 #
 type=video
-name=BENFICA TV 1 (PLEXUS)
+name=BENFICA TV 1 HD
 thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
-URL=plugin://program.plexus/?mode=1&url=acestream://3c4f575ec49b64f4bd34d0c6e3ed4dbaf6171e82&mode=1&name=acestream&mode=1&name=BENFICA TV 1
+URL=http://185.26.175.200:5000/udp/239.200.1.9:10000
 #
 type=video
 name=BENFICA TV 1
@@ -117,12 +127,12 @@ URL=
 type=video
 name=SPORT TV 3 / BENFICA TV 1/2 (GAME TIME)
 thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
-#URL=rtmp://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+URL=rtmp://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 #
 type=video
 name=SPORT TV 3 / BENFICA TV 1/2  (GAME TIME)
 thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
-#URL=rtmpe://r.livecast.cc/rs/ playPath=live3-qszlx live=true live=1 timeout=15 pageUrl=http://sharecast.to/embed/live3-qszlx conn=S:OK
+URL=http://31.204.128.112:8081/live/portugal3/playlist.m3u8
 #
 type=video
 name=BENFICA TV 2 HD
@@ -130,14 +140,14 @@ thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
 URL=http://91.204.214.106:23201/stolen/233w/xenixos.7z
 #
 type=video
-name=BENFICA TV  2
+name=BENFICA TV 2 HD
 thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dB%2bTV%2b2%2bBtv2%2bLive%2bStream%2bBtv%2b2%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F68625%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%2540%26videoTitle%3dB%2bTV%2b2%2bBtv2%2bLive%2bStream%2bBtv%2b2%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F68625%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fbrvyfp5nwe8oxtr_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fbrvyfp5nwe8oxtr_snapshot.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.streamlive.to%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
+URL=http://185.26.175.200:5000/udp/239.200.1.10:10000
 #
 type=video
-name=BENFICA TV 2 (PLEXUS)
+name=BENFICA TV  2
 thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
-URL=plugin://program.plexus/?mode=1&url=acestream://b65b8012d9cabc96b74013fb2f2ba9ead3e0b262&mode=1&name=acestream&mode=1&name=BENFICA TV 2
+#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dB%2bTV%2b2%2bBtv2%2bLive%2bStream%2bBtv%2b2%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F68625%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%2540%26videoTitle%3dB%2bTV%2b2%2bBtv2%2bLive%2bStream%2bBtv%2b2%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F68625%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fbrvyfp5nwe8oxtr_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fbrvyfp5nwe8oxtr_snapshot.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.streamlive.to%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=BOXNATION
@@ -693,29 +703,49 @@ URL=http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/mas
 
 #
 type=video
-name=SPORT TV 1 (PLEXUS)
+name=SPORT TV 1
 thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
-URL=plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&mode=1&name=acestream&mode=1&name=SPORT TV1
+URL=rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 #
 type=video
 name=SPORT TV 1
 thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
-#URL=
-#
-type=video
-name=SPORT TV 1
-thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
-URL=
-#
-type=video
-name=SPORT TV 1
-thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
-#URL=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+URL=http://185.26.175.200:5000/udp/239.200.1.23:10000
 #
 type=video
 name=SPORT TV 2
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport_tv2_pt.jpg
-#URL=
+URL=rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#
+type=video
+name=SPORT TV 2
+thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport_tv2_pt.jpg
+URL=http://185.26.175.200:5000/udp/239.200.1.111:10000
+#
+type=video
+name=SPORT TV 3
+thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport-tv3.jpg
+URL=rtmp://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#
+type=video
+name=SPORT TV 3
+thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport-tv3.jpg
+URL=http://185.26.175.200:5000/udp/239.200.1.54:10000
+#
+type=video
+name=SPORT TV 4
+thumb=http://nowwatchtvlive.me/wp-content/uploads/2012/11/Sport-Tv-4.png
+URL=http://185.26.175.200:5000/udp/239.200.1.16:10000
+#
+type=video
+name=SPORT TV 5 
+thumb=http://i0.wp.com/www.novidadestv.com/wp-content/uploads/2014/03/SportTV_2014_logo_destak_300x216.png?fit=300%2C216
+URL=http://185.26.175.200:5000/udp/239.200.1.30:10000
+#
+type=video
+name=SPORT TV 1 (PLEXUS)
+thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
+URL=plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&mode=1&name=acestream&mode=1&name=SPORT TV1
 #
 type=video
 name=SPORT TV 2 (PLEXUS)
@@ -723,39 +753,14 @@ thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport_tv2_pt.jpg
 URL=plugin://program.plexus/?mode=1&url=acestream://6053774a957d5b6066d2f04236d7d67bc9434a8e&mode=1&name=acestream&mode=1&name=SPORT TV2
 #
 type=video
-name=SPORT TV 2
-thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport_tv2_pt.jpg
-#URL=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#
-type=video
-name=SPORT TV 3
-thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport-tv3.jpg
-URL=
-#
-type=video
 name=SPORT TV 3 (PLEXUS)
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport-tv3.jpg
 URL=plugin://program.plexus/?mode=1&url=acestream://0b5582153832ddc45e407c71f3504736b642d59d&mode=1&name=acestream&mode=1&name=SPORT TV3
 #
 type=video
-name=SPORT TV 3
-thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport-tv3.jpg
-#URL=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#
-type=video
-name=SPORT TV 4
-thumb=http://nowwatchtvlive.me/wp-content/uploads/2012/11/Sport-Tv-4.png
-URL=
-#
-type=video
 name=SPORT TV 4 (PLEXUS)
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2012/11/Sport-Tv-4.png
 URL=plugin://program.plexus/?mode=1&url=acestream://fadff5fca7b05e7b1bfb9643ddebdf1c6dbb97d6&mode=1&name=acestream&mode=1&name=SPORT TV4
-#
-type=video
-name=SPORT TV 5 
-thumb=http://i0.wp.com/www.novidadestv.com/wp-content/uploads/2014/03/SportTV_2014_logo_destak_300x216.png?fit=300%2C216
-URL=
 #
 type=video
 name=SPORT TV 5 (PLEXUS)
