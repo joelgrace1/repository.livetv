@@ -457,7 +457,8 @@ URL=
 type=video
 name=AXN BLACK HD
 thumb=http://img2.wikia.nocookie.net/__cb20110927172249/logopedia/images/e/e6/AXN_Black_logo.png
-URL=
+URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/679.m3u8
+
 
 #
 type=video
@@ -479,7 +480,10 @@ URL=
 type=video
 name=MTV PORTUGAL
 thumb=http://www.internetsegura.pt/files/large/842
-URL=#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dMTV%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FMTV.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dMTV%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FMTV.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+URL=http://185.26.175.200:5000/udp/239.200.1.19:10000
+
+
+#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dMTV%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FMTV.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dMTV%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FMTV.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 #
 type=video
 name=CAPELINHA FATIMA
