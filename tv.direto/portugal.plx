@@ -42,7 +42,7 @@ URL=http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/pla
 type=video
 name=RTP 2 HD
 thumb=http://www.rtp.pt/wportal/grupo/logos_empresa/imagens/logos/rtp2/rtp2_a.jpg
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dRTP%2b2%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FRTP2.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dRTP%2b2%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FRTP2.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dRTP%2b2%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FRTP2.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dRTP%2b2%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FRTP2.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 #
 type=video
 name=RTP 2
@@ -143,8 +143,7 @@ URL=
 type=video
 name=SIC MULHER
 thumb=http://3.fotos.web.sapo.io/i/Gaf135c09/17791971_6Ke0T.jpeg
-URL=http://185.26.175.200:5000/udp/239.200.1.24:10000
-
+URL=
 
 #plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSIC%2bMULHER%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICMULHER.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dSIC%2bMULHER%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICMULHER.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 
@@ -296,7 +295,7 @@ URL=http://91.204.214.106:23201/stolen/250l/xenixos.7z
 type=video
 name=BENFICA TV 1 HD
 thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
-URL=http://185.26.175.200:5000/udp/239.200.1.9:10000
+URL=
 #
 type=video
 name=BENFICA TV 1
@@ -321,7 +320,7 @@ URL=http://91.204.214.106:23201/stolen/233w/xenixos.7z
 type=video
 name=BENFICA TV 2 HD
 thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
-URL=http://185.26.175.200:5000/udp/239.200.1.10:10000
+URL=
 #
 type=video
 name=BENFICA TV  2
@@ -371,7 +370,7 @@ URL=rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
 type=video
 name=HOLLYWOOD
 thumb=http://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Chollywood.png/200px-Chollywood.png
-URL=http://185.26.175.200:5000/udp/239.200.1.18:10000
+URL=
 
 
 #plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dHOLLYWOOD%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FHOLLYWOOD.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dHOLLYWOOD%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FHOLLYWOOD.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
@@ -380,14 +379,14 @@ URL=http://185.26.175.200:5000/udp/239.200.1.18:10000
 type=video
 name=SYFY HD
 thumb=http://ib1.huluim.com/company_key_art/232?size=1600x600&region=US
-URL=http://185.26.175.200:5000/udp/239.200.1.51:10000
+URL=
 
 
 #
 type=video
 name=AMC HD
 thumb=http://channelpear.com/images/media/2556.png
-URL=http://185.26.175.200:5000/udp/239.200.1.46:10000
+URL=
 
 #
 type=video
@@ -417,7 +416,7 @@ thumb=https://realhousewifeofbelgrade.files.wordpress.com/2011/01/fox-crime.jpg
 type=video
 name=HISTORIA
 thumb=http://upload.wikimedia.org/wikipedia/en/c/cd/Historia_logo.jpg
-URL=http://185.26.175.200:5000/udp/239.200.1.20:10000
+URL=
 
 
 #plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCANAL%2bHIST%25C3%2583%25C2%2593RIA%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FHISTORIA.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dCANAL%2bHIST%25C3%2583%25C2%2593RIA%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FHISTORIA.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
@@ -425,7 +424,7 @@ URL=http://185.26.175.200:5000/udp/239.200.1.20:10000
 type=video
 name=DISCOVERY
 thumb=http://chinatvinc.com/tv/wp-content/uploads/2014/11/discoveryhd_newlogo_042008.jpg
-URL=http://185.26.175.200:5000/udp/239.200.1.21:10000
+URL=
 
 
 #plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDISCOVERY%2bCHANNEL%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FDISCOVERYCHANNEL.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dDISCOVERY%2bCHANNEL%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FDISCOVERYCHANNEL.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
@@ -480,7 +479,7 @@ URL=
 type=video
 name=MTV PORTUGAL
 thumb=http://www.internetsegura.pt/files/large/842
-URL=http://185.26.175.200:5000/udp/239.200.1.19:10000
+URL=
 
 
 #plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dMTV%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FMTV.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dMTV%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FMTV.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
