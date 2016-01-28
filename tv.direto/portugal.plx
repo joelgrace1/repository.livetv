@@ -121,9 +121,9 @@ URL=#http://noscdn1.connectedviews.com:1935/live/sic.stream/%20livestream.m3u8
 
 #BG 
 type=video
-name=SIC
+name=SIC HD
 thumb=https://jornalismounisuam.files.wordpress.com/2010/06/sic-hd.jpg
-URL=
+URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/655.m3u8
 #
 type=video
 name=SIC 
@@ -218,9 +218,9 @@ thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
 URL=rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 #
 type=video
-name=SPORT TV 1
+name=SPORT TV 1 HD
 thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
-URL=http://185.26.175.200:5000/udp/239.200.1.23:10000
+URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/641.m3u8
 #
 type=video
 name=SPORT TV 2
@@ -228,9 +228,9 @@ thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport_tv2_pt.jpg
 URL=rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 #
 type=video
-name=SPORT TV 2
+name=SPORT TV 2 HD
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport_tv2_pt.jpg
-URL=http://185.26.175.200:5000/udp/239.200.1.111:10000
+URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/640.m3u8
 #
 type=video
 name=SPORT TV 3
@@ -238,19 +238,22 @@ thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport-tv3.jpg
 URL=rtmp://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 #
 type=video
-name=SPORT TV 3
+name=SPORT TV 3 HD
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport-tv3.jpg
-URL=http://185.26.175.200:5000/udp/239.200.1.54:10000
+URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/639.m3u8
+
 #
 type=video
-name=SPORT TV 4
+name=SPORT TV 4 HD
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2012/11/Sport-Tv-4.png
-URL=http://185.26.175.200:5000/udp/239.200.1.16:10000
+URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/638.m3u8
+
 #
 type=video
-name=SPORT TV 5 
+name=SPORT TV 5 HD
 thumb=http://i0.wp.com/www.novidadestv.com/wp-content/uploads/2014/03/SportTV_2014_logo_destak_300x216.png?fit=300%2C216
-URL=http://185.26.175.200:5000/udp/239.200.1.30:10000
+URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/637.m3u8
+
 #
 type=video
 name=SPORT TV 1 (PLEXUS)
@@ -295,7 +298,8 @@ URL=http://91.204.214.106:23201/stolen/250l/xenixos.7z
 type=video
 name=BENFICA TV 1 HD
 thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
-URL=
+URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/677.m3u8
+
 #
 type=video
 name=BENFICA TV 1
@@ -320,7 +324,8 @@ URL=http://91.204.214.106:23201/stolen/233w/xenixos.7z
 type=video
 name=BENFICA TV 2 HD
 thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
-URL=
+URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/676.m3u8
+
 #
 type=video
 name=BENFICA TV  2
@@ -349,7 +354,8 @@ URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/652.m3u8
 type=video
 name=EUROSPORT 1
 thumb=http://www.telezones.com/wp-content/uploads/2015/03/Eurosport-HD-Live-Telezones1.png
-#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dEUROSPORT%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F68628%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%2540%26videoTitle%3dBTV1%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F68628%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F3h3j84h39sxrlr2_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F3h3j84h39sxrlr2_snapshot.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.streamlive.to%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
+URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/667.m3u8
+
 
 #
 type=video
@@ -360,7 +366,8 @@ thumb= http://www.motorstv.com/sites/default/files/contenu/image/pages/logos/log
 type=video
 name=ABOLA TV
 thumb=http://www.troiaportugalmatchcup.com/media/1039/aBolaTV.png
-URL=http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/1002.m3u8
+URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/680.m3u8
+
 #
 type=video
 name=EURONEWS
@@ -411,7 +418,10 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFOX%2bMO
 type=video
 name=FOX CRIME
 thumb=https://realhousewifeofbelgrade.files.wordpress.com/2011/01/fox-crime.jpg
-#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFOX%2bCRIME%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXCRIME.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dFOX%2bCRIME%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXCRIME.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/645.m3u8
+
+
+#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFOX%2bCRIME%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXCRIME.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dFOX%2bCRIME%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXCRIME.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 #
 type=video
 name=HISTORIA
@@ -438,7 +448,10 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCANAL%2b
 type=video
 name=NATIONAL GEOGRAPHIC
 thumb=https://yt3.ggpht.com/-2tol5SGixqs/AAAAAAAAAAI/AAAAAAAAAAA/gI_3L64uED0/s900-c-k-no/photo.jpg
-#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNATIONAL%2bGEOGRAPHIC%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FNATIONALGEOGRAPHIC.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dNATIONAL%2bGEOGRAPHIC%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FNATIONALGEOGRAPHIC.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/660.m3u8
+
+
+#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNATIONAL%2bGEOGRAPHIC%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FNATIONALGEOGRAPHIC.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dNATIONAL%2bGEOGRAPHIC%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FNATIONALGEOGRAPHIC.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 
 #
 type=video
@@ -498,7 +511,7 @@ URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/650.m3u8
 type=video
 name=TV CINE 1
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/89.m3u8
+URL=
 #
 type=video
 name=TV CINE 2
@@ -508,7 +521,7 @@ URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/649.m3u8
 type=video
 name=TV CINE 2
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/90.m3u8
+URL=
 #
 type=video
 name=TV CINE 3
@@ -518,7 +531,7 @@ URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/648.m3u8
 type=video
 name=TV CINE 3
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/91.m3u8
+URL=
 #
 type=video
 name=TV CINE 4
@@ -528,7 +541,7 @@ URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/647.m3u8
 type=video
 name=TV CINE 4
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=http://iptvcolor.myftp.biz:8000/live/www.facebook.com/IptvColor-202070440129363/iptvparatodos/92.m3u8
+URL=
 #
 type=video
 name=TV CINE SERIES
