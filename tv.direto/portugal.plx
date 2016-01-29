@@ -7,7 +7,7 @@ title=[COLOR green]PORTUGAL[/COLOR]
 type=video
 name=TEST 1
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=
+URL=http://pt-stream.fubotv.com.global.prod.fastly.net:80/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b1628000.m3u8|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.4.4 (KHTML, like Gecko) Version/9.0.3 Safari/601.4.4
 #
 type=video
 name=RTP 1 HD
@@ -211,6 +211,8 @@ type=video
 name=SPORT TV AMERICAS
 thumb=https://www.sporttv.pt/img/logo-americas.png
 URL=http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master700kbps.m3u8
+
+
 #
 type=video
 name=SPORT TV 1
