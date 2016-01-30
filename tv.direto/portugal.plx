@@ -7,7 +7,7 @@ title=[COLOR green]PORTUGAL[/COLOR]
 type=video
 name=TEST 1
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=http://pt-stream.fubotv.com.global.prod.fastly.net:80/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b1628000.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.4.4 (KHTML, like Gecko) Version/9.0.3 Safari/601.4.4
+URL=
 #
 type=video
 name=RTP 1 HD
@@ -37,7 +37,7 @@ URL=#http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
 type=video
 name=RTP 2 HD
 thumb=http://www.rtp.pt/wportal/grupo/logos_empresa/imagens/logos/rtp2/rtp2_a.jpg
-URL=http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
+URL=rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15
 #
 type=video
 name=RTP 2 HD
@@ -200,18 +200,17 @@ URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/671.m3u8
 type=video
 name=SPORT TV AMERICAS HD
 thumb=https://www.sporttv.pt/img/logo-americas.png
-URL=http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master2500kbps.m3u8
+URL=#http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master2500kbps.m3u8
 #
 type=video
 name=SPORT TV AMERICAS
 thumb=https://www.sporttv.pt/img/logo-americas.png
-URL=http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master1300kbps.m3u8
+URL=#http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master1300kbps.m3u8
 #
 type=video
 name=SPORT TV AMERICAS
 thumb=https://www.sporttv.pt/img/logo-americas.png
-URL=http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master700kbps.m3u8
-
+URL=#http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master700kbps.m3u8
 
 #
 type=video
