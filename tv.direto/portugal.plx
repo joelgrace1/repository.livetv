@@ -171,7 +171,7 @@ URL=http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
 #
 type=video
 name=TVI 24 HD
-thumb=http://portaldosprogramas.com/wp-content/uploads/2014/01/tvi-24-798x350.png
+thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/tvi24.jpg
 URL=http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 #
 type=video
