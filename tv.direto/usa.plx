@@ -127,7 +127,7 @@ URL=plugin://plugin.video.SportsDevil/?item=videoTitle%3dComedy%2bCentral%26titl
 type=video
 name=CW 
 thumb=http://www.glaad.org/sites/default/files/The-cw-tv-now.jpg
-URL=
+URL=http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8
 #
 type=video
 name=CW
