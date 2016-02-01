@@ -123,7 +123,7 @@ URL=#http://noscdn1.connectedviews.com:1935/live/sic.stream/%20livestream.m3u8
 type=video
 name=SIC HD
 thumb=https://jornalismounisuam.files.wordpress.com/2010/06/sic-hd.jpg
-URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/655.m3u8
+URL=
 #
 type=video
 name=SIC 
@@ -192,7 +192,7 @@ URL=
 type=video
 name=CM TV
 thumb=http://www.tvtuga.com/wp-content/uploads/2015/01/CMTV.jpg
-URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/671.m3u8
+URL=
 
 
 #plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCM%2bTV%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FCMTV.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dCM%2bTV%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FCMTV.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
@@ -221,7 +221,7 @@ URL=rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast
 type=video
 name=SPORT TV 1 HD
 thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
-URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/641.m3u8
+URL=
 #
 type=video
 name=SPORT TV 2
@@ -231,7 +231,7 @@ URL=rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast
 type=video
 name=SPORT TV 2 HD
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport_tv2_pt.jpg
-URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/640.m3u8
+URL=
 #
 type=video
 name=SPORT TV 3
@@ -241,19 +241,19 @@ URL=rtmp://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast
 type=video
 name=SPORT TV 3 HD
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport-tv3.jpg
-URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/639.m3u8
+URL=
 
 #
 type=video
 name=SPORT TV 4 HD
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2012/11/Sport-Tv-4.png
-URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/638.m3u8
+URL=
 
 #
 type=video
 name=SPORT TV 5 HD
 thumb=http://i0.wp.com/www.novidadestv.com/wp-content/uploads/2014/03/SportTV_2014_logo_destak_300x216.png?fit=300%2C216
-URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/637.m3u8
+URL=
 
 #
 type=video
@@ -299,7 +299,7 @@ URL=http://91.204.214.106:23201/stolen/250l/xenixos.7z
 type=video
 name=BENFICA TV 1 HD
 thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
-URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/677.m3u8
+URL=
 
 #
 type=video
@@ -325,7 +325,7 @@ URL=http://91.204.214.106:23201/stolen/233w/xenixos.7z
 type=video
 name=BENFICA TV 2 HD
 thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
-URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/676.m3u8
+URL=
 
 #
 type=video
@@ -341,7 +341,7 @@ URL=
 type=video
 name=PORTO CANAL
 thumb=http://www.campeonatoibericotriatlon.com/images/porto_canal.jpg
-URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/658.m3u8
+URL=
 
 
 #plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dPORTO%2bCANAL%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FPORTOCANAL.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dPORTO%2bCANAL%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FPORTOCANAL.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
@@ -349,13 +349,13 @@ URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/658.m3u8
 type=video
 name=SPORTING TV
 thumb=http://www.sporting.pt/Imagens/79671.jpg
-URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/652.m3u8
+URL=
 
 #
 type=video
 name=EUROSPORT 1
 thumb=http://www.telezones.com/wp-content/uploads/2015/03/Eurosport-HD-Live-Telezones1.png
-URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/667.m3u8
+URL=
 
 
 #
@@ -367,7 +367,7 @@ thumb= http://www.motorstv.com/sites/default/files/contenu/image/pages/logos/log
 type=video
 name=ABOLA TV
 thumb=http://www.troiaportugalmatchcup.com/media/1039/aBolaTV.png
-URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/680.m3u8
+URL=
 
 #
 type=video
@@ -400,7 +400,7 @@ URL=
 type=video
 name=FOX
 thumb=http://www.fox.com/sites/default/files/fox_logo_0.jpg
-URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/666.m3u8
+URL=
 
 
 #plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFOX%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOX.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dFOX%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOX.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
@@ -419,7 +419,7 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFOX%2bMO
 type=video
 name=FOX CRIME
 thumb=https://realhousewifeofbelgrade.files.wordpress.com/2011/01/fox-crime.jpg
-URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/645.m3u8
+URL=
 
 
 #plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFOX%2bCRIME%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXCRIME.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dFOX%2bCRIME%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXCRIME.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
@@ -449,7 +449,7 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCANAL%2b
 type=video
 name=NATIONAL GEOGRAPHIC
 thumb=https://yt3.ggpht.com/-2tol5SGixqs/AAAAAAAAAAI/AAAAAAAAAAA/gI_3L64uED0/s900-c-k-no/photo.jpg
-URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/660.m3u8
+URL=
 
 
 #plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNATIONAL%2bGEOGRAPHIC%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FNATIONALGEOGRAPHIC.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dNATIONAL%2bGEOGRAPHIC%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FNATIONALGEOGRAPHIC.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
@@ -470,7 +470,7 @@ URL=
 type=video
 name=AXN BLACK HD
 thumb=http://img2.wikia.nocookie.net/__cb20110927172249/logopedia/images/e/e6/AXN_Black_logo.png
-URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/679.m3u8
+URL=
 
 
 #
@@ -507,7 +507,7 @@ URL=rtmp://213.13.26.11/live playpath=santuario.stream swfUrl=http://imgs.sapo.p
 type=video
 name=TV CINE 1
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/650.m3u8
+URL=
 #
 type=video
 name=TV CINE 1
@@ -517,7 +517,7 @@ URL=
 type=video
 name=TV CINE 2
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/649.m3u8
+URL=
 #
 type=video
 name=TV CINE 2
@@ -527,7 +527,7 @@ URL=
 type=video
 name=TV CINE 3
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/648.m3u8
+URL=
 #
 type=video
 name=TV CINE 3
@@ -537,7 +537,7 @@ URL=
 type=video
 name=TV CINE 4
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/647.m3u8
+URL=
 #
 type=video
 name=TV CINE 4
@@ -547,7 +547,7 @@ URL=
 type=video
 name=TV CINE SERIES
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/651.m3u8
+URL=
 #
 type=video
 name=SIC KIDS
@@ -557,17 +557,17 @@ URL=
 type=video
 name=DISNEY CHANNEL
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/669.m3u8
+URL=
 #
 type=video
 name=CANAL PANDA
 thumb=https://genteytv.files.wordpress.com/2011/04/panda.jpg
-URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/674.m3u8
+URL=
 #
 type=video
 name=DISNEY JUNIOR
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=http://hyper.de1-eu.com:8000/live/tiago/tiago/668.m3u8
+URL=
 
 #
 type=video
