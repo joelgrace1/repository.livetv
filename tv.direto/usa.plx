@@ -22,7 +22,7 @@ URL=
 type=video
 name=A & E
 thumb=https://pbs.twimg.com/profile_images/378800000858931576/94dkj9QW_400x400.jpeg
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=catcher=streams&title=A&E &url=http://snapshots.streamlive.to/snapshots/tuc280rbycwnsvs_snapshot.jpg|Referer=http://www.streamlive.to/&User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36&cfg=ilive.to.cfg@Channels@&videoTitle=A&E &director=ilive.to&genre=Live TV&referer=http://snapshots.streamlive.to/snapshots/tuc280rbycwnsvs_snapshot.jpg|Referer=http://www.streamlive.to/&User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36&_url=68952&definedIn=ilive.to.cfg&icon.tmp=http://snapshots.streamlive.to/snapshots/tuc280rbycwnsvs_snapshot.jpg&type=rss&icon=http://snapshots.streamlive.to/snapshots/tuc280rbycwnsvs_snapshot.jpg|Referer=http://www.streamlive.to/&User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36&amp;mode=1
 #
 type=video
 name=ABC
