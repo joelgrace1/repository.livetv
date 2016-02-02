@@ -117,7 +117,7 @@ URL=http://91.204.214.106:23201/stolen/250l/xenixos.7z
 type=video
 name=BENFICA TV 1 HD
 thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
-URL=http://185.26.175.200:5000/udp/239.200.1.9:10000
+URL=
 #
 type=video
 name=BENFICA TV 1
@@ -142,7 +142,7 @@ URL=http://91.204.214.106:23201/stolen/233w/xenixos.7z
 type=video
 name=BENFICA TV 2 HD
 thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
-URL=http://185.26.175.200:5000/udp/239.200.1.10:10000
+URL=
 #
 type=video
 name=BENFICA TV  2
@@ -689,17 +689,17 @@ URL=
 type=video
 name=SPORT TV AMERICAS HD
 thumb=https://www.sporttv.pt/img/logo-americas.png
-URL=http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master2500kbps.m3u8
+URL=#http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master2500kbps.m3u8
 #
 type=video
 name=SPORT TV AMERICAS
 thumb=https://www.sporttv.pt/img/logo-americas.png
-URL=http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master1300kbps.m3u8
+URL=#http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master1300kbps.m3u8
 #
 type=video
 name=SPORT TV AMERICAS
 thumb=https://www.sporttv.pt/img/logo-americas.png
-URL=http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master700kbps.m3u8
+URL=#http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master700kbps.m3u8
 
 #
 type=video
@@ -710,7 +710,7 @@ URL=rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast
 type=video
 name=SPORT TV 1
 thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
-URL=http://185.26.175.200:5000/udp/239.200.1.23:10000
+URL=
 #
 type=video
 name=SPORT TV 2
@@ -720,7 +720,7 @@ URL=rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast
 type=video
 name=SPORT TV 2
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport_tv2_pt.jpg
-URL=http://185.26.175.200:5000/udp/239.200.1.111:10000
+URL=
 #
 type=video
 name=SPORT TV 3
@@ -730,17 +730,17 @@ URL=rtmp://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast
 type=video
 name=SPORT TV 3
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport-tv3.jpg
-URL=http://185.26.175.200:5000/udp/239.200.1.54:10000
+URL=
 #
 type=video
 name=SPORT TV 4
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2012/11/Sport-Tv-4.png
-URL=http://185.26.175.200:5000/udp/239.200.1.16:10000
+URL=
 #
 type=video
 name=SPORT TV 5 
 thumb=http://i0.wp.com/www.novidadestv.com/wp-content/uploads/2014/03/SportTV_2014_logo_destak_300x216.png?fit=300%2C216
-URL=http://185.26.175.200:5000/udp/239.200.1.30:10000
+URL=
 #
 type=video
 name=SPORT TV 1 (PLEXUS)
