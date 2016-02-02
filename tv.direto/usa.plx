@@ -22,7 +22,7 @@ URL=
 type=video
 name=A & E
 thumb=https://pbs.twimg.com/profile_images/378800000858931576/94dkj9QW_400x400.jpeg
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dA%2526E%2b%26url%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Ftuc280rbycwnsvs_snapshot.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.streamlive.to%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36%26cfg%3dilive.to.cfg%2540Channels%2540%26videoTitle%3dA%2526E%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Ftuc280rbycwnsvs_snapshot.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.streamlive.to%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36%26_url%3d68952%26definedIn%3dilive.to.cfg%26icon.tmp%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Ftuc280rbycwnsvs_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Ftuc280rbycwnsvs_snapshot.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.streamlive.to%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
+URL=
 #
 type=video
 name=ABC
