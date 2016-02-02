@@ -7,7 +7,7 @@ title=[COLOR green]PORTUGAL[/COLOR]
 type=video
 name=TEST 1
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=rtmp://$doregex[get-ip]/live playpath=sicax?id=84756&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sicax/1/650/500
+URL=
 #
 type=video
 name=RTP 1 HD
@@ -577,7 +577,7 @@ URL=
 
 #
 type=video
-name=TV RECORD
-thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
+name=
+thumb=
 URL=
 #
