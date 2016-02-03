@@ -22,17 +22,17 @@ URL=
 type=video
 name=A & E
 thumb=https://pbs.twimg.com/profile_images/378800000858931576/94dkj9QW_400x400.jpeg
-URL=
+URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DA%26E%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fwww.sdw-net.co%2Fchannels%2FA%2526E.html&amp;audio=0&amp;image=http%3A%2F%2Fvignette2.wikia.nocookie.net%2Flogopedia%2Fimages%2F6%2F6a%2FA%2526E_logo_2008.svg%2Frevision%2Flatest%2Fscale-to-width-down%2F200%3Fcb%3D20091116071908&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
 name=ABC
 thumb=http://img3.wikia.nocookie.net/__cb20131222111043/mixology-abc/images/0/0d/Abc_-_logo.jpeg
-URL=#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D3%2526q%253D%26title%3dABC%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F68969%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dABC%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D2%2526q%253D%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F371jluirljcsjen_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F371jluirljcsjen_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
+URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DABC+East%5B%2FCOLOR%5D&amp;url=%24base64%5BaHR0cDovL3d3dy56b3B0di5jb20vbGl2ZS9hYmM%3D%5D&amp;audio=0&amp;image=http%3A%2F%2Fimages5.fanpop.com%2Fimage%2Fphotos%2F24500000%2Fabc-icon-revenge-tv-show-24570238-200-200.png&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
 name=ABC FAMILY
 thumb=http://www.tvweek.com/wp-content/uploads/2014/10/ABC-Family-logo.png
-URL=#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D3%2526q%253D%26title%3dABC%2bFamily%2b-%2bMttvmario%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F30303%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dABC%2bFamily%2b-%2bMttvmario%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D2%2526q%253D%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fvx63a0c7mxk2jt8_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fvx63a0c7mxk2jt8_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
+URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DABC+Family%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fzerocast.tv%2Fembed.php%3Fa%3D1852%26id%3D%26width%3D640%26height%3D480%26autostart%3Dtrue%26strech%3Dexactfit&amp;audio=0&amp;image=http%3A%2F%2Fwww.tvweek.com%2Fwp-content%2Fuploads%2F2014%2F10%2FABC-Family-logo.png&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
 name=ABC NEWS
@@ -48,7 +48,7 @@ URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp
 type=video
 name=AMC
 thumb=http://channelpear.com/images/media/2556.png
-URL=
+URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DAMC%5B%2FCOLOR%5D&amp;url=%24base64%5BaHR0cDovL3d3dy56b3B0di5jb20vbGl2ZS9hbWM%3D%5D&amp;audio=0&amp;image=http%3A%2F%2F4.bp.blogspot.com%2F-MyRDS82mfmA%2FUVpy9G3NZUI%2FAAAAAAAAZK8%2Fd4mg7UvA3w0%2Fs352%2FAMC%2Blogo.png&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
 name=AMC
@@ -58,7 +58,7 @@ thumb=http://channelpear.com/images/media/2556.png
 type=video
 name=ANIMAL PLANET
 thumb=http://www.podryad.tv/upload/iblock/591/591145599ed9cafababe81c23500fe83.png
-URL=plugin://plugin.video.SportsDevil/?item=videoTitle%3dAnimal%2bPlanet%26title%3dAnimal%2bPlanet%26url%3dhttp%253A%252F%252Fwww.finecast.tv%252Fembed4.php%253Fu%253Danimal%2526vw%253D640%2526vh%253D450%26cfg%3dtvone1.com.cfg%2540Stream%26definedIn%3dcustoms%252Ftvone1.com.cfg%26director%3dtvone1.com%26referer%3dhttp%253A%252F%252Fwww.247tvstream.com%252F%26genre%3dLive%2bTV%26type%3drss&amp;mode=1
+URL=
 #
 type=video
 name=BBC AMERICA
@@ -74,7 +74,7 @@ URL=
 type=video
 name=BRAVO
 thumb=http://channelpear.com/images/media/2567.jpg
-URL=
+URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DBravo%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fwww.sdw-net.co%2Fchannels%2FBravo.html&amp;audio=0&amp;image=http%3A%2F%2Fwww.lyngsat-logo.com%2Fhires%2Fbb%2Fbravo_uk.png+&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
 name=CARTOON NETWORK
@@ -89,7 +89,7 @@ URL=
 type=video
 name=CBS
 thumb=http://www.katiekrause.net/uploads/1/2/6/6/12664073/9870558_orig.jpg
-#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D2%2526q%253D%26title%3dCBS%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F69956%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dCBS%2b%26director%3dilive.to%26definedIn%3dilive.to.cfg%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252F%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fdt0qvk6nmdhk8u6_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fdt0qvk6nmdhk8u6_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
+URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DCBS%5BCOLOR+white%5D+Prime+Time+Only%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fwww.sawlive.tv%2Fembed%2Fcaweeba%3Freferer%3Dhttp%3A%2F%2Fgoatdee.net%2F71919&amp;audio=0&amp;image=http%3A%2F%2Fwww.parkavenuesafesight.com%2Fwp-content%2Fuploads%2F2013%2F09%2FCBS_logo_2011.png&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
 name=CBS NEWS
@@ -100,17 +100,12 @@ thumb=http://upload.wikimedia.org/wikipedia/commons/5/52/CBS_News_logo.png
 type=video
 name=CNBC
 thumb=https://lh6.ggpht.com/SxgvBL9zdbQkBrFv13anliGDAsGk5cdpMs7OHcPi_0NX_2VmUzghPlbKHrHlqnLqT8YT=w300
-#URL=http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_828.m3u8
+URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DCNBC%5B%2FCOLOR%5D+&amp;url=rtmp%3A%2F%2Fa.cdn.newschat.tv%2Fedge+playpath%3Dcnbc_live+swfUrl%3Dhttp%3A%2F%2Fnewschat.tv%2Fplayer.swf+pageUrl%3Dhttp%3A%2F%2Fwww.livenewschat.eu%2Fstocks%2F+live%3D1&amp;audio=0&amp;image=http%3A%2F%2Fcdn.alleywatch.com%2Fwp-content%2Fuploads%2F2013%2F11%2Fcnbc.png+&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
 name=CNN
 thumb=https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED.png
-#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252F%253Fp%253D2%2526q%253D%26title%3dCNN%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F70785%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dCNN%2b%26director%3dilive.to%26definedIn%3dilive.to.cfg%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252F%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fykerm3p2gcj43qf_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fykerm3p2gcj43qf_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
-#
-type=video
-name=CNN US
-thumb=https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED.png
-URL=
+URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DCNN%5B%2FCOLOR%5D+&amp;url=http%3A%2F%2Fedge1.everyon.tv%2Fetv1sb%2Fphd16%2Fchunklist_w1519714347.m3u8&amp;audio=0&amp;image=http%3A%2F%2Fwww.lyngsat-logo.com%2Flogo%2Ftv%2Fcc%2Fcnn_espanol.png+&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 
 #
 type=video
@@ -121,13 +116,13 @@ URL=
 type=video
 name=COMEDY CENTRAL
 thumb=http://www.chud.com/articles/content_images/17/ComedyCentralLogo.jpg
-URL=plugin://plugin.video.SportsDevil/?item=videoTitle%3dComedy%2bCentral%26title%3dComedy%2bCentral%26url%3dhttp%253A%252F%252Fwww.finecast.tv%252Fembed4.php%253Fu%253Dcc698%2526vw%253D640%2526vh%253D450%26cfg%3dtvone1.com.cfg%2540Stream%26definedIn%3dcustoms%252Ftvone1.com.cfg%26director%3dtvone1.com%26referer%3dhttp%253A%252F%252Flivetvweb.net%252F%26genre%3dLive%2bTV%26type%3drss&amp;mode=1
+URL=
 
 #
 type=video
 name=CW 
 thumb=http://www.glaad.org/sites/default/files/The-cw-tv-now.jpg
-URL=http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8
+URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DCW%5B%2FCOLOR%5D&amp;url=%24base64%5BaHR0cDovL3d3dy56b3B0di5jb20vbGl2ZS9jdw%3D%3D%5D&amp;audio=0&amp;image=http%3A%2F%2Fprofessionalfangirls.com%2Fwp-content%2Fuploads%2F2014%2F06%2Fcw.png+&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
 name=CW
@@ -137,7 +132,7 @@ thumb=http://www.glaad.org/sites/default/files/The-cw-tv-now.jpg
 type=video
 name=DESTINATION AMERICA
 thumb=http://media.press.discovery.com.s3.amazonaws.com/ugc/logos/2012/04/04/Final_4_color_logo__.jpg
-URL=
+URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DDestination+America%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fwww.sdw-net.co%2Fchannels%2FDestination-America.html&amp;audio=0&amp;image=http%3A%2F%2Fwww.sdw-net.co%2Fproduct_images%2Fm%2F503%2FDestinat_america_logo15__62954_thumb.png&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
 name=DISCOVERY CHANNEL
@@ -155,14 +150,19 @@ thumb=http://blogs.reuters.com/mediafile/files/2012/04/discoveryid.jpg
 #URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDiscovery%2bInvestigation%2b%2b%255BHD%255D%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F70632%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%2540%26videoTitle%3dDiscovery%2bInvestigation%2b%2b%255BHD%255D%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F70632%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fbmbahkumnsqcydw_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fbmbahkumnsqcydw_snapshot.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.streamlive.to%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
+name=E! CHANNEL
+thumb=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E!_Logo.svg/2000px-E!_Logo.svg.png
+URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DE%21+Channel%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fwww.sdw-net.co%2Fchannels%2FE%21-Entertainment.html&amp;audio=0&amp;image=%2FUsers%2Fgracevalerio%2FLibrary%2FApplication+Support%2FKodi%2Faddons%2Fplugin.video.phstreams%2Ficon.png&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
+#
+type=video
 name=FOX
 thumb=http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox1.png?ver=6659ea4a-e9b5-4496-815f-8ea22a7d407c
-URL=
+URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DFOX%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fzerocast.tv%2Fembed.php%3Fa%3D305%26id%3D%26width%3D700%26height%3D480%26autostart%3Dtrue%26strech%3Dexactfit&amp;audio=0&amp;image=http%3A%2F%2Fwww.lyngsat-logo.com%2Flogo%2Ftv%2Fff%2Ffox_global.png+&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
 name=FOX NEWS
 thumb=http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox1.png?ver=6659ea4a-e9b5-4496-815f-8ea22a7d407c
-#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFox%2bNews%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F68968%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dFox%2bNews%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F68968%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fw0mr10getvsikam_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fw0mr10getvsikam_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
+URL=
 #
 type=video
 name=FOX 59 NEWS
@@ -178,7 +178,7 @@ URL=
 type=video
 name=FX
 thumb=https://pmcdeadline2.files.wordpress.com/2014/05/fx-logo__140528151442.jpg
-URL=
+URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DFX%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fzerocast.tv%2Fembed.php%3Fa%3D10%26id%3D%26width%3D640%26height%3D480%26autostart%3Dtrue%26strech%3Dexactfit&amp;audio=0&amp;image=http%3A%2F%2Ftvtastic.files.wordpress.com%2F2011%2F04%2Ffx-logo.png&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
 name=HISTORY
@@ -198,7 +198,7 @@ thumb=http://nowwatchtvlive.me/wp-content/uploads/2012/05/History-2-logo-2011.pn
 type=video
 name=HBO
 thumb=http://tube.hk/images/tv_cache/c/200x200_38hbo_hd.jpg
-#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dHBO%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F69021%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dHBO%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F69021%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fqzbbu26gcvjxksz_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fqzbbu26gcvjxksz_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
+URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DHBO%5B%2FCOLOR%5D+&amp;url=rtmp%3A%2F%2Fwww1.iguide.to%2Figuide+playpath%3D0bf02qe6msgtu4s+swfUrl%3Dhttp%3A%2F%2Fwww.iguide.to%2Fplayer%2Fsecure_player_iguide_token.swf+pageUrl%3Dhttp%3A%2F%2Fwww.iguide.to%2Fview%2F1%2Fwatch-live-HBO-channel-for-free+flashver%3DWIN%5C2019%2C0%2C0%2C185+live%3D1+token%3D%23ed%25h0%23w18623jsda6523lDGD&amp;audio=0&amp;image=http%3A%2F%2Fwww.lyngsat-logo.com%2Flogo%2Ftv%2Fhh%2Fhbo.png+&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 
 #
 type=video
@@ -234,13 +234,7 @@ URL=
 type=video
 name=MTV
 thumb=http://vignette3.wikia.nocookie.net/90scartoons/images/b/bc/Mtv-logo-Logo.png/revision/latest?cb=20140219002555
-URL=
-
-#
-type=video
-name=MTV
-thumb=http://vignette3.wikia.nocookie.net/90scartoons/images/b/bc/Mtv-logo-Logo.png/revision/latest?cb=20140219002555
-URL=
+URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DMTV%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fzerocast.tv%2Fembed.php%3Fa%3D12%26id%3D%26width%3D640%26height%3D480%26autostart%3Dtrue%26strech%3Dexactfit&amp;audio=0&amp;image=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSqosrv66YSIJSCYPxHpNT_A2RKXagCXWZncI3q8668VOKpAny26w&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
 name=NASA TV PUBLIC
@@ -250,7 +244,7 @@ URL=http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 type=video
 name=NATIONAL GEOGRAPHIC
 thumb=https://yt3.ggpht.com/-2tol5SGixqs/AAAAAAAAAAI/AAAAAAAAAAA/gI_3L64uED0/s900-c-k-no/photo.jpg
-URL=
+URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DNat+Geo+%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fwww.sdw-net.co%2Fchannels%2FNational-Geographic-US.html&amp;audio=0&amp;image=%2FUsers%2Fgracevalerio%2FLibrary%2FApplication+Support%2FKodi%2Faddons%2Fplugin.video.phstreams%2Ficon.png&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
 name=NAT GEO WILD
@@ -265,7 +259,7 @@ thumb=http://ourdailynewsonline.com/wp-content/uploads/2015/05/Nbc_logo-7.png
 type=video
 name=NBC
 thumb=http://ourdailynewsonline.com/wp-content/uploads/2015/05/Nbc_logo-7.png
-URL=
+URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DNBC+East%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fwww.sdw-net.co%2Fchannels%2FNBC-East.html&amp;audio=0&amp;image=http%3A%2F%2Fwww.eastcoastlasertattooremoval.com%2Fwp-content%2Fuploads%2F2015%2F01%2FNBC-logo-2014.png&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
 name=NICKELODEON
@@ -280,7 +274,7 @@ thumb=http://snapshots.streamlive.to/snapshots/svsgthhwl6djj5h_snapshot.jpg
 type=video
 name=SHOWTIME
 thumb=http://zerocast.tv/channels/img/showtime.jpg
-#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dShowtime%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F69036%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dShowtime%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F69036%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fs53jbkmyldngbks_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fs53jbkmyldngbks_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
+URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DShowtime%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fzerocast.tv%2Fembed.php%3Fa%3D1903%26id%3D%26width%3D640%26height%3D480%26autostart%3Dtrue%26strech%3Dexactfit&amp;audio=0&amp;image=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F22%2FShowtime.svg%2F2000px-Showtime.svg.png+&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
 name=SLICE
@@ -297,12 +291,12 @@ URL=
 type=video
 name=SYFY
 thumb=http://ib1.huluim.com/company_key_art/232?size=1600x600&region=US
-URL=
+URL=http://iphone-streaming.ustream.tv/ustreamVideo/18638341/streams/live/playlist.m3u8
 #
 type=video
 name=SYFY HD
 thumb=http://ib1.huluim.com/company_key_art/232?size=1600x600&region=US
-URL=http://iphone-streaming.ustream.tv/ustreamVideo/18638341/streams/live/playlist.m3u8
+URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DSyfy%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fzerocast.in%2Fembed.php%3Fa%3D16%26id%3D%26width%3D640%26height%3D480%26autostart%3Dtrue%26strech%3Dexactfit&amp;audio=0&amp;image=http%3A%2F%2Fwww.pappasgroup.com%2Fwp-content%2Flogos%2Fsyfy-500x500.png&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
 name=TBS
@@ -317,12 +311,7 @@ URL=
 type=video
 name=TNT
 thumb=http://i.cdn.turner.com/v5cache/TNT/Images/Dynamic/i177/tnt-live-default-logo-640x360-640x360_053020130547.png
-URL=
-#
-type=video
-name=TNT
-thumb=http://i.cdn.turner.com/v5cache/TNT/Images/Dynamic/i177/tnt-live-default-logo-640x360-640x360_053020130547.png
-URL=
+URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DTNT%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fzerocast.tv%2Fembed.php%3Fa%3D2802%26id%3D%26width%3D640%26height%3D480%26autostart%3Dtrue%26strech%3Dexactfit&amp;audio=0&amp;image=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Ffi%2F7%2F7a%2FTNT_Express_logo.png&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
 name=TRAVEL CHANNEL
@@ -338,18 +327,12 @@ URL=
 type=video
 name=TV LAND
 thumb=http://www.underconsideration.com/brandnew/archives/tv_land_03_logo_detail.jpg
-URL=
+URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DTV+Land+%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fwww.sdw-net.co%2Fchannels%2FTV-Land.html&amp;audio=0&amp;image=http%3A%2F%2Fwww.sdw-net.co%2Fproduct_images%2Fs%2F990%2FTV_Land_2015_logo__12920_thumb.png&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
 name=USA NETWORK
 thumb=https://pmcdeadline2.files.wordpress.com/2013/12/usa-network-logo__131116012234.jpg
-URL=
-
-#
-type=video
-name=USA NETWORK
-thumb=https://pmcdeadline2.files.wordpress.com/2013/12/usa-network-logo__131116012234.jpg
-URL=
+URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DUSA+Network%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fzerocast.tv%2Fembed.php%3Fa%3D19%26id%3D%26width%3D640%26height%3D480%26autostart%3Dtrue%26strech%3Dexactfit&amp;audio=0&amp;image=https%3A%2F%2Fwww.denverlibrary.org%2Ffiles%2Fusa_network.gif+&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
 name=WARNER
@@ -361,6 +344,11 @@ type=video
 name=WEATHER NATION
 thumb=http://channelpear.com/images/media/3144.jpg
 URL=http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#
+type=video
+name=WGN
+thumb=http://www.wgnamerica.com/~/media/Images/WGNAmerica/Homepage/OG-Image/WGNA-social.ashx
+URL=http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8
 #
 type=video
 name=WORLD FASHION TV
@@ -425,16 +413,8 @@ thumb=http://www.ultimatetvguide.com/Images_files/babestation300x250.gif
 URL=http://178.33.126.213:1935/cellcast/encoder32/.m3u8
 
 
-#
-type=video
-name=
-thumb=
-URL=
-#
-type=video
-name=
-thumb=
-URL=
+
+
 #
 type=video
 name=

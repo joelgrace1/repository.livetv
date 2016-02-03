@@ -445,7 +445,7 @@ thumb=http://worldsoccertalk.com/wp-content/uploads/2014/01/nbcsn-logo-600x401.j
 type=video
 name=NBCSN
 thumb=http://worldsoccertalk.com/wp-content/uploads/2014/01/nbcsn-logo-600x401.jpg
-URL=plugin://plugin.video.phstreams/?name=NBC+SPORT&amp;url=http%3A%2F%2Fwww.streamlive.to%2Fview%2F71137%2FNBC_Sport_Network-live-stream-channel&amp;audio=0&amp;image=http%3A%2F%2Fwww.lyngsat-logo.com%2Flogo%2Ftv%2Fnn%2Fnbc_sports_network_alternate.png+&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fhp4sgw93b%2Fbest_sport_collection_wallpaper_hd_backgrounds.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
+URL=plugin://plugin.video.phstreams/?name=NBC+SPORT&amp;url=http%3A%2F%2Fwww.sdw-net.co%2Fchannels%2FNBC-Sports-Netw..html&amp;audio=0&amp;image=http%3A%2F%2Fwww.lyngsat-logo.com%2Flogo%2Ftv%2Fnn%2Fnbc_sports_network_alternate.png+&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fhp4sgw93b%2Fbest_sport_collection_wallpaper_hd_backgrounds.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
 name=NBCSN
@@ -467,17 +467,17 @@ URL=http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwar
 type=video
 name=NFL NETWORK
 thumb=http://images.bwwstatic.com/tvnetworklogos/13AF21E2-F384-BE06-04C63286D08B30DF.jpg
-#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNFL%2bNetwork%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F70295%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dNFL%2bNetwork%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F70295%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fn1dv2of13iqam3u_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fn1dv2of13iqam3u_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
+URL=plugin://plugin.video.phstreams/?name=NFL+Network+&amp;url=http%3A%2F%2Fwww.sawlive.tv%2Fembed%2Fdoggarlug%3Freferer%3Dhttp%3A%2F%2Fgoatdee.net%2F71920%2Fwatch-nfl-network&amp;audio=0&amp;image=http%3A%2F%2Fnflricheisen.files.wordpress.com%2F2012%2F04%2Fnetwork-logo.jpg+&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fhp4sgw93b%2Fbest_sport_collection_wallpaper_hd_backgrounds.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
 name=NFL NOW HD
 thumb=http://cdn1.bloguin.com/wp-content/uploads/sites/94/2014/02/NFL-Now.jpg
-#URL=http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
+URL=http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
 #
 type=video
 name=NHL NETWORK
 thumb=http://2.cdn.nhle.com/nhl/images/upload/2012/10/NewNHLNetLogo_fullDL100612.jpg
-URL=
+URL=plugin://plugin.video.phstreams/?name=NHL+Network+&amp;url=%24base64%5BaHR0cDovLzIwOC45Mi4zNi4xNTgvaXBhZC9saXZlL25iYV9pcGFkXzEyNDAubTN1OA%3D%3D%5D&amp;audio=0&amp;image=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2F5%2F52%2FNHLonVersus.png%2F200px-NHLonVersus.png+&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fhp4sgw93b%2Fbest_sport_collection_wallpaper_hd_backgrounds.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
 name=NTV+1 HD
