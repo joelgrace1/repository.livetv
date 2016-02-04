@@ -37,7 +37,7 @@ URL=#http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
 type=video
 name=RTP 2 HD
 thumb=http://www.rtp.pt/wportal/grupo/logos_empresa/imagens/logos/rtp2/rtp2_a.jpg
-URL=rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15
+URL=rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?tvdireto swfVfy=1 live=1 timeout=15
 #
 type=video
 name=RTP 2 HD
@@ -99,6 +99,12 @@ URL=#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dRTP%2bM
 
 #
 type=video
+name=RTP MEMORIA
+thumb=http://2.bp.blogspot.com/-VohvgHmmfnI/ViJNYuFIkAI/AAAAAAAANsw/yXBd3RZXSWM/s400/rtp%2Bmemoria.fw.png
+URL=rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria?tvdireto swfVfy=1 live=1 timeout=15
+
+#
+type=video
 name=RTP MADEIRA
 thumb=https://pbs.twimg.com/profile_images/412007318/logortpMadeira_400x400.jpg
 URL=rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?tvdireto swfVfy=1 live=1 timeout=15
@@ -119,11 +125,6 @@ name=SIC HD
 thumb=https://jornalismounisuam.files.wordpress.com/2010/06/sic-hd.jpg
 URL=#http://noscdn1.connectedviews.com:1935/live/sic.stream/%20livestream.m3u8
 
-#BG 
-type=video
-name=SIC HD
-thumb=https://jornalismounisuam.files.wordpress.com/2010/06/sic-hd.jpg
-URL=
 #
 type=video
 name=SIC 
@@ -334,9 +335,9 @@ thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
 #URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dB%2bTV%2b2%2bBtv2%2bLive%2bStream%2bBtv%2b2%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F68625%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%2540%26videoTitle%3dB%2bTV%2b2%2bBtv2%2bLive%2bStream%2bBtv%2b2%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F68625%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fbrvyfp5nwe8oxtr_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fbrvyfp5nwe8oxtr_snapshot.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.streamlive.to%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
-name=TELEKANAL (LIGA PORTUGUESA)
-thumb=http://img.nowfootballtv.com/channel/1376009345.jpg
-URL=
+name=TPA
+thumb=http://www.gsoft.tv/images/stories/logos/logoTPA.png
+URL=rtmp://fml.6F53.edgecastcdn.net/206F53 playpath=tpai512 swfUrl=http://www.tpai.tv/swf/jwplayer/player.swf?mag live=1 pageUrl=http://www.tpai.tv/live
 #
 type=video
 name=PORTO CANAL

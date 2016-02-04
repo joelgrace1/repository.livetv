@@ -35,7 +35,7 @@ URL=
 
 #
 type=video
-name=BEIN SPORTS (US)
+name=BEIN SPORTS
 thumb=http://www.beinsports.fr/di/library/bein/4b/92/logo-bein-sports-1-hd_6tt6szp2b0ag1dscy6cxln08t.jpg?t=-724511221
 URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+white%5DBein+US%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fbesmenaah-i.akamaihd.net%2Fhls%2Flive%2F221906%2Fbesmena02h%2F02.m3u8&amp;audio=0&amp;image=%2FUsers%2Fgracevalerio%2FLibrary%2FApplication+Support%2FKodi%2Faddons%2Fplugin.video.phstreams%2Ficon.png&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Faby4q1mvb%2Funited_kingdom_flag_16_cool_background.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
@@ -152,27 +152,28 @@ thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
 type=video
 name=BOXNATION
 thumb=http://www.paywizard.com/sites/default/files/boxnation.png
-URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+white%5DBoxnation%5B%2FCOLOR%5D&amp;url=http%3A%2F%2F178.18.30.110%3A8081%2Fliverepeater%2F227192%2Fplaylist.m3u8%3FwmsAuthSign%3D%24doregex%5Bm3u8%5D%3Cregex%3E%3Cname%3Em3u8%3C%2Fname%3E%3Cexpres%3EwmsAuthSign%3D%28%5B%5E%22%5D%2A%29%3C%2Fexpres%3E%3Cpage%3Ehttp%3A%2F%2Fbiggestplayer.me%2Fstreamcrjeje2.php%3Fid%3D227192%26width%3D620%26height%3D490%3C%2Fpage%3E%3Creferer%3Ehttp%3A%2F%2Ftheactionlive.com%2Flivegamecr2.php%3Fid%3Dboxnation%26width%3D620%26height%3D490%26stretching%3D%3C%2Freferer%3E%3C%2Fregex%3E&amp;audio=0&amp;image=https%3A%2F%2Flh3.googleusercontent.com%2F-jZmOqSwCj0U%2FAAAAAAAAAAI%2FAAAAAAAAAQ4%2FSDyiqralFdE%2Fs120-c%2Fphoto.jpg&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Faby4q1mvb%2Funited_kingdom_flag_16_cool_background.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
+URL=
 #
 type=video
 name=BT SPORT 1
 thumb=http://www.liveonlinetv247.info/images/btsport1.png
-#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252FLive%2bSport%253Fp%253D2%2526q%253D%26title%3dBT%2bSport%2b1%2bHD%2b24%252F7%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F66541%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dBT%2bSport%2b1%2bHD%2b24%252F7%2b%26director%3dilive.to%26definedIn%3dilive.to.cfg%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252FLive%252520Sport%253Fq%253D%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fswg2wpdq2ivwajh_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fswg2wpdq2ivwajh_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
+URL=
 #
 type=video
 name=BT SPORT 1
 thumb=http://www.liveonlinetv247.info/images/btsport1.png
-URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+white%5DBT+Sport+1%5B%2FCOLOR%5D&amp;url=%24base64%5BcnRtcGU6Ly84OS4yNDguMTYwLjEzMTo4MC9saXZlIHBsYXlwYXRoPTUzPzhBWFI1IHN3ZlVybD1odHRwOi8vd3d3LmNhc3R1cC50di9wbGF5ZXIvcGxyLnN3ZiBsaXZlPTEgcGFnZVVybD1odHRwOi8vd3d3LmNhc3R1cC50di9lbWJlZF8yLnBocD9jaGFubmVsPTUzPzhBWFI1JmFtcDt2dz03MDAmYW1wO3ZoPTQ4MCB0b2tlbj0jQDh4MTJwWEAheEAjIHRpbWVvdXQ9MTUNCg%3D%3D%5D&amp;audio=0&amp;image=http%3A%2F%2Fwww.lyngsat-logo.com%2Fhires%2Fbb%2Fbt_sport_1.png&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Faby4q1mvb%2Funited_kingdom_flag_16_cool_background.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
+URL=
 #
 type=video
 name=BT SPORT 1 HD
 thumb=http://www.liveonlinetv247.info/images/btsport1.png
-URL=http://02e4.vp9.tv/chn/btsu1/v.m3u8
+URL=http://80.243.189.26:8081/sportshd/bt1/index.m3u8
+
 #
 type=video
 name=BT SPORT 2
 thumb=http://www.premierleague.com/content/premierleague/en-gb/commercial/bt-sport/_jcr_content/bodypsys/image.img.png/1369990888755.png
-#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%253A%252F%252Fwww.streamlive.to%252FLive%2bSport%253Fp%253D2%2526q%253D%26title%3dBT%2bSport%2b2%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F72458%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dBT%2bSport%2b2%2b%26director%3dilive.to%26definedIn%3dilive.to.cfg%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252Fhttp%253A%252F%252Fwww.streamlive.to%252FLive%252520Sport%253Fq%253D%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26genre%3dLive%2bTV%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fqsem0rd0i6lwy2n_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fqsem0rd0i6lwy2n_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
+URL=
 #
 type=video
 name=BT SPORT 2
@@ -182,7 +183,8 @@ URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+white%5DBT+Sport+2%5B%2FCOLOR
 type=video
 name=BT SPORT 2 HD
 thumb=http://www.premierleague.com/content/premierleague/en-gb/commercial/bt-sport/_jcr_content/bodypsys/image.img.png/1369990888755.png
-URL=http://02e4.vp9.tv/chn/btsu2/v.m3u8
+URL=http://80.243.189.26:8081/sportshd/bt2/index.m3u8
+
 #
 type=video
 name=BT SPORT ESPN
@@ -203,7 +205,8 @@ thumb=http://www.liveonlinetv247.info/images/btsport1.png
 type=video
 name=BT SPORT EUROPE
 thumb=http://www.liveonlinetv247.info/images/btsport1.png
-URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+white%5DBT+Sport+Europe%5B%2FCOLOR%5D&amp;url=%24base64%5BcnRtcGU6Ly84OS4yNDguMTYwLjEzMTo4MC9saXZlIHBsYXlwYXRoPTQ2P3l5UXNBIHN3ZlVybD1odHRwOi8vd3d3LmNhc3R1cC50di9wbGF5ZXIvcGxyLnN3ZiBsaXZlPTEgcGFnZVVybD1odHRwOi8vd3d3LmNhc3R1cC50di9lbWJlZF8yLnBocD9jaGFubmVsPTQ2P3l5UXNBJmFtcDt2dz03MDAmYW1wO3ZoPTQ4MCB0b2tlbj0jQDh4MTJwWEAheEAjIHRpbWVvdXQ9MTUNCg%3D%3D%5D&amp;audio=0&amp;image=http%3A%2F%2Fwww.lyngsat-logo.com%2Flogo%2Ftv%2Fbb%2Fbt_sport_europe_uk.png&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Faby4q1mvb%2Funited_kingdom_flag_16_cool_background.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
+URL=http://80.243.189.26:8081/miosptvbteu/index.m3u8
+
 
 #
 type=video
@@ -414,7 +417,7 @@ thumb=http://www.upc.ie/television/premium/Mutv/_jcr_content/topspot_fullwidth/n
 type=video
 name=MILLOX SPORTS TV
 thumb=http://2.bp.blogspot.com/-yzlr8KpR6bs/U5pRw1JSzmI/AAAAAAAABKk/MAuy_pjyTWo/s1600/logoMillox.png
-URL=https://video01-lax.streamup.com/app/milloxtv17xxcs-stream/playlist.m3u8
+URL=
 #
 type=video
 name=MLB NETWORK
@@ -553,62 +556,68 @@ URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+white%5DSky+Sports+News%5B%2F
 type=video
 name=SKY FORMULA 1
 thumb=http://e1.365dm.com/11/11/660x350/f1panel1_2682703.jpg?20111125105918
-#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bSport%2bF1%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F71583%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%2540%26videoTitle%3dSky%2bSport%2bF1%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F71583%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fotulzwd7up4nuve_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fotulzwd7up4nuve_snapshot.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.streamlive.to%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
+URL=http://80.243.189.26:8081/sportshd/skf1/index.m3u8
 #
 type=video
 name=SKY FORMULA 1
 thumb=http://e1.365dm.com/11/11/660x350/f1panel1_2682703.jpg?20111125105918
-URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+white%5DSky++f1%5B%2FCOLOR%5D&amp;url=rtmp%3A%2F%2F94.102.49.193%2Flive%2F+playpath%3Dsf1+swfUrl%3Dhttp%3A%2F%2Fcast4u.tv%2Fjwplayer%2Fjwplayer.flash.swf+pageUrl%3Dhttp%3A%2F%2Fwww.cast4u.tv%2Fembedcr.php%3Flive%3Dsf1%26vw%3D620%26vh%3D490+&amp;audio=0&amp;image=http%3A%2F%2Fwww.lyngsat-logo.com%2Flogo%2Ftv%2Fss%2Fsky_uk_sports_f1.png+&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Faby4q1mvb%2Funited_kingdom_flag_16_cool_background.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
+URL=
 #
 type=video
-name=SKY SPORTS 1
+name=SKY SPORTS 1 HD
 thumb=http://www.protv24.com/img/sky-sports-1.png
-URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+white%5DSky+Sports+1%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fp2pcast.tv%2Fstream.php%3Fid%3D510397%26live%3D0%26p2p%3D0%26stretching%3Duniform%26referer%3Dhttp%3A%2F%2Fu-stream.me%2Ffrsky1.html&amp;audio=0&amp;image=http%3A%2F%2Fwww.lyngsat-logo.com%2Flogo%2Ftv%2Fss%2Fsky_uk_sports1_in_pubs.png+&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Faby4q1mvb%2Funited_kingdom_flag_16_cool_background.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
+URL=http://80.243.189.26:8081/sportshd/sky1/index.m3u8
+
 #
 type=video
 name=SKY SPORTS 1 
 thumb=http://www.protv24.com/img/sky-sports-1.png
-#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bSport%2b1%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F71560%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%2540%26videoTitle%3dSky%2bSport%2b1%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F71560%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fuv2nqmvibdpd3uo_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fuv2nqmvibdpd3uo_snapshot.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.streamlive.to%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
+URL=http://169.45.89.106:1935/app/skysports1lsh/playlist.m3u8
+
 #
 type=video
-name=SKY SPORTS 2
+name=SKY SPORTS 2 HD
 thumb=http://www.ptvsports.mobi/wp-content/uploads/2015/03/sky-sports-2-live2.gif
-URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+white%5DSky+Sports+2%5B%2FCOLOR%5D&amp;url=%24base64%5BcnRtcGU6Ly85My4xNzQuOTMuMTgwOjgwL2xpdmUgcGxheXBhdGg9NDI%2FTUdaYVogc3dmVXJsPWh0dHA6Ly93d3cuY2FzdHVwLnR2L3BsYXllci9wbHIuc3dmIGxpdmU9MSBwYWdlVXJsPWh0dHA6Ly93d3cuY2FzdHVwLnR2L2VtYmVkXzIucGhwP2NoYW5uZWw9NDI%2FTUdaYVomYW1wO3Z3PTcwMCZhbXA7dmg9NDgwIHRva2VuPSNAOHgxMnBYQCF4QCMgdGltZW91dD0xNQ0K%5D&amp;audio=0&amp;image=http%3A%2F%2Fwww.lyngsat-logo.com%2Flogo%2Ftv%2Fss%2Fsky_uk_sports2.png+&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Faby4q1mvb%2Funited_kingdom_flag_16_cool_background.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
+URL=http://80.243.189.26:8081/sportshd/sky2/index.m3u8
 #
 type=video
 name=SKY SPORTS 2 
 thumb=http://www.ptvsports.mobi/wp-content/uploads/2015/03/sky-sports-2-live2.gif
-#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bSport%2b2%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F72459%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%2540%26videoTitle%3dSky%2bSport%2b2%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F72459%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fpyy7bth6eeukd4u_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fpyy7bth6eeukd4u_snapshot.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.streamlive.to%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
+URL=http://169.45.89.106:1935/app/skysports2lsh/playlist.m3u8
+
+#
+type=video
+name=SKY SPORTS 3 HD
+thumb=http://www.livep2pstream.com/tv_channels/logo/sky_sports3.jpg
+URL=http://80.243.189.26:8081/sportshd/sky3/index.m3u8
 #
 type=video
 name=SKY SPORTS 3
 thumb=http://www.livep2pstream.com/tv_channels/logo/sky_sports3.jpg
-URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+white%5DSky+Sports+3%5B%2FCOLOR%5D&amp;url=%24base64%5BcnRtcGU6Ly84MC44Mi42NS4zNTo4MC9saXZlIHBsYXlwYXRoPTQzP1RiUldZIHN3ZlVybD1odHRwOi8vd3d3LmNhc3R1cC50di9wbGF5ZXIvcGxyLnN3ZiBsaXZlPTEgcGFnZVVybD1odHRwOi8vd3d3LmNhc3R1cC50di9lbWJlZF8yLnBocD9jaGFubmVsPTQzP1RiUldZJmFtcDt2dz03MDAmYW1wO3ZoPTQ4MCB0b2tlbj0jQDh4MTJwWEAheEAjIHRpbWVvdXQ9MTUNCg%3D%3D%5D&amp;audio=0&amp;image=http%3A%2F%2Fwww.lyngsat-logo.com%2Flogo%2Ftv%2Fss%2Fsky_uk_sports3.png+&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Faby4q1mvb%2Funited_kingdom_flag_16_cool_background.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
+URL=http://169.45.89.106:1935/app/skysports3lsh/playlist.m3u8
+
 #
 type=video
-name=SKY SPORTS 3
-thumb=http://www.livep2pstream.com/tv_channels/logo/sky_sports3.jpg
-#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bSport%2b3%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F72728%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%2540%26videoTitle%3dSky%2bSport%2b3%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F72728%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F1hlwdkqv72fglvm_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252F1hlwdkqv72fglvm_snapshot.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.streamlive.to%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
+name=SKY SPORTS 4 HD
+thumb=http://funtvlive.com/wp-content/uploads/2012/11/sky-sports-4.png
+URL=http://80.243.189.26:8081/sportshd/sky4/index.m3u8
 #
 type=video
 name=SKY SPORTS 4
 thumb=http://funtvlive.com/wp-content/uploads/2012/11/sky-sports-4.png
-URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+white%5DSky+Sports+4%5B%2FCOLOR%5D&amp;url=%24base64%5BcnRtcGU6Ly84MC44Mi43MC4yMTA6ODAvbGl2ZSBwbGF5cGF0aD00ND9hWlVoVSBzd2ZVcmw9aHR0cDovL3d3dy5jYXN0dXAudHYvcGxheWVyL3Bsci5zd2YgbGl2ZT0xIHBhZ2VVcmw9aHR0cDovL3d3dy5jYXN0dXAudHYvZW1iZWRfMi5waHA%2FY2hhbm5lbD00ND9hWlVoVSZhbXA7dnc9NzAwJmFtcDt2aD00ODAgdG9rZW49I0A4eDEycFhAIXhAIyB0aW1lb3V0PTE1DQo%3D%5D&amp;audio=0&amp;image=http%3A%2F%2Fwww.lyngsat-logo.com%2Flogo%2Ftv%2Fss%2Fsky_uk_sports4.png+&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Faby4q1mvb%2Funited_kingdom_flag_16_cool_background.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
+URL=http://169.45.89.106:1935/app/skysports4lsh/playlist.m3u8
+
 #
 type=video
-name=SKY SPORTS 4
-thumb=http://funtvlive.com/wp-content/uploads/2012/11/sky-sports-4.png
-#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bSport%2b4%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F71190%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%2540%26videoTitle%3dSky%2bSport%2b4%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F71190%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fl8omrwbiw2qe2uk_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fl8omrwbiw2qe2uk_snapshot.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.streamlive.to%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
+name=SKY SPORTS 5 HD
+thumb=http://www.skymedia.ie/_masthead_images/SS5logo.jpg
+URL=http://80.243.189.26:8081/sportshd/sky5/index.m3u8
 #
 type=video
 name=SKY SPORTS 5
 thumb=http://www.skymedia.ie/_masthead_images/SS5logo.jpg
-URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+white%5DSky+Sports+5%5B%2FCOLOR%5D&amp;url=%24base64%5BcnRtcGU6Ly84OS4yNDguMTY4LjIxOjgwL2xpdmUgcGxheXBhdGg9NDU%2FYXg0U0ogc3dmVXJsPWh0dHA6Ly93d3cuY2FzdHVwLnR2L3BsYXllci9wbHIuc3dmIGxpdmU9MSBwYWdlVXJsPWh0dHA6Ly93d3cuY2FzdHVwLnR2L2VtYmVkXzIucGhwP2NoYW5uZWw9NDU%2FYXg0U0omYW1wO3Z3PTcwMCZhbXA7dmg9NDgwIHRva2VuPSNAOHgxMnBYQCF4QCMgdGltZW91dD0xNQ0K%5D&amp;audio=0&amp;image=http%3A%2F%2Fwww.lyngsat-logo.com%2Flogo%2Ftv%2Fss%2Fsky_uk_sports5_ie.png+&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Faby4q1mvb%2Funited_kingdom_flag_16_cool_background.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
-#
-type=video
-name=SKY SPORTS 5
-thumb=http://www.skymedia.ie/_masthead_images/SS5logo.jpg
-#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSky%2bSport%2b5%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F69649%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%2540%26videoTitle%3dSky%2bSport%2b5%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F69649%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fu8wfz71kltdyso3_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fu8wfz71kltdyso3_snapshot.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.streamlive.to%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
+URL=http://169.45.89.106:1935/app/skysports5lsh/playlist.m3u8
+
 
 #
 type=video
