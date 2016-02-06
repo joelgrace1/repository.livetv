@@ -58,7 +58,7 @@ thumb=http://channelpear.com/images/media/2556.png
 type=video
 name=ANIMAL PLANET
 thumb=http://www.podryad.tv/upload/iblock/591/591145599ed9cafababe81c23500fe83.png
-URL=
+URL=rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1MDo1NiBQTSZoYXNoX3ZhbHVlPU0zS2QwVFRmOU1Ba3libnMxUm5rVFE9PSZ2YWxpZG1pbnV0ZXM9MjA=/animal.stream
 #
 type=video
 name=BBC AMERICA
@@ -137,12 +137,12 @@ URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DDestination+America%
 type=video
 name=DISCOVERY CHANNEL
 thumb=http://chinatvinc.com/tv/wp-content/uploads/2014/11/discoveryhd_newlogo_042008.jpg
-URL=
+URL=rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxMjozNCBQTSZoYXNoX3ZhbHVlPWFRU2FTSUxRT2ErYkVMOE5IVUxMY3c9PSZ2YWxpZG1pbnV0ZXM9MjA=/discovery.stream
 #
 type=video
 name=DISCOVERY HISTORY
 thumb=http://logok.org/wp-content/uploads/2014/10/Discovery-History-logo.png
-URL=
+URL=rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxOToyMSBQTSZoYXNoX3ZhbHVlPURISUJVS3VCR0xYTWMrNHRjQW5MeEE9PSZ2YWxpZG1pbnV0ZXM9MjA=/discoveryh.stream
 #
 type=video
 name=DISCOVERY INVESTIGATION
@@ -153,6 +153,11 @@ type=video
 name=DISNEY CHANNEL
 thumb=http://upload.wikimedia.org/wikipedia/fr/7/70/Disney_Junior.png
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dStream%2b1%26url%3dhttp%253A%252F%252Fwww.stream2watch.co%252Fstreams%252F25632%252F1%26cfg%3ds2.cfg%2540Streams%26videoTitle%3dDISNEY%2bCHANNEL%26director%3dS2%26definedIn%3ds2.cfg%26referer%3dhttp%253A%252F%252Fwww.stream2watch.co%252Fstreams%252F25632%252F1%26genre%3dLive%2bTV%26type%3drss%26_icon%3dhttp%253A%252F%252Fwww.stream2watch.co%252Fimages%252Fthumbs%252Fdisney%252520live%252520stream.jpg%26icon%3dhttp%253A%252F%252Fwww.stream2watch.co%252Fimages%252Fthumbs%252Fdisney%252520live%252520stream.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.stream2watch.co%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
+#
+type=video
+name=DISNEY JR
+thumb=http://upload.wikimedia.org/wikipedia/fr/7/70/Disney_Junior.png
+URL=rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoyMTo0NSBQTSZoYXNoX3ZhbHVlPXkrR2dic0hRRTZEb2poSTNFdjJJZGc9PSZ2YWxpZG1pbnV0ZXM9MjA=/disneyjrr.stream
 #
 type=video
 name=E! CHANNEL
@@ -198,7 +203,7 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dStream%2
 type=video
 name=H2
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2012/05/History-2-logo-2011.png
-URL=
+URL=rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjozMjoyNyBQTSZoYXNoX3ZhbHVlPTdZU1E1KzNnWWZicjZFMUhzRkprVFE9PSZ2YWxpZG1pbnV0ZXM9MjA=/h2.stream
 #
 type=video
 name=HBO
