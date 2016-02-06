@@ -9,7 +9,7 @@ thumb=http://www.kuhnglobal.net/wp-content/uploads/2013/01/2009-usa-flag-graphic
 URL=https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/usa.plx
 #
 type=video
-name=[COLOR yellow][B][I]SPORTSDEVIL TO WORK[/I][/B][/COLOR]
+name=[COLOR yellow][B][I]PHOENIX & SPORTSDEVIL TO WORK[/I][/B][/COLOR]
 thumb=http://www.kuhnglobal.net/wp-content/uploads/2013/01/2009-usa-flag-graphics.jpg
 URL=https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/usa.plx
 #
@@ -111,7 +111,7 @@ URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DCNN%5B%2FCOLOR%5D+&a
 type=video
 name=COMEDY CENTRAL
 thumb=http://www.chud.com/articles/content_images/17/ComedyCentralLogo.jpg
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dStream%2b2%26url%3dhttp%253A%252F%252Fwww.stream2watch.co%252Fstreams%252F89806%252F2%26cfg%3ds2.cfg%2540Streams%26videoTitle%3dCOMEDY%2bCENTRAL%26director%3dS2%26definedIn%3ds2.cfg%26referer%3dhttp%253A%252F%252Fwww.stream2watch.co%252Fstreams%252F89806%252F2%26genre%3dLive%2bTV%26type%3drss%26_icon%3dhttp%253A%252F%252Fwww.stream2watch.co%252Fimages%252Fthumbs%252Fcomedy%252520central%252520live%252520stream.jpg%26icon%3dhttp%253A%252F%252Fwww.stream2watch.co%252Fimages%252Fthumbs%252Fcomedy%252520central%252520live%252520stream.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.stream2watch.co%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=COMEDY CENTRAL
@@ -150,6 +150,11 @@ thumb=http://blogs.reuters.com/mediafile/files/2012/04/discoveryid.jpg
 #URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDiscovery%2bInvestigation%2b%2b%255BHD%255D%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F70632%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%2540%26videoTitle%3dDiscovery%2bInvestigation%2b%2b%255BHD%255D%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F70632%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fbmbahkumnsqcydw_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fbmbahkumnsqcydw_snapshot.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.streamlive.to%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
 #
 type=video
+name=DISNEY CHANNEL
+thumb=http://upload.wikimedia.org/wikipedia/fr/7/70/Disney_Junior.png
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dStream%2b1%26url%3dhttp%253A%252F%252Fwww.stream2watch.co%252Fstreams%252F25632%252F1%26cfg%3ds2.cfg%2540Streams%26videoTitle%3dDISNEY%2bCHANNEL%26director%3dS2%26definedIn%3ds2.cfg%26referer%3dhttp%253A%252F%252Fwww.stream2watch.co%252Fstreams%252F25632%252F1%26genre%3dLive%2bTV%26type%3drss%26_icon%3dhttp%253A%252F%252Fwww.stream2watch.co%252Fimages%252Fthumbs%252Fdisney%252520live%252520stream.jpg%26icon%3dhttp%253A%252F%252Fwww.stream2watch.co%252Fimages%252Fthumbs%252Fdisney%252520live%252520stream.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.stream2watch.co%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
+#
+type=video
 name=E! CHANNEL
 thumb=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E!_Logo.svg/2000px-E!_Logo.svg.png
 URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DE%21+Channel%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fwww.sdw-net.co%2Fchannels%2FE%21-Entertainment.html&amp;audio=0&amp;image=%2FUsers%2Fgracevalerio%2FLibrary%2FApplication+Support%2FKodi%2Faddons%2Fplugin.video.phstreams%2Ficon.png&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
@@ -162,7 +167,7 @@ URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DFOX%5B%2FCOLOR%5D&am
 type=video
 name=FOX NEWS
 thumb=http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox1.png?ver=6659ea4a-e9b5-4496-815f-8ea22a7d407c
-URL=
+URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+grey%5DFox+News%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fvaughnlive.tv%2Fpepperman&amp;audio=0&amp;image=%2FUsers%2Fgracevalerio%2FLibrary%2FApplication+Support%2FKodi%2Faddons%2Fplugin.video.phstreams%2Ficon.png&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
 name=FOX 59 NEWS
@@ -181,19 +186,19 @@ thumb=https://pmcdeadline2.files.wordpress.com/2014/05/fx-logo__140528151442.jpg
 URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DFX%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fzerocast.tv%2Fembed.php%3Fa%3D10%26id%3D%26width%3D640%26height%3D480%26autostart%3Dtrue%26strech%3Dexactfit&amp;audio=0&amp;image=http%3A%2F%2Ftvtastic.files.wordpress.com%2F2011%2F04%2Ffx-logo.png&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
-name=HISTORY
+name=HISTORY (CA)
 thumb=http://ncph.org/cms/wp-content/uploads/History_Logo_White_Space.jpg
 URL=http://link.theplatform.com/s/dtjsEC/chjdYJxKb44V?manifest=m3u
 #
 type=video
-name=HISTORY
+name=HISTORY (US)
 thumb=http://ncph.org/cms/wp-content/uploads/History_Logo_White_Space.jpg
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dStream%2b1%26url%3dhttp%253A%252F%252Fwww.stream2watch.co%252Fstreams%252F29222%252F1%26cfg%3ds2.cfg%2540Streams%26videoTitle%3dHISTORY%2bCHANNEL%26director%3dS2%26definedIn%3ds2.cfg%26referer%3dhttp%253A%252F%252Fwww.stream2watch.co%252Fstreams%252F29222%252F1%26genre%3dLive%2bTV%26type%3drss%26_icon%3dhttp%253A%252F%252Fwww.stream2watch.co%252Fimages%252Fthumbs%252Fhistory_europe%252520live%252520stream.png%26icon%3dhttp%253A%252F%252Fwww.stream2watch.co%252Fimages%252Fthumbs%252Fhistory_europe%252520live%252520stream.png%257CReferer%253Dhttp%253A%252F%252Fwww.stream2watch.co%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=H2
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2012/05/History-2-logo-2011.png
-#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dHistory%2bChannel%2bEurope%2b%255BHD%255D%2b%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F70633%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%26videoTitle%3dHistory%2bChannel%2bEurope%2b%255BHD%255D%2b%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F70633%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3d%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Flogojbjhar79pc8_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Flogojbjhar79pc8_snapshot.jpg%257CUser-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.1%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
+URL=
 #
 type=video
 name=HBO
@@ -247,6 +252,11 @@ thumb=https://yt3.ggpht.com/-2tol5SGixqs/AAAAAAAAAAI/AAAAAAAAAAA/gI_3L64uED0/s90
 URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DNat+Geo+%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fwww.sdw-net.co%2Fchannels%2FNational-Geographic-US.html&amp;audio=0&amp;image=%2FUsers%2Fgracevalerio%2FLibrary%2FApplication+Support%2FKodi%2Faddons%2Fplugin.video.phstreams%2Ficon.png&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
+name=NATIONAL GEOGRAPHIC
+thumb=https://yt3.ggpht.com/-2tol5SGixqs/AAAAAAAAAAI/AAAAAAAAAAA/gI_3L64uED0/s900-c-k-no/photo.jpg
+URL=plugin://plugin.video.SportsDevil/?item=definedIn%3ds2.cfg%26title%3dNATIONAL%2bGEOGRAPHIC%26url%3dhttp%253A%252F%252Fwww.stream2watch.co%252Flive-tv%252Fus%252Fnational-geographic-live-stream%26cfg%3ds2.cfg%2540Streams%26videoTitle%3dNATIONAL%2bGEOGRAPHIC%26director%3dS2%26genre%3dLive%2bTV%26type%3drss%26_icon%3dhttp%253A%252F%252Fwww.stream2watch.co%252Fimages%252Fthumbs%252Fnational%252520geographic%252520live%252520tsream.jpg%26icon%3dhttp%253A%252F%252Fwww.stream2watch.co%252Fimages%252Fthumbs%252Fnational%252520geographic%252520live%252520tsream.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.stream2watch.co%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
+#
+type=video
 name=NAT GEO WILD
 thumb=https://yt3.ggpht.com/-2tol5SGixqs/AAAAAAAAAAI/AAAAAAAAAAA/gI_3L64uED0/s900-c-k-no/photo.jpg
 URL=
@@ -285,7 +295,7 @@ URL=
 type=video
 name=SPIKE TV 
 thumb=http://www.tnainsider.com/wp-content/uploads/2014/06/Spike.jpg
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=definedIn%3ds2.cfg%26title%3dSPIKE%2bTV%26url%3dhttp%253A%252F%252Fwww.stream2watch.co%252Flive-tv%252Fus%252Fspike-tv-live-stream%26cfg%3ds2.cfg%2540Streams%26videoTitle%3dSPIKE%2bTV%26director%3dS2%26genre%3dLive%2bTV%26type%3drss%26_icon%3dhttp%253A%252F%252Fwww.stream2watch.co%252Fimages%252Fthumbs%252FSPIKE%252520live%252520stream.jpg%26icon%3dhttp%253A%252F%252Fwww.stream2watch.co%252Fimages%252Fthumbs%252FSPIKE%252520live%252520stream.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.stream2watch.co%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
 
 #
 type=video
@@ -301,12 +311,12 @@ URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DSyfy%5B%2FCOLOR%5D&a
 type=video
 name=TBS
 thumb=http://vignette3.wikia.nocookie.net/cougartown/images/c/cd/TBS.png/revision/latest?cb=20130810130932
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dStream%2b2%26url%3dhttp%253A%252F%252Fwww.stream2watch.co%252Fstreams%252F15506%252F2%26cfg%3ds2.cfg%2540Streams%26videoTitle%3dTBS%26director%3dS2%26definedIn%3ds2.cfg%26referer%3dhttp%253A%252F%252Fwww.stream2watch.co%252Fstreams%252F15506%252F2%26genre%3dLive%2bTV%26type%3drss%26_icon%3dhttp%253A%252F%252Fwww.stream2watch.co%252Fimages%252Fthumbs%252Ftbs%252520live%252520stream.gif%26icon%3dhttp%253A%252F%252Fwww.stream2watch.co%252Fimages%252Fthumbs%252Ftbs%252520live%252520stream.gif%257CReferer%253Dhttp%253A%252F%252Fwww.stream2watch.co%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=TLC
 thumb=http://www.rawstory.com/wp-content/uploads/2012/03/TLC-logo.jpg
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=definedIn%3ds2.cfg%26title%3dTLC%26url%3dhttp%253A%252F%252Fwww.stream2watch.co%252Flive-tv%252Fus%252Ftlc-live-stream%26cfg%3ds2.cfg%2540Streams%26videoTitle%3dTLC%26director%3dS2%26genre%3dLive%2bTV%26type%3drss%26_icon%3dhttp%253A%252F%252Fwww.stream2watch.co%252Fimages%252Fthumbs%252Ftlc%252520live%252520stream.jpg%26icon%3dhttp%253A%252F%252Fwww.stream2watch.co%252Fimages%252Fthumbs%252Ftlc%252520live%252520stream.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.stream2watch.co%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=TNT

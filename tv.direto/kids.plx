@@ -32,11 +32,7 @@ type=video
 name=DISCOVERY KIDS (BRA)
 thumb=http://vignette1.wikia.nocookie.net/hi5tv/images/4/4b/Discovery_kids_hd_logo.png/revision/latest?cb=20130920204814
 URL=
-#
-type=video
-name=DISNEY CHANNEL
-thumb=http://upload.wikimedia.org/wikipedia/fr/7/70/Disney_Junior.png
-URL=
+
 #
 type=video
 name=DISNEY XD
