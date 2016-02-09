@@ -179,21 +179,8 @@ type=video
 name=TVI FICÇÃO
 thumb=http://media.iolnegocios.pt/media1201/ff7efc34eb9e1a7f0b55e926e529025e/
 URL=#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTVI%2bFICCAO%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FTVIFICCAO.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dTVI%2bFICCAO%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FTVIFICCAO.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
-#
-type=video
-name=TVI REALITY
-thumb=https://pbs.twimg.com/profile_images/649980763623043072/FOpfAgxT.png
-URL=http://62.210.82.241:1935/liverepeat/TVIReality24/live.m3u8
-#
-type=video
-name=TVI REALITY (24H ÀS QUINTAS)
-thumb=https://pbs.twimg.com/profile_images/649980763623043072/FOpfAgxT.png
-URL=
-#
-type=video
-name=CM TV
-thumb=http://www.tvtuga.com/wp-content/uploads/2015/01/CMTV.jpg
-URL=
+
+
 
 
 #plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCM%2bTV%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FCMTV.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dCM%2bTV%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FCMTV.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
@@ -212,7 +199,11 @@ type=video
 name=SPORT TV AMERICAS
 thumb=https://www.sporttv.pt/img/logo-americas.png
 URL=#http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master700kbps.m3u8
-
+#
+type=video
+name=SPORT TV 1 (PANCAS-TV DEZ)
+thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
+URL=plugin://plugin.video.pancas/?url=rtmp%3A%2F%2F%24doregex%5Bget-ip%5D%2Flive%2F+playpath%3Dvinde%3Fid%3D24983%24doregex%5Bpk%5D+conn%3DS%3AOK+swfUrl%3Dhttp%3A%2F%2Fwww.embedezcast.com%2Fstatic%2Fscripts%2Ffplayer.swf+pageUrl%3Dhttp%3A%2F%2Fwww.embedezcast.com%2F+live%3Dtrue+timeout%3D10&amp;mode=17&amp;regexs=%7Bu%27get-ip%27%3A%20%7B%27expres%27%3A%20u%27redirect%3D%28.%2A%29%27%2C%20%27name%27%3A%20u%27get-ip%27%2C%20%27page%27%3A%20u%27http%3A//cdn.pubezcast.com%3A1935/loadbalancer%27%7D%2C%20u%27pk%27%3A%20%7B%27expres%27%3A%20u%22ea%3D%28.%2A%29%27%22%2C%20%27referer%27%3A%20u%27http%3A//www.embedezcast.com%27%2C%20%27name%27%3A%20u%27pk%27%2C%20%27page%27%3A%20u%27http%3A//www.embedezcast.com/embedplayer/vinde/1/650/500%27%7D%7D
 #
 type=video
 name=SPORT TV 1
@@ -220,19 +211,15 @@ thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
 URL=rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 #
 type=video
-name=SPORT TV 1 HD
-thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
-URL=
+name=SPORT TV 2 (PANCAS-TV DEZ)
+thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport_tv2_pt.jpg
+URL=plugin://plugin.video.pancas/?url=rtmp%3A%2F%2F%24doregex%5Bget-ip%5D%2Flive%2F+playpath%3Dcaralhon%3Fid%3D24720%24doregex%5Bpk%5D+conn%3DS%3AOK+swfUrl%3Dhttp%3A%2F%2Fwww.embedezcast.com%2Fstatic%2Fscripts%2Ffplayer.swf+pageUrl%3Dhttp%3A%2F%2Fwww.embedezcast.com%2F+live%3Dtrue+timeout%3D10&amp;mode=17&amp;regexs=%7Bu%27get-ip%27%3A%20%7B%27expres%27%3A%20u%27redirect%3D%28.%2A%29%27%2C%20%27name%27%3A%20u%27get-ip%27%2C%20%27page%27%3A%20u%27http%3A//cdn.pubezcast.com%3A1935/loadbalancer%27%7D%2C%20u%27pk%27%3A%20%7B%27expres%27%3A%20u%22ea%3D%28.%2A%29%27%22%2C%20%27referer%27%3A%20u%27http%3A//www.embedezcast.com%27%2C%20%27name%27%3A%20u%27pk%27%2C%20%27page%27%3A%20u%27http%3A//www.embedezcast.com/embedplayer/caralhon/1/599/399%27%7D%7D
 #
 type=video
 name=SPORT TV 2
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport_tv2_pt.jpg
 URL=rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#
-type=video
-name=SPORT TV 2 HD
-thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport_tv2_pt.jpg
-URL=
+
 #
 type=video
 name=SPORT TV 3
@@ -304,9 +291,9 @@ URL=
 
 #
 type=video
-name=BENFICA TV 1
+name=BENFICA TV 1 (PANCAS-TV DEZ)
 thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
-URL=
+URL=plugin://plugin.video.pancas/?url=rtmp%3A%2F%2F%24doregex%5Bget-ip%5D%2Flive%2F+playpath%3Dslbfooty%3Fid%3D21239%24doregex%5Bpk%5D+conn%3DS%3AOK+swfUrl%3Dhttp%3A%2F%2Fwww.streamifyplayer.com%2Fresources%2Fscripts%2Feplayer.swf+pageUrl%3Dhttp%3A%2F%2Fwww.streamifyplayer.com%2Fembedplayer%2Fslbfooty%2F1%2F555%2F435+live%3Dtrue&amp;mode=17&amp;regexs=%7Bu%27get-ip%27%3A%20%7B%27expres%27%3A%20u%27redirect%3D%28.%2A%29%27%2C%20%27name%27%3A%20u%27get-ip%27%2C%20%27page%27%3A%20u%27http%3A//www.streamifypublisher.com%3A1935/loadbalancer%27%7D%2C%20u%27pk%27%3A%20%7B%27expres%27%3A%20u%22ea%3D%28.%2A%29%27%22%2C%20%27referer%27%3A%20u%27http%3A//www.streamifyplayer.com%27%2C%20%27name%27%3A%20u%27pk%27%2C%20%27page%27%3A%20u%27http%3A//www.streamifyplayer.com/embedplayer/slbfooty/1/555/435%27%7D%7D
 #
 type=video
 name=SPORT TV 3 / BENFICA TV 1/2 (GAME TIME)
@@ -330,27 +317,20 @@ URL=
 
 #
 type=video
-name=BENFICA TV  2
+name=BENFICA TV 2 (PANCAS-TV DEZ)
 thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
-#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dB%2bTV%2b2%2bBtv2%2bLive%2bStream%2bBtv%2b2%26url%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F68625%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26cfg%3dilive.to.cfg%2540Channels%2540%26videoTitle%3dB%2bTV%2b2%2bBtv2%2bLive%2bStream%2bBtv%2b2%26director%3dilive.to%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.streamlive.to%252Fembed%252F68625%2526width%253D640%2526height%253D480%2526autoplay%253Dtrue%26definedIn%3dilive.to.cfg%26icon.tmp%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fbrvyfp5nwe8oxtr_snapshot.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fsnapshots.streamlive.to%252Fsnapshots%252Fbrvyfp5nwe8oxtr_snapshot.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.streamlive.to%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F47.0.2526.106%2bSafari%252F537.36&amp;mode=1
+URL=plugin://plugin.video.pancas/?url=rtmp%3A%2F%2F%24doregex%5Bget-ip%5D%2Flive+playpath%3Dbenficax%3Fid%3D84772%3D85133%26pk%3D%24doregex%5Bget-pk%5D+swfVfy%3D1+timeout%3D10+conn%3DS%3AOK+live%3D1+swfUrl%3Dhttp%3A%2F%2Fwww.embeducaster.com%2Fstatic%2Fscripts%2Ffplayer.swf+flashver%3DWIN%5C2019%2C0%2C0%2C226+pageUrl%3Dhttp%3A%2F%2Fwww.embeducaster.com%2Fembedplayer%2Fbenficax%2F1%2F650%2F500&amp;mode=17&amp;regexs=%7Bu%27get-ip%27%3A%20%7B%27expres%27%3A%20u%27redirect%3D%28.%2A%29%27%2C%20%27name%27%3A%20u%27get-ip%27%2C%20%27page%27%3A%20u%27http%3A//www.pubucaster.com%3A1935/loadbalancer%27%7D%2C%20u%27get-pk%27%3A%20%7B%27expres%27%3A%20u%22pk%3D%28.%2A%3F%29%27%22%2C%20%27referer%27%3A%20u%27http%3A//www.embeducaster.com/%27%2C%20%27name%27%3A%20u%27get-pk%27%2C%20%27page%27%3A%20u%27http%3A//www.embeducaster.com/embedplayer/benficax/1/650/500%27%7D%7D
+#
+type=video
+name=SPORTING TV (PANCAS-TV DEZ)
+thumb=http://www.sporting.pt/Imagens/79671.jpg
+URL=plugin://plugin.video.pancas/?url=rtmp%3A%2F%2F%24doregex%5Bget-ip%5D%2Flive%2F+playpath%3Dsporcanal%3Fid%3D21240%24doregex%5Bpk%5D+conn%3DS%3AOK+swfUrl%3Dhttp%3A%2F%2Fwww.streamifyplayer.com%2Fresources%2Fscripts%2Feplayer.swf+pageUrl%3Dhttp%3A%2F%2Fwww.streamifyplayer.com%2Fembedplayer%2Fsporcanal%2F1%2F555%2F430+live%3Dtrue&amp;mode=17&amp;regexs=%7Bu%27get-ip%27%3A%20%7B%27expres%27%3A%20u%27redirect%3D%28.%2A%29%27%2C%20%27name%27%3A%20u%27get-ip%27%2C%20%27page%27%3A%20u%27http%3A//www.streamifypublisher.com%3A1935/loadbalancer%27%7D%2C%20u%27pk%27%3A%20%7B%27expres%27%3A%20u%22ea%3D%28.%2A%29%27%22%2C%20%27referer%27%3A%20u%27http%3A//www.streamifyplayer.com%27%2C%20%27name%27%3A%20u%27pk%27%2C%20%27page%27%3A%20u%27http%3A//www.streamifyplayer.com/embedplayer/sporcanal/1/555/430%27%7D%7D
 #
 type=video
 name=TPA
 thumb=http://www.gsoft.tv/images/stories/logos/logoTPA.png
 URL=rtmp://fml.6F53.edgecastcdn.net/206F53 playpath=tpai512 swfUrl=http://www.tpai.tv/swf/jwplayer/player.swf?mag live=1 pageUrl=http://www.tpai.tv/live
-#
-type=video
-name=PORTO CANAL
-thumb=http://www.campeonatoibericotriatlon.com/images/porto_canal.jpg
-URL=
 
-
-#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dPORTO%2bCANAL%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FPORTOCANAL.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dPORTO%2bCANAL%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FPORTOCANAL.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
-#
-type=video
-name=SPORTING TV
-thumb=http://www.sporting.pt/Imagens/79671.jpg
-URL=
 
 #
 type=video
@@ -363,26 +343,15 @@ URL=
 type=video
 name=MOTORS TV
 thumb= http://www.motorstv.com/sites/default/files/contenu/image/pages/logos/logo_officiel_motorstv.jpg
-#URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dMOTORS%2bTV%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FMOTORSTV.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dMOTORS%2bTV%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FMOTORSTV.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
-#
-type=video
-name=ABOLA TV
-thumb=http://www.troiaportugalmatchcup.com/media/1039/aBolaTV.png
 URL=
+
 
 #
 type=video
 name=EURONEWS
 thumb=http://www.digitaltveurope.net/wp-content/uploads/2011/10/Euronews-logo.jpeg
 URL=rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
-#
-type=video
-name=HOLLYWOOD
-thumb=http://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Chollywood.png/200px-Chollywood.png
-URL=
 
-
-#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dHOLLYWOOD%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FHOLLYWOOD.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dHOLLYWOOD%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FHOLLYWOOD.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 
 #
 type=video
@@ -397,63 +366,21 @@ name=AMC HD
 thumb=http://channelpear.com/images/media/2556.png
 URL=
 
-#
-type=video
-name=FOX
-thumb=http://www.fox.com/sites/default/files/fox_logo_0.jpg
-URL=
 
-
-#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFOX%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOX.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dFOX%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOX.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
-
-#
-type=video
-name=FOX LIFE
-thumb=http://www.fox.com/sites/default/files/fox_logo_0.jpg
-URL=#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFOX%2bLIFE%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXLIFE.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dFOX%2bLIFE%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXLIFE.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 #
 type=video
 name=FOX MOVIES
 thumb=http://img1.wikia.nocookie.net/__cb20100323110707/logopedia/images/e/e3/Fox_Moxie_Channel.png
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFOX%2bMOVIES%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXMOVIES.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dFOX%2bMOVIES%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXMOVIES.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
-#
-type=video
-name=FOX CRIME
-thumb=https://realhousewifeofbelgrade.files.wordpress.com/2011/01/fox-crime.jpg
-URL=
 
 
-#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFOX%2bCRIME%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXCRIME.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dFOX%2bCRIME%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXCRIME.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
-#
-type=video
-name=HISTORIA
-thumb=http://upload.wikimedia.org/wikipedia/en/c/cd/Historia_logo.jpg
-URL=
-
-
-#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCANAL%2bHIST%25C3%2583%25C2%2593RIA%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FHISTORIA.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dCANAL%2bHIST%25C3%2583%25C2%2593RIA%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FHISTORIA.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
-#
-type=video
-name=DISCOVERY
-thumb=http://chinatvinc.com/tv/wp-content/uploads/2014/11/discoveryhd_newlogo_042008.jpg
-URL=
-
-
-#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDISCOVERY%2bCHANNEL%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FDISCOVERYCHANNEL.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dDISCOVERY%2bCHANNEL%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FDISCOVERYCHANNEL.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 #
 type=video
 name=ODISSEIA
 thumb=http://img2.wikia.nocookie.net/__cb20130707114713/logopedia/images/e/ea/Odisseia_logo.png
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCANAL%2bODISSEIA%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FODISSEIA.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dCANAL%2bODISSEIA%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FODISSEIA.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 
-#
-type=video
-name=NATIONAL GEOGRAPHIC
-thumb=https://yt3.ggpht.com/-2tol5SGixqs/AAAAAAAAAAI/AAAAAAAAAAA/gI_3L64uED0/s900-c-k-no/photo.jpg
-URL=
 
-
-#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNATIONAL%2bGEOGRAPHIC%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FNATIONALGEOGRAPHIC.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dNATIONAL%2bGEOGRAPHIC%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FNATIONALGEOGRAPHIC.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 
 #
 type=video
@@ -480,24 +407,13 @@ name=AXN WHITE
 thumb=http://img2.wikia.nocookie.net/__cb20110927172249/logopedia/images/e/e6/AXN_Black_logo.png
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dAXN%2bWHITE%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FAXNWHITE.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dAXN%2bWHITE%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FAXNWHITE.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 
-#
-type=video
-name=AXN
-thumb=http://img2.wikia.nocookie.net/__cb20110927172249/logopedia/images/e/e6/AXN_Black_logo.png
-URL=#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dAXN%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FAXN.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dAXN%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FAXN.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+
 #
 type=video
 name=A&E
 thumb=http://images.bwwstatic.com/columnpic6/F74EF519-B95A-9C31-282B895E215DBEE4.jpg
 URL=
-#
-type=video
-name=MTV PORTUGAL
-thumb=http://www.internetsegura.pt/files/large/842
-URL=
 
-
-#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dMTV%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FMTV.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dMTV%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FMTV.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
 #
 type=video
 name=CAPELINHA FATIMA
@@ -575,6 +491,72 @@ type=video
 name=TV GLOBO
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
 URL=
+#
+type=video
+name=TVI REALITY (PANCAS)
+thumb=https://pbs.twimg.com/profile_images/649980763623043072/FOpfAgxT.png
+URL=plugin://plugin.video.pancas/?url=http%3A%2F%2F%24doregex%5Bip%5D%24doregex%5Bm3u8%5D&amp;mode=17&amp;regexs=%7Bu%27ip%27%3A%20%7B%27expres%27%3A%20u%27redirect%3D%28.%2A%29%27%2C%20%27name%27%3A%20u%27ip%27%2C%20%27page%27%3A%20u%27http%3A//cdn.mipspublisher.com%3A1935/loadbalancer%27%7D%2C%20u%27m3u8%27%3A%20%7B%27expres%27%3A%20u%27ea%20%5C%5C%2B%20%22%28.%2A%3F%29%22%27%2C%20%27referer%27%3A%20u%27http%3A//www.mips.tv%27%2C%20%27name%27%3A%20u%27m3u8%27%2C%20%27agent%27%3A%20u%27Mozilla/5.0%20%28iPhone%3B%20U%3B%20CPU%20iPhone%20OS%204_2_1%20like%20Mac%20OS%20X%3B%20en-us%29%20AppleWebKit/533.17.9%20%28KHTML%2C%20like%20Gecko%29%20Version/5.0.2%20Mobile/8C148%20Safari/6533.18.5%27%2C%20%27page%27%3A%20u%27http%3A//www.mipsplayer.com/membedplayer/aquinaoareis/1/545/380%27%7D%7D
+#
+type=video
+name=ABOLA TV (PANCAS)
+thumb=http://www.troiaportugalmatchcup.com/media/1039/aBolaTV.png
+URL=plugin://plugin.video.pancas/?url=rtmp%3A%2F%2F%24doregex%5Bget-ip%5D%2Fstream+playpath%3Dabolatva%3Fid%3D19711%24doregex%5Bpk%5D+conn%3DS%3AOK+swfUrl%3Dhttp%3A%2F%2Fwww.liveflashplayer.net%2Fresources%2Fscripts%2Ffplayer.swf+pageUrl%3Dhttp%3A%2F%2Fwww.liveflashplayer.net%2F+live%3Dtrue+timeout%3D10&amp;mode=17&amp;regexs=%7Bu%27get-ip%27%3A%20%7B%27expres%27%3A%20u%27redirect%3D%28.%2A%29%27%2C%20%27name%27%3A%20u%27get-ip%27%2C%20%27page%27%3A%20u%27http%3A//www.liveflashpublisher.com%3A1935/loadbalancer%27%7D%2C%20u%27pk%27%3A%20%7B%27expres%27%3A%20u%22ea%3D%28.%2A%29%27%22%2C%20%27referer%27%3A%20u%27http%3A//www.liveflashplayer.net%27%2C%20%27name%27%3A%20u%27pk%27%2C%20%27page%27%3A%20u%27http%3A//www.liveflashplayer.net/embedplayer/abolatva/1/650/500%27%7D%7D
+#
+type=video
+name=CM TV (PANCAS)
+thumb=http://www.tvtuga.com/wp-content/uploads/2015/01/CMTV.jpg
+URL=plugin://plugin.video.pancas/?url=rtmp%3A%2F%2F%24doregex%5Bget-ip%5D%2Fstream+playpath%3Dcmtvb%3Fid%3D21917%24doregex%5Bpk%5D+conn%3DS%3AOK+swfUrl%3Dhttp%3A%2F%2Fwww.liveflashplayer.net%2Fresources%2Fscripts%2Ffplayer.swf+pageUrl%3Dhttp%3A%2F%2Fwww.liveflashplayer.net%2F+live%3Dtrue+timeout%3D10&amp;mode=17&amp;regexs=%7Bu%27get-ip%27%3A%20%7B%27expres%27%3A%20u%27redirect%3D%28.%2A%29%27%2C%20%27name%27%3A%20u%27get-ip%27%2C%20%27page%27%3A%20u%27http%3A//www.liveflashpublisher.com%3A1935/loadbalancer%27%7D%2C%20u%27pk%27%3A%20%7B%27expres%27%3A%20u%22ea%3D%28.%2A%29%27%22%2C%20%27referer%27%3A%20u%27http%3A//www.liveflashplayer.net%27%2C%20%27name%27%3A%20u%27pk%27%2C%20%27page%27%3A%20u%27http%3A//www.liveflashplayer.net/embedplayer/cmtvb/1/650/500%27%7D%7D
+#
+type=video
+name=PORTO CANAL (PANCAS)
+thumb=http://www.campeonatoibericotriatlon.com/images/porto_canal.jpg
+URL=plugin://plugin.video.pancas/?url=rtmp%3A%2F%2F%24doregex%5Bget-ip%5D%2Flive+playpath%3Dportocanalxx%3Fid%3D84767%26pk%3D%24doregex%5Bget-pk%5D+swfVfy%3D1+timeout%3D10+conn%3DS%3AOK+live%3D1+swfUrl%3Dhttp%3A%2F%2Fwww.embeducaster.com%2Fstatic%2Fscripts%2Ffplayer.swf+flashver%3DWIN%5C2019%2C0%2C0%2C226+pageUrl%3Dhttp%3A%2F%2Fwww.embeducaster.com%2Fembedplayer%2Fportocanalxx%2F1%2F650%2F500&amp;mode=17&amp;regexs=%7Bu%27get-ip%27%3A%20%7B%27expres%27%3A%20u%27redirect%3D%28.%2A%29%27%2C%20%27name%27%3A%20u%27get-ip%27%2C%20%27page%27%3A%20u%27http%3A//www.pubucaster.com%3A1935/loadbalancer%27%7D%2C%20u%27get-pk%27%3A%20%7B%27expres%27%3A%20u%22pk%3D%28.%2A%3F%29%27%22%2C%20%27referer%27%3A%20u%27http%3A//www.embeducaster.com/%27%2C%20%27name%27%3A%20u%27get-pk%27%2C%20%27page%27%3A%20u%27http%3A//www.embeducaster.com/embedplayer/portocanalxx/1/650/500%27%7D%7D
+#
+type=video
+name=HOLLYWOOD (PANCAS)
+thumb=http://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Chollywood.png/200px-Chollywood.png
+URL=plugin://plugin.video.pancas/?url=rtmp%3A%2F%2F%24doregex%5Bget-ip%5D%2Flive+playpath%3Dhollywoodx%3Fid%3D84769%26pk%3D%24doregex%5Bget-pk%5D+swfVfy%3D1+timeout%3D10+conn%3DS%3AOK+live%3D1+swfUrl%3Dhttp%3A%2F%2Fwww.embeducaster.com%2Fstatic%2Fscripts%2Ffplayer.swf+flashver%3DWIN%5C2019%2C0%2C0%2C226+pageUrl%3Dhttp%3A%2F%2Fwww.embeducaster.com%2Fembedplayer%2Fhollywoodx%2F1%2F650%2F500&amp;mode=17&amp;regexs=%7Bu%27get-ip%27%3A%20%7B%27expres%27%3A%20u%27redirect%3D%28.%2A%29%27%2C%20%27name%27%3A%20u%27get-ip%27%2C%20%27page%27%3A%20u%27http%3A//www.pubucaster.com%3A1935/loadbalancer%27%7D%2C%20u%27get-pk%27%3A%20%7B%27expres%27%3A%20u%22pk%3D%28.%2A%3F%29%27%22%2C%20%27referer%27%3A%20u%27http%3A//www.embeducaster.com/%27%2C%20%27name%27%3A%20u%27get-pk%27%2C%20%27page%27%3A%20u%27http%3A//www.embeducaster.com/embedplayer/hollywoodx/1/650/500%27%7D%7D
+#
+type=video
+name=AXN (PANCAS)
+thumb=http://img2.wikia.nocookie.net/__cb20110927172249/logopedia/images/e/e6/AXN_Black_logo.png
+URL=plugin://plugin.video.pancas/?url=rtmp%3A%2F%2F%24doregex%5Bget-ip%5D%2Flive+playpath%3Daxn1x%3Fid%3D84753%26pk%3D%24doregex%5Bget-pk%5D+swfVfy%3D1+timeout%3D10+conn%3DS%3AOK+live%3D1+swfUrl%3Dhttp%3A%2F%2Fwww.embeducaster.com%2Fstatic%2Fscripts%2Ffplayer.swf+flashver%3DWIN%5C2019%2C0%2C0%2C226+pageUrl%3Dhttp%3A%2F%2Fwww.embeducaster.com%2Fembedplayer%2Faxn1x%2F1%2F650%2F500&amp;mode=17&amp;regexs=%7Bu%27get-ip%27%3A%20%7B%27expres%27%3A%20u%27redirect%3D%28.%2A%29%27%2C%20%27name%27%3A%20u%27get-ip%27%2C%20%27page%27%3A%20u%27http%3A//www.pubucaster.com%3A1935/loadbalancer%27%7D%2C%20u%27get-pk%27%3A%20%7B%27expres%27%3A%20u%22pk%3D%28.%2A%3F%29%27%22%2C%20%27referer%27%3A%20u%27http%3A//www.embeducaster.com/%27%2C%20%27name%27%3A%20u%27get-pk%27%2C%20%27page%27%3A%20u%27http%3A//www.embeducaster.com/embedplayer/axn1x/1/650/500%27%7D%7D
+#
+type=video
+name=FOX (PANCAS)
+thumb=http://www.fox.com/sites/default/files/fox_logo_0.jpg
+URL=plugin://plugin.video.pancas/?url=rtmp%3A%2F%2F%24doregex%5Bget-ip%5D%2Flive%2F+playpath%3Dfoxcrl%3Fid%3D24274%24doregex%5Bpk%5D+conn%3DS%3AOK+swfUrl%3Dhttp%3A%2F%2Fwww.embedezcast.com%2Fstatic%2Fscripts%2Ffplayer.swf+pageUrl%3Dhttp%3A%2F%2Fwww.embedezcast.com%2F+live%3Dtrue+timeout%3D10&amp;mode=17&amp;regexs=%7Bu%27get-ip%27%3A%20%7B%27expres%27%3A%20u%27redirect%3D%28.%2A%29%27%2C%20%27name%27%3A%20u%27get-ip%27%2C%20%27page%27%3A%20u%27http%3A//cdn.pubezcast.com%3A1935/loadbalancer%27%7D%2C%20u%27pk%27%3A%20%7B%27expres%27%3A%20u%22ea%3D%28.%2A%29%27%22%2C%20%27referer%27%3A%20u%27http%3A//www.embedezcast.com%27%2C%20%27name%27%3A%20u%27pk%27%2C%20%27page%27%3A%20u%27http%3A//www.embedezcast.com/embedplayer/foxcrl/1/650/500%27%7D%7D
+#
+type=video
+name=FOX LIFE (PANCAS)
+thumb=http://www.fox.com/sites/default/files/fox_logo_0.jpg
+URL=plugin://plugin.video.pancas/?url=rtmp%3A%2F%2F%24doregex%5Bget-ip%5D%2Fstream+playpath%3Dfoxlifea%3Fid%3D19709%24doregex%5Bpk%5D+conn%3DS%3AOK+swfUrl%3Dhttp%3A%2F%2Fwww.liveflashplayer.net%2Fresources%2Fscripts%2Ffplayer.swf+pageUrl%3Dhttp%3A%2F%2Fwww.liveflashplayer.net%2F+live%3Dtrue+timeout%3D10&amp;mode=17&amp;regexs=%7Bu%27get-ip%27%3A%20%7B%27expres%27%3A%20u%27redirect%3D%28.%2A%29%27%2C%20%27name%27%3A%20u%27get-ip%27%2C%20%27page%27%3A%20u%27http%3A//www.liveflashpublisher.com%3A1935/loadbalancer%27%7D%2C%20u%27pk%27%3A%20%7B%27expres%27%3A%20u%22ea%3D%28.%2A%29%27%22%2C%20%27referer%27%3A%20u%27http%3A//www.liveflashplayer.net%27%2C%20%27name%27%3A%20u%27pk%27%2C%20%27page%27%3A%20u%27http%3A//www.liveflashplayer.net/embedplayer/foxlifea/1/650/500%27%7D%7D
+#
+type=video
+name=FOX CRIME (PANCAS)
+thumb=https://realhousewifeofbelgrade.files.wordpress.com/2011/01/fox-crime.jpg
+URL=plugin://plugin.video.pancas/?url=rtmp%3A%2F%2F%24doregex%5Bget-ip%5D%2Flive+playpath%3Dfoxcrimex%3Fid%3D84766%26pk%3D%24doregex%5Bget-pk%5D+swfVfy%3D1+timeout%3D10+conn%3DS%3AOK+live%3D1+swfUrl%3Dhttp%3A%2F%2Fwww.embeducaster.com%2Fstatic%2Fscripts%2Ffplayer.swf+flashver%3DWIN%5C2019%2C0%2C0%2C226+pageUrl%3Dhttp%3A%2F%2Fwww.embeducaster.com%2Fembedplayer%2Ffoxcrimex%2F1%2F650%2F500&amp;mode=17&amp;regexs=%7Bu%27get-ip%27%3A%20%7B%27expres%27%3A%20u%27redirect%3D%28.%2A%29%27%2C%20%27name%27%3A%20u%27get-ip%27%2C%20%27page%27%3A%20u%27http%3A//www.pubucaster.com%3A1935/loadbalancer%27%7D%2C%20u%27get-pk%27%3A%20%7B%27expres%27%3A%20u%22pk%3D%28.%2A%3F%29%27%22%2C%20%27referer%27%3A%20u%27http%3A//www.embeducaster.com/%27%2C%20%27name%27%3A%20u%27get-pk%27%2C%20%27page%27%3A%20u%27http%3A//www.embeducaster.com/embedplayer/foxcrimex/1/650/500%27%7D%7D
+#
+type=video
+name=MTV PORTUGAL (PANCAS)
+thumb=http://www.internetsegura.pt/files/large/842
+URL=plugin://plugin.video.pancas/?url=rtmp%3A%2F%2F%24doregex%5Bget-ip%5D%2Flive+playpath%3Dmtvax%3Fid%3D84773%26pk%3D%24doregex%5Bget-pk%5D+swfVfy%3D1+timeout%3D10+conn%3DS%3AOK+live%3D1+swfUrl%3Dhttp%3A%2F%2Fwww.embeducaster.com%2Fstatic%2Fscripts%2Ffplayer.swf+flashver%3DWIN%5C2019%2C0%2C0%2C226+pageUrl%3Dhttp%3A%2F%2Fwww.embeducaster.com%2Fembedplayer%2Fmtvax%2F1%2F650%2F500&amp;mode=17&amp;regexs=%7Bu%27get-ip%27%3A%20%7B%27expres%27%3A%20u%27redirect%3D%28.%2A%29%27%2C%20%27name%27%3A%20u%27get-ip%27%2C%20%27page%27%3A%20u%27http%3A//www.pubucaster.com%3A1935/loadbalancer%27%7D%2C%20u%27get-pk%27%3A%20%7B%27expres%27%3A%20u%22pk%3D%28.%2A%3F%29%27%22%2C%20%27referer%27%3A%20u%27http%3A//www.embeducaster.com/%27%2C%20%27name%27%3A%20u%27get-pk%27%2C%20%27page%27%3A%20u%27http%3A//www.embeducaster.com/embedplayer/mtvax/1/650/500%27%7D%7D
+#
+type=video
+name=NATIONAL GEOGRAPHIC (PANCAS)
+thumb=https://yt3.ggpht.com/-2tol5SGixqs/AAAAAAAAAAI/AAAAAAAAAAA/gI_3L64uED0/s900-c-k-no/photo.jpg
+URL=plugin://plugin.video.pancas/?url=rtmp%3A%2F%2F%24doregex%5Bget-ip%5D%2Flive+playpath%3Dnatgeoax%3Fid%3D84757%26pk%3D%24doregex%5Bget-pk%5D+swfVfy%3D1+timeout%3D10+conn%3DS%3AOK+live%3D1+swfUrl%3Dhttp%3A%2F%2Fwww.embeducaster.com%2Fstatic%2Fscripts%2Ffplayer.swf+flashver%3DWIN%5C2019%2C0%2C0%2C226+pageUrl%3Dhttp%3A%2F%2Fwww.embeducaster.com%2Fembedplayer%2Fnatgeoax%2F1%2F650%2F500&amp;mode=17&amp;regexs=%7Bu%27get-ip%27%3A%20%7B%27expres%27%3A%20u%27redirect%3D%28.%2A%29%27%2C%20%27name%27%3A%20u%27get-ip%27%2C%20%27page%27%3A%20u%27http%3A//www.pubucaster.com%3A1935/loadbalancer%27%7D%2C%20u%27get-pk%27%3A%20%7B%27expres%27%3A%20u%22pk%3D%28.%2A%3F%29%27%22%2C%20%27referer%27%3A%20u%27http%3A//www.embeducaster.com/%27%2C%20%27name%27%3A%20u%27get-pk%27%2C%20%27page%27%3A%20u%27http%3A//www.embeducaster.com/embedplayer/natgeoax/1/650/500%27%7D%7D
+#
+type=video
+name=HISTORIA (PANCAS)
+thumb=http://upload.wikimedia.org/wikipedia/en/c/cd/Historia_logo.jpg
+URL=plugin://plugin.video.pancas/?url=rtmp%3A%2F%2F%24doregex%5Bget-ip%5D%2Fstream+playpath%3Dhistoriab%3Fid%3D21918%24doregex%5Bpk%5D+conn%3DS%3AOK+swfUrl%3Dhttp%3A%2F%2Fwww.liveflashplayer.net%2Fresources%2Fscripts%2Ffplayer.swf+pageUrl%3Dhttp%3A%2F%2Fwww.liveflashplayer.net%2F+live%3Dtrue+timeout%3D10&amp;mode=17&amp;regexs=%7Bu%27get-ip%27%3A%20%7B%27expres%27%3A%20u%27redirect%3D%28.%2A%29%27%2C%20%27name%27%3A%20u%27get-ip%27%2C%20%27page%27%3A%20u%27http%3A//www.liveflashpublisher.com%3A1935/loadbalancer%27%7D%2C%20u%27pk%27%3A%20%7B%27expres%27%3A%20u%22ea%3D%28.%2A%29%27%22%2C%20%27referer%27%3A%20u%27http%3A//www.liveflashplayer.net%27%2C%20%27name%27%3A%20u%27pk%27%2C%20%27page%27%3A%20u%27http%3A//www.liveflashplayer.net/embedplayer/historiab/1/650/500%27%7D%7D
+#
+type=video
+name=DISCOVERY (PANCAS)
+thumb=http://chinatvinc.com/tv/wp-content/uploads/2014/11/discoveryhd_newlogo_042008.jpg
+URL=plugin://plugin.video.pancas/?url=rtmp%3A%2F%2F%24doregex%5Bget-ip%5D%2Flive+playpath%3Ddiscoveryx%3Fid%3D84775%26pk%3D%24doregex%5Bget-pk%5D+swfVfy%3D1+timeout%3D10+conn%3DS%3AOK+live%3D1+swfUrl%3Dhttp%3A%2F%2Fwww.embeducaster.com%2Fstatic%2Fscripts%2Ffplayer.swf+flashver%3DWIN%5C2019%2C0%2C0%2C226+pageUrl%3Dhttp%3A%2F%2Fwww.embeducaster.com%2Fembedplayer%2Fdiscoveryx%2F1%2F650%2F500&amp;mode=17&amp;regexs=%7Bu%27get-ip%27%3A%20%7B%27expres%27%3A%20u%27redirect%3D%28.%2A%29%27%2C%20%27name%27%3A%20u%27get-ip%27%2C%20%27page%27%3A%20u%27http%3A//www.pubucaster.com%3A1935/loadbalancer%27%7D%2C%20u%27get-pk%27%3A%20%7B%27expres%27%3A%20u%22pk%3D%28.%2A%3F%29%27%22%2C%20%27referer%27%3A%20u%27http%3A//www.embeducaster.com/%27%2C%20%27name%27%3A%20u%27get-pk%27%2C%20%27page%27%3A%20u%27http%3A//www.embeducaster.com/embedplayer/discoveryx/1/650/500%27%7D%7D
+
 
 #
 type=video
