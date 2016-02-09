@@ -245,17 +245,17 @@ URL=
 type=video
 name=TV GLOBO HQ
 thumb=http://rd1.ig.com.br/wp-content/uploads/2013/02/logogvm.jpg
-URL=http://213.163.71.139:8081/live/sptv/playlist.m3u8
+URL=
 #
 type=video
 name=TV GLOBO
 thumb=http://upload.wikimedia.org/wikipedia/pt/archive/8/8f/20120710214058!TV_Globo.jpg
-URL=rtmp://62.210.83.152:1935/liverepeat playpath=101010 swfUrl=http://ppcast.org/embedP/jwplayer/jwplayer.flash.swf pageUrl=http://ppcast.org/embedP/4.php?file=zuca4ad46&width=100%&height=100%
+URL=
 #
 type=video
 name=TV GLOBO
 thumb=http://upload.wikimedia.org/wikipedia/pt/archive/8/8f/20120710214058!TV_Globo.jpg
-URL=http://live-cdn.direct-stream.org:1935/live/_definst_/101010/Globo_SP_Anderson_Elias.m3u8?wowzasessionid=291773276
+URL=
 #
 type=video
 name=TV GLOBO SP
