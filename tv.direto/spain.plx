@@ -52,6 +52,12 @@ URL=
 type=video
 name=CANAL + COMEDIA
 thumb=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQ4nGCVh74OKSo1JO33Ne_pIJZFsf2J796cVp9MFyDb71CygQJ
+URL=http://ipsatb.no-ip.info:8000/live/titanic/titanic/565.ts
+
+#
+type=video
+name=CANAL + COMEDIA
+thumb=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQ4nGCVh74OKSo1JO33Ne_pIJZFsf2J796cVp9MFyDb71CygQJ
 URL=rtmp://31.220.40.41/privatestream/comediaplus78?keys=2gTuLk5qZcyCFGnsV2aChw&keyt;=1452271938 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
 #
 type=video
@@ -72,7 +78,8 @@ URL=rtmp://31.220.0.194/privatestream/golfplus00 swfUrl=http://privatestream.tv/
 type=video
 name=CANAL+LIGA
 thumb=http://coditelcordoba.com/wp-content/uploads/2014/07/canal+liga.jpg
-URL=
+URL=http://ipsatb.no-ip.info:8000/live/titanic/titanic/482.ts
+
 #
 type=video
 name=CANAL SUR
@@ -200,6 +207,12 @@ type=video
 name=HISTORIA
 thumb=http://upload.wikimedia.org/wikipedia/en/c/cd/Historia_logo.jpg
 URL=rtmp://31.220.0.196/privatestream/historia93 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#
+type=video
+name=HOLLYWOOD
+thumb=http://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Chollywood.png/200px-Chollywood.png
+URL=http://ipsatb.no-ip.info:8000/live/titanic/titanic/564.ts
+
 #
 type=video
 name=HOLLYWOOD
