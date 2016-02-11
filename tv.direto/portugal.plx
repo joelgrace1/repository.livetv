@@ -147,7 +147,11 @@ type=video
 name=SIC NOTICIAS
 thumb=https://contraprovas.files.wordpress.com/2012/02/000068hb.png
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSIC%2bNOTICIAS%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICNOTICIAS.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dSIC%2bNOTICIAS%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICNOTICIAS.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
-
+#
+type=video
+name=SIC CARAS HD
+thumb=http://www.thelogodb.com/images/media/logo/rqrvpy1433343925.png
+URL=http://www.t12v.com:8000/live/prevot/prevot/1422.ts
 #
 type=video
 name=SIC MULHER HD
@@ -183,9 +187,9 @@ thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/tvi24.jpg
 URL=http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 #
 type=video
-name=TVI FICÇÃO
+name=TVI FICÇÃO HD
 thumb=http://media.iolnegocios.pt/media1201/ff7efc34eb9e1a7f0b55e926e529025e/
-URL=#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTVI%2bFICCAO%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FTVIFICCAO.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dTVI%2bFICCAO%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FTVIFICCAO.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+URL=http://www.t12v.com:8000/live/prevot/prevot/1126.ts
 #
 type=video
 name=TVI REALITY
@@ -393,7 +397,7 @@ URL=
 type=video
 name=AMC HD
 thumb=http://channelpear.com/images/media/2556.png
-URL=
+URL=http://www.t12v.com:8000/live/prevot/prevot/1410.ts
 #
 type=video
 name=FX HD
@@ -541,7 +545,7 @@ URL=
 type=video
 name=SIC KIDS
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=
+URL=http://www.t12v.com:8000/live/prevot/prevot/1164.ts
 #
 type=video
 name=DISNEY CHANNEL
@@ -553,7 +557,11 @@ type=video
 name=CANAL PANDA
 thumb=https://genteytv.files.wordpress.com/2011/04/panda.jpg
 URL=http://hyper.de1-eu.com:8000/live/saeid/saeid/674.m3u8
-
+#
+type=video
+name=CANAL PANDA
+thumb=https://genteytv.files.wordpress.com/2011/04/panda.jpg
+URL=http://www.t12v.com:8000/live/prevot/prevot/1165.ts
 #
 type=video
 name=DISNEY JUNIOR
@@ -565,12 +573,18 @@ URL=http://hyper.de1-eu.com:8000/live/saeid/saeid/668.m3u8
 type=video
 name=TV GLOBO HD
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=
+URL=http://www.t12v.com:8000/live/prevot/prevot/1388.ts
+
+#
+type=video
+name=TV GLOBO HD
+thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
+URL=http://www.t12v.com:8000/live/prevot/prevot/1390.ts
 #
 type=video
 name=TV RECORD HD
 thumb=https://lh4.googleusercontent.com/-lnaZFKly7UQ/U5hhQtVpkUI/AAAAAAAAABE/rVOzZZEKlIc/w825-h824/LOGO_RECORD_ALTA_HD_sem-slogan_baixa.png
-URL=
+URL=http://www.t12v.com:8000/live/prevot/prevot/1393.ts
 
 #
 type=video
