@@ -136,7 +136,9 @@ URL=#http://noscdn1.connectedviews.com:1935/live/sic.stream/%20livestream.m3u8
 type=video
 name=SIC HD
 thumb=https://jornalismounisuam.files.wordpress.com/2010/06/sic-hd.jpg
-URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/655.m3u8
+URL=http://www.t12v.com:8000/live/400/400/1121.ts
+
+#http://hyper.de1-eu.com:8000/live/saeid/saeid/655.m3u8
 #
 type=video
 name=SIC 
@@ -146,7 +148,9 @@ URL=http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
 type=video
 name=SIC NOTICIAS HD
 thumb=https://contraprovas.files.wordpress.com/2012/02/000068hb.png
-URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/653.m3u8
+URL=http://www.t12v.com:8000/live/400/400/1123.ts
+
+#http://hyper.de1-eu.com:8000/live/saeid/saeid/653.m3u8
 #
 type=video
 name=SIC NOTICIAS
@@ -156,7 +160,7 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSIC%2bNO
 type=video
 name=SIC CARAS HD
 thumb=http://www.thelogodb.com/images/media/logo/rqrvpy1433343925.png
-URL=
+URL=http://www.t12v.com:8000/live/400/400/1422.ts
 #
 type=video
 name=SIC MULHER HD
@@ -194,7 +198,7 @@ URL=http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 type=video
 name=TVI FICÇÃO HD
 thumb=http://media.iolnegocios.pt/media1201/ff7efc34eb9e1a7f0b55e926e529025e/
-URL=
+URL=http://www.t12v.com:8000/live/400/400/1126.ts
 #
 type=video
 name=TVI REALITY
@@ -210,32 +214,32 @@ URL=#http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/ma
 type=video
 name=SPORT TV 1 HD
 thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
-URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/641.m3u8
+URL=http://www.t12v.com:8000/live/400/400/501.ts
 #
 type=video
 name=SPORT TV 2 HD
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport_tv2_pt.jpg
-URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/640.m3u8
+URL=http://www.t12v.com:8000/live/400/400/500.ts
 #
 type=video
 name=SPORT TV 3 HD
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport-tv3.jpg
-URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/639.m3u8
+URL=http://www.t12v.com:8000/live/400/400/1135.ts
 #
 type=video
 name=SPORT TV 4 HD
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2012/11/Sport-Tv-4.png
-URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/638.m3u8
+URL=http://www.t12v.com:8000/live/400/400/1136.ts
 #
 type=video
 name=SPORT TV 5 HD
 thumb=http://i0.wp.com/www.novidadestv.com/wp-content/uploads/2014/03/SportTV_2014_logo_destak_300x216.png?fit=300%2C216
-URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/637.m3u8
+URL=http://www.t12v.com:8000/live/400/400/1137.ts
 #
 type=video
 name=SPORT TV 1
 thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
-URL=http://iptv.temnet.pt:8000/live/rui/rui/32.m3u8
+URL=
 #
 type=video
 name=SPORT TV 1
@@ -252,7 +256,7 @@ URL=
 type=video
 name=SPORT TV 2
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport_tv2_pt.jpg
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dReal%2bMadrid%2bvs%2bAthletic%2bBilbao%2bLink%2b1%26url%3dhttp%253A%252F%252Fwww.idimsports.eu%252Fwatch%252F410048%252F1%252Fwatch-real-madrid-vs-athletic-bilbao.html%26cfg%3ddimsports.eu.links.cfg%2540Events%2540Real%2bMadrid%2bvs%2bAthletic%2bBilbao%2b%26videoTitle%3d%252810%253A00%2529%2b%2bReal%2bMadrid%2bvs%2bAthletic%2bBilbao%2b%26director%3ddimsports.eu%26genre%3dLive%2bSports%26referer%3dhttp%253A%252F%252Fwww.idimsports.euhttp%253A%252F%252Fwww.idimsports.eu%252Ffootball.html%26time%3d10%253A00%26timeTmp%3d15%253A00%26definedIn%3ddimsports.eu.links.cfg%26type%3drss%26match%3dReal%2bMadrid%2bvs%2bAthletic%2bBilbao%2b%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fsports%252FFootball.png&amp;mode=1
+URL=
 
 #rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 
@@ -260,7 +264,9 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dReal%2bM
 type=video
 name=SPORT TV 3
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport-tv3.jpg
-URL=#rtmp://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+URL=
+
+#rtmp://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 #
 type=video
 name=SPORT TV 4
@@ -302,12 +308,12 @@ URL=plugin://program.plexus/?mode=1&url=acestream://592445fe3244632cb50e4eb0dc66
 type=video
 name=BENFICA TV 1 HD
 thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
-URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/677.m3u8
+URL=http://www.t12v.com:8000/live/400/400/807.ts
 #
 type=video
 name=BENFICA TV 1 HD
 thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
-URL=#http://91.204.214.106:23201/stolen/250l/xenixos.7z
+URL=http://www.t12v.com:8000/live/400/400/1421.ts
 
 #
 type=video
@@ -318,12 +324,12 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dAcademic
 type=video
 name=BENFICA TV 2 HD
 thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
-URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/676.m3u8
+URL=http://www.t12v.com:8000/live/400/400/806.ts
 #
 type=video
 name=BENFICA TV 2 HD
 thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
-URL=#http://91.204.214.106:23201/stolen/233w/xenixos.7z
+URL=http://www.t12v.com:8000/live/400/400/1418.ts
 
 #
 type=video
@@ -351,14 +357,16 @@ URL=plugin://program.plexus/?mode=1&url=acestream://b65b8012d9cabc96b74013fb2f2b
 type=video
 name=SPORTING TV HD
 thumb=http://www.sporting.pt/Imagens/79671.jpg
-URL=plugin://plugin.video.SportsDevil/?item=videoTitle%3d%252810%253A00%2529%2b%2bSporting%2bCP%2bB%2bvs%2bOriental%2b%26title%3d%252810%253A00%2529%2b%2bSporting%2bCP%2bB%2bvs%2bOriental%2b%26url%3dhttp%253A%252F%252Fwww.idimsports.eu%252Ffootball.html%26cfg%3ddimsports.eu.links.cfg%2540Events%2540Sporting%2bCP%2bB%2bvs%2bOriental%2b%26definedIn%3ddimsports.eu.links.cfg%26director%3ddimsports.eu%26timeTmp%3d15%253A00%26referer%3dhttp%253A%252F%252Fwww.idimsports.eu%252Ffootball.html%26time%3d10%253A00%26genre%3dLive%2bSports%26type%3drss%26match%3dSporting%2bCP%2bB%2bvs%2bOriental%2b%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fsports%252FFootball.png&amp;mode=1
+URL=http://www.t12v.com:8000/live/400/400/1141.ts
 
 #http://hyper.de1-eu.com:8000/live/saeid/saeid/652.m3u8
 #
 type=video
 name=PORTO CANAL HD
 thumb=http://www.campeonatoibericotriatlon.com/images/porto_canal.jpg
-URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/658.m3u8
+URL=http://www.t12v.com:8000/live/400/400/1130.ts
+
+#http://hyper.de1-eu.com:8000/live/saeid/saeid/658.m3u8
 #
 type=video
 name=EUROSPORT 1
@@ -369,12 +377,14 @@ URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/667.m3u8
 type=video
 name=MOTORS TV
 thumb= http://www.motorstv.com/sites/default/files/contenu/image/pages/logos/logo_officiel_motorstv.jpg
-URL=
+URL=http://www.t12v.com:8000/live/400/400/1193.ts
 #
 type=video
 name=ABOLA TV
 thumb=http://www.troiaportugalmatchcup.com/media/1039/aBolaTV.png
-URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/680.m3u8
+URL=http://www.t12v.com:8000/live/400/400/1404.ts
+
+#http://hyper.de1-eu.com:8000/live/saeid/saeid/680.m3u8
 
 #
 type=video
@@ -396,17 +406,19 @@ URL=rtmp://fml.6F53.edgecastcdn.net/206F53 playpath=tpai512 swfUrl=http://www.tp
 type=video
 name=SYFY HD
 thumb=http://ib1.huluim.com/company_key_art/232?size=1600x600&region=US
-URL=
+URL=http://www.t12v.com:8000/live/400/400/1412.ts
 #
 type=video
 name=AMC HD
 thumb=http://channelpear.com/images/media/2556.png
-URL=
+URL=http://www.t12v.com:8000/live/400/400/1410.ts
 #
 type=video
 name=FX HD
 thumb=https://pmcdeadline2.files.wordpress.com/2014/05/fx-logo__140528151442.jpg
-URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/665.m3u8
+URL=http://www.t12v.com:8000/live/400/400/1408.ts
+
+#http://hyper.de1-eu.com:8000/live/saeid/saeid/665.m3u8
 #
 type=video
 name=ODISSEIA HD
@@ -421,12 +433,14 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCANAL%2b
 type=video
 name=NATIONAL GEOGRAPHIC HD
 thumb=https://yt3.ggpht.com/-2tol5SGixqs/AAAAAAAAAAI/AAAAAAAAAAA/gI_3L64uED0/s900-c-k-no/photo.jpg
-URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/660.m3u8
+URL=http://www.t12v.com:8000/live/400/400/1182.ts
+
+#http://hyper.de1-eu.com:8000/live/saeid/saeid/660.m3u8
 #
 type=video
 name=HISTORIA
 thumb=http://upload.wikimedia.org/wikipedia/en/c/cd/Historia_logo.jpg
-URL=
+URL=http://www.t12v.com:8000/live/400/400/1183.ts
 #
 type=video
 name=DISCOVERY
@@ -441,7 +455,7 @@ URL=
 type=video
 name=HOLLYWOOD
 thumb=http://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Chollywood.png/200px-Chollywood.png
-URL=
+URL=http://www.t12v.com:8000/live/400/400/1144.ts
 #
 type=video
 name=MOV HD
@@ -451,13 +465,13 @@ URL=
 type=video
 name=AXN BLACK HD
 thumb=http://img2.wikia.nocookie.net/__cb20110927172249/logopedia/images/e/e6/AXN_Black_logo.png
-URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/679.m3u8
+URL=http://www.t12v.com:8000/live/400/400/1156.ts
 
 #
 type=video
 name=AXN WHITE HD
 thumb=http://img2.wikia.nocookie.net/__cb20110927172249/logopedia/images/e/e6/AXN_Black_logo.png
-URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/678.m3u8
+URL=http://www.t12v.com:8000/live/400/400/1155.ts
 
 #
 type=video
@@ -473,13 +487,15 @@ URL=
 type=video
 name=FOX HD
 thumb=http://www.fox.com/sites/default/files/fox_logo_0.jpg
-URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/666.m3u8
+URL=http://www.t12v.com:8000/live/400/400/1149.ts
+
+#http://hyper.de1-eu.com:8000/live/saeid/saeid/666.m3u8
 
 #
 type=video
 name=FOX MOVIES HD
 thumb=http://img1.wikia.nocookie.net/__cb20100323110707/logopedia/images/e/e3/Fox_Moxie_Channel.png
-URL=
+URL=http://www.t12v.com:8000/live/400/400/1148.ts
 #
 type=video
 name=FOX MOVIES
@@ -489,12 +505,14 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFOX%2bMO
 type=video
 name=FOX CRIME HD
 thumb=https://realhousewifeofbelgrade.files.wordpress.com/2011/01/fox-crime.jpg
-URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/645.m3u8
+URL=http://www.t12v.com:8000/live/400/400/1151.ts
+
+#http://hyper.de1-eu.com:8000/live/saeid/saeid/645.m3u8
 #
 type=video
 name=FOX LIFE HD
 thumb=http://www.fox.com/sites/default/files/fox_logo_0.jpg
-URL=
+URL=http://www.t12v.com:8000/live/400/400/1150.ts
 #
 type=video
 name=TV CINE 1 HD
@@ -509,7 +527,7 @@ URL=
 type=video
 name=TV CINE 2 HD
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/649.m3u8
+URL=http://www.t12v.com:8000/live/400/400/1146.ts
 #
 type=video
 name=TV CINE 2
@@ -519,7 +537,7 @@ URL=
 type=video
 name=TV CINE 3 HD
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/648.m3u8
+URL=http://www.t12v.com:8000/live/400/400/886.ts
 #
 type=video
 name=TV CINE 3
@@ -529,7 +547,7 @@ URL=
 type=video
 name=TV CINE 4 HD
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/647.m3u8
+URL=http://www.t12v.com:8000/live/400/400/1147.ts
 #
 type=video
 name=TV CINE 4
@@ -539,7 +557,7 @@ URL=
 type=video
 name=TV CINE SERIES HD
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/651.m3u8
+URL=http://www.t12v.com:8000/live/400/400/1152.ts
 #
 type=video
 name=MTV PORTUGAL HD
@@ -549,12 +567,14 @@ URL=
 type=video
 name=SIC KIDS
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=
+URL=http://www.t12v.com:8000/live/400/400/1164.ts
 #
 type=video
 name=DISNEY CHANNEL
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/669.m3u8
+URL=http://www.t12v.com:8000/live/400/400/1162.ts
+
+#http://hyper.de1-eu.com:8000/live/saeid/saeid/669.m3u8
 
 #
 type=video
@@ -565,30 +585,32 @@ URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/674.m3u8
 type=video
 name=CANAL PANDA
 thumb=https://genteytv.files.wordpress.com/2011/04/panda.jpg
-URL=
+URL=http://www.t12v.com:8000/live/400/400/1165.ts
 #
 type=video
 name=DISNEY JUNIOR
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/668.m3u8
+URL=http://www.t12v.com:8000/live/400/400/1213.ts
+
+#http://hyper.de1-eu.com:8000/live/saeid/saeid/668.m3u8
 
 
 #
 type=video
 name=TV GLOBO HD
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=
+URL=http://www.t12v.com:8000/live/400/400/1388.ts
 
 #
 type=video
 name=TV GLOBO HD
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=
+URL=http://www.t12v.com:8000/live/400/400/1390.ts
 #
 type=video
 name=TV RECORD HD
 thumb=https://lh4.googleusercontent.com/-lnaZFKly7UQ/U5hhQtVpkUI/AAAAAAAAABE/rVOzZZEKlIc/w825-h824/LOGO_RECORD_ALTA_HD_sem-slogan_baixa.png
-URL=
+URL=http://www.t12v.com:8000/live/400/400/1393.ts
 
 #
 type=video
