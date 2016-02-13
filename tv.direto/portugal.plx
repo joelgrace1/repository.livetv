@@ -7,7 +7,7 @@ title=[COLOR green]PORTUGAL[/COLOR]
 type=video
 name=TEST 1
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=plugin://plugin.video.pancas/?url=rtmp%3A%2F%2F%24doregex%5Bget-ip%5D%2Flive+playpath%3Dconapeluda%3Fid%3D85477%26pk%3D%24doregex%5Bget-pk%5D+swfVfy%3D1+timeout%3D10+conn%3DS%3AOK+live%3D1+swfUrl%3Dhttp%3A%2F%2Fwww.embeducaster.com%2Fstatic%2Fscripts%2Ffplayer.swf+flashver%3DWIN%5C2019%2C0%2C0%2C226+pageUrl%3Dhttp%3A%2F%2Fwww.embeducaster.com%2Fembedplayer%2Fconapeluda%2F1%2F600%2F400&amp;mode=17&amp;regexs=%7Bu%27get-ip%27%3A%20%7B%27expres%27%3A%20u%27redirect%3D%28.%2A%29%27%2C%20%27name%27%3A%20u%27get-ip%27%2C%20%27page%27%3A%20u%27http%3A//www.pubucaster.com%3A1935/loadbalancer%27%7D%2C%20u%27get-pk%27%3A%20%7B%27expres%27%3A%20u%22pk%3D%28.%2A%3F%29%27%22%2C%20%27referer%27%3A%20u%27http%3A//www.embeducaster.com/%27%2C%20%27name%27%3A%20u%27get-pk%27%2C%20%27page%27%3A%20u%27http%3A//www.embeducaster.com/embedplayer/conapeluda/1/600/400%27%7D%7D&amp;mode=1
+URL=
 #
 type=video
 name=TEST 2
@@ -156,7 +156,7 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSIC%2bNO
 type=video
 name=SIC CARAS HD
 thumb=http://www.thelogodb.com/images/media/logo/rqrvpy1433343925.png
-URL=http://www.t12v.com:8000/live/prevot/prevot/1422.ts
+URL=
 #
 type=video
 name=SIC MULHER HD
@@ -240,14 +240,14 @@ URL=
 type=video
 name=SPORT TV 1
 thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dPortugal%2bvs%2bSlovakia%252C%2bU19%2bLink%2b1%26url%3dhttp%253A%252F%252Fwww.idimsports.eu%252Fwatch%252F409983%252F1%252Fwatch-portugal-vs-slovakia%252C-u19.html%26cfg%3ddimsports.eu.links.cfg%2540Events%2540Portugal%2bvs%2bSlovakia%252C%2bU19%2b%26videoTitle%3d%252807%253A00%2529%2b%2bPortugal%2bvs%2bSlovakia%252C%2bU19%2b%26director%3ddimsports.eu%26genre%3dLive%2bSports%26referer%3dhttp%253A%252F%252Fwww.idimsports.euhttp%253A%252F%252Fwww.idimsports.eu%252Ffootball.html%26time%3d07%253A00%26timeTmp%3d12%253A00%26definedIn%3ddimsports.eu.links.cfg%26type%3drss%26match%3dPortugal%2bvs%2bSlovakia%252C%2bU19%2b%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fsports%252FFootball.png&amp;mode=1
+URL=
 
 #rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 #
 type=video
 name=SPORT TV 2
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport_tv2_pt.jpg
-URL=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher=streams&url=http://cdn2.zuuk.org/sporttv2.php?width=599&height;=399&referer=http://cdn2.zuuk.org/&amp;mode=12
+URL=
 #
 type=video
 name=SPORT TV 2
