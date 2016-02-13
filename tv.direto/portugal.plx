@@ -235,7 +235,7 @@ URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/637.m3u8
 type=video
 name=SPORT TV 1
 thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
-URL=
+URL=http://iptv.temnet.pt:8000/live/rui/rui/32.m3u8
 #
 type=video
 name=SPORT TV 1
