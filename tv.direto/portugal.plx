@@ -499,7 +499,7 @@ URL=
 type=video
 name=TV CINE 1 HD
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/650.m3u8
+URL=http://www.t12v.com:8000/live/400/400/1145.ts
 #
 type=video
 name=TV CINE 1
