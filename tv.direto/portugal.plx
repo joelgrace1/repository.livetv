@@ -7,7 +7,7 @@ title=[COLOR green]PORTUGAL[/COLOR]
 type=video
 name=TEST 1
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=
+URL=plugin://plugin.video.pancas/?url=rtmp%3A%2F%2F%24doregex%5Bget-ip%5D%2Flive+playpath%3Dconapeluda%3Fid%3D85477%26pk%3D%24doregex%5Bget-pk%5D+swfVfy%3D1+timeout%3D10+conn%3DS%3AOK+live%3D1+swfUrl%3Dhttp%3A%2F%2Fwww.embeducaster.com%2Fstatic%2Fscripts%2Ffplayer.swf+flashver%3DWIN%5C2019%2C0%2C0%2C226+pageUrl%3Dhttp%3A%2F%2Fwww.embeducaster.com%2Fembedplayer%2Fconapeluda%2F1%2F600%2F400&amp;mode=17&amp;regexs=%7Bu%27get-ip%27%3A%20%7B%27expres%27%3A%20u%27redirect%3D%28.%2A%29%27%2C%20%27name%27%3A%20u%27get-ip%27%2C%20%27page%27%3A%20u%27http%3A//www.pubucaster.com%3A1935/loadbalancer%27%7D%2C%20u%27get-pk%27%3A%20%7B%27expres%27%3A%20u%22pk%3D%28.%2A%3F%29%27%22%2C%20%27referer%27%3A%20u%27http%3A//www.embeducaster.com/%27%2C%20%27name%27%3A%20u%27get-pk%27%2C%20%27page%27%3A%20u%27http%3A//www.embeducaster.com/embedplayer/conapeluda/1/600/400%27%7D%7D&amp;mode=1
 #
 type=video
 name=TEST 2
@@ -247,7 +247,7 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dPortugal
 type=video
 name=SPORT TV 2
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport_tv2_pt.jpg
-URL=
+URL=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher=streams&url=http://cdn2.zuuk.org/sporttv2.php?width=599&height;=399&referer=http://cdn2.zuuk.org/&amp;mode=12
 #
 type=video
 name=SPORT TV 2
