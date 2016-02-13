@@ -455,6 +455,11 @@ URL=
 type=video
 name=CAÇA E PESCA HD
 thumb=http://guiaforte.com.br/files/logo/566.jpg
+URL=http://cp.dmbshare.net:8000/live/aytac/aytac/3494.ts
+#
+type=video
+name=CAÇA E PESCA HD
+thumb=http://guiaforte.com.br/files/logo/566.jpg
 URL=http://cp.dmbshare.net:8000/live/dan/dan/3494.ts
 
 #
