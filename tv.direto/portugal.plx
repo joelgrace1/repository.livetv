@@ -239,7 +239,8 @@ URL=http://www.t12v.com:8000/live/400/400/1137.ts
 type=video
 name=SPORT TV 1
 thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
-URL=
+URL=http://cp.dmbshare.net:8000/live/dan/dan/3457.ts
+
 #
 type=video
 name=SPORT TV 1
@@ -251,7 +252,8 @@ URL=
 type=video
 name=SPORT TV 2
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport_tv2_pt.jpg
-URL=
+URL=http://cp.dmbshare.net:8000/live/dan/dan/3456.ts
+
 #
 type=video
 name=SPORT TV 2
@@ -264,19 +266,22 @@ URL=
 type=video
 name=SPORT TV 3
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport-tv3.jpg
-URL=
+URL=http://cp.dmbshare.net:8000/live/dan/dan/3458.ts
+
 
 #rtmp://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 #
 type=video
 name=SPORT TV 4
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2012/11/Sport-Tv-4.png
-URL=
+URL=http://cp.dmbshare.net:8000/live/dan/dan/3455.ts
+
 #
 type=video
 name=SPORT TV 5
 thumb=http://i0.wp.com/www.novidadestv.com/wp-content/uploads/2014/03/SportTV_2014_logo_destak_300x216.png?fit=300%2C216
-URL=
+URL=http://cp.dmbshare.net:8000/live/dan/dan/3454.ts
+
 
 #
 type=video
@@ -483,7 +488,8 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dAXN%2bWH
 type=video
 name=A&E
 thumb=http://images.bwwstatic.com/columnpic6/F74EF519-B95A-9C31-282B895E215DBEE4.jpg
-URL=
+URL=http://cp.dmbshare.net:8000/live/dan/dan/3500.ts
+
 #
 type=video
 name=FOX HD
