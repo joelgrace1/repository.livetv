@@ -5,9 +5,9 @@ title=[COLOR green]PORTUGAL[/COLOR]
 
 #
 type=video
-name=TEST 1
+name=TEST 2
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
-URL=rtmp:/./109.202.101.108:1935/stream/ playpath=NdTBo20y0yBoaX9Epd0.stream?d5040o433sa232i404pm391u433yq391x652iq87t9463ud5040o433sn433r103on232w1047ib1047n swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d1275g297sa120o680pm328n297yq328u5036iq723q1269ud1275g297sn297h953on120x4781ib4781b680pq723q1269uq328u5036i&width=600&height=460&st=v45465n4w584s2s4643683u5447553b3v5k5u2p2p2v24344c494u224z21334w2v2x2&adx=&stream=94t2c4n584j554s2k5f5t2b4w28413n2x4k5u3a3f4x2w2766476e3s584w3e4f3k474r224r21443v274s2446494f4q2t29484n2x47435e3h45444v4s2p4d3n4j5a5f4h3t5b4k2m4m4k4f484p3p3e5e4a4v5a4z324w534p2o234h554h5w2l523v264m5w2a4u2b4d4a494c4e474z2u294b494u2t2i5r23423x234m234242434p2o234z3&sooor=MTU=&str=is&ok=&cat=1&link=1&idom=first
+URL=rtmp:/./109.202.101.108:1935/stream/ playpath=NdTBo20y0yBoaX9Epd0.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d1275g297sa120o680pm328n297yq328u5036iq723q1269ud1275g297sn297h953on120x4781ib4781b680pq723q1269uq328u5036i&width=600&height=460&st=v45465n4w584s2s4643683u5447553b3v5k5u2p2p2v24344c494u224z21334w2v2x2&adx=&stream=94t2c4n584j554s2k5f5t2b4w28413n2x4k5u3a3f4x2w2766476e3s584w3e4f3k474r224r21443v274s2446494f4q2t29484n2x47435e3h45444v4s2p4d3n4j5a5f4h3t5b4k2m4m4k4f484p3p3e5e4a4v5a4z324w534p2o234h554h5w2l523v264m5w2a4u2b4d4a494c4e474z2u294b494u2t2i5r23423x234m234242434p2o234z3&sooor=MTU=&str=is&ok=&cat=1&link=1&idom=firstrowas.co
 #
 type=video
 name=RTP 1 HD
