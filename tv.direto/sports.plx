@@ -35,7 +35,7 @@ URL=
 
 #
 type=video
-name=BEIN SPORTS
+name=BEIN SPORTS (ARAB)
 thumb=http://www.beinsports.fr/di/library/bein/4b/92/logo-bein-sports-1-hd_6tt6szp2b0ag1dscy6cxln08t.jpg?t=-724511221
 URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+white%5DBein+US%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fbesmenaah-i.akamaihd.net%2Fhls%2Flive%2F221906%2Fbesmena02h%2F02.m3u8&amp;audio=0&amp;image=%2FUsers%2Fgracevalerio%2FLibrary%2FApplication+Support%2FKodi%2Faddons%2Fplugin.video.phstreams%2Ficon.png&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Faby4q1mvb%2Funited_kingdom_flag_16_cool_background.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
