@@ -697,12 +697,9 @@ URL=http://hyper.de1-eu.com:8000/live/saeid/saeid/637.m3u8
 type=video
 name=SPORT TV 1
 thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
-URL=
-#
-type=video
-name=SPORT TV 1
-thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
-URL=#rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dPortugal%2bvs%2bSlovakia%252C%2bU19%2bLink%2b1%26url%3dhttp%253A%252F%252Fwww.idimsports.eu%252Fwatch%252F409983%252F1%252Fwatch-portugal-vs-slovakia%252C-u19.html%26cfg%3ddimsports.eu.links.cfg%2540Events%2540Portugal%2bvs%2bSlovakia%252C%2bU19%2b%26videoTitle%3d%252807%253A00%2529%2b%2bPortugal%2bvs%2bSlovakia%252C%2bU19%2b%26director%3ddimsports.eu%26genre%3dLive%2bSports%26referer%3dhttp%253A%252F%252Fwww.idimsports.euhttp%253A%252F%252Fwww.idimsports.eu%252Ffootball.html%26time%3d07%253A00%26timeTmp%3d12%253A00%26definedIn%3ddimsports.eu.links.cfg%26type%3drss%26match%3dPortugal%2bvs%2bSlovakia%252C%2bU19%2b%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fsports%252FFootball.png&amp;mode=1
+
+#rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 #
 type=video
 name=SPORT TV 2
@@ -712,7 +709,9 @@ URL=
 type=video
 name=SPORT TV 2
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport_tv2_pt.jpg
-URL=#rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dReal%2bMadrid%2bvs%2bAthletic%2bBilbao%2b%26url%3dhttp%253A%252F%252Fwww.idimsports.eu%252Fwatch%252F410048%252F4%252Fwatch-real-madrid-vs-athletic-bilbao.html%26cfg%3ddimsports.eu.links.cfg%2540Events%2540Real%2bMadrid%2bvs%2bAthletic%2bBilbao%2b%26videoTitle%3d%252810%253A00%2529%2b%2bReal%2bMadrid%2bvs%2bAthletic%2bBilbao%2b%26director%3ddimsports.eu%26genre%3dLive%2bSports%26referer%3dhttp%253A%252F%252Fwww.idimsports.euhttp%253A%252F%252Fwww.idimsports.eu%252Ffootball.html%26time%3d10%253A00%26timeTmp%3d15%253A00%26definedIn%3ddimsports.eu.links.cfg%26type%3drss%26match%3dReal%2bMadrid%2bvs%2bAthletic%2bBilbao%2b%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fsports%252FFootball.png&amp;mode=1
+
+#rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 
 #
 type=video
