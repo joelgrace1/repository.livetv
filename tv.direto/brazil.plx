@@ -243,6 +243,18 @@ thumb=https://jorgesalvador.files.wordpress.com/2011/02/tv-globo-international-l
 URL=
 #
 type=video
+name=TV GLOBO HD
+thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
+URL=http://www.t12v.com:8000/live/prevot/prevot/1388.ts
+
+#
+type=video
+name=TV GLOBO HD
+thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
+URL=http://www.t12v.com:8000/live/prevot/prevot/1390.ts
+
+#
+type=video
 name=TV GLOBO HQ
 thumb=http://rd1.ig.com.br/wp-content/uploads/2013/02/logogvm.jpg
 URL=
@@ -266,6 +278,11 @@ type=video
 name=TV GLOBO SP
 thumb=http://rd1.ig.com.br/wp-content/uploads/2013/02/logogvm.jpg
 URL=http://213.163.65.116:8081/live/sptv/playlist.m3u8
+#
+type=video
+name=TV RECORD HD
+thumb=https://lh4.googleusercontent.com/-lnaZFKly7UQ/U5hhQtVpkUI/AAAAAAAAABE/rVOzZZEKlIc/w825-h824/LOGO_RECORD_ALTA_HD_sem-slogan_baixa.png
+URL=http://www.t12v.com:8000/live/prevot/prevot/1393.ts
 #
 type=video
 name=TV RECORD HD

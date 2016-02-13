@@ -6,7 +6,7 @@ title=[COLOR green]MOTORSPORTS[/COLOR]
 type=video
 name=SKY FORMULA 1
 thumb=http://e1.365dm.com/11/11/660x350/f1panel1_2682703.jpg?20111125105918
-URL=http://80.243.189.26:8081/sportshd/skf1/index.m3u8
+URL=
 #
 type=video
 name=MOVISTAR F1
