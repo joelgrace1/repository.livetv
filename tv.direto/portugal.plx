@@ -252,7 +252,7 @@ URL=
 type=video
 name=SPORT TV 2
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport_tv2_pt.jpg
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dReal%2bMadrid%2bvs%2bAthletic%2bBilbao%2b%26url%3dhttp%253A%252F%252Fwww.idimsports.eu%252Fwatch%252F410048%252F4%252Fwatch-real-madrid-vs-athletic-bilbao.html%26cfg%3ddimsports.eu.links.cfg%2540Events%2540Real%2bMadrid%2bvs%2bAthletic%2bBilbao%2b%26videoTitle%3d%252810%253A00%2529%2b%2bReal%2bMadrid%2bvs%2bAthletic%2bBilbao%2b%26director%3ddimsports.eu%26genre%3dLive%2bSports%26referer%3dhttp%253A%252F%252Fwww.idimsports.euhttp%253A%252F%252Fwww.idimsports.eu%252Ffootball.html%26time%3d10%253A00%26timeTmp%3d15%253A00%26definedIn%3ddimsports.eu.links.cfg%26type%3drss%26match%3dReal%2bMadrid%2bvs%2bAthletic%2bBilbao%2b%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fsports%252FFootball.png&amp;mode=1
+URL=
 
 #rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 
@@ -307,7 +307,7 @@ URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/677.m3u8
 type=video
 name=BENFICA TV 1 HD
 thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
-URL=http://91.204.214.106:23201/stolen/250l/xenixos.7z
+URL=#http://91.204.214.106:23201/stolen/250l/xenixos.7z
 
 #
 type=video
@@ -325,7 +325,7 @@ URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/676.m3u8
 type=video
 name=BENFICA TV 2 HD
 thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
-URL=http://91.204.214.106:23201/stolen/233w/xenixos.7z
+URL=#http://91.204.214.106:23201/stolen/233w/xenixos.7z
 
 #
 type=video
