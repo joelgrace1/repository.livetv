@@ -136,9 +136,7 @@ URL=#http://noscdn1.connectedviews.com:1935/live/sic.stream/%20livestream.m3u8
 type=video
 name=SIC HD
 thumb=https://jornalismounisuam.files.wordpress.com/2010/06/sic-hd.jpg
-URL=http://www.t12v.com:8000/live/400/400/1121.ts
-
-#http://hyper.de1-eu.com:8000/live/saeid/saeid/655.m3u8
+URL=http://ftvnext.stmteam.org:8000/live/Alberto1/Alberto1/6.ts
 #
 type=video
 name=SIC 
@@ -198,12 +196,12 @@ URL=http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 type=video
 name=TVI FICÇÃO HD
 thumb=http://media.iolnegocios.pt/media1201/ff7efc34eb9e1a7f0b55e926e529025e/
-URL=http://www.t12v.com:8000/live/400/400/1126.ts
+URL=http://ftvnext.stmteam.org:8000/live/Alberto1/Alberto1/12.ts
 #
 type=video
 name=TVI REALITY
 thumb=https://pbs.twimg.com/profile_images/649980763623043072/FOpfAgxT.png
-URL=
+URL=http://ftvnext.stmteam.org:8000/live/Alberto1/Alberto1/988.ts
 
 #
 type=video
