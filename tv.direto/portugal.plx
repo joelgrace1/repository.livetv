@@ -65,7 +65,7 @@ URL=rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 sw
 type=video
 name=RTP 3 HD
 thumb=http://www.movenoticias.com/wp-content/uploads/2015/10/21269795073_33032b74e8_z-640x452.jpg
-URL=#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dRTP%2bINFORMACAO%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FRTPINFORMACAO.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dRTP%2bINFORMACAO%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FRTPINFORMACAO.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+URL=
 #
 type=video
 name=RTP INTERNACIONAL
@@ -75,7 +75,7 @@ URL=rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 s
 type=video
 name=RTP INTERNACIONAL
 thumb=http://1.bp.blogspot.com/-hVONUnf1DzU/UHFpJ0D8rlI/AAAAAAAAEUc/RoqBd2ziCjg/s1600/RTP-Internacional-logo-2012.png
-URL=#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dRTP%2bINTERNACIONAL%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FRTPINTERNACIONAL.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dRTP%2bINTERNACIONAL%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FRTPINTERNACIONAL.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+URL=
 
 #
 type=video
@@ -86,7 +86,7 @@ URL=rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores s
 type=video
 name=RTP AÇORES
 thumb=http://img.rtp.pt/wportal/grupo/imprensa/images/linhagrafica/rtpacores/RTP_acores_RGB_cheioposit.jpg
-URL=#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dRTP%2bACORES%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FRTPACORES.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dRTP%2bACORES%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FRTPACORES.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+URL=
 
 #
 type=video
@@ -97,12 +97,12 @@ URL=rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 sw
 type=video
 name=RTP AFRICA
 thumb=http://www.portugalempreendedor.com/images/logos/rtp_africa.jpg
-URL=#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dRTP%2bAFRICA%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FRTPAFRICA.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dRTP%2bAFRICA%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FRTPAFRICA.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+URL=
 #
 type=video
 name=RTP MEMORIA
 thumb=http://2.bp.blogspot.com/-VohvgHmmfnI/ViJNYuFIkAI/AAAAAAAANsw/yXBd3RZXSWM/s400/rtp%2Bmemoria.fw.png
-URL=#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dRTP%2bMEMORIA%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FRTPMEMORIA.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dRTP%2bMEMORIA%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FRTPMEMORIA.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+URL=
 
 #
 type=video
@@ -119,7 +119,7 @@ URL=rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H
 type=video
 name=RTP MADEIRA
 thumb=https://pbs.twimg.com/profile_images/412007318/logortpMadeira_400x400.jpg
-URL=#plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dRTP%2bMADEIRA%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FRTPMADEIRA.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dRTP%2bMADEIRA%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FRTPMADEIRA.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+URL=
 
 #
 type=video
@@ -155,7 +155,7 @@ URL=http://www.t12v.com:8000/live/400/400/1123.ts
 type=video
 name=SIC NOTICIAS
 thumb=https://contraprovas.files.wordpress.com/2012/02/000068hb.png
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSIC%2bNOTICIAS%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICNOTICIAS.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dSIC%2bNOTICIAS%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICNOTICIAS.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+URL=
 #
 type=video
 name=SIC CARAS HD
@@ -172,7 +172,7 @@ URL=
 type=video
 name=SIC RADICAL
 thumb=http://tertuliadosamigos.freeoda.com/sicradical.jpg
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSIC%2bRADICAL%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICRADICAL.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dSIC%2bRADICAL%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FSICRADICAL.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+URL=
 
 #
 type=video
@@ -324,7 +324,7 @@ URL=http://www.t12v.com:8000/live/400/400/1421.ts
 type=video
 name=BENFICA TV 1
 thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dAcademico%2bViseu%2bvs%2bSL%2bBenfica%2bB%2b%26url%3dhttp%253A%252F%252Fwww.idimsports.eu%252Fwatch%252F410431%252F2%252Fwatch-academico-viseu-vs-sl-benfica-b.html%26cfg%3ddimsports.eu.links.cfg%2540Events%2540Academico%2bViseu%2bvs%2bSL%2bBenfica%2bB%2b%26videoTitle%3d%252810%253A00%2529%2b%2bAcademico%2bViseu%2bvs%2bSL%2bBenfica%2bB%2b%26director%3ddimsports.eu%26genre%3dLive%2bSports%26referer%3dhttp%253A%252F%252Fwww.idimsports.euhttp%253A%252F%252Fwww.idimsports.eu%252Ffootball.html%26time%3d10%253A00%26timeTmp%3d15%253A00%26definedIn%3ddimsports.eu.links.cfg%26type%3drss%26match%3dAcademico%2bViseu%2bvs%2bSL%2bBenfica%2bB%2b%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fsports%252FFootball.png&amp;mode=1
+URL=
 #
 type=video
 name=BENFICA TV 2 HD
@@ -340,7 +340,7 @@ URL=http://www.t12v.com:8000/live/400/400/1418.ts
 type=video
 name=BENFICA TV 2
 thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSwansea%2bCity%2bFC%2bvs%2bSouthampton%2bFC%2bLink%2b2%26url%3dhttp%253A%252F%252Fwww.idimsports.eu%252Fwatch%252F410046%252F2%252Fwatch-swansea-city-fc-vs-southampton-fc.html%26cfg%3ddimsports.eu.links.cfg%2540Events%2540Swansea%2bCity%2bFC%2bvs%2bSouthampton%2bFC%2b%26videoTitle%3d%252810%253A00%2529%2b%2bSwansea%2bCity%2bFC%2bvs%2bSouthampton%2bFC%2b%26director%3ddimsports.eu%26genre%3dLive%2bSports%26referer%3dhttp%253A%252F%252Fwww.idimsports.euhttp%253A%252F%252Fwww.idimsports.eu%252Ffootball.html%26time%3d10%253A00%26timeTmp%3d15%253A00%26definedIn%3ddimsports.eu.links.cfg%26type%3drss%26match%3dSwansea%2bCity%2bFC%2bvs%2bSouthampton%2bFC%2b%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fsports%252FFootball.png&amp;mode=1
+URL=
 
 #
 type=video
@@ -363,8 +363,6 @@ type=video
 name=SPORTING TV HD
 thumb=http://www.sporting.pt/Imagens/79671.jpg
 URL=http://www.t12v.com:8000/live/400/400/1141.ts
-
-#http://hyper.de1-eu.com:8000/live/saeid/saeid/652.m3u8
 #
 type=video
 name=PORTO CANAL HD
@@ -376,7 +374,7 @@ URL=http://www.t12v.com:8000/live/400/400/1130.ts
 type=video
 name=EUROSPORT 1
 thumb=http://www.telezones.com/wp-content/uploads/2015/03/Eurosport-HD-Live-Telezones1.png
-URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/667.m3u8
+URL=
 
 #
 type=video
@@ -388,9 +386,6 @@ type=video
 name=ABOLA TV
 thumb=http://www.troiaportugalmatchcup.com/media/1039/aBolaTV.png
 URL=http://www.t12v.com:8000/live/400/400/1404.ts
-
-#http://hyper.de1-eu.com:8000/live/saeid/saeid/680.m3u8
-
 #
 type=video
 name=CM TV
@@ -428,19 +423,17 @@ URL=http://www.t12v.com:8000/live/400/400/1408.ts
 type=video
 name=ODISSEIA HD
 thumb=http://img2.wikia.nocookie.net/__cb20130707114713/logopedia/images/e/ea/Odisseia_logo.png
-URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/659.m3u8
+URL=
 #
 type=video
 name=ODISSEIA
 thumb=http://img2.wikia.nocookie.net/__cb20130707114713/logopedia/images/e/ea/Odisseia_logo.png
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCANAL%2bODISSEIA%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FODISSEIA.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dCANAL%2bODISSEIA%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FODISSEIA.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+URL=
 #
 type=video
 name=NATIONAL GEOGRAPHIC HD
 thumb=https://yt3.ggpht.com/-2tol5SGixqs/AAAAAAAAAAI/AAAAAAAAAAA/gI_3L64uED0/s900-c-k-no/photo.jpg
 URL=http://www.t12v.com:8000/live/400/400/1182.ts
-
-#http://hyper.de1-eu.com:8000/live/saeid/saeid/660.m3u8
 #
 type=video
 name=HISTORIA
@@ -488,7 +481,7 @@ URL=http://www.t12v.com:8000/live/400/400/1155.ts
 type=video
 name=AXN WHITE
 thumb=http://img2.wikia.nocookie.net/__cb20110927172249/logopedia/images/e/e6/AXN_Black_logo.png
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dAXN%2bWHITE%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FAXNWHITE.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dAXN%2bWHITE%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FAXNWHITE.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+URL=
 #
 type=video
 name=A&E
@@ -500,9 +493,6 @@ type=video
 name=FOX HD
 thumb=http://www.fox.com/sites/default/files/fox_logo_0.jpg
 URL=http://www.t12v.com:8000/live/400/400/1149.ts
-
-#http://hyper.de1-eu.com:8000/live/saeid/saeid/666.m3u8
-
 #
 type=video
 name=FOX MOVIES HD
@@ -512,14 +502,12 @@ URL=http://www.t12v.com:8000/live/400/400/1148.ts
 type=video
 name=FOX MOVIES
 thumb=http://img1.wikia.nocookie.net/__cb20100323110707/logopedia/images/e/e3/Fox_Moxie_Channel.png
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dFOX%2bMOVIES%26url%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXMOVIES.php%253Fwidth%253D600%2526height%253D450%26videoTitle%3dFOX%2bMOVIES%26director%3dmctv%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.meocanaltv.com%252Fembed%252FFOXMOVIES.php%253Fwidth%253D600%2526height%253D450%26definedIn%3dcustoms%252Fmctv.cfg%26type%3drss&amp;mode=1
+URL=
 #
 type=video
 name=FOX CRIME HD
 thumb=https://realhousewifeofbelgrade.files.wordpress.com/2011/01/fox-crime.jpg
 URL=http://www.t12v.com:8000/live/400/400/1151.ts
-
-#http://hyper.de1-eu.com:8000/live/saeid/saeid/645.m3u8
 #
 type=video
 name=FOX LIFE HD
@@ -585,14 +573,11 @@ type=video
 name=DISNEY CHANNEL
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
 URL=http://www.t12v.com:8000/live/400/400/1162.ts
-
-#http://hyper.de1-eu.com:8000/live/saeid/saeid/669.m3u8
-
 #
 type=video
 name=CANAL PANDA
 thumb=https://genteytv.files.wordpress.com/2011/04/panda.jpg
-URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/674.m3u8
+URL=
 #
 type=video
 name=CANAL PANDA
@@ -603,10 +588,6 @@ type=video
 name=DISNEY JUNIOR
 thumb=http://files.te52.com/testtalk/files/2015/04/testing.png
 URL=http://www.t12v.com:8000/live/400/400/1213.ts
-
-#http://hyper.de1-eu.com:8000/live/saeid/saeid/668.m3u8
-
-
 #
 type=video
 name=TV GLOBO HD
