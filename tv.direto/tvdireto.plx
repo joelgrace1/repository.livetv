@@ -19,14 +19,14 @@ URL=
 type=playlist
 thumb=http://memeburn.com/wp-content/uploads/brazil-e1328192831309.jpg
 name=[COLOR yellow][B][I]BRAZIL[/I][/B][/COLOR]
-URL=https://www.dropbox.com/s/cx2wdr8dz24a38g/brazil.plx?dl=0
+URL=https://dl.dropboxusercontent/s/cx2wdr8dz24a38g/brazil.plx?dl=0
 
 #https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/brazil.plx
 #
 type=playlist
 thumb=http://jaquikarr.com/members/wp-content/uploads/2015/07/Flag-Canadian.jpg
 name=[COLOR yellow][B][I]CANADA[/I][/B][/COLOR]
-URL=
+URL=https://dl.dropboxusercontent/s/kynzsgc2lulajqi/canada.plx?dl=0
 
 #https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/canada.plx
 
