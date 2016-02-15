@@ -41,82 +41,82 @@ URL=https://dl.dropboxusercontent.com/s/vpb9zqqeppq68mu/france.plx?dl=0
 type=playlist
 thumb=http://onedayinitaly.com/wp-content/uploads/2014/05/italian-flag.jpg
 name=[COLOR yellow][B][I]ITALY[/I][/B][/COLOR]
-URL=
+URL=https://dl.dropboxusercontent.com/s/xnorsv7rhomr3ye/italy.plx?dl=0
 
 #https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/italy.plx
 #
 type=playlist
 thumb=http://s7.leapfrog.com/is/image/LeapFrog/paw-patrol-to-the-lookout-video-app_59795-96914_1?$prod-lg$&$label=Learning%20Video
 name=[COLOR yellow][B][I]KIDS[/I][/B][/COLOR]
-URL=
+URL=https://dl.dropboxusercontent.com
 
 #https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/kids.plx
 #
 type=playlist
 thumb=http://images6.fanpop.com/image/photos/35200000/Mexican-Flag-mexico-35290035-1200-801.jpg
 name=[COLOR yellow][B][I]MEXICO[/I][/B][/COLOR]
-URL=
+URL=https://dl.dropboxusercontent.com
 #
 type=playlist
 thumb=https://catherinephotographyblog.files.wordpress.com/2015/07/ducati-weekend-at-calabogie-motorsports-park-june-27-2015-_dsc4708.jpg
 name=[COLOR yellow][B][I]MOTORSPORTS[/I][/B][/COLOR]
-URL=
+URL=https://dl.dropboxusercontent.com/s/nmvqm77fwbv34id/motorsports.plx?dl=0
 
 #https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/motorsports.plx
 #
 type=playlist
 thumb=https://tiestoclublife.files.wordpress.com/2014/09/dj_tiesto_club_life_img389.jpg
 name=[COLOR yellow][B][I]MUSIC[/I][/B][/COLOR]
-URL=
+URL=https://dl.dropboxusercontent.com/s/v4ofc7d1wjv96xl/music.plx?dl=0
 
 #https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/music.plx
 #
 type=playlist
 thumb=http://orig01.deviantart.net/e8c8/f/2009/171/d/3/realistic_philippine_flag_by_shintalz.jpg
 name=[COLOR yellow][B][I]PHILIPPINES[/I][/B][/COLOR]
-URL=
+URL=https://dl.dropboxusercontent.com/s/oldxiod4ll2cy8y/phil.plx?dl=0
 
 #https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/phil.plx
 #
 type=playlist
 thumb=http://img3.goodfon.su/original/1920x1080/2/49/portugal-portugaliya-flag.jpg
 name=[COLOR yellow][B][I]PORTUGAL[/I][/B][/COLOR]
-URL=
+URL=https://dl.dropboxusercontent.com/s/falvwg8sjrabdk1/portugal.plx?dl=0
 
 #https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/portugal.plx
 #
 type=playlist
 thumb=http://t15.deviantart.net/EBc7dtFyj0XQSAAUQ4K_RGJ6Kjk=/300x200/filters:fixed_height(100,100):origin()/pre07/7550/th/pre/i/2015/103/6/6/romania_realistic_flag_by_judalei2k11-d8o5kf0.png
 name=[COLOR yellow][B][I]ROMANIA[/I][/B][/COLOR]
-URL=
+URL=https://dl.dropboxusercontent.com/s/t52on1jjrij8n52/romania.plx?dl=0
 
 #https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/romania.plx
 #
 type=playlist
 thumb=http://0.s3.envato.com/files/123366780/Mexico%20S.JPG
 name=[COLOR yellow][B][I]SPANISH[/I][/B][/COLOR]
-URL=
+URL=https://dl.dropboxusercontent.com/s/qn49c53tjp7ke2m/spain.plx?dl=0
 
 #https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/spain.plx
 #
 type=playlist
 thumb=http://www.dream-box.tv/_Media/Images/ProjectBlock/Works/Logos/SportsZone/Big5.jpg
 name=[COLOR yellow][B][I]SPORTS[/I][/B][/COLOR]
-URL=
+URL=https://dl.dropboxusercontent.com/s/3ezkae4jrpi2iht/sports.plx?dl=0
 
 #https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/sports.plx
 #
 type=playlist
 thumb=http://ukineurovision.com/wp-content/uploads/2015/03/Flag_of_the_United_Kingdom_and_Ireland2.png
 name=[COLOR yellow][B][I]UK/IRELAND[/I][/B][/COLOR]
-URL=
+URL=https://dl.dropboxusercontent.com/s/yi4pma08ylx0roc/ireland.plx?dl=0
 
 #https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/ireland.plx
 #
 type=playlist
 thumb=http://www.kuhnglobal.net/wp-content/uploads/2013/01/2009-usa-flag-graphics.jpg
 name=[COLOR yellow][B][I]USA[/I][/B][/COLOR]
-URL=
+URL=https://dl.dropboxusercontent.com/s/sa2qqhjmoewwvbu/usa.plx?dl=0
 
 #https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/usa.plx
 #
