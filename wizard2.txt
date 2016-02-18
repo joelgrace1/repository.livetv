@@ -1,5 +1,5 @@
 
-name="tvdireto"
+name="TV Direto Wizard"
 url="https://copy.com/7tBOvSgUuvxOCAq8/wizard.zip?download=1"
 img="https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tuga.jpg"
 fanart="https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/fanart.jpg"
