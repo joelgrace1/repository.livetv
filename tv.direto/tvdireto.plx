@@ -48,14 +48,14 @@ URL=https://dl.dropboxusercontent.com/s/xnorsv7rhomr3ye/italy.plx?dl=0
 type=playlist
 thumb=http://s7.leapfrog.com/is/image/LeapFrog/paw-patrol-to-the-lookout-video-app_59795-96914_1?$prod-lg$&$label=Learning%20Video
 name=[COLOR yellow][B][I]KIDS[/I][/B][/COLOR]
-URL=https://dl.dropboxusercontent.com
+URL=#https://dl.dropboxusercontent.com
 
 #https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/kids.plx
 #
 type=playlist
 thumb=http://images6.fanpop.com/image/photos/35200000/Mexican-Flag-mexico-35290035-1200-801.jpg
 name=[COLOR yellow][B][I]MEXICO[/I][/B][/COLOR]
-URL=https://dl.dropboxusercontent.com
+URL=#https://dl.dropboxusercontent.com
 #
 type=playlist
 thumb=https://catherinephotographyblog.files.wordpress.com/2015/07/ducati-weekend-at-calabogie-motorsports-park-june-27-2015-_dsc4708.jpg
