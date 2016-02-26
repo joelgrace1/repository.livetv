@@ -37,7 +37,7 @@ URL=
 type=video
 name=BEIN SPORTS (ARAB)
 thumb=http://www.beinsports.fr/di/library/bein/4b/92/logo-bein-sports-1-hd_6tt6szp2b0ag1dscy6cxln08t.jpg?t=-724511221
-URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+white%5DBein+US%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fbesmenaah-i.akamaihd.net%2Fhls%2Flive%2F221906%2Fbesmena02h%2F02.m3u8&amp;audio=0&amp;image=%2FUsers%2Fgracevalerio%2FLibrary%2FApplication+Support%2FKodi%2Faddons%2Fplugin.video.phstreams%2Ficon.png&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Faby4q1mvb%2Funited_kingdom_flag_16_cool_background.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
+URL=http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/02.m3u8
 #
 type=video
 name=BEIN SPORTS Ñ
@@ -80,34 +80,29 @@ thumb=http://www.beinsports.fr/di/library/bein/4b/92/logo-bein-sports-1-hd_6tt6s
 URL=
 #
 type=video
-name=BEIN SPORTS 1 HD 720P (FRE)
+name=BEIN SPORTS 1 (FRE)
 thumb=http://www.beinsports.fr/di/library/bein/4b/92/logo-bein-sports-1-hd_6tt6szp2b0ag1dscy6cxln08t.jpg?t=-724511221
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=title.tmp%3dBeIn%2b1%2bFR%26catcher%3dstreams%26title%3dBeIn%2b1%2bFR%26url%3dhttp%253A%252F%252Fmamahd.com%252Fwatch-bein-1-france-live-stream-1.html%26videoTitle%3dBeIn%2b1%2bFR%26director%3dmamahd.com%26genre%3dTV%26referer%3dhttp%253A%252F%252Fmamahd.com%26definedIn%3dtv%252Fmamahd.com.cfg%26icon.tmp%3dhttp%253A%252F%252Fmamahd.com%252Fimages%252Fchannels%252F137.png%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fchannels%252FBeIn%2b1%2bFR&amp;mode=1
 #
 type=video
-name=BEIN SPORTS 1 HD 720P (FRE)
-thumb=http://www.beinsports.fr/di/library/bein/4b/92/logo-bein-sports-1-hd_6tt6szp2b0ag1dscy6cxln08t.jpg?t=-724511221
-URL=
-#
-type=video
-name=BEIN SPORTS 2 HD 720P (FRE)
+name=BEIN SPORTS 2 (FRE)
 thumb=http://blog.lenodal.com/uploads/actualitedelhabillage/2012/beinsport-2012_logo_chaine2.jpg
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=title.tmp%3dBeIn%2b2%2bFR%26catcher%3dstreams%26title%3dBeIn%2b2%2bFR%26url%3dhttp%253A%252F%252Fmamahd.com%252Fwatch-bein-2-france-live-stream-1.html%26videoTitle%3dBeIn%2b2%2bFR%26director%3dmamahd.com%26genre%3dTV%26referer%3dhttp%253A%252F%252Fmamahd.com%26definedIn%3dtv%252Fmamahd.com.cfg%26icon.tmp%3dhttp%253A%252F%252Fmamahd.com%252Fimages%252Fchannels%252F138.png%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fchannels%252FBeIn%2b2%2bFR&amp;mode=1
 #
 type=video
-name=BEIN SPORTS 3 HD 720P (FRE)
+name=BEIN SPORTS 3 (FRE)
 thumb=http://www.beinsports.fr/di/library/bein/7e/1f/bein-sports-3-hd_14gzpciv0r55j1l92btw93npju.png?t=-1350257889
 URL=
 #
 type=video
-name=BENFICA TV 1 HD
+name=BENFICA TV 1
 thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
-URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/677.m3u8
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dXoneTV%2bLink%2b6%2bBTV1%26url%3dhttp%253A%252F%252Fwww.thefeed2all.eu%252Fwatch%252F408917%252F6%252Fwatch-xonetv.html%26cfg%3dfirstrowsports.eu.links.cfg%2540Events%2540XoneTV%26videoTitle%3dXoneTV%26director%3dFirstRowSports.eu%26tv%3dXoneTV%26referer%3dhttp%253A%252F%252Fwww.thefeed2all.eu%252Fwatch%252F408917%252F6%252Fwatch-xonetv.html%26definedIn%3dfirstrowsports.eu.links.cfg%26genre%3dLive%2bSports%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fsports%252FFootball.png&amp;mode=1
 #
 type=video
-name=BENFICA TV 1 HD
+name=BENFICA TV 1
 thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
-URL=#http://91.204.214.106:23201/stolen/250l/xenixos.7z
+URL=
 
 #
 type=video
@@ -116,25 +111,26 @@ thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Be
 URL=
 #
 type=video
-name=BENFICA TV 2 HD
+name=BENFICA TV 2
 thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
-URL=#http://hyper.de1-eu.com:8000/live/saeid/saeid/676.m3u8
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dXoneTV%2bLink%2b7%2b-%2bBTV2%26url%3dhttp%253A%252F%252Fwww.thefeed2all.eu%252Fwatch%252F408917%252F7%252Fwatch-xonetv.html%26cfg%3dfirstrowsports.eu.links.cfg%2540Events%2540XoneTV%26videoTitle%3dXoneTV%26director%3dFirstRowSports.eu%26tv%3dXoneTV%26referer%3dhttp%253A%252F%252Fwww.thefeed2all.eu%252Fwatch%252F408917%252F7%252Fwatch-xonetv.html%26definedIn%3dfirstrowsports.eu.links.cfg%26genre%3dLive%2bSports%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fsports%252FFootball.png&amp;mode=1
 #
 type=video
-name=BENFICA TV 2 HD
+name=BENFICA TV 2
 thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
-URL=#http://91.204.214.106:23201/stolen/233w/xenixos.7z
+URL=
 
 #
 type=video
 name=BENFICA TV 2
 thumb=http://www.tvtuga.com/wp-content/uploads/2013/04/BENFICA-TV.jpg
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSwansea%2bCity%2bFC%2bvs%2bSouthampton%2bFC%2bLink%2b2%26url%3dhttp%253A%252F%252Fwww.idimsports.eu%252Fwatch%252F410046%252F2%252Fwatch-swansea-city-fc-vs-southampton-fc.html%26cfg%3ddimsports.eu.links.cfg%2540Events%2540Swansea%2bCity%2bFC%2bvs%2bSouthampton%2bFC%2b%26videoTitle%3d%252810%253A00%2529%2b%2bSwansea%2bCity%2bFC%2bvs%2bSouthampton%2bFC%2b%26director%3ddimsports.eu%26genre%3dLive%2bSports%26referer%3dhttp%253A%252F%252Fwww.idimsports.euhttp%253A%252F%252Fwww.idimsports.eu%252Ffootball.html%26time%3d10%253A00%26timeTmp%3d15%253A00%26definedIn%3ddimsports.eu.links.cfg%26type%3drss%26match%3dSwansea%2bCity%2bFC%2bvs%2bSouthampton%2bFC%2b%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fsports%252FFootball.png&amp;mode=1
+URL=
+
 #
 type=video
 name=SPORT TV 3 / BENFICA TV 1/2 (GAME TIME)
 thumb=http://img2.wikia.nocookie.net/__cb20130906145737/logopedia/images/a/a2/Benfica_TV_HD.png
-URL=rtmp://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+URL=#rtmp://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 #
 type=video
 name=BENFICA TV 1 (PLEXUS)
@@ -149,12 +145,12 @@ URL=plugin://program.plexus/?mode=1&url=acestream://b65b8012d9cabc96b74013fb2f2b
 type=video
 name=BOXNATION
 thumb=http://www.paywizard.com/sites/default/files/boxnation.png
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=title.tmp%3dBox%2bNation%26catcher%3dstreams%26title%3dBox%2bNation%26url%3dhttp%253A%252F%252Fmamahd.com%252Fwatch-box-nation-live-streaming-free-online-1.html%26videoTitle%3dBox%2bNation%26director%3dmamahd.com%26genre%3dTV%26referer%3dhttp%253A%252F%252Fmamahd.com%26definedIn%3dtv%252Fmamahd.com.cfg%26icon.tmp%3dhttp%253A%252F%252Fmamahd.com%252Fimages%252Fchannels%252F132.png%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fchannels%252Fbox_nation.png&amp;mode=1
 #
 type=video
-name=BT SPORT 1 HD
+name=BT SPORT 1
 thumb=http://www.liveonlinetv247.info/images/btsport1.png
-URL=http://169.45.89.106:1935/app/btsports1lsh/playlist.m3u8
+URL=plugin://plugin.video.SportsDevil/?item=title.tmp%3dBT%2bSport%2b1%26catcher%3dstreams%26title%3dBT%2bSport%2b1%26url%3dhttp%253A%252F%252Fmamahd.com%252Fwatch-bt-sport-1-live-streaming-1.html%26videoTitle%3dBT%2bSport%2b1%26director%3dmamahd.com%26genre%3dTV%26referer%3dhttp%253A%252F%252Fmamahd.com%26definedIn%3dtv%252Fmamahd.com.cfg%26icon.tmp%3dhttp%253A%252F%252Fmamahd.com%252Fimages%252Fchannels%252Fbt.png%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fchannels%252Fbt_sport_1.png&amp;mode=1
 #
 type=video
 name=BT SPORT 1
@@ -162,9 +158,9 @@ thumb=http://www.liveonlinetv247.info/images/btsport1.png
 URL=
 #
 type=video
-name=BT SPORT 2 HD
+name=BT SPORT 2
 thumb=http://www.premierleague.com/content/premierleague/en-gb/commercial/bt-sport/_jcr_content/bodypsys/image.img.png/1369990888755.png
-URL=http://169.45.89.106:1935/app/btsports2lsh/playlist.m3u8
+URL=plugin://plugin.video.SportsDevil/?item=title.tmp%3dBT%2bSport%2b2%26catcher%3dstreams%26title%3dBT%2bSport%2b2%26url%3dhttp%253A%252F%252Fmamahd.com%252Fwatch-bt-sport-2-live-stream-1.html%26videoTitle%3dBT%2bSport%2b2%26director%3dmamahd.com%26genre%3dTV%26referer%3dhttp%253A%252F%252Fmamahd.com%26definedIn%3dtv%252Fmamahd.com.cfg%26icon.tmp%3dhttp%253A%252F%252Fmamahd.com%252Fimages%252Fchannels%252Fbt.png%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fchannels%252Fbt_sport_2.png&amp;mode=1
 #
 type=video
 name=BT SPORT 2
@@ -177,9 +173,14 @@ thumb=http://www.espnfrontrow.com/wp-content/uploads/2012/12/espn-1.jpg
 URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+white%5DBT+Sport+ESPN%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fp2pcast.tv%2Fstream.php%3Fid%3D509924%26live%3D0%26p2p%3D0%26stretching%3Duniform%26referer%3Dhttp%3A%2F%2Fwiziwig.xyz%2Fframeespnuk.html+&amp;audio=0&amp;image=http%3A%2F%2Fmediaportal-uk-logos.googlecode.com%2Fsvn%2Ftrunk%2FTV%2FSimple%2FBT%2520Sport%2520ESPN%2520HD.png+&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Faby4q1mvb%2Funited_kingdom_flag_16_cool_background.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
+name=BT SPORT ESPN
+thumb=http://www.espnfrontrow.com/wp-content/uploads/2012/12/espn-1.jpg
+URL=plugin://plugin.video.SportsDevil/?item=title.tmp%3dESPN%2bUK%26catcher%3dstreams%26title%3dBT%2bSport%2bESPN%26url%3dhttp%253A%252F%252Fmamahd.com%252Fwatch-espn-uk-live-stream-1.html%26videoTitle%3dBT%2bSport%2bESPN%26director%3dmamahd.com%26genre%3dTV%26referer%3dhttp%253A%252F%252Fmamahd.com%26definedIn%3dtv%252Fmamahd.com.cfg%26icon.tmp%3dhttp%253A%252F%252Fmamahd.com%252Fimages%252Fchannels%252Fespn.png%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fchannels%252Fbt_sport_uk_espn.png&amp;mode=1
+#
+type=video
 name=BT SPORT EUROPE
 thumb=http://www.liveonlinetv247.info/images/btsport1.png
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=_img%3d%252Fimages%252Fchannels%252Fbt_sport_europe.png%26catcher%3dstreams%26title%3dBT%2bSport%2bEurope%26url%3dhttp%253A%252F%252Fhdfree.tv%252Fwatch%252F32%252Fbt-sport-europe-live-stream.html%26videoTitle%3dBT%2bSport%2bEurope%26director%3dHDFree.tv%26genre%3dTV%26referer%3dhttp%253A%252F%252Fhdfree.tv%252Ftvlogos.html%26definedIn%3dtv%252Fhdfree.tv.cfg%26type%3drss%26icon%3dhttp%253A%252F%252Fhdfree.tv%252Fimages%252Fchannels%252Fbt_sport_europe.png%257CReferer%253Dhttp%253A%252F%252Fhdfree.tv%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=CANAL+LIGA
@@ -199,7 +200,7 @@ URL=
 type=video
 name=CHELSEA TV
 thumb=https://upload.wikimedia.org/wikipedia/ru/b/bc/ChelseaTVLogo.png
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=title.tmp%3d%26catcher%3dstreams%26title%3dChelsea%2bTv%26url%3dhttp%253A%252F%252Fsports4u.tv%252Fchannel%252Fchelsea-tv-live-stream%252F%26videoTitle%3dChelsea%2bTv%26director%3dsports4u.tv%26genre%3dTV%26referer%3dhttp%253A%252F%252Fsports4u.tv%252F%26definedIn%3dtv%252Fsports4u.tv.cfg%26type%3drss%26icon%3dhttp%253A%252F%252Fsports4u.tv%252Fwp-content%252Fuploads%252FChelseaTVLogo.png&amp;mode=1
 #
 type=video
 name=CRASH, BANG, BOOM
@@ -279,7 +280,7 @@ URL=
 
 #
 type=video
-name=EUROSPORT HD (FR)
+name=EUROSPORT (FR)
 thumb=http://www.iwf.net/wp-content/uploads/2012/10/eurosport_logo.jpg
 URL=http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
 #
@@ -294,7 +295,7 @@ thumb=http://www.iwf.net/wp-content/uploads/2012/10/eurosport_logo.jpg
 URL=
 #
 type=video
-name=EUROSPORT 1 HD (UK)
+name=EUROSPORT 1 (UK)
 thumb=http://www.iwf.net/wp-content/uploads/2012/10/eurosport_logo.jpg
 URL=http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 #
@@ -411,9 +412,9 @@ thumb=http://www.entertainmentdoor.com.pk/images/channel_image/NBA_TV_USA.jpeg
 URL=
 #
 type=video
-name=NBCSN HD
+name=NBCSN
 thumb=http://worldsoccertalk.com/wp-content/uploads/2014/01/nbcsn-logo-600x401.jpg
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=_img%3d%252Fimages%252Fchannels%252Fnbcsn.png%26catcher%3dstreams%26title%3dNBCSN%26url%3dhttp%253A%252F%252Fhdfree.tv%252Fnbc-sports-live-stream.html%26videoTitle%3dNBCSN%26director%3dHDFree.tv%26genre%3dTV%26referer%3dhttp%253A%252F%252Fhdfree.tv%252Ftvlogos.html%26definedIn%3dtv%252Fhdfree.tv.cfg%26type%3drss%26icon%3dhttp%253A%252F%252Fhdfree.tv%252Fimages%252Fchannels%252Fnbcsn.png%257CReferer%253Dhttp%253A%252F%252Fhdfree.tv%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=NBCSN
@@ -438,9 +439,9 @@ thumb=http://images.bwwstatic.com/tvnetworklogos/13AF21E2-F384-BE06-04C63286D08B
 URL=plugin://plugin.video.phstreams/?name=NFL+Network+&amp;url=http%3A%2F%2Fwww.sawlive.tv%2Fembed%2Fdoggarlug%3Freferer%3Dhttp%3A%2F%2Fgoatdee.net%2F71920%2Fwatch-nfl-network&amp;audio=0&amp;image=http%3A%2F%2Fnflricheisen.files.wordpress.com%2F2012%2F04%2Fnetwork-logo.jpg+&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fhp4sgw93b%2Fbest_sport_collection_wallpaper_hd_backgrounds.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
-name=NFL NOW HD
+name=NFL NOW
 thumb=http://cdn1.bloguin.com/wp-content/uploads/sites/94/2014/02/NFL-Now.jpg
-URL=http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
+URL=http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
 #
 type=video
 name=NHL NETWORK
@@ -448,17 +449,17 @@ thumb=http://2.cdn.nhle.com/nhl/images/upload/2012/10/NewNHLNetLogo_fullDL100612
 URL=plugin://plugin.video.phstreams/?name=NHL+Network+&amp;url=%24base64%5BaHR0cDovLzIwOC45Mi4zNi4xNTgvaXBhZC9saXZlL25iYV9pcGFkXzEyNDAubTN1OA%3D%3D%5D&amp;audio=0&amp;image=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2F5%2F52%2FNHLonVersus.png%2F200px-NHLonVersus.png+&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fhp4sgw93b%2Fbest_sport_collection_wallpaper_hd_backgrounds.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
-name=NTV+1 HD
+name=NTV+1
 thumb=http://2.bp.blogspot.com/-e2CG9wfDLfw/UaiT4g9Ls6I/AAAAAAAAGYg/JvwiFjQlzfs/s1600/Ntvspor.png
 URL=
 #
 type=video
-name=NTV+2 1080P
+name=NTV+2
 thumb=http://2.bp.blogspot.com/-e2CG9wfDLfw/UaiT4g9Ls6I/AAAAAAAAGYg/JvwiFjQlzfs/s1600/Ntvspor.png
 URL=
 #
 type=video
-name=NTV+3 1080P
+name=NTV+3
 thumb=http://2.bp.blogspot.com/-e2CG9wfDLfw/UaiT4g9Ls6I/AAAAAAAAGYg/JvwiFjQlzfs/s1600/Ntvspor.png
 URL=
 #
@@ -503,7 +504,7 @@ thumb=http://www.magnet.ie/wp-content/uploads/2011/12/Setanta-Ireland.jpg
 URL=
 #
 type=video
-name=SETANTA SPORTS HD
+name=SETANTA SPORTS
 thumb=https://secure.setantasubs.com/images/setanta-logo.png
 URL=
 #
@@ -514,14 +515,24 @@ URL=http://gstudio_hls04-lh.akamaihd.net/i/hls04stream001_0@348222/index_700_av-
 
 #
 type=video
-name=SKY NEWS
+name=SKY BUNDESLIGA
 thumb=https://www.teleclub.ch/sky/uploads/media_items/sky-news-280613.786.180.s.jpg
+URL=plugin://plugin.video.SportsDevil/?item=title.tmp%3dBundesliga%2b1%26catcher%3dstreams%26title%3dBundesliga%2b1%26url%3dhttp%253A%252F%252Fmamahd.com%252Fwatch-sky-bundesliga-1-live-stream-1.html%26videoTitle%3dBundesliga%2b1%26director%3dmamahd.com%26genre%3dTV%26referer%3dhttp%253A%252F%252Fmamahd.com%26definedIn%3dtv%252Fmamahd.com.cfg%26icon.tmp%3dhttp%253A%252F%252Fmamahd.com%252Fimages%252Fchannels%252F136.png%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fchannels%252FBundesliga%2b1&amp;mode=1
+#
+type=video
+name=SKY CALCIO
+thumb=http://www.themoodboard.com/wp-content/uploads/2013/08/MIN_SC2013.jpg
+URL=plugin://plugin.video.SportsDevil/?item=title.tmp%3dSky%2bCalcio%2b1%26catcher%3dstreams%26title%3dSky%2bCalcio%2b1%26url%3dhttp%253A%252F%252Fmamahd.com%252Fsky-calcio-1-live-stream-1.html%26videoTitle%3dSky%2bCalcio%2b1%26director%3dmamahd.com%26genre%3dTV%26referer%3dhttp%253A%252F%252Fmamahd.com%26definedIn%3dtv%252Fmamahd.com.cfg%26icon.tmp%3dhttp%253A%252F%252Fmamahd.com%252Fimages%252Fchannels%252F112.png%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fchannels%252FSky%2bCalcio%2b1&amp;mode=1
+#
+type=video
+name=SKY NEWS
+thumb=http://news.sky.com/images/33dc2677.sky-news-logo.png
 URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+white%5DSky+Sports+News%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fp2pcast.tv%2Fstream.php%3Fid%3D509935%26live%3D0%26p2p%3D0%26stretching%3Duniform%26referer%3Dhttp%3A%2F%2Fwiziwig.xyz%2Fskysportnews.html+&amp;audio=0&amp;image=http%3A%2F%2Fwww.fm-base.co.uk%2Fforum%2Fattachments%2Ffootball-manager-2015-manager-stories%2F755778d1422030258-newcastle-united-time-stop-rot-newshq.jpg+&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Faby4q1mvb%2Funited_kingdom_flag_16_cool_background.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
 #
 type=video
-name=SKY FORMULA 1
-thumb=http://e1.365dm.com/11/11/660x350/f1panel1_2682703.jpg?20111125105918
-URL=
+name=SKY NEWS
+thumb=http://news.sky.com/images/33dc2677.sky-news-logo.png
+URL=plugin://plugin.video.SportsDevil/?item=title.tmp%3dSky%2bNews%26catcher%3dstreams%26title%3dSky%2bSports%2bNews%26url%3dhttp%253A%252F%252Fmamahd.com%252Fwatch-sky-sports-news-live-stream-1.html%26videoTitle%3dSky%2bSports%2bNews%26director%3dmamahd.com%26genre%3dTV%26referer%3dhttp%253A%252F%252Fmamahd.com%26definedIn%3dtv%252Fmamahd.com.cfg%26icon.tmp%3dhttp%253A%252F%252Fmamahd.com%252Fimages%252Fchannels%252Fsky.png%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fchannels%252Fsky_uk_sports_news_hq.png&amp;mode=1
 #
 type=video
 name=SKY FORMULA 1
@@ -529,59 +540,64 @@ thumb=http://e1.365dm.com/11/11/660x350/f1panel1_2682703.jpg?20111125105918
 URL=
 #
 type=video
-name=SKY SPORTS 1 HD
+name=SKY FORMULA 1
+thumb=http://e1.365dm.com/11/11/660x350/f1panel1_2682703.jpg?20111125105918
+URL=
+#
+type=video
+name=SKY SPORTS 1
 thumb=http://www.protv24.com/img/sky-sports-1.png
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=title.tmp%3dSkysports%2b1%26catcher%3dstreams%26title%3dSky%2bSports%2b1%26url%3dhttp%253A%252F%252Fmamahd.com%252Fwatch-sky-sports-1-live-stream-1.html%26videoTitle%3dSky%2bSports%2b1%26director%3dmamahd.com%26genre%3dTV%26referer%3dhttp%253A%252F%252Fmamahd.com%26definedIn%3dtv%252Fmamahd.com.cfg%26icon.tmp%3dhttp%253A%252F%252Fmamahd.com%252Fimages%252Fchannels%252Fsky.png%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fchannels%252Fsky_uk_sports1.png&amp;mode=1
 
 #
 type=video
 name=SKY SPORTS 1 
 thumb=http://www.protv24.com/img/sky-sports-1.png
-URL=http://169.45.89.106:1935/app/skysports1lsh/playlist.m3u8
+URL=
 
 #
 type=video
-name=SKY SPORTS 2 HD
+name=SKY SPORTS 2
 thumb=http://www.ptvsports.mobi/wp-content/uploads/2015/03/sky-sports-2-live2.gif
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=title.tmp%3dSkysports%2b2%26catcher%3dstreams%26title%3dSky%2bSports%2b2%26url%3dhttp%253A%252F%252Fmamahd.com%252Fwatch-sky-sports-2-live-streaming-free-1.html%26videoTitle%3dSky%2bSports%2b2%26director%3dmamahd.com%26genre%3dTV%26referer%3dhttp%253A%252F%252Fmamahd.com%26definedIn%3dtv%252Fmamahd.com.cfg%26icon.tmp%3dhttp%253A%252F%252Fmamahd.com%252Fimages%252Fchannels%252Fsky.png%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fchannels%252Fsky_uk_sports2.png&amp;mode=1
 #
 type=video
 name=SKY SPORTS 2 
 thumb=http://www.ptvsports.mobi/wp-content/uploads/2015/03/sky-sports-2-live2.gif
-URL=http://169.45.89.106:1935/app/skysports2lsh/playlist.m3u8
-
-#
-type=video
-name=SKY SPORTS 3 HD
-thumb=http://www.livep2pstream.com/tv_channels/logo/sky_sports3.jpg
 URL=
+
 #
 type=video
 name=SKY SPORTS 3
 thumb=http://www.livep2pstream.com/tv_channels/logo/sky_sports3.jpg
-URL=http://169.45.89.106:1935/app/skysports3lsh/playlist.m3u8
-
+URL=plugin://plugin.video.SportsDevil/?item=title.tmp%3dSkysports%2b3%26catcher%3dstreams%26title%3dSky%2bSports%2b3%26url%3dhttp%253A%252F%252Fmamahd.com%252Fwatch-sky-sports-3-live-stream-1.html%26videoTitle%3dSky%2bSports%2b3%26director%3dmamahd.com%26genre%3dTV%26referer%3dhttp%253A%252F%252Fmamahd.com%26definedIn%3dtv%252Fmamahd.com.cfg%26icon.tmp%3dhttp%253A%252F%252Fmamahd.com%252Fimages%252Fchannels%252Fsky.png%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fchannels%252Fsky_uk_sports3.png&amp;mode=1
 #
 type=video
-name=SKY SPORTS 4 HD
-thumb=http://funtvlive.com/wp-content/uploads/2012/11/sky-sports-4.png
+name=SKY SPORTS 3
+thumb=http://www.livep2pstream.com/tv_channels/logo/sky_sports3.jpg
 URL=
+
 #
 type=video
 name=SKY SPORTS 4
 thumb=http://funtvlive.com/wp-content/uploads/2012/11/sky-sports-4.png
-URL=http://169.45.89.106:1935/app/skysports4lsh/playlist.m3u8
-
+URL=plugin://plugin.video.SportsDevil/?item=title.tmp%3dSkysports%2b4%26catcher%3dstreams%26title%3dSky%2bSports%2b4%26url%3dhttp%253A%252F%252Fmamahd.com%252Fwatch-sky-sports-4-live-stream-free-1.html%26videoTitle%3dSky%2bSports%2b4%26director%3dmamahd.com%26genre%3dTV%26referer%3dhttp%253A%252F%252Fmamahd.com%26definedIn%3dtv%252Fmamahd.com.cfg%26icon.tmp%3dhttp%253A%252F%252Fmamahd.com%252Fimages%252Fchannels%252Fsky.png%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fchannels%252Fsky_uk_sports4.png&amp;mode=1
 #
 type=video
-name=SKY SPORTS 5 HD
-thumb=http://www.skymedia.ie/_masthead_images/SS5logo.jpg
+name=SKY SPORTS 4
+thumb=http://funtvlive.com/wp-content/uploads/2012/11/sky-sports-4.png
 URL=
+
 #
 type=video
 name=SKY SPORTS 5
 thumb=http://www.skymedia.ie/_masthead_images/SS5logo.jpg
-URL=http://169.45.89.106:1935/app/skysports5lsh/playlist.m3u8
+URL=plugin://plugin.video.SportsDevil/?item=title.tmp%3dSkysports%2b5%26catcher%3dstreams%26title%3dSky%2bSports%2b5%26url%3dhttp%253A%252F%252Fmamahd.com%252Fwatch-sky-sports-5-live-stream-1.html%26videoTitle%3dSky%2bSports%2b5%26director%3dmamahd.com%26genre%3dTV%26referer%3dhttp%253A%252F%252Fmamahd.com%26definedIn%3dtv%252Fmamahd.com.cfg%26icon.tmp%3dhttp%253A%252F%252Fmamahd.com%252Fimages%252Fchannels%252Fsky.png%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fchannels%252Fsky_uk_sports5.png&amp;mode=1
+#
+type=video
+name=SKY SPORTS 5
+thumb=http://www.skymedia.ie/_masthead_images/SS5logo.jpg
+URL=
 
 
 #
@@ -601,27 +617,27 @@ thumb=http://www.tvtuga.com/wp-content/uploads/2015/08/sport1-voetbal.jpg
 URL=
 #
 type=video
-name=SPORT VOETBALL HD
+name=SPORT VOETBALL
 thumb=http://www.tvtuga.com/wp-content/uploads/2015/08/sport1-voetbal.jpg
 URL=
 #
 type=video
-name=SPORTKLUB 1 HD
+name=SPORTKLUB 1
 thumb=http://twice.hu/wp-content/uploads/2012/05/sportklub-logo.jpg
 URL=
 #
 type=video
-name=SPORTKLUB 2 HD
+name=SPORTKLUB 2
 thumb=http://twice.hu/wp-content/uploads/2012/05/sportklub-logo.jpg
 URL=
 #
 type=video
-name=SPORTKLUB 3 HD
+name=SPORTKLUB 3
 thumb=http://twice.hu/wp-content/uploads/2012/05/sportklub-logo.jpg
 URL=
 #
 type=video
-name=SPORTKLUB 4 HD
+name=SPORTKLUB 4
 thumb=http://twice.hu/wp-content/uploads/2012/05/sportklub-logo.jpg
 URL=
 #
@@ -661,71 +677,35 @@ thumb=http://img.bhs4.com/9A/0/9A085D41A832BA32E9BFC9599D3CDA6F04245B27_large.jp
 URL=
 #
 type=video
-name=SPORT TV AMERICAS HD
+name=SPORT TV AMERICAS
 thumb=https://www.sporttv.pt/img/logo-americas.png
 URL=#http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master2500kbps.m3u8
 
 #
 type=video
-name=SPORT TV 1 HD
-thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
-URL=http://hyper.de1-eu.com:8000/live/saeid/saeid/641.m3u8
-#
-type=video
-name=SPORT TV 2 HD
-thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport_tv2_pt.jpg
-URL=http://hyper.de1-eu.com:8000/live/saeid/saeid/640.m3u8
-#
-type=video
-name=SPORT TV 3 HD
-thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport-tv3.jpg
-URL=http://hyper.de1-eu.com:8000/live/saeid/saeid/639.m3u8
-#
-type=video
-name=SPORT TV 4 HD
-thumb=http://nowwatchtvlive.me/wp-content/uploads/2012/11/Sport-Tv-4.png
-URL=http://hyper.de1-eu.com:8000/live/saeid/saeid/638.m3u8
-#
-type=video
-name=SPORT TV 5 HD
-thumb=http://i0.wp.com/www.novidadestv.com/wp-content/uploads/2014/03/SportTV_2014_logo_destak_300x216.png?fit=300%2C216
-URL=http://hyper.de1-eu.com:8000/live/saeid/saeid/637.m3u8
-#
-type=video
 name=SPORT TV 1
 thumb=http://www.onlinetvs247.com/images/uploaded/tvs/128/sport_tv1.jpg
-URL=
-
-#rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dXoneTV%2bLink%2b1%2bSP1%26url%3dhttp%253A%252F%252Fwww.thefeed2all.eu%252Fwatch%252F408917%252F1%252Fwatch-xonetv.html%26cfg%3dfirstrowsports.eu.links.cfg%2540Events%2540XoneTV%26videoTitle%3dXoneTV%26director%3dFirstRowSports.eu%26tv%3dXoneTV%26referer%3dhttp%253A%252F%252Fwww.thefeed2all.eu%252Fwatch%252F408917%252F1%252Fwatch-xonetv.html%26definedIn%3dfirstrowsports.eu.links.cfg%26genre%3dLive%2bSports%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fsports%252FFootball.png&amp;mode=1
 #
 type=video
 name=SPORT TV 2
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport_tv2_pt.jpg
-URL=
-#
-type=video
-name=SPORT TV 2
-thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport_tv2_pt.jpg
-URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dReal%2bMadrid%2bvs%2bAthletic%2bBilbao%2bLink%2b1%26url%3dhttp%253A%252F%252Fwww.idimsports.eu%252Fwatch%252F410048%252F1%252Fwatch-real-madrid-vs-athletic-bilbao.html%26cfg%3ddimsports.eu.links.cfg%2540Events%2540Real%2bMadrid%2bvs%2bAthletic%2bBilbao%2b%26videoTitle%3d%252810%253A00%2529%2b%2bReal%2bMadrid%2bvs%2bAthletic%2bBilbao%2b%26director%3ddimsports.eu%26genre%3dLive%2bSports%26referer%3dhttp%253A%252F%252Fwww.idimsports.euhttp%253A%252F%252Fwww.idimsports.eu%252Ffootball.html%26time%3d10%253A00%26timeTmp%3d15%253A00%26definedIn%3ddimsports.eu.links.cfg%26type%3drss%26match%3dReal%2bMadrid%2bvs%2bAthletic%2bBilbao%2b%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fsports%252FFootball.png&amp;mode=1
-
-#rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dXoneTV%2bLink%2b2%2bSP2%26url%3dhttp%253A%252F%252Fwww.thefeed2all.eu%252Fwatch%252F408917%252F2%252Fwatch-xonetv.html%26cfg%3dfirstrowsports.eu.links.cfg%2540Events%2540XoneTV%26videoTitle%3dXoneTV%26director%3dFirstRowSports.eu%26tv%3dXoneTV%26referer%3dhttp%253A%252F%252Fwww.thefeed2all.eu%252Fwatch%252F408917%252F2%252Fwatch-xonetv.html%26definedIn%3dfirstrowsports.eu.links.cfg%26genre%3dLive%2bSports%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fsports%252FFootball.png&amp;mode=1
 #
 type=video
 name=SPORT TV 3
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport-tv3.jpg
-URL=#rtmp://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dXoneTV%2bLink%2b3%2bSP3%26url%3dhttp%253A%252F%252Fwww.thefeed2all.eu%252Fwatch%252F408917%252F3%252Fwatch-xonetv.html%26cfg%3dfirstrowsports.eu.links.cfg%2540Events%2540XoneTV%26videoTitle%3dXoneTV%26director%3dFirstRowSports.eu%26tv%3dXoneTV%26referer%3dhttp%253A%252F%252Fwww.thefeed2all.eu%252Fwatch%252F408917%252F3%252Fwatch-xonetv.html%26definedIn%3dfirstrowsports.eu.links.cfg%26genre%3dLive%2bSports%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fsports%252FFootball.png&amp;mode=1
 #
 type=video
 name=SPORT TV 4
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2012/11/Sport-Tv-4.png
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dXoneTV%2bLink%2b4%2bSP4%26url%3dhttp%253A%252F%252Fwww.thefeed2all.eu%252Fwatch%252F408917%252F4%252Fwatch-xonetv.html%26cfg%3dfirstrowsports.eu.links.cfg%2540Events%2540XoneTV%26videoTitle%3dXoneTV%26director%3dFirstRowSports.eu%26tv%3dXoneTV%26referer%3dhttp%253A%252F%252Fwww.thefeed2all.eu%252Fwatch%252F408917%252F4%252Fwatch-xonetv.html%26definedIn%3dfirstrowsports.eu.links.cfg%26genre%3dLive%2bSports%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fsports%252FFootball.png&amp;mode=1
 #
 type=video
 name=SPORT TV 5
 thumb=http://i0.wp.com/www.novidadestv.com/wp-content/uploads/2014/03/SportTV_2014_logo_destak_300x216.png?fit=300%2C216
-URL=
-
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dXoneTV%2bLink%2b5%2b-%2bSP5%26url%3dhttp%253A%252F%252Fwww.thefeed2all.eu%252Fwatch%252F408917%252F5%252Fwatch-xonetv.html%26cfg%3dfirstrowsports.eu.links.cfg%2540Events%2540XoneTV%26videoTitle%3dXoneTV%26director%3dFirstRowSports.eu%26tv%3dXoneTV%26referer%3dhttp%253A%252F%252Fwww.thefeed2all.eu%252Fwatch%252F408917%252F5%252Fwatch-xonetv.html%26definedIn%3dfirstrowsports.eu.links.cfg%26genre%3dLive%2bSports%26type%3drss%26icon%3d%252FUsers%252Fgracevalerio%252FLibrary%252FApplication%2bSupport%252FKodi%252Faddons%252Fplugin.video.SportsDevil%252Fresources%252Fimages%252Fsports%252FFootball.png&amp;mode=1
 #
 type=video
 name=SPORT TV 1 (PLEXUS)
@@ -814,7 +794,7 @@ thumb=http://img.nowfootballtv.com/channel/1376009345.jpg
 URL=
 #
 type=video
-name=TSN 1 HD
+name=TSN 1
 thumb=http://www.nwtel.ca/media/channel-logos/tsn1_0.jpg
 URL=rtmp://31.220.2.148:1935/live/_definst_/ts1
 #
@@ -854,7 +834,7 @@ thumb=http://www.getbitoutdoors.com/media/catalog/category/pacbay_logo_11.jpg
 URL=http://xrxs.net/video/live-p12baya-4728.m3u8
 #
 type=video
-name=VIASAT GOLF HD
+name=VIASAT GOLF
 thumb=http://upload.wikimedia.org/wikipedia/fi/4/45/Viasatsport.png
 URL=
 #

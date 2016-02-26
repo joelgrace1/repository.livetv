@@ -2,17 +2,18 @@ version=1
 background=http://jaquikarr.com/members/wp-content/uploads/2015/07/Flag-Canadian.jpg
 logo=http://jaquikarr.com/members/wp-content/uploads/2015/07/Flag-Canadian.jpg
 title=[COLOR green]CANADA[/COLOR]
-
 #
 type=video
-name=A & E
-thumb=https://pbs.twimg.com/profile_images/378800000858931576/94dkj9QW_400x400.jpeg
-URL=
+name=BRAVO
+thumb=http://channelpear.com/images/media/2567.jpg
+URL=http://198.251.50.102:8081
+
 #
 type=video
 name=C PAC
 thumb=https://pbs.twimg.com/profile_images/628595087698628608/Z2p2cFkV.jpg
 URL=
+
 #
 type=video
 name=CARTOON NETWORK
@@ -63,7 +64,8 @@ URL=http://btflash-lh.akamaihd.net/i/BTCALFLASH_live@120221/master.m3u8
 type=video
 name=CP24
 thumb=http://assets.bellmedia.ca.s3.amazonaws.com/uploads/2014/02/tv_cp24-300x300.png
-URL=
+URL=http://198.251.50.102:8083
+
 #
 type=video
 name=CTV NEWS
@@ -73,7 +75,12 @@ URL=http://66.51.129.171:8080/demo/00/index.m3u8
 type=video
 name=CTV
 thumb=http://www.ctv.ca/beimage.asmx?imgurl=files/2012/11/30/7e8c28b84af14408_600x338_CTV-Logo.jpg
-URL=
+URL=http://198.251.50.74:8081
+#
+type=video
+name=CTV 2
+thumb=http://www.ctv.ca/beimage.asmx?imgurl=files/2012/11/30/7e8c28b84af14408_600x338_CTV-Logo.jpg
+URL=http://198.251.50.74:8082
 
 #
 type=video
@@ -122,6 +129,16 @@ thumb=http://ncph.org/cms/wp-content/uploads/History_Logo_White_Space.jpg
 URL=http://link.theplatform.com/s/dtjsEC/chjdYJxKb44V?manifest=m3u
 #
 type=video
+name=MTV
+thumb=http://vignette3.wikia.nocookie.net/90scartoons/images/b/bc/Mtv-logo-Logo.png/revision/latest?cb=20140219002555
+URL=http://198.251.50.74:8080
+#
+type=video
+name=MUCH
+thumb=http://www.fyimusicnews.ca/sites/default/files/styles/article_image_full_node/public/field/image/much_music1.png?itok=eH3Chn1v
+URL=http://198.251.50.102:8085
+#
+type=video
 name=OMNI
 thumb=http://www.omnitv.ca/wp-content/uploads/2013/11/628_omni_logo.jpg
 URL=
@@ -130,6 +147,11 @@ type=video
 name=SALT + LIGHT TV
 thumb=http://haitiantvchannel.com/wp-content/uploads/2013/09/logo-salt-and-light-tv-455x274.jpg
 URL=
+#
+type=video
+name=SPACE
+thumb=http://wpmedia.o.canada.com/2013/03/space.jpg
+URL=http://198.251.50.102:8082
 #
 type=video
 name=SLICE
@@ -172,9 +194,9 @@ thumb=http://www.40belowproject.ca/wp-content/uploads/2012/12/tumblr_ll9d8qa3Pb1
 URL=http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
 #
 type=video
-name=TSN 1 HD
+name=TSN 1
 thumb=http://www.nwtel.ca/media/channel-logos/tsn1_0.jpg
-URL=rtmp://31.220.2.148:1935/live/_definst_/ts1
+URL=http://198.251.50.74:8090
 #
 type=video
 name=TSN 1
@@ -184,13 +206,15 @@ URL=plugin://plugin.video.phstreams/?name=TSN+1+&amp;url=rtmp%3A%2F%2F31.220.2.1
 type=video
 name=TSN 2
 thumb=http://www.nwtel.ca/media/channel-logos/tsn2_0.jpg
-URL=plugin://plugin.video.phstreams/?name=TSN+2+&amp;url=rtmp%3A%2F%2F31.220.2.149%3A80%2Flive+playpath%3Dtsnx2+swfUrl%3Dhttp%3A%2F%2Fp.jwpcdn.com%2F6%2F12%2Fjwplayer.flash.swf+pageUrl%3Dhttp%3A%2F%2Fyotv.co%2Fembedu.php%3Flive%3Dtsnx2%26vw%3D620%26vh%3D490+live%3D1+token%3D%25Zrey%28nKa%40%23Z&amp;audio=0&amp;image=http%3A%2F%2Fwww.lyngsat-logo.com%2Flogo%2Ftv%2Ftt%2Ftsn_2_ca.png&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fhp4sgw93b%2Fbest_sport_collection_wallpaper_hd_backgrounds.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
+URL=http://198.251.50.74:8091
 
 #
 type=video
-name=TSN 2 HD
+name=TSN 2
 thumb=http://www.nwtel.ca/media/channel-logos/tsn2_0.jpg
-URL=
+URL=plugin://plugin.video.phstreams/?name=TSN+2+&amp;url=rtmp%3A%2F%2F31.220.2.149%3A80%2Flive+playpath%3Dtsnx2+swfUrl%3Dhttp%3A%2F%2Fp.jwpcdn.com%2F6%2F12%2Fjwplayer.flash.swf+pageUrl%3Dhttp%3A%2F%2Fyotv.co%2Fembedu.php%3Flive%3Dtsnx2%26vw%3D620%26vh%3D490+live%3D1+token%3D%25Zrey%28nKa%40%23Z&amp;audio=0&amp;image=http%3A%2F%2Fwww.lyngsat-logo.com%2Flogo%2Ftv%2Ftt%2Ftsn_2_ca.png&amp;fanart=http%3A%2F%2Fs5.postimg.org%2Fhp4sgw93b%2Fbest_sport_collection_wallpaper_hd_backgrounds.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
+
+
 #
 type=video
 name=TSN 3 HD
@@ -223,16 +247,10 @@ name=YTV
 thumb=http://img4.wikia.nocookie.net/__cb20120201071420/logopedia/images/f/f1/YTV1993.png
 URL=
 
-#
-type=video
-name=
-thumb=
-URL=
-#
-type=video
-name=
-thumb=
-URL=
+
+
+
+
 #
 type=video
 name=

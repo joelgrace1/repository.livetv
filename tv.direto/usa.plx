@@ -9,7 +9,7 @@ thumb=http://www.kuhnglobal.net/wp-content/uploads/2013/01/2009-usa-flag-graphic
 URL=https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/usa.plx
 #
 type=video
-name=[COLOR yellow][B][I]PHOENIX & SPORTSDEVIL TO WORK[/I][/B][/COLOR]
+name=[COLOR yellow][B][I]LIVE TV ADDON & SPORTSDEVIL TO WORK[/I][/B][/COLOR]
 thumb=http://www.kuhnglobal.net/wp-content/uploads/2013/01/2009-usa-flag-graphics.jpg
 URL=https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/usa.plx
 #
@@ -22,12 +22,12 @@ URL=
 type=video
 name=A & E
 thumb=https://pbs.twimg.com/profile_images/378800000858931576/94dkj9QW_400x400.jpeg
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dA%2526E%26url%3dhttp%253A%252F%252Fwww.shadownet.me%252Fchannels%252FA%252526E.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dA%2526E%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.shadownet.me%252Fchannels%252FA%252526E.html%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fh%252F192%252Fae_tv__99609_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fh%252F192%252Fae_tv__99609_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.sdw-net.co%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=ABC
 thumb=http://img3.wikia.nocookie.net/__cb20131222111043/mixology-abc/images/0/0d/Abc_-_logo.jpeg
-URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DABC+East%5BCOLOR+white%5D+Prime+Time+Only%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fwww.sawlive.tv%2Fembed%2Fdetast%3Freferer%3Dhttp%3A%2F%2Fgoatdee.net%2F70360&amp;audio=0&amp;image=http%3A%2F%2Fcdn.media.abc.com%2Fm%2Fimages%2Fglobal%2Fbutterscotch%2Fabccom_logo.png&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dABC%2bEast%26url%3dhttp%253A%252F%252Fwww.shadownet.me%252Fchannels%252FABC-East.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dABC%2bEast%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.shadownet.me%252Fchannels%252FABC-East.html%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fp%252F119%252Fabc__00806_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fp%252F119%252Fabc__00806_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.sdw-net.co%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=ABC FAMILY
@@ -48,7 +48,7 @@ URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp
 type=video
 name=AMC
 thumb=http://channelpear.com/images/media/2556.png
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dAMC%2bEast%26url%3dhttp%253A%252F%252Fwww.shadownet.me%252Fchannels%252FAMC-East.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dAMC%2bEast%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.shadownet.me%252Fchannels%252FAMC-East.html%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fr%252F604%252Famc__85163_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fr%252F604%252Famc__85163_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.sdw-net.co%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=AMC
@@ -58,7 +58,7 @@ URL=
 type=video
 name=ANIMAL PLANET
 thumb=http://www.podryad.tv/upload/iblock/591/591145599ed9cafababe81c23500fe83.png
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dAnimal%2bPlanet%2bUS%26url%3dhttp%253A%252F%252Fwww.shadownet.me%252Fchannels%252FAnimal-Planet-US.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dAnimal%2bPlanet%2bUS%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.shadownet.me%252Fchannels%252FAnimal-Planet-US.html%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fz%252F026%252FAnimal_Planet_logo_%252528black_and_green%252529__59139_thumb.png%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fz%252F026%252FAnimal_Planet_logo_%252528black_and_green%252529__59139_thumb.png%257CReferer%253Dhttp%253A%252F%252Fwww.sdw-net.co%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=BBC AMERICA
@@ -89,7 +89,7 @@ URL=
 type=video
 name=CBS
 thumb=http://www.katiekrause.net/uploads/1/2/6/6/12664073/9870558_orig.jpg
-URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DCBS%5BCOLOR+white%5D+Prime+Time+Only%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fwww.sawlive.tv%2Fembed%2Fcaweeba%3Freferer%3Dhttp%3A%2F%2Fgoatdee.net%2F71919&amp;audio=0&amp;image=http%3A%2F%2Fwww.parkavenuesafesight.com%2Fwp-content%2Fuploads%2F2013%2F09%2FCBS_logo_2011.png&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCBS%2b2%2bNew%2bYork%26url%3dhttp%253A%252F%252Fwww.shadownet.me%252Fchannels%252FCBS-2-New-York.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dCBS%2b2%2bNew%2bYork%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.shadownet.me%252Fchannels%252FCBS-2-New-York.html%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fa%252F024%252Fwcbs_cbs2_new_york__91850_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fa%252F024%252Fwcbs_cbs2_new_york__91850_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.sdw-net.co%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=CBS NEWS
@@ -111,7 +111,7 @@ URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DCNN%5B%2FCOLOR%5D+&a
 type=video
 name=COMEDY CENTRAL
 thumb=http://www.chud.com/articles/content_images/17/ComedyCentralLogo.jpg
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dComedy%2bCentral%26url%3dhttp%253A%252F%252Fwww.shadownet.me%252Fchannels%252FComedy-Central.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dComedy%2bCentral%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.shadownet.me%252Fchannels%252FComedy-Central.html%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fo%252F226%252Fcomedy_central_us__62938_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fo%252F226%252Fcomedy_central_us__62938_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.sdw-net.co%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=COMEDY CENTRAL
@@ -122,7 +122,7 @@ URL=
 type=video
 name=CW 
 thumb=http://www.glaad.org/sites/default/files/The-cw-tv-now.jpg
-URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DCW%5BCOLOR+white%5D+Prime+Time+Only%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fwww.sawlive.tv%2Fembed%2Fwalkzere%3Freferer%3Dhttp%3A%2F%2Fgoatdee.net%2F47958&amp;audio=0&amp;image=http%3A%2F%2Fprofessionalfangirls.com%2Fwp-content%2Fuploads%2F2014%2F06%2Fcw.png+&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dCW%26url%3dhttp%253A%252F%252Fwww.shadownet.me%252Fchannels%252FCW.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dCW%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.shadownet.me%252Fchannels%252FCW.html%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fr%252F672%252FCW_logo_color_v__09334_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fr%252F672%252FCW_logo_color_v__09334_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.sdw-net.co%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=CW
@@ -132,12 +132,12 @@ URL=
 type=video
 name=DESTINATION AMERICA
 thumb=http://media.press.discovery.com.s3.amazonaws.com/ugc/logos/2012/04/04/Final_4_color_logo__.jpg
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDestination%2bAmerica%26url%3dhttp%253A%252F%252Fwww.shadownet.me%252Fchannels%252FDestination-America.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dDestination%2bAmerica%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.shadownet.me%252Fchannels%252FDestination-America.html%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fm%252F503%252FDestinat_america_logo15__62954_thumb.png%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fm%252F503%252FDestinat_america_logo15__62954_thumb.png%257CReferer%253Dhttp%253A%252F%252Fwww.sdw-net.co%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=DISCOVERY CHANNEL
 thumb=http://chinatvinc.com/tv/wp-content/uploads/2014/11/discoveryhd_newlogo_042008.jpg
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDiscovery%2bUS%26url%3dhttp%253A%252F%252Fwww.shadownet.me%252Fchannels%252FDiscovery-US.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dDiscovery%2bUS%26director%3dShadowNet.ro%26definedIn%3dshadownet.ro.cfg%26referer%3dhttp%253A%252F%252Fwww.shadownet.me%252Fcategories%252FUSA-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26genre%3dLive%2bTV%26icon.tmp%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fk%252F583%252Fdiscovery_us__51096_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fk%252F583%252Fdiscovery_us__51096_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.sdw-net.co%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=DISCOVERY HISTORY
@@ -147,12 +147,12 @@ URL=
 type=video
 name=DISCOVERY INVESTIGATION
 thumb=http://blogs.reuters.com/mediafile/files/2012/04/discoveryid.jpg
-URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DDiscovery+Investigation%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fwww.sdw-net.co%2Fchannels%2FDiscovery-Investigation-US.html&amp;audio=0&amp;image=%2FUsers%2Fgracevalerio%2FLibrary%2FApplication+Support%2FKodi%2Faddons%2Fplugin.video.phstreams%2Ficon.png&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
+URL=
 #
 type=video
 name=DISNEY CHANNEL
 thumb=http://upload.wikimedia.org/wikipedia/fr/7/70/Disney_Junior.png
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dDisney%2bChannel%2bUS%26url%3dhttp%253A%252F%252Fwww.shadownet.me%252Fchannels%252FDisney-Channel-US.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dDisney%2bChannel%2bUS%26director%3dShadowNet.ro%26definedIn%3dshadownet.ro.cfg%26referer%3dhttp%253A%252F%252Fwww.shadownet.me%252Fcategories%252FUSA-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26genre%3dLive%2bTV%26icon.tmp%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fe%252F907%252Fdisney_channel__34733_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fe%252F907%252Fdisney_channel__34733_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.sdw-net.co%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=DISNEY JR
@@ -162,12 +162,12 @@ URL=
 type=video
 name=E! CHANNEL
 thumb=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E!_Logo.svg/2000px-E!_Logo.svg.png
-URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DE%21+Channel%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fwww.sdw-net.co%2Fchannels%2FE%21-Entertainment.html&amp;audio=0&amp;image=%2FUsers%2Fgracevalerio%2FLibrary%2FApplication+Support%2FKodi%2Faddons%2Fplugin.video.phstreams%2Ficon.png&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
+URL=
 #
 type=video
 name=FOX
 thumb=http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox1.png?ver=6659ea4a-e9b5-4496-815f-8ea22a7d407c
-URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DFox%5BCOLOR+white%5D+Prime+Time+Only%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fwww.sawlive.tv%2Fembed%2Fvaporaze%3Freferer%3Dhttp%3A%2F%2Fgoatdee.net%2F84624&amp;audio=0&amp;image=http%3A%2F%2Fwww.lyngsat-logo.com%2Flogo%2Ftv%2Fff%2Ffox_global.png+&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
+URL=
 #
 type=video
 name=FOX NEWS
@@ -208,7 +208,7 @@ URL=
 type=video
 name=HBO
 thumb=http://tube.hk/images/tv_cache/c/200x200_38hbo_hd.jpg
-URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DHBO%5B%2FCOLOR%5D+&amp;url=rtmp%3A%2F%2Fwww1.iguide.to%2Figuide+playpath%3D0bf02qe6msgtu4s+swfUrl%3Dhttp%3A%2F%2Fwww.iguide.to%2Fplayer%2Fsecure_player_iguide_token.swf+pageUrl%3Dhttp%3A%2F%2Fwww.iguide.to%2Fview%2F1%2Fwatch-live-HBO-channel-for-free+flashver%3DWIN%5C2019%2C0%2C0%2C185+live%3D1+token%3D%23ed%25h0%23w18623jsda6523lDGD&amp;audio=0&amp;image=http%3A%2F%2Fwww.lyngsat-logo.com%2Flogo%2Ftv%2Fhh%2Fhbo.png+&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
+URL=
 
 #
 type=video
@@ -244,7 +244,7 @@ URL=
 type=video
 name=MTV
 thumb=http://vignette3.wikia.nocookie.net/90scartoons/images/b/bc/Mtv-logo-Logo.png/revision/latest?cb=20140219002555
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dMTV%2bUS%26url%3dhttp%253A%252F%252Fwww.shadownet.me%252Fchannels%252FMTV-US.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dMTV%2bUS%26director%3dShadowNet.ro%26definedIn%3dshadownet.ro.cfg%26referer%3dhttp%253A%252F%252Fwww.shadownet.me%252Fcategories%252FUSA-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26genre%3dLive%2bTV%26icon.tmp%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fw%252F104%252FMTV_Logo_2010__92640_thumb.png%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fw%252F104%252FMTV_Logo_2010__92640_thumb.png%257CReferer%253Dhttp%253A%252F%252Fwww.sdw-net.co%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=NASA TV PUBLIC
@@ -254,7 +254,7 @@ URL=http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 type=video
 name=NATIONAL GEOGRAPHIC
 thumb=https://yt3.ggpht.com/-2tol5SGixqs/AAAAAAAAAAI/AAAAAAAAAAA/gI_3L64uED0/s900-c-k-no/photo.jpg
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNational%2bGeographic%2bUS%26url%3dhttp%253A%252F%252Fwww.shadownet.me%252Fchannels%252FNational-Geographic-US.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dNational%2bGeographic%2bUS%26director%3dShadowNet.ro%26definedIn%3dshadownet.ro.cfg%26referer%3dhttp%253A%252F%252Fwww.shadownet.me%252Fcategories%252FUSA-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26genre%3dLive%2bTV%26icon.tmp%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fw%252F100%252FNational_Geographic_Channel__77803_thumb.png%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fw%252F100%252FNational_Geographic_Channel__77803_thumb.png%257CReferer%253Dhttp%253A%252F%252Fwww.sdw-net.co%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=NATIONAL GEOGRAPHIC
@@ -269,7 +269,7 @@ URL=
 type=video
 name=NBC
 thumb=http://ourdailynewsonline.com/wp-content/uploads/2015/05/Nbc_logo-7.png
-URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DNBC%5BCOLOR+White%5DPrime+Time+Only%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fwww.sawlive.tv%2Fembed%2Fyowayoos%3Freferer%3Dhttp%3A%2F%2Fgoatdee.net%2F61601&amp;audio=0&amp;image=http%3A%2F%2Fwww.eastcoastlasertattooremoval.com%2Fwp-content%2Fuploads%2F2015%2F01%2FNBC-logo-2014.png&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dNBC%2bEast%26url%3dhttp%253A%252F%252Fwww.shadownet.me%252Fchannels%252FNBC-East.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dNBC%2bEast%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.shadownet.me%252Fcategories%252FUSA-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fw%252F554%252Fnbc__14605_thumb.gif%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fw%252F554%252Fnbc__14605_thumb.gif%257CReferer%253Dhttp%253A%252F%252Fwww.sdw-net.co%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=NBC
@@ -300,12 +300,12 @@ URL=
 type=video
 name=SPIKE TV 
 thumb=http://www.tnainsider.com/wp-content/uploads/2014/06/Spike.jpg
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSpike%26url%3dhttp%253A%252F%252Fwww.shadownet.me%252Fchannels%252FSpike.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dSpike%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.shadownet.me%252Fcategories%252FUSA-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fz%252F232%252FSpike_logo_2015__98357_thumb.png%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fz%252F232%252FSpike_logo_2015__98357_thumb.png%257CReferer%253Dhttp%253A%252F%252Fwww.sdw-net.co%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=SYFY HQ
 thumb=http://ib1.huluim.com/company_key_art/232?size=1600x600&region=US
-URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DSyfy%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fwww.sdw-net.co%2Fchannels%2FSyfy.html&amp;audio=0&amp;image=http%3A%2F%2Fwww.pappasgroup.com%2Fwp-content%2Flogos%2Fsyfy-500x500.png&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
+URL=
 #
 type=video
 name=SYFY
@@ -316,7 +316,7 @@ URL=http://iphone-streaming.ustream.tv/ustreamVideo/18638341/streams/live/playli
 type=video
 name=TBS
 thumb=http://vignette3.wikia.nocookie.net/cougartown/images/c/cd/TBS.png/revision/latest?cb=20130810130932
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTBS%26url%3dhttp%253A%252F%252Fwww.shadownet.me%252Fchannels%252FTBS.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dTBS%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.shadownet.me%252Fcategories%252FUSA-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Ff%252F523%252FTBS.svg__23453_thumb.png%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Ff%252F523%252FTBS.svg__23453_thumb.png%257CReferer%253Dhttp%253A%252F%252Fwww.sdw-net.co%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=TLC
@@ -326,7 +326,7 @@ URL=
 type=video
 name=TNT
 thumb=http://i.cdn.turner.com/v5cache/TNT/Images/Dynamic/i177/tnt-live-default-logo-640x360-640x360_053020130547.png
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTNT%26url%3dhttp%253A%252F%252Fwww.shadownet.me%252Fchannels%252FTNT.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dTNT%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.shadownet.me%252Fcategories%252FUSA-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fe%252F600%252Ftnt__28275_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fe%252F600%252Ftnt__28275_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.sdw-net.co%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=TRAVEL CHANNEL
@@ -336,13 +336,13 @@ URL=
 type=video
 name=TRU TV
 thumb=http://cdn.embed.ly/providers/logos/trutv.png
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTruTV%26url%3dhttp%253A%252F%252Fwww.shadownet.me%252Fchannels%252FTruTV.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dTruTV%26director%3dShadowNet.ro%26definedIn%3dshadownet.ro.cfg%26referer%3dhttp%253A%252F%252Fwww.shadownet.me%252Fcategories%252FUSA-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26genre%3dLive%2bTV%26icon.tmp%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fl%252F545%252FTruTV_logo_2014__51891_thumb.png%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fl%252F545%252FTruTV_logo_2014__51891_thumb.png%257CReferer%253Dhttp%253A%252F%252Fwww.sdw-net.co%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
 
 #
 type=video
 name=TV LAND
 thumb=http://www.underconsideration.com/brandnew/archives/tv_land_03_logo_detail.jpg
-URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DTV+Land+%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fwww.sdw-net.co%2Fchannels%2FTV-Land.html&amp;audio=0&amp;image=http%3A%2F%2Fwww.sdw-net.co%2Fproduct_images%2Fs%2F990%2FTV_Land_2015_logo__12920_thumb.png&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTV%2bLand%26url%3dhttp%253A%252F%252Fwww.shadownet.me%252Fchannels%252FTV-Land.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dTV%2bLand%26director%3dShadowNet.ro%26definedIn%3dshadownet.ro.cfg%26referer%3dhttp%253A%252F%252Fwww.shadownet.me%252Fcategories%252FUSA-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26genre%3dLive%2bTV%26icon.tmp%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fs%252F990%252FTV_Land_2015_logo__12920_thumb.png%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fs%252F990%252FTV_Land_2015_logo__12920_thumb.png%257CReferer%253Dhttp%253A%252F%252Fwww.sdw-net.co%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=USA NETWORK
