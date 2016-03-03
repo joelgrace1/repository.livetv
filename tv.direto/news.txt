@@ -1,6 +1,6 @@
-24
+25
 |||
-Este é o ultimo update do wizard do TV Direto.
+Este é o ultimo update do wizard do TV Direto para JARVIS.
 
 Está incluído o novo addon nosso chamado LiveTV com a maior
 lista portuguesa e muito mais. Também incluído está o novo 
