@@ -12,9 +12,9 @@ URL=
 #https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/live.plx
 #
 type=playlist
-thumb=http://www.ultrahd4kwallpaper.in/wp-content/uploads/2014/09/argentina-flag-hd-pictures-2.jpg
-name=[COLOR yellow][B][I]ARGENTINA[/I][/B][/COLOR]
-URL=
+thumb=https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/PayPal_2014_logo.svg/2000px-PayPal_2014_logo.svg.png
+name=[COLOR yellow][B][I]DONATION LINK[/I][/B][/COLOR] [COLOR red][B][I]https://www.paypal.me/tvdireto[/I][/B][/COLOR]
+URL=http://1234
 #
 type=playlist
 thumb=http://memeburn.com/wp-content/uploads/brazil-e1328192831309.jpg
