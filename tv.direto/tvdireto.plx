@@ -116,7 +116,7 @@ URL=https://dl.dropboxusercontent.com/s/0u4yi8vse323bvf/ireland.plx?dl=0
 type=playlist
 thumb=http://www.kuhnglobal.net/wp-content/uploads/2013/01/2009-usa-flag-graphics.jpg
 name=[COLOR yellow][B][I]USA[/I][/B][/COLOR]
-URL=https://dl.dropboxusercontent.com/s/f0esqr70de9tfpe/usa.plx?raw=1
+URL=https://www.dropbox.com/s/f0esqr70de9tfpe/usa.plx?raw=1
 
 #https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/usa.plx
 #
