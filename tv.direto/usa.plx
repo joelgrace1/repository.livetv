@@ -172,7 +172,8 @@ URL=
 type=video
 name=FOX NEWS
 thumb=http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox1.png?ver=6659ea4a-e9b5-4496-815f-8ea22a7d407c
-URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+grey%5DFox+News%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fvaughnlive.tv%2Fpepperman&amp;audio=0&amp;image=%2FUsers%2Fgracevalerio%2FLibrary%2FApplication+Support%2FKodi%2Faddons%2Fplugin.video.phstreams%2Ficon.png&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
+URL=http://cp.dmbshare.net:8000/live/george1/george1/3476.m3u8
+
 #
 type=video
 name=FOX 59 NEWS
@@ -198,12 +199,12 @@ URL=http://link.theplatform.com/s/dtjsEC/chjdYJxKb44V?manifest=m3u
 type=video
 name=HISTORY (US)
 thumb=http://ncph.org/cms/wp-content/uploads/History_Logo_White_Space.jpg
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dHistory%2bUS%26url%3dhttp%253A%252F%252Fwww.shadow-net.me%252Fchannels%252FHistory-US.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dHistory%2bUS%26director%3dShadowNet.ro%26definedIn%3dshadownet.ro.cfg%26referer%3dhttp%253A%252F%252Fwww.shadow-net.me%252Fcategories%252FUSA-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26genre%3dLive%2bTV%26icon.tmp%3dhttp%253A%252F%252Fwww.shadow-net.me%252Fproduct_images%252Fc%252F576%252Fhistory_europe__24065_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadow-net.me%252Fproduct_images%252Fc%252F576%252Fhistory_europe__24065_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.sdw-net.co%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=H2
 thumb=http://nowwatchtvlive.me/wp-content/uploads/2012/05/History-2-logo-2011.png
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dH2%26url%3dhttp%253A%252F%252Fwww.shadow-net.me%252Fchannels%252FH2.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dH2%26director%3dShadowNet.ro%26definedIn%3dshadownet.ro.cfg%26referer%3dhttp%253A%252F%252Fwww.shadow-net.me%252Fcategories%252FUSA-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26genre%3dLive%2bTV%26icon.tmp%3dhttp%253A%252F%252Fwww.shadow-net.me%252Fproduct_images%252Fa%252F786%252FH2_TV_logo__18213_thumb.png%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadow-net.me%252Fproduct_images%252Fa%252F786%252FH2_TV_logo__18213_thumb.png%257CReferer%253Dhttp%253A%252F%252Fwww.sdw-net.co%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=HBO
@@ -303,9 +304,9 @@ thumb=http://www.tnainsider.com/wp-content/uploads/2014/06/Spike.jpg
 URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSpike%26url%3dhttp%253A%252F%252Fwww.shadownet.me%252Fchannels%252FSpike.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dSpike%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.shadownet.me%252Fcategories%252FUSA-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fz%252F232%252FSpike_logo_2015__98357_thumb.png%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadownet.me%252Fproduct_images%252Fz%252F232%252FSpike_logo_2015__98357_thumb.png%257CReferer%253Dhttp%253A%252F%252Fwww.sdw-net.co%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
 #
 type=video
-name=SYFY HQ
+name=SYFY
 thumb=http://ib1.huluim.com/company_key_art/232?size=1600x600&region=US
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dSyfy%26url%3dhttp%253A%252F%252Fwww.shadow-net.me%252Fchannels%252FSyfy.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dSyfy%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.shadow-net.me%252Fcategories%252FUSA-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.shadow-net.me%252Fproduct_images%252Ff%252F954%252Fsyfy__52943_thumb.jpg%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadow-net.me%252Fproduct_images%252Ff%252F954%252Fsyfy__52943_thumb.jpg%257CReferer%253Dhttp%253A%252F%252Fwww.sdw-net.co%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=SYFY
@@ -321,7 +322,7 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTBS%26ur
 type=video
 name=TLC
 thumb=http://www.rawstory.com/wp-content/uploads/2012/03/TLC-logo.jpg
-URL=
+URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26title%3dTLC%26url%3dhttp%253A%252F%252Fwww.shadow-net.me%252Fchannels%252FTLC.html%26cfg%3dshadownet.ro.cfg%2540Channels%26videoTitle%3dTLC%26director%3dShadowNet.ro%26genre%3dLive%2bTV%26referer%3dhttp%253A%252F%252Fwww.shadow-net.me%252Fcategories%252FUSA-Channels%252F%253Fsort%253Dalphaasc%2526page%253D2%26definedIn%3dshadownet.ro.cfg%26icon.tmp%3dhttp%253A%252F%252Fwww.shadow-net.me%252Fproduct_images%252Fg%252F894%252FTLC_USA_logo__18952_thumb.png%26type%3drss%26icon%3dhttp%253A%252F%252Fwww.shadow-net.me%252Fproduct_images%252Fg%252F894%252FTLC_USA_logo__18952_thumb.png%257CReferer%253Dhttp%253A%252F%252Fwww.sdw-net.co%252F%2526User-Agent%253DMozilla%252F5.0%2b%2528Windows%2bNT%2b6.3%2529%2bAppleWebKit%252F537.36%2b%2528KHTML%252C%2blike%2bGecko%2529%2bChrome%252F48.0.2564.97%2bSafari%252F537.36&amp;mode=1
 #
 type=video
 name=TNT
@@ -369,8 +370,6 @@ type=video
 name=WORLD FASHION TV
 thumb=http://andyfiordmodels.com/assets/images/pages/world-fashion-logo.png
 URL=http://btv-net.mediacdn.ru/TVB7/wfhdeu/playlist.m3u8
-
-
 #
 type=video
 name=BRAZZERS
@@ -380,7 +379,7 @@ URL=http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
 type=video
 name=PRIVATE TV
 thumb=http://www.alexmusic.net/tele/tvshots/0604/private.jpg
-URL=http://178.33.126.213:1935/leved/privateCom/.m3u8
+URL=
 #
 type=video
 name=PASSION
@@ -398,14 +397,14 @@ thumb=http://www.alexmusic.net/tele/tvshots/0604/private.jpg
 URL=
 #
 type=video
-name=EROTIC
+name=OKADAI
 thumb=http://www.alexmusic.net/tele/tvshots/0604/private.jpg
-URL=http://46.182.25.34:1935/tv/1420/playlist.m3u8
+URL=rtmp://edge2.everyon.tv/etv2/phd1005
 #
 type=video
-name=ERO XXX
+name=LATINAS
 thumb=http://www.alexmusic.net/tele/tvshots/0604/private.jpg
-URL=http://91.204.214.106:23371/stolen/025/duqu
+URL=http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
 #
 type=video
 name=MIAMI
