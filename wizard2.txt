@@ -1,6 +1,6 @@
 
 name="TV Direto Wizard"
-url="https://cld.pt/dl/download/1560293b-52ea-41bb-8407-9381b3f9ee45/wizard.zip?download=true"
+url="https://cld.pt/dl/download/0c89d8d7-129e-44b9-ab74-c9735954f313/wizard.zip?download=true"
 img="https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tuga.jpg"
 fanart="https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/fanart.jpg"
 description="TV Direto Wizard"
