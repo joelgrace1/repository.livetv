@@ -6,23 +6,34 @@ title=[COLOR blue]TV Direto[/COLOR]
 #
 type=playlist
 thumb=http://4.bp.blogspot.com/-2Hj_I6L4Qts/VlmXSbOsU3I/AAAAAAAA0R4/atpqLt_x_fM/s640/3836636.jpg
-name=[COLOR yellow][B][I] UM AVISO PARA TODO MUNDO [/I][/B][/COLOR]
+name=[COLOR yellow][B][I]UM AVISO PARA TODO MUNDO TENHO[/I][/B][/COLOR]
 URL=http://1234
 #
 type=playlist
 thumb=http://4.bp.blogspot.com/-2Hj_I6L4Qts/VlmXSbOsU3I/AAAAAAAA0R4/atpqLt_x_fM/s640/3836636.jpg
-name=[COLOR yellow][B][I]TENHO QUE ENCERRAR O ADDON [COLOR red]TV DIRETO[/COLOR]  [/I][/B][/COLOR]
+name=[COLOR yellow][B][I]QUE ENCERRAR O ADDON [COLOR red]TV DIRETO[/COLOR]  [/I][/B][/COLOR]
 URL=http://1234
 #
 type=playlist
 thumb=http://4.bp.blogspot.com/-2Hj_I6L4Qts/VlmXSbOsU3I/AAAAAAAA0R4/atpqLt_x_fM/s640/3836636.jpg
-name=[COLOR yellow][B][I] FELIZMENTE CONFIRMO Q CONTINUAREI COM O ADDON LIVE TV  [/I][/B][/COLOR]
+name=[COLOR yellow][B][I]FELIZMENTE CONFIRMO QUE[/I][/B][/COLOR]
 URL=http://1234
 #
 type=playlist
 thumb=http://4.bp.blogspot.com/-2Hj_I6L4Qts/VlmXSbOsU3I/AAAAAAAA0R4/atpqLt_x_fM/s640/3836636.jpg
-name=[COLOR yellow][B][I]PARA QUEM NÃO O TEM DEIXO O LINK DO SOURCE  [/I][/B][/COLOR]
+name=[COLOR yellow][B][I]CONTINUAREI COM O ADDON [COLOR red]LIVE TV[/COLOR][/I][/B][/COLOR]
 URL=http://1234
+#
+type=playlist
+thumb=http://4.bp.blogspot.com/-2Hj_I6L4Qts/VlmXSbOsU3I/AAAAAAAA0R4/atpqLt_x_fM/s640/3836636.jpg
+name=[COLOR yellow][B][I]PARA QUEM NÃO O TEM[/I][/B][/COLOR]
+URL=http://1234
+#
+type=playlist
+thumb=http://4.bp.blogspot.com/-2Hj_I6L4Qts/VlmXSbOsU3I/AAAAAAAA0R4/atpqLt_x_fM/s640/3836636.jpg
+name=[COLOR yellow][B][I]DEIXO O LINK DO SOURCE[/I][/B][/COLOR]
+URL=http://1234
+
 #
 type=playlist
 thumb=http://4.bp.blogspot.com/-2Hj_I6L4Qts/VlmXSbOsU3I/AAAAAAAA0R4/atpqLt_x_fM/s640/3836636.jpg
