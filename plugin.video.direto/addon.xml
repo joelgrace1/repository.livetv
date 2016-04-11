@@ -10,6 +10,6 @@
     <summary lang="en">TV Direto</summary>
     <description lang="en">Podes ver aqui tudo que eu te deixar! Mama mas não abuzes!</description>
     <platform>all</platform>
-
+	 <broken>discontinued</broken>
   </extension>
 </addon>
