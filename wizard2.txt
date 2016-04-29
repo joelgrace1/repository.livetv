@@ -1,8 +1,8 @@
 
-name="TV Direto Wizard"
-url="https://cld.pt/dl/download/c0323043-05ff-4f50-a4ea-0e7ff8f2a068/wizard.zip?download=1"
+name="[COLOR red][A][/COLOR]MERICANA"
+url="https://cld.pt/dl/download/b3675475-bfe3-45d6-8bfb-abb238fb0c70/americana.zip?download=1"
 img="https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tuga.jpg?download=1"
-fanart="https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/fanart.jpg?download=1"
-description="2016/01/01"
+fanart="https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/revolution.jpg?download=1"
+description="2016/04/29"
 
 
